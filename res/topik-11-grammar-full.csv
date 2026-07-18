@@ -1,0 +1,962 @@
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+1,1,수업,"Class, lesson, course",수업 시간에 늦지 않도록 일찍 출발하는 것이 좋겠어요.,It would be good to leave early so as not to be late for class.
+1,2,학기,"Semester, term",이번 학기에는 들어야 할 전공 과목이 꽤 많아요.,There are quite a few major subjects I have to take this semester.
+1,3,과목,Subject,관심 있는 과목을 선택해서 수강 신청을 완료했습니다.,I selected the subjects I am interested in and completed the registration.
+1,4,학점,Course credit,졸업하려면 다음 학기에 20학점을 더 이수해야만 해요.,To graduate, I must complete 20 more credits next semester.
+1,5,강의실,"Classroom, lecture room",강의실 안에서는 음식물을 섭취하지 않는 것이 예의입니다.,It is polite not to consume food inside the classroom.
+1,6,휴강,Cancelled lecture,교수님의 개인적인 사정으로 오늘 오후 수업은 휴강입니다.,This afternoon's class is cancelled due to the professor's personal circumstances.
+1,7,종강,"End of semester, last class",드디어 다음 주가 종강이라니 믿어지지가 않아요.,I can't believe that the end of the semester is finally next week.
+1,8,중간고사,Midterm,중간고사 성적이 생각보다 잘 나와서 정말 다행이에요.,I'm so relieved that my midterm grades came out better than expected.
+1,9,기말고사,Term-end examination,기말고사가 끝나면 고향에 내려가서 가족들을 만날 거예요.,When the final exam is over, I will go to my hometown to meet my family.
+1,10,학과 사무실,Department office,학생증 발급에 대해 궁금한 점이 있으면 학과 사무실에 가 보세요.,If you have questions about student ID issuance, go to the department office.
+1,11,조교,Assistant instructor,실험 수업 중에 모르는 것이 생기면 조교에게 물어보세요.,If something comes up that you don't know during the lab class, ask the assistant.
+1,12,수강하다,To take classes,졸업하기 전에 심리학 강의를 꼭 한번 수강하고 싶어요.,I really want to take a psychology lecture at least once before I graduate.
+1,13,수강 신청하다,To register for courses,수강 신청하는 날에는 인터넷이 느려서 고생을 많이 해요.,On the day of course registration, I suffer a lot because the internet is slow.
+1,14,강의를 듣다,To attend a lecture,유명한 교수님의 강의를 듣기 위해 다른 학교 학생들도 왔어요.,Students from other schools also came to attend the famous professor's lecture.
+1,15,청강하다,To sit in on a class,전공은 아니지만 경제학 수업이 궁금해서 청강을 신청했어요.,It's not my major, but I applied to sit in because I'm curious about the economics class.
+1,16,보고서를 제출하다,To send in a report,보고서를 제출하기 전에는 오타가 없는지 다시 한번 확인하세요.,Before submitting the report, check again to see if there are any typos.
+1,17,시험을 보다,To take an examination,어제 시험을 보다가 너무 긴장해서 아는 문제도 틀렸어요.,I was so nervous while taking the exam yesterday that I missed questions I knew.
+1,18,등록금,Tuition,부모님의 부담을 덜어 드리기 위해 등록금을 벌려고 아르바이트를 해요.,I work a part-time job to earn tuition and ease the burden on my parents.
+1,19,신학기,New semester,신학기마다 새로운 친구들을 만날 생각에 가슴이 설렙니다.,Every new semester, my heart flutters at the thought of meeting new friends.
+1,20,새내기/신입생,"Freshman, new student",선배들이 새내기들을 위해 정성껏 환영 파티를 준비했어요.,The seniors carefully prepared a welcome party for the freshmen.
+1,21,재학생,Enrolled student,이 도서관은 우리 학교 재학생들만 이용할 수 있습니다.,Only enrolled students of our school can use this library.
+1,22,졸업생,Graduate,졸업생 대표가 후배들을 위해 멋진 축사를 해 주었습니다.,The graduate representative gave a wonderful congratulatory speech for the juniors.
+1,23,동아리,Club,대학 생활의 꽃은 동아리 활동이라고 생각해요.,I think the flower of university life is club activity.
+1,24,입학하다,To enter a school,어릴 때부터 꿈꾸던 대학교에 입학하게 되어 영광입니다.,It is an honor to enter the university I have dreamed of since I was young.
+1,25,졸업하다,To graduate,대학을 졸업한 후에는 전공을 살려 취직을 하고 싶어요.,After graduating from college, I want to get a job using my major.
+1,26,등록하다,To register/enroll,이번 학기 수강을 계속하려면 내일까지 등록을 마쳐야 해요.,To continue taking classes this semester, you must finish registering by tomorrow.
+1,27,장학금을 받다,To get a scholarship,성적이 우수해서 이번에도 장학금을 받게 되었습니다.,I received a scholarship again this time because my grades were excellent.
+1,28,입학식,Entrance ceremony,입학식 날 부모님과 함께 캠퍼스에서 기념 사진을 찍었어요.,On the day of the entrance ceremony, I took a commemorative photo on campus with my parents.
+1,29,오리엔테이션,Orientation,오리엔테이션에 참석하면 학교 생활에 필요한 정보를 얻을 수 있어요.,If you attend orientation, you can get information necessary for school life.
+1,30,졸업식,Graduation ceremony,졸업식 때 정들었던 친구들과 헤어지려니 눈물이 났어요.,At the graduation ceremony, I cried because I had to part with the friends I had grown fond of.
+1,31,체육대회,Athletics competition,가을 체육대회에서 우리 반이 이어달리기 1등을 차지했어요.,Our class took first place in the relay race at the autumn athletics competition.
+1,32,MT,Membership training,과 친구들과 MT를 가서 밤새 게임을 하며 즐거운 시간을 보냈어요.,I went on an MT with my department friends and had a fun time playing games all night.
+1,33,발표회,Presentation,한 학기 동안 준비한 작품을 전시하는 발표회가 열렸습니다.,A presentation was held to display the works prepared during the semester.
+1,34,축제,Festival,대학교 축제 기간에는 유명한 가수들이 와서 공연을 해요.,During the university festival period, famous singers come and perform.
+1,35,사은회,Teacher appreciation banquet,졸업을 앞두고 교수님들께 감사하는 마음으로 사은회를 열었어요.,Ahead of graduation, we held a banquet to express our gratitude to the professors.
+1,36,신입생 환영회,Welcome party (freshmen),신입생 환영회에서 선후배 간에 서로 친해질 수 있는 기회가 생겼어요.,At the freshman welcome party, an opportunity arose for seniors and juniors to become close.
+1,37,졸업생 환송회,Farewell party (graduates),졸업생 환송회에서 선배님들의 앞날을 진심으로 축복해 주었습니다.,At the farewell party for graduates, we sincerely blessed the future of the seniors.
+1,38,개교기념일,School anniversary,내일은 우리 학교 개교기념일이라서 수업이 없는 휴일이에요.,Tomorrow is our school's anniversary, so it's a holiday with no classes.
+1,39,성적 우수자,Those with superior grades,성적 우수자에게는 해외 어학 연수 프로그램의 기회가 주어집니다.,Those with superior grades are given the opportunity for overseas language training programs.
+1,40,참석,Attendance,이번 세미나에 참석하신 모든 분들께 감사의 말씀을 전합니다.,I would like to express my gratitude to everyone who attended this seminar.
+1,41,교류,Exchange/interchange,외국 대학과의 교류를 통해 더 넓은 세상을 경험할 수 있어요.,Through exchange with foreign universities, you can experience a wider world.
+1,42,시인,Poet,그는 섬세한 감수성으로 아름다운 시를 쓰는 유명한 시인입니다.,He is a famous poet who writes beautiful poems with delicate sensitivity.
+1,43,초대,Invitation,친구의 생일 파티 초대를 받았지만 바빠서 갈 수가 없었어요.,I received an invitation to a friend's birthday party, but I couldn't go because I was busy.
+1,44,교환학생,Exchange student,한국어를 더 깊이 배우기 위해 교환학생 프로그램에 지원했어요.,I applied for the exchange student program to learn Korean more deeply.
+1,45,시험 기간,Examination period,시험 기간에는 도서관이 24시간 내내 학생들로 붐빕니다.,During the examination period, the library is crowded with students 24 hours a day.
+1,46,최선을 다하다,To do one's best,결과가 어떻게 나오든 끝까지 최선을 다하는 것이 중요해요.,No matter what the result is, it is important to do your best until the end.
+1,47,대기업,Major company,졸업 후에 대기업에 입사하는 것을 목표로 공부하고 있어요.,I am studying with the goal of joining a major company after graduation.
+1,48,신청 마감,Application closed,신청 마감 시간이 지났으니 더 이상 지원서를 받을 수 없습니다.,The application deadline has passed, so we can no longer accept applications.
+1,49,토론,Discussion,사회 문제에 대해 친구들과 자유롭게 토론하며 생각을 나누었습니다.,I shared my thoughts by freely discussing social issues with my friends.
+1,50,모집하다,To recruit/collect,우리 동아리에서 신입 회원을 모집하고 있으니 많은 지원 바랍니다.,Our club is recruiting new members, so please apply.
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+1,51,자료실,Reference room,필요한 논문을 찾으러 도서관 2층에 있는 자료실에 갔어요.,I went to the reference room on the 2nd floor of the library to find a necessary thesis.
+1,52,통역,Interpretation,국제 회의에서 외국인 전문가의 말을 한국어로 통역해 주었습니다.,I interpreted the words of a foreign expert into Korean at an international conference.
+1,53,문학작품,Literary work,한국 문학작품을 원어로 읽는 것은 언어 학습에 큰 동기부여가 됩니다.,Reading Korean literary works in the original language is a great motivation for language learning.
+1,54,자원봉사,Volunteer work,방학 동안 고아원에서 아이들을 가르치는 자원봉사를 하기로 했어요.,I decided to do volunteer work teaching children at an orphanage during vacation.
+1,55,특히,"Specially, particularly",저는 운동을 다 좋아하지만 특히 축구를 가장 즐겨 합니다.,I like all sports, but I particularly enjoy playing soccer the most.
+1,56,반입,"Carrying in, bringing in",도서관 내부로 음료수나 음식물을 반입하는 것은 금지되어 있습니다.,Bringing in drinks or food inside the library is prohibited.
+1,57,제시하다,To present/produce,도서 대출을 원하시면 학생증이나 신분증을 제시해 주셔야 합니다.,If you want to borrow books, you must produce your student ID or identification.
+1,58,휴관,Closure,매주 월요일은 도서관 정기 휴관일이니 방문 시 참고하세요.,Every Monday is the library's regular closure day, so please take note when visiting.
+1,59,봉사 활동,Volunteer activity,봉사 활동을 통해 남을 돕는 기쁨뿐만 아니라 보람도 느꼈습니다.,Through volunteer activities, I felt not only the joy of helping others but also a sense of reward.
+1,60,지급하다,To pay,성적 우수 장학금은 다음 달 초에 개인 계좌로 지급될 예정입니다.,The academic excellence scholarship is scheduled to be paid to individual accounts early next month.
+2,1,대인 관계,Personal relationship,사회 생활을 할 때는 원만한 대인 관계를 유지하는 것이 필수적입니다.,Maintaining smooth personal relationships is essential when living a social life.
+2,2,마음이 넓다,To be generous,그 친구는 마음이 넓어서 웬만한 실수는 웃으며 넘겨 줍니다.,That friend is big-hearted, so they laugh off most mistakes.
+2,3,친절하다,To be kind,길을 물어보았는데 지나가던 행인이 아주 친절하게 가르쳐 주셨어요.,I asked for directions, and a passing pedestrian showed me very kindly.
+2,4,인기가 있다,To be popular,이 카페는 분위기가 좋아서 젊은 사람들 사이에서 인기가 많아요.,This cafe has a good atmosphere, so it's popular among young people.
+2,5,성격이 좋다,To have a good character,성격이 좋다는 평판 덕분에 그는 어디를 가나 환영을 받습니다.,Thanks to his reputation for having a good character, he is welcomed wherever he goes.
+2,6,대인 관계가 좋다,To be good at interpersonal relations,대인 관계가 좋으려면 먼저 상대방의 말을 경청하는 자세가 필요해요.,To be good at interpersonal relations, an attitude of listening to the other person first is necessary.
+2,7,사람을 사귀다,To get acquainted with a person,새로운 환경에서 좋은 사람들을 사귀게 되어 학교 생활이 즐겁습니다.,I am enjoying school life because I got to make (get acquainted with) good people in a new environment.
+2,8,부탁하다,To request,어려운 부탁임에도 불구하고 흔쾌히 들어주어서 정말 고마웠어요.,I was really grateful that they readily accepted even though it was a difficult request.
+2,9,부탁을 받다,To be asked a favor,동료로부터 번역 부탁을 받았는데 제 능력이 부족해서 고민입니다.,I was asked a favor for translation by a colleague, but I'm worried because my ability is lacking.
+2,10,부탁을 들어주다,To do somebody a favor,친구가 간곡히 요청하길래 이번 한 번만 부탁을 들어주기로 했어요.,Since my friend requested earnestly, I decided to do them a favor just this once.
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+2,11,부탁을 거절하다,To refuse somebody a favor,친구가 간곡히 부탁했지만 상황이 여의치 않아 결국 부탁을 거절했어요.,My friend asked earnestly, but I eventually refused the favor because the situation wasn't favorable.
+2,12,도움을 청하다,To ask somebody for help,혼자서 해결하려고 애쓰지 말고 힘들 때는 주변 사람들에게 도움을 청하세요.,Don't struggle to solve it alone; ask the people around you for help when it's hard.
+2,13,거절하다,"To refuse, to deny",그는 제안이 마음에 들지 않았는지 단칼에 거절하고 자리를 떴습니다.,He refused the proposal flatly and left his seat, perhaps because he didn't like it.
+2,14,거절을 당하다,To encounter refusal,열심히 준비한 제안서가 회사로부터 거절을 당해서 무척 속상합니다.,I am very upset because the proposal I prepared hard encountered refusal from the company.
+2,15,안부를 묻다/여쭙다,To inquire after,오랜만에 고향에 계신 선생님께 전화를 드려 안부를 여쭈었습니다.,I called my teacher in my hometown after a long time and inquired after them.
+2,16,안부를 전하다,To give regards,나중에 부모님을 뵙게 되면 제 안부도 꼭 좀 전해 주세요.,If you see your parents later, please make sure to give them my regards as well.
+2,17,안부 전화를 하다,To call to say hello,바쁘더라도 일주일에 한 번은 부모님께 안부 전화를 하려고 노력해요.,Even if I'm busy, I try to make a call to say hello to my parents at least once a week.
+2,18,안부 편지를 보내다,To send a health inquiry letter,외국으로 유학 간 친구에게 잘 지내고 있는지 궁금해서 안부 편지를 보냈어요.,I sent a letter inquiring after my friend's health who went to study abroad because I wondered how they were doing.
+2,19,찾아뵙다,To go visiting,명절을 맞아 평소 존경하던 교수님을 직접 찾아뵙고 인사드렸습니다.,On the occasion of the holiday, I personally visited and greeted the professor I usually respected.
+2,20,모임,"Meeting, gathering",오늘 저녁에 고등학교 동창 모임이 있어서 시내에 가야 해요.,I have a high school alumni gathering this evening, so I have to go downtown.
+2,21,송별회,Farewell party,회사를 떠나는 동료를 위해 팀원들이 정성껏 송별회를 준비했습니다.,The team members carefully prepared a farewell party for the colleague leaving the company.
+2,22,동창회,Alumni meeting,이번 주말에 초등학교 동창회가 열린다는 연락을 받고 설레는 중이에요.,I'm feeling excited after receiving word that an elementary school alumni meeting will be held this weekend.
+2,23,송년회,Year-end party,우리 회사는 매년 연말이면 모든 직원이 모여 송년회 행사를 합니다.,In our company, all employees gather every year-end to hold a year-end party event.
+2,24,동호회,Club,저는 사진 찍는 것을 좋아해서 주말마다 출사를 나가는 사진 동호회에 가입했어요.,I like taking pictures, so I joined a photography club that goes on shoots every weekend.
+2,25,회식,Get-together,오늘 회식 장소는 회사 근처에 새로 생긴 갈비집으로 정해졌습니다.,The venue for today's get-together was decided as a newly opened Galbi restaurant near the office.
+2,26,야유회,Picnic,날씨가 화창해서 전 직원이 산으로 야유회를 가기에 딱 좋은 날이네요.,The weather is sunny, so it's a perfect day for all employees to go on a picnic to the mountains.
+2,27,정기 모임,Regular meeting,우리 독서 동아리는 매달 첫 번째 토요일에 정기 모임을 가집니다.,Our reading club has a regular meeting on the first Saturday of every month.
+2,28,회비,Membership fee,동호회 활동을 계속하려면 이번 달 말까지 회비를 납부해야 합니다.,To continue club activities, you must pay the membership fee by the end of this month.
+2,29,연락,Contact,급한 일이 생기면 언제든지 이 번호로 연락을 주시기 바랍니다.,If an urgent matter arises, please feel free to contact me at this number anytime.
+2,30,취소,Cancellation,갑작스러운 폭우로 인해 야외 공연이 취소되었다는 공지를 받았습니다.,I received a notice that the outdoor performance was cancelled due to a sudden heavy rain.
+2,31,변경,Change,예약 인원이 늘어나는 바람에 식당 예약 시간을 한 시간 뒤로 변경했어요.,I changed the restaurant reservation time to an hour later because the number of reserved people increased.
+2,32,가능하면,If possible,가능하면 이번 주 내로 서류를 정리해서 보내 주시면 감사하겠습니다.,If possible, I would appreciate it if you could organize and send the documents within this week.
+2,33,부드럽다,To be soft/smooth,그는 목소리가 부드러워서 발표할 때 청중들에게 편안함을 줍니다.,He has a smooth voice, so he gives comfort to the audience when making a presentation.
+2,34,염려,"Concern, worry",부모님께 염려를 끼쳐 드리지 않으려고 항상 조심히 행동합니다.,I always act carefully so as not to cause concern to my parents.
+2,35,겁이 나다,To be scared,혼자서 낯선 곳에 가려니 조금 겁이 나지만 용기를 내 보기로 했어요.,I'm a little scared to go to a strange place alone, but I decided to take courage.
+2,36,사람을 대하다,To treat people,사람을 대할 때는 항상 진심 어린 태도로 정성을 다하는 것이 중요해요.,When treating people, it is important to always do your best with a sincere attitude.
+2,37,요약,Summing-up,긴 내용을 핵심만 골라 요약해서 보고서를 작성해 주시기 바랍니다.,Please write the report by selecting only the core points and summing up the long content.
+2,38,농담,Joke,그는 농담을 잘해서 분위기를 화기애애하게 만드는 재주가 있어요.,He is good at making jokes, so he has a talent for making the atmosphere harmonious.
+2,39,사정,Situation,개인적인 사정으로 인해 내일 회의에 참석하지 못하게 되어 죄송합니다.,I'm sorry I won't be able to attend tomorrow's meeting due to personal circumstances.
+2,40,원래,Originally,이 건물은 원래 학교였는데 지금은 미술관으로 사용되고 있습니다.,This building was originally a school, but now it is being used as an art gallery.
+2,41,다가오다,To approach,시험 기간이 다가올수록 도서관에서 밤을 새우는 학생들이 늘어납니다.,As the examination period approaches, the number of students staying up all night in the library increases.
+2,42,상대방,Counterpart,대화를 할 때는 내 주장만 하기보다 상대방의 말을 잘 들어야 해요.,When having a conversation, you should listen to the counterpart well rather than just making your own claims.
+2,43,추천,Recommendation,이 책은 내용이 아주 유익해서 친구들에게 꼭 읽어 보라고 추천하고 싶어요.,The content of this book is very informative, so I want to recommend that my friends definitely read it.
+2,44,때때로,Occasionally,때때로 혼자만의 시간을 가지면서 생각을 정리하는 것이 필요합니다.,It is necessary to occasionally have time alone and organize one's thoughts.
+2,45,솔직하다,To be frank/honest,자신의 실수에 대해 솔직하게 인정하는 모습이 보기 좋습니다.,It's good to see someone frankly admitting their own mistakes.
+2,46,충분히,Enough/sufficiently,사고의 원인을 밝히기 위해서는 증거를 충분히 확보해야 합니다.,To reveal the cause of the accident, we must sufficiently secure evidence.
+2,47,뒤풀이,Wrap-up party,공연이 끝난 후 출연진과 스태프들이 모여 즐거운 뒤풀이를 가졌어요.,After the performance, the cast and staff gathered and had an enjoyable wrap-up party.
+2,48,수첩,Notebook,중요한 일정은 잊어버리지 않도록 항상 수첩에 메모해 둡니다.,I always make notes in my notebook so that I don't forget important schedules.
+2,49,취직,Getting a job,오랜 노력 끝에 원하던 대기업에 취직하게 되어 정말 기뻐요.,I'm so happy to have gotten a job at the major company I wanted after long efforts.
+2,50,들르다,To drop by,퇴근하는 길에 마트에 들러서 저녁 찬거리를 조금 샀어요.,On my way home from work, I dropped by the mart and bought some side dish ingredients for dinner.
+2,51,스승의 날,Teacher's Day,스승의 날을 맞아 은사님께 감사한 마음을 담아 카네이션을 드렸습니다.,On Teacher's Day, I gave a carnation to my former teacher with a grateful heart.
+2,52,포기하다,To give up,아무리 힘들어도 꿈을 포기하지 않고 끝까지 도전할 거예요.,No matter how hard it is, I will not give up on my dream and will challenge myself until the end.
+2,53,면접시험,Interview test,면접시험에서 긴장하지 않고 제 생각을 차분하게 잘 말하고 싶어요.,I want to speak my thoughts calmly and well without getting nervous during the interview test.
+2,54,실력,Ability/skill,꾸준히 연습하다 보면 언젠가는 한국어 실력이 몰라보게 향상될 거예요.,If you practice consistently, your Korean skills will improve remarkably someday.
+2,55,표정을 짓다,To make an expression,어색한 표정을 짓지 말고 자연스럽게 웃으면서 사진을 찍어 보세요.,Don't make an awkward expression; try taking a photo while smiling naturally.
+2,56,무사히,Safely,비행기가 연착되었지만 다행히 목적지에 무사히 도착했습니다.,The flight was delayed, but fortunately, we arrived at the destination safely.
+2,57,어색하다,To be awkward,처음 만나는 사람과 단둘이 있으려니 분위기가 너무 어색하네요.,Being alone with someone I'm meeting for the first time makes the atmosphere so awkward.
+2,58,현명하다,To be wise,문제가 생겼을 때는 감정적으로 대응하기보다 현명하게 대처해야 합니다.,When a problem arises, you must handle it wisely rather than reacting emotionally.
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+3,1,건강,Health,건강은 잃고 나서야 그 소중함을 깨닫게 되는 경우가 많습니다.,In many cases, one only realizes the preciousness of health after losing it.
+3,2,건강하다,To be healthy,규칙적으로 운동하고 영양분을 골고루 섭취해야 건강할 수 있어요.,You can be healthy only if you exercise regularly and consume nutrients evenly.
+3,3,몸이 약하다,To have a weak constitution,그는 어릴 때부터 몸이 약해서 감기를 달고 살다시피 했습니다.,He has had a weak constitution since childhood, so he practically lived with a cold.
+3,4,안색이 좋다,To look fine/well,충분히 휴식을 취해서 그런지 오늘따라 안색이 아주 좋아 보이네요.,Perhaps because you took enough rest, you look particularly well today.
+3,5,안색이 나쁘다,To look bad/unwell,어디가 아픈 건지 안색이 나빠 보여서 걱정이 많이 됩니다.,I am very worried because you look unwell, as if you are sick somewhere.
+3,6,건강을 지키다,To guard health,자신의 건강을 지키기 위해서는 무엇보다 나쁜 습관을 버려야 해요.,To guard one's health, one must discard bad habits above all else.
+3,7,건강을 유지하다,To keep in good health,적절한 체중을 관리하는 것이 성인병 예방과 건강 유지에 필수적입니다.,Managing appropriate weight is essential for adult disease prevention and keeping in good health.
+3,8,몸이 안 좋다,To feel lousy/unwell,오늘은 몸이 안 좋아서 평소보다 일찍 퇴근해서 쉬기로 했습니다.,I decided to leave work earlier than usual and rest today because I'm not feeling well.
+3,9,건강을 잃다,To lose one's health,성공만 쫓다가 건강을 잃게 되면 그동안의 노력이 아무 소용없게 돼요.,If you lose your health while only chasing success, your efforts so far become useless.
+3,10,건강에 좋다,To be good for one's health,신선한 채소와 과일을 많이 먹는 것은 심혈관 건강에 매우 좋습니다.,Eating plenty of fresh vegetables and fruits is very good for cardiovascular health.
+3,11,건강에 나쁘다,To be bad for one's health,지나친 스트레스와 불규칙한 식습관은 건강에 나쁜 영향을 끼칩니다.,Excessive stress and irregular eating habits have a bad influence on health.
+3,12,피곤하다,To be tired,격무에 시달리다 보니 주말에는 너무 피곤해서 아무것도 할 수가 없어요.,As I suffer from heavy work, I'm so tired on weekends that I can't do anything.
+3,13,힘들다,To be hard/difficult,마라톤 완주는 신체적으로나 정신적으로나 매우 힘든 과정입니다.,Completing a marathon is a very hard process both physically and mentally.
+3,14,지치다,To be exhausted,계속되는 무더위에 몸과 마음이 지쳐서 활력이 떨어지고 있어요.,Being exhausted in mind and body due to the continuous heat wave, my vitality is dropping.
+3,15,과로하다,To overwork,그는 프로젝트 마감을 위해 밤샘 작업을 하다가 과로로 쓰러지고 말았다.,He ended up collapsing from overworking while doing overnight work for the project deadline.
+3,16,스트레스를 받다,To get stressed,현대 사회를 살아가는 사람들은 경쟁으로 인해 많은 스트레스를 받습니다.,People living in modern society get a lot of stress due to competition.
+3,17,쉬다,To rest,주말에는 집에서 아무 생각 없이 푹 쉬는 것이 최고의 보약입니다.,Resting deeply at home without any thoughts on weekends is the best medicine.
+3,18,휴식을 취하다,To take a rest,집중력이 떨어질 때는 잠시 하던 일을 멈추고 휴식을 취해 보세요.,When your concentration drops, stop what you're doing for a moment and try to take a rest.
+3,19,피로를 풀다,To recover from fatigue,반신욕은 혈액순환을 돕고 하루 동안 쌓인 피로를 푸는 데 효과적이에요.,A half-bath is effective for helping blood circulation and recovering from the fatigue accumulated during the day.
+3,20,스트레스를 풀다,To relieve stress,저는 좋아하는 음악을 크게 틀어 놓고 춤을 추며 스트레스를 풀곤 합니다.,I often relieve stress by playing my favorite music loudly and dancing.
+3,21,휴가를 가다,To go on vacation,재충전을 위해 다음 주에 가족들과 함께 제주도로 휴가를 가기로 했어요.,I decided to go on vacation to Jeju Island with my family next week for a recharge.
+3,22,가벼운 운동을 하다,To do light exercise,식사 후에 30분 정도 가벼운 운동을 하는 것은 소화에 큰 도움이 됩니다.,Doing light exercise for about 30 minutes after a meal is a great help for digestion.
+3,23,잠을 자다,To get some sleep,숙면을 취하려면 잠을 자기 전에 카페인 섭취를 피하는 것이 좋습니다.,To sleep soundly, it is good to avoid caffeine intake before getting some sleep.
+3,24,답답하다,To feel a pressure/stuffy,미세먼지 때문에 하루 종일 마스크를 쓰고 있었더니 숨이 답답하네요.,I feel stuffy because I was wearing a mask all day due to fine dust.
+3,25,볼링,Bowling,친구들과 오랜만에 볼링을 쳤더니 스트레스가 확 풀리는 기분이에요.,I feel like my stress is completely relieved after playing bowling with friends for the first time in a while.
+3,26,연령대,Age group,이 제품은 20대부터 30대까지의 연령대에서 특히 인기가 많습니다.,This product is particularly popular in the age group from the 20s to the 30s.
+3,27,규칙,Rule,건강한 생활을 하려면 자신만의 생활 규칙을 정해 놓고 지켜야 합니다.,To live a healthy life, you must set your own rules of life and follow them.
+3,28,불규칙적,Irregular,불규칙적인 식사는 위장 질환을 일으키는 주요 원인이 될 수 있습니다.,Irregular meals can be a major cause of gastrointestinal diseases.
+3,29,완성하다,To complete,매일 조금씩 꾸준히 운동을 해서 마침내 탄탄한 몸을 완성했습니다.,By exercising steadily every day, I finally completed a firm body.
+3,30,규칙적,Regular,규칙적인 생활 습관은 만성 피로를 해결하는 가장 좋은 방법입니다.,Regular lifestyle habits are the best way to solve chronic fatigue.
+3,31,변비,Constipation,채소에 들어있는 식이섬유를 많이 섭취하면 변비를 예방할 수 있어요.,You can prevent constipation if you consume a lot of dietary fiber found in vegetables.
+3,32,요가,Yoga,요가는 몸의 유연성을 높여 줄 뿐만 아니라 마음의 안정을 도와줍니다.,Yoga not only increases body flexibility but also helps stabilize the mind.
+3,33,사이클링,Cycling,주말마다 한강 변에서 사이클링을 하며 경치를 구경하는 것을 즐깁니다.,I enjoy cycling along the Han River every weekend while looking at the scenery.
+3,34,유지하다,To maintain,한 번 감량한 체중을 요요 현상 없이 유지하는 것이 더 어렵습니다.,It is harder to maintain weight once lost without the yo-yo effect.
+3,35,롤 플레이,Role-playing,환자들의 심리를 이해하기 위해 의사들이 직접 롤 플레이를 해 보았습니다.,To understand patients' psychology, doctors personally tried role-playing.
+3,36,신나다,To be excited,오랜만의 휴가라 그런지 짐을 싸는 내내 신이 나서 콧노래가 나왔어요.,Maybe because it's a vacation after a long time, I was excited and humming the whole time I was packing.
+3,37,전단,Flyer,헬스장 홍보 전단을 보고 운동을 시작해야겠다고 마음먹었습니다.,I decided to start exercising after seeing the gym's promotional flyer.
+3,38,리터,Liter,건강을 위해 하루에 적어도 물 2리터를 마시려고 노력하고 있어요.,For my health, I'm trying to drink at least 2 liters of water a day.
+3,39,실천하다,To practice/fulfill,계획을 세우는 것도 중요하지만 그것을 꾸준히 실천하는 것이 더 중요해요.,Making a plan is important, but practicing it consistently is more important.
+3,40,젊다,To be young,그는 나이에 비해 아주 젊게 살고 있어서 주변의 부러움을 삽니다.,He lives very young for his age, earning the envy of those around him.
+3,41,막다,To block/prevent,질병이 발생하기 전에 미리 예방 접종을 해서 큰 병을 막아야 합니다.,You must prevent major diseases by getting vaccinated in advance before they occur.
+3,42,싱겁다,To be not salty,짜게 먹는 습관은 고혈압을 유발하므로 가급적 싱겁게 드세요.,As the habit of eating salty food induces high blood pressure, please eat as blandly (not salty) as possible.
+3,43,증상,Symptom,기침이 멈추지 않고 열이 나는 증상이 있다면 바로 병원에 가세요.,If you have symptoms of a fever and a cough that doesn't stop, go to the hospital immediately.
+3,44,만족하다,To be satisfied,현재의 운동 프로그램에 만족하지 못해서 다른 운동으로 바꿨습니다.,I wasn't satisfied with my current exercise program, so I changed to another workout.
+3,45,암,Cancer,정기적인 건강 검진을 통해 암을 조기에 발견하는 것이 무엇보다 중요해요.,Detecting cancer early through regular health checkups is more important than anything.
+3,46,체중,Weight,갑작스러운 체중 변화는 건강 이상 신호일 수 있으니 주의 깊게 살피세요.,Sudden weight change can be a health warning sign, so observe carefully.
+3,47,무조건,Unconditional,좋다고 하는 음식을 무조건 많이 먹기보다는 골고루 먹는 게 좋아요.,It's better to eat evenly rather than unconditionally eating a lot of food said to be good.
+3,48,에어로빅,Aerobics,에어로빅은 신나는 음악에 맞춰 춤을 추는 전신 유산소 운동입니다.,Aerobics is a full-body aerobic exercise dancing to exciting music.
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+4,1,상의/하의,Shirt/pants,계절이 바뀌어서 새로 입을 상의와 하의를 몇 벌 샀어요.,The season changed, so I bought a few sets of new shirts and pants to wear.
+4,2,신사복,Suit,면접 때 입으려고 백화점에서 세련된 디자인의 신사복을 골랐습니다.,I chose a stylishly designed suit at the department store to wear for the interview.
+4,3,숙녀복,Ladies' suits,이 층은 숙녀복 매장이 모여 있어서 여성 고객들이 아주 많네요.,This floor has many female customers because the ladies' suit shops are gathered here.
+4,4,아동복,Children's wear,조카의 생일 선물로 줄 귀여운 캐릭터가 그려진 아동복을 샀어요.,I bought children's wear with a cute character drawn on it as a birthday gift for my nephew.
+4,5,겉옷/속옷,Outer clothing/underclothing,추운 겨울에는 겉옷뿐만 아니라 속옷도 따뜻하게 챙겨 입어야 해요.,In the cold winter, you should wear warm underclothing as well as outer clothing.
+4,6,정장,"Suit, full dress, formal dress",격식 있는 자리에는 캐주얼한 옷보다는 정장을 입고 가는 것이 예의입니다.,It is polite to wear a formal suit rather than casual clothes to a formal occasion.
+4,7,캐주얼,Casual clothes,주말에는 정장에서 벗어나 편안한 캐주얼 차림으로 외출을 즐깁니다.,On weekends, I get out of my suit and enjoy going out in comfortable casual clothes.
+4,8,교복,School uniform,교복을 입고 학교에 다니던 고등학교 시절이 가끔 그리워지곤 해요.,I sometimes miss my high school days when I wore a school uniform to school.
+4,9,운동복,"Sportswear, sweat suit",운동복은 땀 흡수가 잘 되고 활동하기 편한 소재로 골라야 합니다.,You should choose sportswear made of material that absorbs sweat well and is easy to move in.
+4,10,등산복,Mountain clothes,요즘 등산복은 기능성이 뛰어날 뿐만 아니라 일상복으로도 손색없어요.,Modern mountain clothes are not only highly functional but also perfect as daily wear.
+4,11,사이즈,Size,디자인은 마음에 드는데 제 사이즈가 없어서 주문을 예약하고 왔어요.,I like the design, but since my size wasn't there, I placed a pre-order.
+4,12,잘 맞다,To fit perfectly,이 바지는 수선을 하지 않았는데도 맞춤옷처럼 제 몸에 잘 맞아요.,This pair of pants fits me perfectly like custom-made clothes even though I didn't repair it.
+4,13,헐렁하다,To be loose,살이 빠졌는지 예전에 입던 바지가 이제는 너무 헐렁해서 못 입겠어요.,I think I lost weight because the pants I used to wear are too loose now to wear.
+4,14,끼다,To be tight,신발이 너무 껴서 오래 걸으면 발이 아프니까 한 치수 큰 것으로 사세요.,The shoes are too tight and your feet will hurt if you walk long, so buy a size larger.
+4,15,치수가 크다/작다,To be large/small in size,온라인으로 옷을 사면 치수가 생각보다 크거나 작을 때가 많아 불편해요.,When buying clothes online, it's inconvenient because the size is often larger or smaller than expected.
+4,16,허리가 크다/작다,To have a large/small waist,허리가 너무 커서 벨트를 매지 않으면 바지가 자꾸 내려가네요.,The waist is too large, so the pants keep falling down if I don't wear a belt.
+4,17,소매가 길다/짧다,To have long/short sleeves,이 셔츠는 다 좋은데 제 팔에 비해 소매가 조금 길어서 줄여야겠어요.,This shirt is all good, but the sleeves are a bit long for my arms, so I'll have to shorten them.
+4,18,교환,To exchange,제품에 결함이 있는 경우에는 구입 후 일주일 이내에 교환이 가능합니다.,In case of product defects, exchange is possible within one week after purchase.
+4,19,환불,To refund,단순한 변심으로 인한 환불은 불가능하니 신중하게 구매해 주시기 바랍니다.,Refunds due to a simple change of mind are not possible, so please purchase carefully.
+4,20,상표,Trademark,이 신발은 상표가 유명해서 그런지 가격이 품질에 비해 비싼 편이에요.,Perhaps because the trademark is famous, these shoes are quite expensive compared to the quality.
+4,21,영수증,Receipt,교환이나 환불을 원하실 때는 반드시 영수증을 지참하셔야 합니다.,When you want an exchange or refund, you must bring the receipt.
+4,22,질이 좋다/나쁘다,To be of good/poor quality,가격이 조금 비싸더라도 질이 좋은 물건을 사서 오래 쓰는 게 경제적이에요.,Even if the price is a bit high, it's economical to buy good quality items and use them for a long time.
+4,23,색상이 진하다/연하다,To be dark/light in color,색상이 너무 진하면 부담스러울 수 있으니 좀 더 연한 색으로 골라 보세요.,If the color is too dark, it can be overwhelming, so try choosing a lighter color.
+4,24,무난하다,To be easy/plain,이 가방은 디자인이 무난해서 어떤 옷차림에도 잘 어울리는 장점이 있어요.,This bag has a plain design, so it has the advantage of going well with any outfit.
+4,25,어울리다,"To harmonize, get along",머리 스타일을 바꿨더니 새로 산 옷과 아주 잘 어울려서 기분이 좋아요.,I changed my hair style and it goes very well with my new clothes, so I feel good.
+4,26,유행하다,To be in fashion,올여름에는 시원해 보이는 파란색 줄무늬 옷들이 유행하고 있습니다.,This summer, blue striped clothes that look cool are in fashion.
+4,27,유행에 뒤떨어지다,To go out of style,유행에 뒤떨어지지 않으려고 패션 잡지를 보며 최신 정보를 얻곤 해요.,I often look at fashion magazines to get the latest information so as not to go out of style.
+4,28,유행이 지나다,To be out of fashion,아무리 비싼 옷이라도 유행이 지나면 입기가 조금 망설여지기 마련입니다.,No matter how expensive clothes are, you are bound to hesitate to wear them once they are out of fashion.
+4,29,마음에 들다/안 들다,To like/dislike,직원이 추천해 준 옷이 마음에 들지 않았지만 차마 거절하지 못했어요.,I didn't like the clothes the staff recommended, but I couldn't bring myself to refuse.
+4,30,쇼핑센터,Shopping center,주말에 새로 생긴 복합 쇼핑센터에 가서 영화도 보고 쇼핑도 했습니다.,I went to the newly opened complex shopping center on the weekend, watched a movie, and shopped.
+4,31,할인 매장,Discount store,이월 상품을 파는 할인 매장에 가면 좋은 물건을 싼 가격에 살 수 있어요.,If you go to a discount store selling carry-over products, you can buy good items at a cheap price.
+4,32,인터넷 쇼핑,Internet shopping,바쁜 직장인들에게 인터넷 쇼핑은 시간과 노력을 절약해 주는 좋은 수단이죠.,Internet shopping is a good means of saving time and effort for busy office workers.
+4,33,홈쇼핑,Home shopping,홈쇼핑은 방송을 보면서 물건을 바로 살 수 있어서 아주 편리합니다.,Home shopping is very convenient because you can buy items right while watching the broadcast.
+4,34,배송료,Shipping charge,배송료를 아끼기 위해서 친구와 함께 물건을 한꺼번에 주문했어요.,To save on shipping charges, I ordered items together with a friend at once.
+4,35,배송하다,To deliver,주문하신 물건은 늦어도 모레까지는 댁으로 배송해 드릴 예정입니다.,We plan to deliver the ordered items to your home by the day after tomorrow at the latest.
+4,36,주문하다,To order,식당에 도착하자마자 배가 너무 고파서 메뉴판을 보고 음식을 주문했어요.,As soon as I arrived at the restaurant, I was so hungry that I looked at the menu and ordered food.
+4,37,반품하다,To return,택배로 받은 옷의 색깔이 화면과 너무 달라서 결국 반품하기로 했습니다.,The color of the clothes I received by courier was too different from the screen, so I finally decided to return it.
+4,38,교환권,"Exchange ticket, coupon",생일 선물로 받은 상품 교환권을 쓰러 이번 주말에 백화점에 가려고 해요.,I plan to go to the department store this weekend to use the exchange coupon I received as a birthday gift.
+4,39,수선비,Repairing expenses,바지 길이가 너무 길어서 줄였더니 배보다 배꼽이 더 크게 수선비가 나왔네요.,The pants were too long so I shortened them, but the repairing expenses came out to be more than the price of the pants.
+4,40,적립하다,To save/raise,이 카드로 결제하시면 결제 금액의 5%를 포인트로 적립해 드립니다.,If you pay with this card, we will save 5% of the payment amount as points.
+4,41,구멍,Hole,새로 산 양말에 벌써 구멍이 나다니 품질이 의심스러울 정도예요.,I'm so suspicious of the quality because there's already a hole in my newly bought socks.
+4,42,수선하다,To repair,작아진 옷을 수선해서 동생에게 입히기로 부모님과 이야기했어요.,I talked with my parents about repairing the small clothes and letting my younger sibling wear them.
+4,43,주방용품,Kitchen utensils,이사한 친구에게 선물할 실용적인 주방용품 세트를 골랐습니다.,I chose a practical kitchen utensil set to give to a friend who moved.
+4,44,구입하다,To purchase,이 가전제품은 에너지 효율이 높아서 장기적으로 보면 구입하는 게 이득이에요.,This home appliance is energy efficient, so in the long run, it's a gain to purchase it.
+4,45,실수,Mistake,계산할 때 직원의 실수로 돈을 더 많이 냈지만 금방 돌려받았습니다.,I paid more money due to the staff's mistake when checking out, but I got it back soon.
+4,46,주의하다,To practice caution,유리 제품은 깨지기 쉬우니 배송할 때 특별히 주의해 주시기 바랍니다.,Glass products are easy to break, so please practice special caution when delivering.
+4,47,매장,"Store, burial",이 매장은 매일 아침 10시에 문을 열고 저녁 8시에 문을 닫습니다.,This store opens every morning at 10 and closes at 8 in the evening.
+4,48,얼룩,"Spot, stain",흰 셔츠에 커피 얼룩이 묻어서 세탁소에 맡겨야 할 것 같아요.,There's a coffee stain on my white shirt, so I think I'll have to take it to the dry cleaner.
+4,49,지퍼,Zipper,지퍼가 고장 나는 바람에 가방을 제대로 닫을 수 없어서 당황했어요.,I was flustered because I couldn't close my bag properly because the zipper broke.
+4,50,보장하다,To guarantee,이 제품은 구입 후 1년 동안 무상 수리를 보장해 드립니다.,This product guarantees free repairs for one year after purchase.
+4,51,여가 시간,Leisure time,여가 시간을 어떻게 활용하느냐에 따라 삶의 질이 달라질 수 있습니다.,Quality of life can change depending on how you utilize your leisure time.
+4,52,창립,"Foundation, establishment",우리 회사는 창립 10주년을 맞아 고객 감사 이벤트를 진행하고 있어요.,Our company is holding a customer appreciation event to celebrate its 10th anniversary.
+4,53,불만,Dissatisfaction,불친절한 서비스에 대한 고객의 불만이 게시판에 끊임없이 올라오고 있네요.,Customer dissatisfaction about unkind service is constantly being posted on the board.
+4,54,유행을 타다,To be in fashion,디자인이 심플한 옷은 유행을 타지 않아서 오래 입을 수 있어 좋아요.,Simple designed clothes are good because they don't follow fashion (stay in style) and can be worn for a long time.
+4,55,판매하다,To sell,편의점에서는 간단한 먹거리뿐만 아니라 생필품도 판매하고 있습니다.,Convenience stores sell daily necessities as well as simple snacks.
+4,56,이상이 있다,To be abnormal/faulty,사용 중에 기계에 이상이 있으면 즉시 전원을 끄고 서비스 센터에 연락하세요.,If there is something faulty with the machine during use, turn off the power immediately and contact the service center.
+4,57,포인트,Point,그동안 쌓아 온 포인트를 현금처럼 사용해서 저렴하게 물건을 샀어요.,I bought an item cheaply by using the points I've accumulated so far like cash.
+4,58,소비자,Consumer,소비자들의 요구를 정확히 파악하는 것이 마케팅의 핵심입니다.,Accurately identifying the needs of consumers is the core of marketing.
+4,59,일시불,Lump sum payment,할부 이자가 아까워서 큰 금액이었지만 일시불로 결제했습니다.,I paid in a lump sum even though it was a large amount because I didn't want to pay the installment interest.
+4,60,할부,Instalment payments,비싼 컴퓨터를 12개월 할부로 구입했더니 매달 카드값이 부담되네요.,I bought an expensive computer on a 12-month installment plan, and the monthly card bill is burdensome.
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+5,1,한식,"Korean food, dishes",한식은 채소를 많이 사용하고 발효 음식이 많아서 건강에 아주 좋습니다.,Korean food is very good for health because it uses many vegetables and has many fermented foods.
+5,2,양식,Western food,가끔은 분위기 있는 레스토랑에서 스테이크 같은 양식을 먹고 싶을 때가 있어요.,Sometimes I want to eat Western food like steak at an atmospheric restaurant.
+5,3,중식,Chinese food,졸업식 날에는 온 가족이 모여 중식당에서 짜장면을 먹는 전통이 있어요.,On graduation day, there is a tradition for the whole family to gather and eat Jajangmyeon at a Chinese restaurant.
+5,4,간식,Snack,아이들이 학교에서 돌아오면 배고파하길래 과일과 떡을 간식으로 챙겨 주었어요.,Since the kids were hungry after coming back from school, I gave them fruit and rice cakes as a snack.
+5,5,분식,Flour-based food,학교 앞 분식집에서 파는 떡볶이와 튀김은 언제 먹어도 정말 맛있어요.,Tteokbokki and fried snacks sold at the snack bar in front of the school are always delicious.
+5,6,탕,Thick soup,추운 겨울날에는 뜨끈한 국물이 있는 갈비탕 한 그릇이 생각나기 마련입니다.,On cold winter days, one is bound to think of a bowl of Galbitang with hot broth.
+5,7,찌개,Stew,한국 사람들의 밥상에는 김치찌개나 된장찌개 같은 찌개 종류가 빠지지 않아요.,Stews like Kimchi stew or Soybean paste stew are never missing from Korean people's dining tables.
+5,8,조림,Hardboiled food,생선 조림을 할 때는 무를 밑에 깔고 졸여야 양념이 잘 배어 맛있습니다.,When making braised fish, you should put radish on the bottom to let the seasoning soak in well.
+5,9,찜,Steamed dish,계란찜을 부드럽게 만들려면 계란물을 체에 여러 번 걸러 주는 게 좋아요.,To make steamed eggs soft, it's good to strain the egg mixture through a sieve several times.
+5,10,볶음,Stir-fried dish,매콤한 제육볶음은 밥반찬으로도 좋고 안주로도 인기가 아주 많습니다.,Spicy stir-fried pork is great as a side dish for rice and very popular as a snack with drinks.
+5,11,설렁탕,Ox bone soup,설렁탕은 사골을 오랫동안 푹 고아 내어 국물 맛이 아주 깊고 담백해요.,Seolleongtang has a very deep and clean broth flavor as it's made by boiling ox bones for a long time.
+5,12,김치찌개,Kimchi stew,김치찌개에 돼지고기를 넣으면 국물 맛이 훨씬 더 진해지고 맛있어집니다.,If you put pork in Kimchi stew, the broth flavor becomes much richer and tastier.
+5,13,장조림,Beef boiled in soy,어머니께서 만들어 주신 짭짤한 소고기 장조림은 최고의 밥도둑이에요.,The salty beef boiled in soy sauce that my mother made is the best "rice thief" (dish that makes you eat a lot of rice).
+5,14,갈비찜,Braised short ribs,명절이나 생일처럼 특별한 날에는 항상 식탁에 갈비찜이 올라오곤 해요.,On special days like holidays or birthdays, braised short ribs always tend to appear on the table.
+5,15,멸치볶음,Stir-fried anchovies,멸치볶음은 칼슘이 풍부해서 자라나는 아이들의 건강 반찬으로 딱입니다.,Stir-fried anchovies are rich in calcium, so they are perfect as a healthy side dish for growing children.
+5,16,갈비탕,Short rib soup,몸이 허할 때 뜨거운 갈비탕을 먹으면 기운이 나는 것 같은 기분이 들어요.,When my body feels weak, eating hot Galbitang makes me feel like I'm gaining energy.
+5,17,된장찌개,Soybean paste stew,된장찌개에는 두부와 애호박을 듬뿍 넣어야 구수한 맛이 제대로 납니다.,You should put plenty of tofu and zucchini in Soybean paste stew for the savory flavor to come out properly.
+5,18,두부조림,Braised tofu,두부를 살짝 구운 후에 양념장을 얹어 졸여 만든 두부조림은 담백해요.,Braised tofu made by lightly frying tofu and then simmering it with sauce is savory and clean.
+5,19,아귀찜,Braised spicy monkfish,아귀찜은 콩나물의 아삭한 식감과 매콤한 양념이 어우러져 아주 일품입니다.,Agujjim is excellent as the crunchy texture of bean sprouts and spicy seasoning harmonize.
+5,20,오징어볶음,Stir-fried squid,오징어볶음을 할 때 야채를 센 불에 빨리 볶아야 물이 생기지 않아요.,When making stir-fried squid, you should fry vegetables quickly over high heat to prevent water from forming.
+5,21,삼계탕,Ginseng chicken soup,한국인들은 무더운 여름날 기운을 차리기 위해 보양식으로 삼계탕을 먹어요.,Koreans eat Samgyetang as a restorative food to regain energy on hot summer days.
+5,22,순두부찌개,Soft tofu stew,부드러운 순두부에 달걀 하나를 톡 터뜨려 넣은 순두부찌개는 정말 맛있죠.,Soft tofu stew with an egg cracked into it is truly delicious, isn't it?
+5,23,생선조림,Braised fish,고등어 생선조림은 비린내를 잡는 것이 맛을 결정하는 가장 중요한 요소입니다.,For braised mackerel, catching the fishy smell is the most important factor in determining the taste.
+5,24,계란찜,Steamed eggs,아이들이 반찬 투정을 할 때 계란찜 하나만 있으면 밥 한 그릇을 뚝딱 비워요.,When kids complain about side dishes, they finish a bowl of rice in no time if there's just one steamed egg.
+5,25,볶음밥,Fried rice,남은 반찬과 찬밥을 모두 넣고 볶음밥을 만들어 먹으니 간편하고 좋네요.,It's convenient and good to make fried rice by putting in all the leftover side dishes and cold rice.
+5,26,썰다,"To slice, to cut",양파를 썰 때 눈이 매울 수 있으니 물을 묻혀서 써는 것이 팁이에요.,A tip is to wet the onions before slicing because your eyes might sting.
+5,27,다지다,To mince,마늘과 생강을 곱게 다져 넣어야 양념의 풍미가 요리에 잘 배어듭니다.,You should mince garlic and ginger finely so the flavor of the seasoning soaks well into the dish.
+5,28,버무리다,To mix,잘 절여진 배추에 고춧가루 양념을 넣고 골고루 버무려 김치를 만들었어요.,I made Kimchi by putting red pepper powder seasoning on well-salted cabbage and mixing it evenly.
+5,29,담그다,"To soak, to immerse",올해는 배추 가격이 비싸서 김치를 직접 담그는 대신 사 먹기로 했습니다.,Since cabbage prices are high this year, I decided to buy Kimchi to eat instead of making (soaking) it myself.
+5,30,절이다,To salt,배추를 소금물에 충분히 절여야 숨이 죽어 김치를 담그기에 적당해집니다.,You must salt the cabbage sufficiently in salt water so it wilts and becomes suitable for making Kimchi.
+5,31,굽다,"To roast, to grill",고기를 구울 때 너무 자주 뒤집으면 육즙이 빠져나가서 맛이 덜해집니다.,If you flip the meat too often while grilling, the juices escape and the taste decreases.
+5,32,볶다,To stir-fry,야채가 어느 정도 익으면 고기를 넣고 같이 볶아 주는 것이 순서입니다.,The order is to put the meat in and stir-fry it together once the vegetables are somewhat cooked.
+5,33,찌다,To steam,만두를 찜통에 넣고 10분 정도 찌면 따끈따끈하고 맛있는 만두가 돼요.,If you put dumplings in a steamer and steam them for about 10 minutes, they become hot and delicious.
+5,34,끓이다,"To boil, to heat",라면을 끓일 때는 물의 양을 정확히 맞추는 것이 가장 중요합니다.,When boiling ramen, adjusting the amount of water accurately is most important.
+5,35,삶다,To boil,달걀을 10분 정도 삶으면 완숙이 되고 7분 정도 삶으면 반숙이 됩니다.,If you boil an egg for about 10 minutes, it becomes hard-boiled, and for 7 minutes, it becomes soft-boiled.
+5,36,조리다,To braise,생선을 조릴 때는 뚜껑을 열고 조려야 비린내가 날아가서 맛이 깔끔해요.,When braising fish, you should simmer with the lid open to let the fishy smell fly away for a clean taste.
+5,37,두르다,To wrap (or grease a pan),팬에 기름을 살짝 두르고 예열한 후에 계란 프라이를 시작하세요.,Lightly grease (coat) the pan with oil, preheat it, and then start making the fried egg.
+5,38,부치다,To fry (pancake),전을 부칠 때는 기름을 넉넉히 둘러야 겉은 바삭하고 속은 촉촉해집니다.,When frying pancakes, you must use plenty of oil so the outside is crispy and the inside is moist.
+5,39,튀기다,To deep-fry,치킨을 두 번 튀기면 수분이 빠져나가서 훨씬 더 바삭한 식감을 느낄 수 있어요.,If you deep-fry chicken twice, moisture escapes and you can feel a much crunchier texture.
+5,40,불리다,To steep,미역국을 끓이기 전에 마른 미역을 물에 충분히 불려 두어야 합니다.,Before boiling seaweed soup, you must steep the dried seaweed in water sufficiently.
+5,41,맛이 나다,To have a certain taste,화학 조미료를 쓰지 않아도 천연 재료만으로 충분히 깊은 맛이 납니다.,Even without using chemical seasonings, a sufficiently deep taste comes from natural ingredients alone.
+5,42,맛을 보다,To taste the food,요리가 거의 다 완성되었을 때 마지막으로 맛을 보고 간을 맞추세요.,When the dish is almost complete, taste the food one last time and adjust the seasoning.
+5,43,입맛에 맞다,To suit one's taste,외국인 친구가 한국 음식이 입맛에 맞다며 아주 맛있게 먹어 주어 기뻤어요.,I was glad because my foreign friend said Korean food suits their taste and ate it very enjoyably.
+5,44,간을 하다,To season,소금과 후추로 적당히 간을 해야 재료 본연의 맛을 살릴 수 있습니다.,You must season appropriately with salt and pepper to bring out the original taste of the ingredients.
+5,45,간을 보다,To taste (for seasoning),국물의 간을 보니 조금 싱거워서 소금을 한 숟가락 더 넣기로 했어요.,I tasted the broth for seasoning and it was a bit bland, so I decided to add one more spoonful of salt.
+5,46,간이 맞다,To be well seasoned,이 요리는 간이 아주 잘 맞아서 따로 소스를 찍어 먹을 필요가 없네요.,This dish is so well seasoned that there's no need to dip it in extra sauce.
+5,47,간장,Soy sauce,불고기 양념을 만들 때 간장은 빠져서는 안 될 가장 중요한 재료입니다.,Soy sauce is the most important ingredient that must not be missing when making bulgogi seasoning.
+5,48,덜,Less,매운 것을 잘 못 먹는 아이들을 위해 고춧가루를 평소보다 덜 넣었습니다.,I put in less red pepper powder than usual for the kids who can't eat spicy food well.
+5,49,섞다,To mix/to blend,흰밥보다 여러 가지 잡곡을 섞어 지은 밥이 건강에 훨씬 더 좋습니다.,Rice cooked by mixing various grains is much better for health than white rice.
+5,50,찰떡궁합,Perfect match,삼겹살과 구운 김치는 맛의 조화가 뛰어나서 그야말로 찰떡궁합이죠.,Pork belly and grilled Kimchi have an excellent harmony of flavors, making them a perfect match.
+5,51,견과,Nut,매일 아침 견과류를 한 줌씩 챙겨 먹는 습관은 두뇌 건강에 큰 도움이 돼요.,The habit of eating a handful of nuts every morning is a great help for brain health.
+5,52,도전하다,To challenge,평소 요리에 소질이 없지만 이번에는 고난도의 프랑스 요리에 도전해 보려고요.,I usually have no talent for cooking, but this time I'm going to challenge myself with high-difficulty French cuisine.
+5,53,섭취하다,To intake/ingest,현대인들은 비타민과 무기질을 충분히 섭취하기 위해 노력해야 합니다.,Modern people must try to sufficiently ingest vitamins and minerals.
+5,54,참기름,Sesame oil,비빔밥의 마지막 단계에 참기름 한 방울을 넣으면 고소한 향이 입안에 가득 퍼져요.,If you add a drop of sesame oil at the last step of bibimbap, the savory aroma spreads throughout your mouth.
+5,55,고추장 양념,Pepper paste sauce,고추장 양념으로 버무린 황태구이는 매콤하고 달콤해서 입맛을 돋우기에 최고입니다.,Grilled dried pollack mixed with pepper paste sauce is the best for stimulating the appetite as it's spicy and sweet.
+5,56,독특하다,To be unique,이 식당의 소스는 주인만의 독특한 비법이 담겨 있어 다른 곳에서는 맛볼 수 없어요.,This restaurant's sauce contains the owner's unique secret, so you can't taste it elsewhere.
+5,57,성분,Ingredient/component,가공식품을 살 때는 뒷면에 적힌 영양 성분 표시를 꼼꼼히 확인하는 편이에요.,When buying processed food, I tend to carefully check the nutrition component label on the back.
+5,58,채썰다,To julienne,잡채에 들어갈 당근과 양파를 얇게 채썰어서 준비해 두었습니다.,I prepared the carrots and onions to go into the Japchae by slicing them into thin julienne strips.
+5,59,고춧가루,Red pepper powder,한국 요리의 매운맛은 주로 좋은 고춧가루를 얼마나 쓰느냐에 달려 있습니다.,The spicy taste of Korean cooking mainly depends on how much good red pepper powder you use.
+5,60,든든하다,To be strong/sturdy (filling),아침 식사를 든든하게 먹었더니 점심시간이 지났는데도 배가 전혀 고프지 않네요.,I ate a filling breakfast, so I'm not hungry at all even though lunch time has passed.
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+5,61,소스,Sauce,스테이크 소스가 너무 달지 않고 고기 맛을 잘 살려 주는 것 같아요.,I think the steak sauce isn't too sweet and brings out the flavor of the meat well.
+5,62,청주,Refined rice wine,고기의 잡내를 없애기 위해 요리할 때 청주를 한 큰술 넣었습니다.,I added a tablespoon of refined rice wine while cooking to remove the gamey smell of the meat.
+5,63,궁중,Royal court,궁중 떡볶이는 고추장 대신 간장을 사용하여 자극적이지 않고 고급스러운 맛이 납니다.,Royal court Tteokbokki uses soy sauce instead of red pepper paste, resulting in a non-stimulating and luxurious taste.
+5,64,등뼈,Spine,감자탕을 만들려면 돼지 등뼈를 찬물에 담가 핏물을 충분히 빼야 합니다.,To make Gamjatang, you must soak the pork spine in cold water to sufficiently remove the blood.
+5,65,순두부,Soft tofu,입맛이 없을 때는 부드럽고 따뜻한 순두부 한 그릇이 소화도 잘 되고 좋습니다.,When you have no appetite, a bowl of soft and warm soft tofu is good and easily digestible.
+5,66,카네이션,Carnation,어버이날에 부모님 가슴에 카네이션을 달아 드리고 맛있는 저녁을 대접했어요.,On Parents' Day, I pinned a carnation on my parents' chests and treated them to a delicious dinner.
+5,67,깍다,To peel,과일을 깎을 때는 손을 다치지 않도록 항상 주의해서 칼을 사용하세요.,When peeling fruit, always use the knife carefully so as not to hurt your hand.
+5,68,마늘,Garlic,한국 요리에는 마늘이 많이 들어가서 특유의 풍미와 향이 느껴지는 것이 특징입니다.,Korean dishes feature a characteristic flavor and aroma because a lot of garlic is used.
+5,69,식품,Food,신선한 식품을 구매하기 위해 주말마다 재래시장에 가서 장을 보곤 해요.,I often go to the traditional market every weekend to buy fresh food.
+5,70,콩,Bean,밭에서 나는 소고기라고 불리는 콩은 단백질이 풍부한 영양 식품입니다.,Beans, called "beef from the field," are a nutritious food rich in protein.
+5,71,깨소금,Sesame seed with salt,나물을 다 무친 후에 마지막으로 깨소금을 뿌리면 훨씬 고소해 보여요.,If you sprinkle sesame seeds with salt at the end after mixing the vegetables, it looks much more savory.
+5,72,매력적,Attractive,이 요리는 매콤하면서도 달콤한 맛이 동시에 느껴지는 것이 매우 매력적입니다.,This dish is very attractive because you can feel the spicy and sweet tastes at the same time.
+5,73,싸먹다,To wrap up and eat,삼겹살은 갓 구운 고기를 상추와 깻잎에 올려 쌈장과 함께 싸먹어야 제맛이죠.,Pork belly tastes best when you put freshly grilled meat on lettuce and perilla leaves and wrap it with Ssamjang.
+5,74,특유,Uniqueness/Peculiarity,청국장은 그 특유의 냄새 때문에 처음 먹는 사람들은 거부감을 느낄 수도 있어요.,Cheonggukjang can make first-timers feel repulsed because of its unique smell.
+5,75,껍질,Skin/Peel/Shell,사과 껍질에는 영양분이 많으므로 깨끗이 씻어서 껍질째 먹는 것이 건강에 좋습니다.,Since apple skin has many nutrients, it is healthy to wash it clean and eat it with the skin on.
+5,76,멥쌀,Nonglutinous rice,떡을 만들 때는 멥쌀과 찹쌀을 적절한 비율로 섞어야 식감이 좋아집니다.,When making rice cakes, you must mix nonglutinous and glutinous rice in the proper ratio for a better texture.
+5,77,양파,Onion,양파를 볶으면 단맛이 강해져서 설탕을 적게 써도 요리가 맛있어집니다.,When you stir-fry onions, the sweetness increases, making the dish tasty even if you use less sugar.
+5,78,파,Green onion,라면이 거의 다 익었을 때 송송 썬 파를 넣으면 국물 맛이 시원해져요.,If you add chopped green onions when the ramen is almost cooked, the broth taste becomes refreshing.
+5,79,꼬치,Skewer,캠핑장에 가서 고기와 채소를 번갈아 끼운 꼬치구이를 만들어 먹으니 정말 꿀맛이었어요.,It was truly delicious to go to the campsite and make grilled skewers with meat and vegetables alternately.
+5,80,무,Radish,시원한 국물 요리에는 무가 빠질 수 없으며 소화 작용도 도와주는 기특한 재료입니다.,Radish cannot be missing from refreshing broth dishes; it's a wonderful ingredient that also aids digestion.
+5,81,어묵,Fish cake,추운 겨울날 길거리에서 먹는 따끈한 어묵과 국물은 서민들의 대표적인 간식입니다.,Hot fish cakes and broth eaten on the street on a cold winter day are a representative snack for the common people.
+5,82,피망,Green pepper/Bell pepper,피망은 색깔이 알록달록해서 요리에 넣으면 시각적으로 아주 먹음직스러워 보여요.,Bell peppers are colorful, so adding them to a dish makes it look very appetizing visually.
+5,83,끼우다,To put/To insert,산적을 만들 때 재료를 꼬치에 순서대로 끼우는 작업이 은근히 손이 많이 가요.,The task of inserting ingredients onto skewers in order when making Sanjeok takes a surprising amount of work.
+5,84,물엿,Starch syrup,요리의 마지막에 물엿을 조금 넣으면 윤기가 흐르고 단맛도 더해집니다.,If you add a little starch syrup at the end of a dish, it becomes glossy and the sweetness is enhanced.
+5,85,어버이날,Parents' Day,어버이날을 맞아 부모님께 감사 편지를 쓰고 카네이션을 준비했습니다.,On Parents' Day, I wrote a thank-you letter to my parents and prepared carnations.
+5,86,해물,Seafood,신선한 해물이 가득 들어간 해물파전은 비 오는 날 막걸리와 환상적인 조화를 이룹니다.,Seafood pancake filled with fresh seafood makes a fantastic harmony with Makgeolli on a rainy day.
+5,87,나물,Wild vegetables/Greens,한국의 밥상에는 제철 나물로 만든 반찬들이 올라와 계절감을 느끼게 해 줍니다.,Side dishes made of seasonal greens appear on the Korean dining table, making one feel the sense of the season.
+5,88,발효,Fermentation,된장이나 간장 같은 발효 식품은 오랫동안 숙성시킬수록 그 깊은 맛이 더해집니다.,The longer fermented foods like soybean paste or soy sauce are aged, the more their deep flavor is enhanced.
+5,89,영양,Nutrition/Nutrient,성장기 어린이들에게는 영양이 풍부한 음식을 골고루 섭취하게 하는 것이 중요해요.,For growing children, it is important to let them evenly ingest nutrient-rich food.
+5,90,향,"Incense, scent, fragrance",커피의 그윽한 향이 온 집안에 퍼지니 기분까지 상쾌해지는 것 같아요.,As the mellow scent of coffee spreads through the house, I feel like even my mood is becoming refreshed.
+5,91,단백질,Protein,근육을 키우려면 운동뿐만 아니라 닭가슴살 같은 단백질 섭취도 병행해야 합니다.,To build muscle, you must combine exercise with protein intake like chicken breast.
+5,92,배다,To permeate,고기에 양념이 골고루 배도록 하루 정도 냉장고에서 숙성시키는 것이 좋습니다.,It is good to age meat in the refrigerator for about a day so that the seasoning permeates evenly.
+5,93,오븐,Oven,오븐을 사용하여 쿠키를 구울 때는 온도를 정확하게 맞추는 것이 포인트입니다.,The point of baking cookies using an oven is to adjust the temperature accurately.
+5,94,현대화,Modernization,전통 요리도 현대화 과정을 거쳐 젊은 층의 입맛을 사로잡고 있습니다.,Even traditional dishes are capturing the tastes of the younger generation through a process of modernization.
+5,95,달구다,To heat up,팬을 충분히 달구지 않은 상태에서 요리를 시작하면 재료가 팬에 달라붙을 수 있어요.,If you start cooking without heating the pan sufficiently, ingredients might stick to the pan.
+5,96,배즙,Pear juice,감기에 걸렸을 때 따뜻한 배즙을 마시면 목의 통증을 완화하는 데 도움이 됩니다.,When you have a cold, drinking warm pear juice helps alleviate throat pain.
+5,97,육수,Meat broth,냉면의 맛을 결정하는 가장 핵심적인 요소는 정성껏 우려낸 육수라고 할 수 있죠.,The most core factor determining the taste of Naengmyeon can be said to be the carefully brewed broth.
+5,98,호박전,Pumpkin pancake,애호박을 얇게 썰어 밀가루와 계란물을 입혀 노릇하게 구운 호박전은 담백합니다.,Pumpkin pancakes, made by slicing zucchini thinly, coating them with flour and egg mixture, and grilling them golden, are savory.
+5,99,달콤하다,To be sweet,후식으로 나온 달콤한 케이크 한 조각이 식사의 즐거움을 더해 주었습니다.,A piece of sweet cake served as dessert added to the enjoyment of the meal.
+5,100,재다,To measure,정확한 요리법을 따르기 위해 계량컵으로 물의 양을 정확히 쟀습니다.,To follow the accurate recipe, I measured the amount of water accurately with a measuring cup.
+5,101,효심,Filial piety,병드신 어머니를 지극정성으로 간호하는 그의 효심은 주변 사람들에게 감동을 주었다.,His filial piety in taking care of his sick mother with utmost sincerity touched the people around him.
+5,102,담백하다,To be light/clean (taste),이 국물 요리는 조미료를 쓰지 않아 맛이 아주 담백하고 깔끔한 것이 특징이에요.,This broth dish features a very light and clean taste as it doesn't use seasonings.
+5,103,버섯,Mushroom,버섯은 칼로리가 낮고 식이섬유가 풍부해서 다이어트 식품으로 아주 인기가 많습니다.,Mushrooms are very popular as a diet food because they are low in calories and rich in dietary fiber.
+5,104,주무르다,To massage,어깨가 결린다는 부모님의 어깨를 부드럽게 주물러 드렸더니 아주 시원해하셨어요.,I gently massaged my parents' shoulders after they said they were stiff, and they felt very refreshed.
+5,105,후춧가루,Ground pepper,고기 요리를 할 때 후춧가루를 약간 뿌리면 누린내를 잡는 데 효과적입니다.,When cooking meat, sprinkling a bit of ground pepper is effective for catching the gamey smell.
+5,106,당근,Carrot,당근은 비타민 A가 풍부하여 눈 건강에 좋으니 편식하지 말고 꼭 챙겨 드세요.,Carrots are good for eye health as they are rich in vitamin A, so don't be a picky eater and make sure to eat them.
+5,107,변신,Transformation,평범한 식재료도 요리사의 손길을 거치면 화려한 요리로 변신합니다.,Even ordinary ingredients undergo a transformation into a splendid dish in the hands of a chef.
+5,108,주재료,Main ingredient,이 찌개의 주재료는 신선한 해산물이라 국물 맛이 아주 시원하고 깊습니다.,The main ingredient of this stew is fresh seafood, so the broth taste is very refreshing and deep.
+5,109,당면,Glass noodles,잡채를 만들 때 당면을 너무 오래 삶으면 불어서 식감이 나빠질 수 있으니 주의하세요.,When making Japchae, be careful not to boil the glass noodles too long as they might swell and the texture will worsen.
+5,110,비비다,To mix,각종 나물과 고추장을 넣고 쓱쓱 비벼 먹는 비빔밥은 한국의 대표 음식입니다.,Bibimbap, eaten by mixing various greens and red pepper paste, is a representative Korean food.
+5,111,지방,Area/Fat,육류에 들어있는 과도한 지방 섭취는 비만의 원인이 될 수 있으므로 조절이 필요합니다.,Intake of excessive fat found in meat can be a cause of obesity, so adjustment is necessary.
+5,112,대파,Large green onion,대파를 큼직하게 썰어 국에 넣으면 국물 맛이 훨씬 더 달큰하고 시원해져요.,If you cut large green onions into big pieces and put them in soup, the broth taste becomes much sweeter and more refreshing.
+5,113,빼놓다,To leave out/To pick out,한국의 명절 음식에서 떡국이나 송편은 절대 빼놓을 수 없는 중요한 요리입니다.,In Korean holiday food, Tteokguk or Songpyeon are important dishes that can never be left out.
+5,114,질기다,To be tough,고기를 너무 오래 익히면 식감이 질겨져서 씹기가 힘들어질 수 있으니 조심하세요.,Be careful because if you cook meat too long, the texture becomes tough and it might become hard to chew.
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+6,1,현금,Cash,현금을 많이 가지고 다니는 것은 잃어버릴 위험이 있으니 현금카드를 이용하세요.,Carrying a lot of cash is risky due to the chance of losing it, so use a cash card.
+6,2,동전,Coin,마트에서 물건을 사고 남은 거스름돈으로 동전을 몇 개 받았습니다.,I received a few coins as change after buying items at the mart.
+6,3,지폐,Bill,편의점에서 지폐를 내고 거스름돈을 받았는데 지갑에 자리가 없네요.,I paid with a bill at the convenience store and received change, but there's no room in my wallet.
+6,4,수표,Check,고액의 물건을 구매할 때는 현금 대신 수표로 결제하는 것이 편리할 때가 있습니다.,When purchasing expensive items, it is sometimes convenient to pay with a check instead of cash.
+6,5,천 원짜리,Thousand-won bill,지갑 속에 천 원짜리 지폐 몇 장뿐이라 버스 요금을 내기에도 부족할 것 같아요.,Since there are only a few thousand-won bills in my wallet, I think it might be insufficient even to pay the bus fare.
+6,6,잔돈,Change,택시비로 오천 원을 냈더니 기사님께서 잔돈으로 오백 원을 돌려주셨습니다.,I paid five thousand won for the taxi fare, and the driver returned five hundred won as change.
+6,7,통장,"Bankbook, passbook",은행에서 통장을 개설하려면 신분증을 반드시 지참해야 합니다.,To open a bankbook at the bank, you must bring an identification card.
+6,8,도장,Stamp,서류에 서명 대신 도장을 찍는 것은 한국의 오랜 관습 중 하나입니다.,Stamping a document instead of signing is one of Korea's long-standing customs.
+6,9,신분증,Identification card,신분증이 없으면 은행 업무를 볼 수 없으니 외출 전에 꼭 확인하세요.,You cannot conduct banking business without an ID card, so make sure to check before going out.
+6,10,계좌 번호,Account number,친구에게 빌린 돈을 갚기 위해 계좌 번호를 물어보았습니다.,I asked for the account number to repay the money I borrowed from my friend.
+6,11,비밀번호,Password,비밀번호는 타인에게 노출되지 않도록 주기적으로 변경하는 것이 안전합니다.,It is safe to change your password periodically so that it is not exposed to others.
+6,12,현금카드,Cash card,현금카드를 잃어버렸다면 즉시 은행에 분실 신고를 해야 피해를 막을 수 있어요.,If you lost your cash card, you must immediately report it as lost to the bank to prevent damage.
+6,13,현금자동입출금기 (ATM기),Automatic teller machine,현금자동입출금기(ATM기)를 이용하면 은행 창구에 가지 않고도 입금을 할 수 있어요.,Using an ATM, you can make a deposit without going to the bank counter.
+6,14,입금,Deposit,부모님께서 생활비로 쓰라고 통장에 거금을 입금해 주셨습니다.,My parents deposited a large sum into my account for me to use as living expenses.
+6,15,출금,Withdrawal,통장에서 현금을 출금하기 위해 은행 앞 ATM기에서 줄을 서서 기다렸어요.,I stood in line at the ATM in front of the bank to withdraw cash from my account.
+6,16,계좌 이체,Account transfer,스마트폰 앱을 통해 간편하게 계좌 이체를 할 수 있는 세상이 되었습니다.,The world has become a place where you can easily perform account transfers through smartphone apps.
+6,17,잔액 조회,Balance inquiry,잔액 조회를 해 보니 생각보다 통장에 돈이 얼마 남지 않아서 깜짝 놀랐어요.,Checking the balance inquiry, I was surprised because there wasn't as much money left in the account as I thought.
+6,18,통장 정리,Bankbook update,통장 정리를 하러 은행에 갔더니 대기 인원이 너무 많아서 오래 기다려야 했어요.,I went to the bank to update my bankbook, but the waiting line was so long that I had to wait for a while.
+6,19,예금하다,To deposit/make a deposit,매달 아르바이트비를 받으면 조금씩이라도 저축하기 위해 예금하고 있습니다.,When I receive my part-time job pay every month, I'm depositing it to save even a little bit.
+6,20,송금하다,To remit,고향에 계신 부모님께 매달 꼬박꼬박 생활비를 송금해 드리고 있어요.,I am remit living expenses to my parents in my hometown every month without fail.
+6,21,환전하다,To change money,해외여행을 가기 전에 공항 환전소에서 달러로 환전하기로 했습니다.,I decided to change money into dollars at the airport exchange office before going on an overseas trip.
+6,22,대출하다,"To lend, to borrow",대학 등록금이 부족해서 은행에서 학자금을 대출하기로 결정했습니다.,I decided to borrow a student loan from the bank because I was short on university tuition.
+6,23,통장을 개설하다,To open an account,취직한 후에 월급을 관리하기 위해 주거래 은행에서 통장을 개설했어요.,I opened an account at my main bank to manage my salary after getting a job.
+6,24,적금을 들다,To open an installment savings account,결혼 자금을 마련하기 위해 매달 일정 금액을 저축하는 적금을 들었습니다.,I opened an installment savings account to save a certain amount every month to prepare for marriage funds.
+6,25,수수료를 내다,To pay service charge,은행 영업시간 이후에 현금을 찾으면 수수료를 내야 하니 주의하세요.,Be careful because you must pay a service charge if you withdraw cash after bank business hours.
+6,26,공과금을 내다,To pay utility bills,매달 말일까지 공과금을 내지 않으면 연체료가 발생하니 잊지 말고 납부하세요.,If you don't pay utility bills by the end of every month, an overdue fee will occur, so don't forget to pay.
+6,27,자동이체를 하다,To make an automatic transfer,매번 챙기기 번거로운 월세는 통장에서 자동이체를 하도록 설정해 두었어요.,I set the monthly rent, which is troublesome to take care of every time, to be made as an automatic transfer from the account.
+6,28,텔레뱅킹을 하다,To do telebanking,인터넷 사용이 어려운 어르신들은 전화를 통해 텔레뱅킹을 하는 경우가 많습니다.,In many cases, elderly people who find it difficult to use the internet perform telebanking through the phone.
+6,29,인터넷뱅킹을 하다,To do internet banking,공인인증서만 있으면 집에서도 편리하게 인터넷뱅킹을 할 수 있어 매우 좋습니다.,As long as you have a public certificate, it is very good to be able to do internet banking conveniently even at home.
+6,30,동전을 교환하다,To exchange coins,그동안 저금통에 모아 온 동전들을 은행에 가서 지폐로 교환했습니다.,I went to the bank and exchanged the coins I've collected in my piggy bank so far for bills.
+6,31,가계부를 쓰다,To sort out the family budget,지출을 줄이기 위해 매일 저녁 그날 사용한 돈을 가계부를 쓰며 정리해요.,To reduce spending, I organize the money I spent that day by writing in a family budget book every evening.
+6,32,수입,"Earning, income",지출이 수입보다 많아지면 가계 경제에 빨간불이 켜지는 것과 다름없습니다.,If spending becomes higher than income, it's no different from a red light appearing in the family economy.
+6,33,지로용지,Electronic billing system paper,우편함에 꽂힌 지로용지를 보니 이번 달 전기요금이 생각보다 많이 나왔네요.,Looking at the billing paper in the mailbox, this month's electricity bill came out to be more than I thought.
+6,34,공과금,Utility bills,물가가 오르면서 전기세와 수도세 같은 공과금 부담도 만만치 않게 커졌어요.,As prices rose, the burden of utility bills like electricity and water bills has also grown significantly.
+6,35,신청서,Application form,은행에 도착해서 대출을 받기 위한 신청서를 꼼꼼하게 작성하였습니다.,I arrived at the bank and meticulously filled out an application form to receive a loan.
+6,36,지출,"Expense, spending",불필요한 지출을 줄여야 나중에 큰 목돈을 마련할 수 있다는 것을 잊지 마세요.,Don't forget that you must reduce unnecessary spending to prepare a large sum of money later.
+6,37,도둑맞다,To get stolen,여행 중에 지갑을 도둑맞는 바람에 한동안 아무것도 할 수 없어서 너무 막막했어요.,I felt so helpless because I couldn't do anything for a while after my wallet got stolen during the trip.
+6,38,용돈 기입장,Spending diary,아이들에게 경제 관념을 심어 주기 위해 직접 용돈 기입장을 쓰게 하고 있어요.,I'm letting the kids personally write a spending diary to instill an economic sense in them.
+6,39,함부로,"Thoughtlessly, carelessly",충동구매로 인해 돈을 함부로 쓰다 보면 나중에 정말 필요한 곳에 쓸 돈이 없게 돼요.,If you spend money thoughtlessly due to impulse buying, you'll end up with no money to spend where it's truly needed later.
+6,40,분실,Loss,현금카드를 분실했다면 타인이 사용하지 못하도록 즉시 분실 신고를 해야 합니다.,If you lost your cash card, you must immediately report the loss so that others cannot use it.
+6,41,자동 납부,Automatic payment,보험료나 통신비 같은 고정 지출은 자동 납부로 처리해 두는 것이 편리합니다.,It is convenient to process fixed expenses like insurance premiums or communication costs through automatic payment.
+6,42,분실신고,Report of loss,도서관에서 학생증을 잃어버려서 학교 홈페이지를 통해 분실신고를 마쳤습니다.,I lost my student ID at the library, so I completed the report of loss through the school homepage.
+6,43,저금통,"Coin bank, piggy bank",어릴 때부터 저금통에 동전을 모으는 습관을 기르면 절약하는 마음이 생겨요.,Developing a habit of collecting coins in a piggy bank since childhood creates a mind for saving.
+6,44,뽑다,"To pick, to draw, to select",은행 창구에서 업무를 보기 위해 대기 번호표를 기계에서 뽑고 기다렸습니다.,I drew a waiting number ticket from the machine to conduct business at the bank counter and waited.
+6,45,절반,Half,계획 없이 돈을 쓰다 보니 월급을 받은 지 일주일 만에 벌써 절반이 사라졌네요.,Since I spent money without a plan, already half of my salary has disappeared within a week of receiving it.
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+7,1,활발하다,To be animated/active,성격이 활발해서 처음 보는 사람들과도 금방 친해지는 편이에요.,I have an active personality, so I tend to become close with people I meet for the first time quickly.
+7,2,명랑하다,To be bright/cheerful,늘 명랑하게 웃는 모습이 주변 사람들에게 긍정적인 에너지를 줍니다.,The way she always laughs cheerfully gives positive energy to the people around her.
+7,3,밝다,To be bright,그녀의 밝은 미소는 어두운 분위기를 순식간에 바꿔 놓는 힘이 있어요.,Her bright smile has the power to change a dark atmosphere in an instant.
+7,4,착하다,To be kind/generous,마음씨가 착한 그는 어려운 이웃을 돕는 일에 항상 앞장섭니다.,Being kind-hearted, he always takes the lead in helping neighbors in need.
+7,5,조용하다,To be quiet,내성적이고 조용한 성격이라 혼자 사색하는 시간을 즐기는 편입니다.,Having an introverted and quiet personality, I tend to enjoy time spent in solitary contemplation.
+7,6,얌전하다,To be gentle/well-behaved,학교에서는 얌전한 학생이었지만 집에서는 의외로 장난기가 많았어요.,He was a well-behaved student at school, but surprisingly he was very playful at home.
+7,7,솔직하다,To be frank/honest,자신의 감정에 솔직한 사람이야말로 진정으로 용기 있는 사람이라고 생각해요.,I think someone who is honest about their feelings is a truly courageous person.
+7,8,고집이 세다,To be stubborn,그는 고집이 세서 남의 의견을 듣지 않고 자기 방식대로만 하려고 합니다.,He is stubborn, so he tries to do things his way without listening to others' opinions.
+7,9,차분하다,To be calm,위급한 상황에서도 차분하게 대처하는 모습이 매우 인상적이었습니다.,The way he handled the emergency situation calmly was very impressive.
+7,10,(성격이) 급하다,To be hot-tempered/hasty,성격이 급해서 일을 서두르다 보면 가끔 중요한 실수를 하기도 해요.,Because I'm hasty, I sometimes make important mistakes when I rush through work.
+7,11,적극적이다,To be active/aggressive,모든 일에 적극적으로 참여하는 태도가 성공의 비결이라고 믿습니다.,I believe that an attitude of participating actively in everything is the secret to success.
+7,12,소극적이다,To be passive,소극적인 태도보다는 자신감을 가지고 도전하는 자세가 필요합니다.,Rather than a passive attitude, a posture of taking on challenges with confidence is needed.
+7,13,사교적이다,To be sociable,그는 사교적인 성격 덕분에 모임에 가면 분위기를 주도하곤 합니다.,Thanks to his sociable personality, he tends to lead the atmosphere when attending gatherings.
+7,14,내성적이다,To be introvert,내성적인 성격을 극복하기 위해 일부러 발표 동아리에 가입했습니다.,I intentionally joined a presentation club to overcome my introverted personality.
+7,15,재주가 많다,To have a lot of talent,그는 노래뿐만 아니라 그림 실력도 뛰어나서 정말 재주가 많은 친구예요.,He is a friend with a lot of talent, as his drawing skills are excellent in addition to singing.
+7,16,유머 감각이 있다,To have a sense of humor,유머 감각이 있는 사람과 대화를 하면 시간 가는 줄 모를 정도로 즐거워요.,Conversing with someone who has a sense of humor is so enjoyable that I don't realize how time passes.
+7,17,부지런하다,To be diligent,그는 아침 일찍 일어나 운동을 하고 공부를 하는 매우 부지런한 학생입니다.,He is a very diligent student who wakes up early in the morning to exercise and study.
+7,18,게으르다,To be lazy,해야 할 일을 미루고 잠만 자는 게으른 습관은 반드시 고쳐야 합니다.,The lazy habit of postponing work and just sleeping must be fixed.
+7,19,믿음직하다,To be reliable,그는 어떤 일을 맡겨도 완벽하게 처리하는 믿음직한 동료입니다.,He is a reliable colleague who handles any task perfectly no matter what is assigned.
+7,20,이해심이 많다,To be understanding,이해심이 많은 친구 덕분에 제 고민을 솔직하게 털어놓을 수 있었어요.,Thanks to my understanding friend, I was able to open up and share my worries frankly.
+7,21,말이 많다,To be talkative,그는 말이 너무 많아서 가끔 다른 사람의 말을 가로막는 단점이 있습니다.,He is so talkative that he sometimes has the flaw of interrupting others' speech.
+7,22,정이 많다,To be warmhearted,한국 사람들은 정이 많아서 낯선 사람에게도 친절을 베푸는 경우가 많아요.,Korean people are warmhearted, so they often show kindness even to strangers.
+7,23,생각이 깊다,To be thoughtful,그는 나이는 어리지만 생각이 깊어서 어른스러운 조언을 자주 해 줍니다.,Although he is young, he is thoughtful and often gives mature advice.
+7,24,마음이 넓다,To be generous,마음이 넓은 사람은 타인의 사소한 잘못을 너그럽게 용서해 줍니다.,A big-hearted person generously forgives the minor faults of others.
+7,25,성실하다,To be faithful/sincere,성실하게 노력하는 사람에게는 언젠가 반드시 좋은 기회가 찾아오기 마련입니다.,Good opportunities are bound to come someday to those who make sincere efforts.
+7,26,책임감이 강하다,To have a strong sense of responsibility,리더는 팀원들을 이끌기 위해 누구보다 책임감이 강해야 합니다.,A leader must have a stronger sense of responsibility than anyone else to lead team members.
+7,27,눈이 높다,To have high standards,그녀는 눈이 높아서 웬만한 가전제품은 마음에 들어 하지 않아요.,She has high standards, so she doesn't like most home appliances.
+7,28,발이 넓다,To have a wide acquaintance,그는 발이 넓어서 어느 분야에든 아는 사람이 한 명씩은 꼭 있습니다.,He has a wide acquaintance, so there is always at least one person he knows in any field.
+7,29,입이 무겁다,To be taciturn/keep secrets,입이 무거운 친구에게 비밀을 털어놓았더니 마음이 한결 가벼워졌어요.,I felt much lighter after confiding my secret to a friend who is good at keeping secrets.
+7,30,입이 가볍다,To be a big mouth,그는 입이 가벼워서 남의 개인적인 이야기를 여기저기 옮기고 다녀요.,He has a big mouth and goes around carrying other people's personal stories everywhere.
+7,31,귀가 얇다,To take others’ words uncritically,귀가 얇은 편이라 광고만 보고 필요 없는 물건을 사는 경우가 많습니다.,Being the type to take others' words uncritically, I often buy unnecessary items just by looking at ads.
+7,32,콧대가 높다,To be self-important,그는 이번 프로젝트가 성공한 후에 콧대가 높아져서 다른 사람을 무시해요.,He became self-important after this project succeeded and looks down on others.
+7,33,격려하다,To encourage/cheer,실패를 겪고 낙담한 친구를 따뜻한 말로 격려해 주었습니다.,I encouraged my friend who was discouraged after experiencing failure with warm words.
+7,34,(성격이) 시원시원하다,To be straightforward,성격이 시원시원해서 결정을 내릴 때 망설이지 않고 바로 행동에 옮깁니다.,Because his personality is straightforward, he doesn't hesitate when making decisions and takes action immediately.
+7,35,참여하다,To participate,학교 행사에는 가능한 한 많은 학생들이 적극적으로 참여하는 것이 좋습니다.,It is good for as many students as possible to actively participate in school events.
+7,36,계산적이다,To be calculative,모든 인간관계를 이익만 생각하며 계산적으로 대하는 것은 좋지 않아요.,It is not good to treat all human relationships calculatively, only thinking about profit.
+7,37,신중하다,To be careful/prudent,중요한 결정을 내리기 전에는 여러 번 생각하고 신중하게 판단해야 합니다.,Before making an important decision, you must think several times and judge prudently.
+7,38,추진하다,To push ahead,팀장은 새로운 프로젝트를 강력하게 추진하여 단기간에 성과를 냈습니다.,The team leader strongly pushed ahead with the new project and achieved results in a short period.
+7,39,글씨,Handwriting,그는 글씨를 아주 정갈하게 써서 보고서를 볼 때 가독성이 뛰어납니다.,He writes very neatly, so the report has excellent readability when viewing it.
+7,40,아이디어,Idea,창의적인 아이디어를 제안하여 회사의 매출을 올리는 데 기여했습니다.,He contributed to raising the company's sales by proposing creative ideas.
+7,41,(감정이) 풍부하다,To be an emotional person,예술가들은 일반인들보다 감수성이 예민하고 감정이 풍부한 경우가 많아요.,Artists are often more sensitive and emotional than average people.
+7,42,긍정적이다,To be positive,어떤 어려움이 닥쳐도 긍정적으로 생각하면 해결책이 보이기 마련입니다.,No matter what difficulty strikes, if you think positively, a solution is bound to appear.
+7,43,외향적이다,To be extroverted,외향적인 사람들은 사람들과 어울리며 에너지를 얻는 특징이 있습니다.,Extroverted people have the characteristic of gaining energy by mingling with others.
+7,44,학과 대표,Department representative,그는 리더십이 뛰어나서 만장일치로 학과 대표에 선출되었습니다.,He has excellent leadership and was unanimously elected as the department representative.
+7,45,긴장하다,To be nervous,면접을 앞두고 너무 긴장해서 손이 떨리고 목소리가 잘 나오지 않았어요.,I was so nervous before the interview that my hands shook and my voice didn't come out well.
+7,46,유능하다,To be competent/capable,그는 업무 능력이 뛰어나서 회사 내에서 아주 유능한 인재로 통합니다.,He has excellent work ability and is known as a very competent talent within the company.
+7,47,합리적이다,To be reasonable/logical,소비자들은 가격과 품질을 꼼꼼히 따져보고 합리적인 선택을 해야 합니다.,Consumers should meticulously weigh price and quality to make a reasonable choice.
+7,48,다양하다,To be various/diverse,이 쇼핑몰에는 고객들의 취향을 고려한 다양한 상품들이 구비되어 있습니다.,This shopping mall is equipped with diverse products considering customers' tastes.
+7,49,자기중심적,Self-centred,자기중심적인 사고방식은 공동체 생활에서 갈등을 일으키는 원인이 됩니다.,A self-centered way of thinking becomes a cause of conflict in community life.
+7,50,혈액형,Blood type,한국에서는 혈액형에 따라 성격이 다르다고 믿는 사람들이 꽤 많습니다.,In Korea, quite a few people believe that personalities differ according to blood type.
+7,51,다투다,To argue/fight,사소한 오해 때문에 친한 친구와 다투고 나서 한동안 연락을 안 했어요.,I didn't contact my close friend for a while after arguing with them over a minor misunderstanding.
+7,52,자유롭다,To be free,예술가들은 구속받지 않는 자유로운 분위기 속에서 창의성을 발휘합니다.,Artists display creativity in a free atmosphere without being restrained.
+7,53,호기심,Curiosity,어린아이들은 세상 모든 것에 대해 호기심이 많아서 질문을 끊임없이 해요.,Young children have a lot of curiosity about everything in the world and ask questions constantly.
+7,54,닮다,To resemble,그는 외모뿐만 아니라 성격도 아버지를 꼭 닮아서 주변을 놀라게 합니다.,He surprises those around him by resembling his father perfectly in personality as well as appearance.
+7,55,주장이 강하다,To be strong-willed,자신의 주장이 너무 강하면 타인과 타협하기가 어려워질 수 있습니다.,If your own claims are too strong, it can become difficult to compromise with others.
+7,56,바느질,Sewing,어머니께서 정성껏 바느질을 해서 구멍 난 옷을 깨끗하게 고쳐 주셨어요.,Mother carefully sewed and cleanly repaired the clothes with a hole in them.
+7,57,지도자,Leader,훌륭한 지도자는 구성원들의 목소리에 귀를 기울일 줄 알아야 합니다.,A great leader must know how to listen to the voices of members.
+7,58,분석적이다,To be analytical,사고의 원인을 파악하기 위해 데이터를 분석적인 관점에서 살펴보았습니다.,I looked at the data from an analytical perspective to identify the cause of the accident.
+7,59,(일에) 집중하다,To concentrate on work,중요한 시험을 앞두고 있어서 공부에만 집중하기 위해 휴대전화를 껐어요.,I turned off my cell phone to concentrate only on studying as I have an important exam coming up.
+7,60,소년소녀가장,Children of families without parents,소년소녀가장들이 어려운 환경 속에서도 꿈을 잃지 않도록 도와줘야 합니다.,We must help children of families without parents so they don't lose their dreams even in difficult environments.
+7,61,참다,To endure/hold back,화가 났지만 대화를 원만하게 이어가기 위해 일단 화를 꾹 참았습니다.,I was angry, but I held back my anger for now to continue the conversation smoothly.
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+8,1,실수하다,To make a mistake,누구나 실수를 할 수 있지만 같은 실수를 반복하지 않는 것이 중요합니다.,Anyone can make a mistake, but it is important not to repeat the same mistake.
+8,2,잘못하다,To do something poorly,제가 일을 잘못하는 바람에 팀원들에게 큰 피해를 주고 말았습니다.,Because I did the work poorly, I ended up causing great harm to my team members.
+8,3,잃어버리다,To lose,지하철에 가방을 두고 내리는 바람에 지갑과 휴대폰을 모두 잃어버렸어요.,I left my bag on the subway and ended up losing both my wallet and phone.
+8,4,오해하다,To misunderstand,제 의도와는 달리 친구가 제 말을 오해해서 화가 난 것 같아요.,Contrary to my intention, my friend seems to have misunderstood my words and got angry.
+8,5,쏟다,To pour/spill,커피를 마시다가 실수로 흰 셔츠에 쏟아서 얼룩이 생기고 말았습니다.,While drinking coffee, I accidentally spilled it on my white shirt and got a stain.
+8,6,찢다,To tear,중요한 서류를 실수로 찢어 버려서 다시 작성해야 하는 번거로움이 생겼어요.,I accidentally tore an important document, so I had the hassle of having to rewrite it.
+8,7,넘어지다,To fall down,빙판길에서 넘어지는 바람에 다리를 다쳐서 병원에 다녀왔습니다.,I fell down on the icy road and went to the hospital because I hurt my leg.
+8,8,떨어뜨리다,To drop,휴대폰을 바닥에 떨어뜨렸더니 액정이 깨져서 수리비가 많이 나오겠네요.,I dropped my phone on the floor and the screen broke, so the repair cost will be high.
+8,9,깨뜨리다,To break,설거지를 하다가 실수로 제일 아끼는 접시를 깨뜨려서 속상해요.,I'm upset because I accidentally broke my favorite plate while doing the dishes.
+8,10,문제가 생기다,A problem arises,기계에 갑자기 문제가 생겨서 공장 가동이 잠시 중단되었습니다.,A problem suddenly arose with the machine, so factory operations were briefly suspended.
+8,11,사과하다,To apologize,잘못을 인지한 즉시 상대방에게 진심으로 사과하는 태도가 필요합니다.,An attitude of sincerely apologizing to the other person as soon as you realize a mistake is needed.
+8,12,양해를 구하다,To ask to be excused,회의에 늦을 것 같아서 미리 팀장님께 양해를 구하고 참석했습니다.,I thought I would be late for the meeting, so I asked for the manager's understanding in advance and attended.
+8,13,변명하다,To make an excuse,실수를 감추기 위해 구차한 변명을 늘어놓는 것은 신뢰를 떨어뜨리는 일입니다.,Making poor excuses to hide a mistake is something that lowers trust.
+8,14,핑계를 대다,To find an excuse,숙제를 안 해온 학생이 아팠다는 핑계를 댔지만 선생님은 믿지 않으셨어요.,The student who didn't do their homework made the excuse of being sick, but the teacher didn't believe it.
+8,15,잊어버리다,To forget (general),친구 생일을 깜빡 잊어버리는 바람에 미안해서 선물을 준비했어요.,I accidentally forgot my friend's birthday, so I prepared a gift out of apology.
+8,16,깜빡하다,To forget (briefly),가스레인지 불을 끄는 것을 깜빡하고 외출했다가 급히 돌아왔습니다.,I briefly forgot to turn off the gas stove and went out, then rushed back.
+8,17,헷갈리다,To get confused,한국어에는 발음이 비슷해서 헷갈리는 단어들이 꽤 많이 있습니다.,In Korean, there are quite a few words that are confusing because their pronunciations are similar.
+8,18,생각이 나다,To remember/recall,아무리 노력해도 그 사람의 이름이 갑자기 생각이 나지 않아서 당황했어요.,No matter how hard I tried, I was flustered because I couldn't suddenly remember that person's name.
+8,19,착각하다,To mistake,오늘이 휴일인 줄 착각하고 학교에 갔다가 문이 닫힌 것을 보고 돌아왔어요.,I mistook today for a holiday and went to school, then returned after seeing it was closed.
+8,20,건망증이 있다,To be forgetful,요즘 건망증이 심해졌는지 물건을 어디에 뒀는지 자꾸 잊어버리곤 해요.,I tend to keep forgetting where I put things, perhaps because my forgetfulness has worsened lately.
+8,21,갑자기,Suddenly,맑았던 하늘에 갑자기 소나기가 쏟아져서 당황스러웠습니다.,I was flustered because a sudden rain shower poured from the clear sky.
+8,22,떼다,To take off/detach,새로 산 옷에 붙은 가격표를 떼다가 실수로 옷감에 구멍을 냈어요.,While taking off the price tag on my new clothes, I accidentally made a hole in the fabric.
+8,23,알아보다,To investigate/examine,사고의 정확한 원인을 알아보기 위해 전문가들이 조사를 시작했습니다.,Experts have started an investigation to examine the exact cause of the accident.
+8,24,강력 접착제,High-strength adhesive,부러진 의자 다리를 붙이기 위해 강력 접착제를 사용하기로 했어요.,I decided to use high-strength adhesive to attach the broken chair leg.
+8,25,명심하다,To keep in mind,선생님의 조언을 항상 명심하고 학교 생활을 성실히 하겠습니다.,I will always keep my teacher's advice in mind and live school life sincerely.
+8,26,어쩔 수 없다,To be inevitable,태풍으로 인해 행사가 취소된 것은 어쩔 수 없는 상황이라고 생각해요.,I think it is an inevitable situation that the event was cancelled due to the typhoon.
+8,27,경로석,Senior seats,지하철의 경로석은 비어 있더라도 노약자를 위해 비워두는 것이 예의입니다.,It is polite to leave the senior seats on the subway empty for the elderly even if they are vacant.
+8,28,미리,In advance,인기 있는 식당은 대기 줄이 기니까 미리 예약을 하는 게 좋습니다.,Since popular restaurants have long lines, it is good to make a reservation in advance.
+8,29,위대하다,To be great,세상을 바꾼 위대한 과학자들의 업적을 기리는 전시회가 열렸습니다.,An exhibition was held to honor the achievements of great scientists who changed the world.
+8,30,곰곰이,Pensively/deeply,앞으로의 진로에 대해 곰곰이 생각하며 혼자만의 시간을 가졌습니다.,I had time alone while thinking deeply about my future career path.
+8,31,바르다,To be right/true,항상 바른 태도로 성실하게 살아가는 모습이 주변의 본보기가 됩니다.,Living sincerely with a right attitude at all times serves as an example to those around you.
+8,32,이상하다,To be strange,어제까지 멀쩡하던 컴퓨터가 오늘 갑자기 켜지지 않으니 정말 이상하네요.,It's really strange that the computer, which was fine until yesterday, suddenly won't turn on today.
+8,33,과제,Task/assignment,이번 학기 과제가 너무 많아서 주말에도 쉬지 못하고 도서관에 가야 해요.,I have so many assignments this semester that I can't rest on weekends and have to go to the library.
+8,34,반말,Informal speech,처음 만난 사람에게 반말을 사용하는 것은 무례한 행동으로 보일 수 있어요.,Using informal speech to someone you meet for the first time can be seen as rude behavior.
+8,35,적응하다,To adapt,새로운 환경에 적응하는 데 시간이 좀 걸렸지만 이제는 친구들도 많이 생겼어요.,It took some time to adapt to the new environment, but now I have many friends.
+8,36,반복하다,To repeat,똑같은 실수를 반복하지 않도록 오답 노트를 만들어 공부하고 있습니다.,I am studying by making an incorrect answer note so as not to repeat the same mistake.
+8,37,젖다,To get wet,갑자기 내린 비에 우산이 없어서 옷이 다 젖고 말았습니다.,I ended up getting my clothes all wet because I didn't have an umbrella in the sudden rain.
+8,38,기억하다,To remember,중요한 내용을 기억하기 위해 수업 시간에 필기를 꼼꼼히 하는 편이에요.,I tend to take meticulous notes during class to remember important content.
+8,39,발명품,Invention,스마트폰은 인류의 생활을 획기적으로 바꾼 위대한 발명품 중 하나입니다.,The smartphone is one of the great inventions that changed human life epoch-makingly.
+8,40,증명사진,ID picture,여권을 만들기 위해 사진관에 가서 증명사진을 찍었습니다.,I went to the photo studio to take an ID picture to make a passport.
+8,41,누구든지,Everybody/anyone,우리 동아리는 운동에 관심이 있는 학생이라면 누구든지 환영합니다.,Our club welcomes anyone who is a student interested in sports.
+8,42,벌금을 내다,To pay a fine,금연구역에서 담배를 피우다가 단속에 걸려 벌금을 내게 되었어요.,I ended up paying a fine after being caught smoking in a non-smoking area.
+8,43,지름길,Shortcut,내비게이션 덕분에 지름길로 와서 약속 시간에 늦지 않을 수 있었어요.,Thanks to the navigation, I came via a shortcut and was able to not be late for the appointment.
+8,44,데이트 신청을 하다,To ask somebody out,오랫동안 짝사랑해온 그녀에게 드디어 용기를 내어 데이트 신청을 했습니다.,I finally took courage and asked her out, whom I have had a crush on for a long time.
+8,45,보고하다,To report,프로젝트의 진행 상황을 상사에게 주간 보고서를 통해 보고했습니다.,I reported the progress of the project to my superior through a weekly report.
+8,46,표시하다,To express/state,지도의 목적지에 빨간색으로 표시를 해 두었으니 찾기 쉬울 거예요.,I marked the destination on the map in red, so it will be easy to find.
+8,47,돌려주다,To return/give back,친구에게 빌렸던 책을 다 읽고 고맙다는 인사와 함께 돌려주었습니다.,I finished reading the book I borrowed from my friend and returned it with a thank you.
+8,48,부끄럽다,To be shy/ashamed,많은 사람들 앞에서 발표를 하려니 얼굴이 빨개질 정도로 부끄러웠어요.,I was so shy that my face turned red at the thought of presenting in front of many people.
+8,49,품질,Quality,이 제품은 가격은 저렴하지만 품질이 뛰어나서 가성비가 아주 좋습니다.,This product is cheap, but the quality is excellent, so the cost-effectiveness is very good.
+8,50,두려워하다,To be afraid,실패를 두려워하지 말고 새로운 도전을 계속하는 자세가 필요합니다.,An attitude of continuing new challenges without being afraid of failure is needed.
+8,51,살펴보다,To examine/check,계약서에 서명하기 전에 내용을 하나하나 꼼꼼하게 살펴보았습니다.,I examined the contents one by one meticulously before signing the contract.
+8,52,화가 풀리다,To relieve anger,친구가 진심으로 사과하는 모습을 보고 그동안 쌓였던 화가 풀렸어요.,Seeing my friend sincerely apologize, the anger that had built up was relieved.
+8,53,드라마,Drama,요즘 방영되는 드라마 중에서 한국어 공부에 도움이 되는 것을 추천해 주세요.,Please recommend a drama among those airing these days that helps with Korean study.
+8,54,성,Gender,지원서 작성 시 성별란에 자신의 성을 정확하게 기입해 주시기 바랍니다.,Please fill in your gender accurately in the gender column when filling out the application.
+8,55,확인하다,To confirm,메일을 보낸 후 상대방이 읽었는지 수신 확인을 해 보았습니다.,After sending the email, I checked the reception to see if the other person had read it.
+8,56,떨어지다,To fall,가을이 되면 나무에서 낙엽이 떨어져 길거리가 노랗게 물듭니다.,When autumn comes, fallen leaves fall from the trees and the streets are dyed yellow.
+8,57,알람 시계,Alarm clock,아침에 일찍 일어나기 위해 알람 시계를 새벽 6시로 설정해 두었습니다.,I set the alarm clock to 6 AM to wake up early in the morning.
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+9,1,이사,House-moving,다음 주에 회사가 먼 곳으로 이사하게 되어 집도 옮겨야 합니다.,The office is moving far away next week, so I have to move house too.
+9,2,개인 주택,Individual home,정원이 딸린 개인 주택에서 강아지를 키우며 사는 것이 제 꿈이에요.,It is my dream to live in an individual home with a garden and raise a puppy.
+9,3,연립주택,Row house,이 동네는 조용한 연립주택이 많아서 살기에 아주 쾌적합니다.,This neighborhood has many quiet row houses, making it very pleasant to live in.
+9,4,다세대주택,Multiplex housing,다세대주택은 여러 가구가 한 건물에 살지만 각각 독립된 공간을 가집니다.,In multiplex housing, several households live in one building, but each has an independent space.
+9,5,원룸,Studio,혼자 사는 대학생들에게는 보증금이 저렴한 원룸이 인기가 많아요.,Studios with low deposits are popular among university students living alone.
+9,6,빌라,Villa,깨끗하게 수리된 빌라를 전세로 얻게 되어 매우 만족스럽습니다.,I am very satisfied to have secured a cleanly repaired villa on a 'Jeonse' basis.
+9,7,고시원,Accommodations,시험 공부에 집중하기 위해 학교 근처 조용한 고시원에 들어갔습니다.,I entered a quiet 'Gosiwon' near the school to concentrate on studying for exams.
+9,8,전세,Lease on deposit,한국에는 전세라는 독특한 주거 형태가 있어 목돈이 필요합니다.,Korea has a unique housing form called 'Jeonse', which requires a large sum of money.
+9,9,월세,Monthly rent,매달 나가는 월세 부담을 줄이기 위해 좀 더 저렴한 집을 찾고 있어요.,I am looking for a cheaper house to reduce the burden of monthly rent.
+9,10,하숙,Boarding house,하숙집 아주머니가 음식을 잘 하셔서 매일 집밥을 먹는 기분이에요.,The boarding house lady is good at cooking, so it feels like eating home-cooked meals every day.
+9,11,자취,Lodging with kitchen,부모님 댁을 떠나 혼자 자취를 시작하니 요리하는 게 제일 힘드네요.,Starting to live alone (with a kitchen) away from my parents' house, cooking is the hardest thing.
+9,12,부동산 소개소,Real estate agency,집을 구하기 위해 근처 부동산 소개소를 여러 군데 돌아다녔습니다.,I went around to several nearby real estate agencies to find a house.
+9,13,계약서,Contract,임대인과 임차인이 모여 계약서에 서명을 하고 도장을 찍었습니다.,The landlord and tenant gathered to sign the contract and stamp it.
+9,14,계약금,Down payment,집이 마음에 들어서 다른 사람이 가로채지 못하도록 바로 계약금을 입금했어요.,I liked the house, so I deposited the down payment immediately so no one else could take it.
+9,15,보증금,Deposit,이 집은 월세는 싸지만 보증금이 비싼 편이라 조금 고민이 되네요.,The monthly rent is cheap for this house, but the deposit is quite expensive, so I'm worried.
+9,16,이삿짐,Goods to be moved,이사 전날에 미리 이삿짐을 박스에 담아 정리해 두었습니다.,The day before moving, I packed the goods to be moved into boxes and organized them in advance.
+9,17,이삿짐 센터,Removal company,서비스가 좋기로 소문난 이삿짐 센터를 예약해서 무사히 이사를 마쳤어요.,I booked a removal company rumored to have good service and completed the move safely.
+9,18,포장 이사,Moving service,포장 이사를 이용하니 이삿짐 센터에서 짐을 다 싸 줘서 아주 편했습니다.,Using a full moving service was very convenient as the removal company packed everything.
+9,19,집을 구하다,To look for a house,직장 근처로 집을 구하려고 주말마다 발품을 팔고 있습니다.,I am putting in effort every weekend to look for a house near my workplace.
+9,20,집을 나가다,To leave home,이제 성인이 되었으니 부모님 간섭에서 벗어나 집을 나가고 싶어요.,Now that I'm an adult, I want to leave home and be free from my parents' interference.
+9,21,계약하다,To make a contract,마음에 쏙 드는 집을 발견해서 내일 정식으로 계약하기로 했어요.,I found a house I really like, so I decided to officially make a contract tomorrow.
+9,22,잔금을 치르다,To pay the remainder,이사 당일에 보증금에서 계약금을 제외한 잔금을 모두 치렀습니다.,On the day of the move, I paid the remainder of the deposit excluding the down payment.
+9,23,짐을 싸다,To pack bags,여행을 가기 위해 캐리어에 짐을 싸는 시간은 언제나 설렙니다.,The time spent packing bags in a carrier to go on a trip is always exciting.
+9,24,짐을 싣다,To load,이삿짐 차에 가구와 박스들을 차곡차곡 싣고 새 집으로 출발했어요.,We loaded the furniture and boxes into the moving truck and left for the new house.
+9,25,짐을 옮기다,To move luggage,엘리베이터가 고장 나서 계단으로 짐을 옮기느라 고생을 많이 했습니다.,The elevator broke, so I had a lot of trouble moving the luggage via the stairs.
+9,26,짐을 풀다,To unpack,새 집에 도착하자마자 박스를 뜯고 짐을 풀어서 정리하기 시작했어요.,As soon as I arrived at the new house, I opened the boxes and started to unpack and organize.
+9,27,짐을 정리하다,To organize things,이사를 온 지 일주일이 지났는데 아직도 짐을 정리하는 중이에요.,It's been a week since I moved, but I'm still in the middle of organizing things.
+9,28,보일러,Boiler,겨울이 오기 전에 보일러가 잘 작동하는지 미리 점검해 보아야 합니다.,You must check in advance if the boiler is working well before winter comes.
+9,29,남향집,House facing south,남향집은 햇빛이 잘 들어와서 겨울에는 따뜻하고 여름에는 시원해요.,A house facing south gets plenty of sunlight, so it's warm in winter and cool in summer.
+9,30,마당,Garden/Yard,아이들이 마음껏 뛰어놀 수 있는 넓은 마당이 있는 집에서 살고 싶어요.,I want to live in a house with a wide yard where children can play to their heart's content.
+9,31,주차장,Parking lot,이 아파트는 주차장이 넓어서 주차 문제로 스트레스 받을 일이 없네요.,This apartment has a wide parking lot, so there's no need to get stressed over parking issues.
+9,32,개별난방,Individual heating,개별난방 방식이라서 쓰는 만큼 요금이 나오니 에너지를 절약해야 해요.,Since it's an individual heating system, the bill comes out as much as you use, so you must save energy.
+9,33,중앙난방,Central heating,중앙난방인 아파트는 정해진 시간에만 난방이 되어서 가끔 춥기도 합니다.,Apartments with central heating only heat at set times, so it's sometimes cold.
+9,34,가루비누,Powder detergent,세탁기를 돌릴 때 가루비누를 너무 많이 넣으면 옷에 찌꺼기가 남을 수 있어요.,If you put too much powder detergent when running the washing machine, residue might remain on clothes.
+9,35,사라지다,To disappear,아침 안개가 해가 뜨자마자 감쪽같이 사라지고 맑은 하늘이 나타났어요.,The morning mist disappeared without a trace as soon as the sun rose, and a clear sky appeared.
+9,36,전망,Prospect/View,이 방은 창밖으로 바다가 보이는 전망이 아주 훌륭해서 인기가 많습니다.,This room is popular because the view of the sea outside the window is excellent.
+9,37,관리비,Management expense,아파트 관리비 고지서를 보니 이번 달은 수도요금이 평소보다 많이 나왔네요.,Looking at the apartment management expense bill, the water bill for this month is higher than usual.
+9,38,세제,Detergent,환경을 생각해서 가급적이면 친환경 세제를 사용하려고 노력하고 있습니다.,Thinking of the environment, I am trying to use eco-friendly detergent as much as possible.
+9,39,전액 배상,Full compensation,택배 배송 중 물건이 파손되어 업체로부터 전액 배상을 받기로 했습니다.,The item was damaged during delivery, so I decided to receive full compensation from the company.
+9,40,관습,Custom,각 나라마다 고유한 관습이 있으므로 외국에 갈 때는 이를 존중해야 합니다.,Each country has its own customs, so you must respect them when going abroad.
+9,41,신축,New construction,학교 근처에 신축 원룸들이 많이 생겨서 방 구하기가 훨씬 쉬워졌어요.,Many new construction studios appeared near the school, making it much easier to find a room.
+9,42,점검하다,To inspect,사고 예방을 위해 승강기를 정기적으로 점검하는 것이 필수적입니다.,It is essential to inspect the elevator regularly to prevent accidents.
+9,43,난방비,Heating bills,겨울철 난방비를 아끼기 위해 창문에 뽁뽁이를 붙이고 실내복을 입어요.,To save on winter heating bills, I put bubble wrap on windows and wear indoor clothes.
+9,44,안심하다,To feel easy,아이들이 무사히 도착했다는 전화를 받고서야 부모님은 안심하셨습니다.,Only after receiving a call that the kids arrived safely did the parents feel easy.
+9,45,제공하다,To provide,이 호텔은 투숙객들에게 무료 아침 식사와 세탁 서비스를 제공합니다.,This hotel provides free breakfast and laundry services to guests.
+9,46,도보,Walking,지하철역에서 우리 집까지는 도보로 10분 정도 걸리는 가까운 거리예요.,It's a close distance that takes about 10 minutes by walking from the subway station to my house.
+9,47,역세권,Area near station,역세권에 살면 교통이 편리하지만 소음이 심하고 집값이 비싼 단점이 있어요.,Living near a station is convenient for transport, but it has flaws like high noise and house prices.
+9,48,주변 환경,Surrounding environment,아이 교육을 위해 주변 환경이 쾌적하고 조용한 동네로 이사를 왔습니다.,I moved to a neighborhood with a pleasant and quiet surrounding environment for my child's education.
+9,49,떡을 돌리다,To distribute rice cake,이사를 온 기념으로 이웃집에 시루떡을 돌리며 인사를 나눴습니다.,To celebrate moving in, I distributed rice cakes to neighbors and exchanged greetings.
+9,50,요청하다,To request,배송이 너무 늦어져서 고객 센터에 빠른 배송을 강력하게 요청했습니다.,Delivery was too delayed, so I strongly requested fast delivery from the customer center.
+9,51,주택가,Residential area,여기는 주택가라서 밤에는 지나가는 차가 거의 없어 아주 조용합니다.,Since this is a residential area, there are almost no passing cars at night, so it's very quiet.
+9,52,문의하다,To ask/inquire,대출 이자율에 대해 궁금한 점이 있으면 은행 창구에 문의해 보세요.,If you have questions about loan interest rates, try inquiring at the bank counter.
+9,53,이사 비용,Removal expenses,짐이 많을수록 이사 비용이 비싸지니까 불필요한 물건은 미리 버려야 해요.,As there are more goods, removal expenses get more expensive, so you must discard unnecessary items in advance.
+9,54,집들이,Housewarming party,친구들을 초대해서 집들이를 하려고 음식 준비를 하느라 하루 종일 바빴어요.,I was busy all day preparing food to have a housewarming party by inviting friends.
+9,55,보험 가입,Buying insurance,혹시 모를 사고에 대비하여 해외여행을 가기 전에 보험 가입을 마쳤습니다.,I finished buying insurance before going on an overseas trip to prepare for potential accidents.
+9,56,이웃,Neighbor,층간 소음 문제로 이웃과 얼굴을 붉히는 일은 가급적 피하는 게 좋습니다.,It is better to avoid scowling at neighbors over inter-floor noise issues if possible.
+9,57,파손되다,To be damaged,이삿짐을 옮기다가 아끼는 화분이 파손되어 너무 속상한 마음이 드네요.,I feel very upset because my favorite flowerpot was damaged while moving luggage.
+9,58,부담을 줄이다,To reduce burden,장학금을 받게 되어 부모님의 등록금 부담을 줄여 드릴 수 있어 기뻐요.,I'm glad to be able to reduce my parents' tuition burden by receiving a scholarship.
+9,59,저렴하다,To be cheap,시장에 가면 대형 마트보다 식재료를 훨씬 저렴하게 구입할 수 있습니다.,If you go to the market, you can purchase ingredients much cheaper than at large marts.
+9,60,편의 시설,Convenient facilities,이 동네는 주변에 편의점, 병원 등 편의 시설이 잘 갖춰져 있어 살기 좋아요.,This neighborhood is good to live in as convenient facilities like marts and hospitals are well-equipped nearby.
+9,61,분실되다,To be lost,택배 물건이 배송 중에 분실되는 사고가 발생하여 업체에 항의했습니다.,I complained to the company after an accident occurred where the courier item was lost during delivery.
+9,62,적응하다,To adapt,처음에는 낯선 환경이 어색했지만 이제는 새 동네에 완벽하게 적응했어요.,The strange environment was awkward at first, but now I have perfectly adapted to the new neighborhood.
+9,63,해결되다,To be solved,오랫동안 고민해왔던 집 문제가 드디어 해결되어 마음이 홀가분합니다.,My heart feels light because the house problem I've been worried about for long is finally solved.
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+10,1,여행,Travel/trip,여행을 통해 일상의 스트레스를 해소하고 새로운 에너지를 얻을 수 있습니다.,You can relieve daily stress and gain new energy through travel.
+10,2,국내 여행,Domestic travel,이번 휴가에는 비행기를 타지 않고 기차로 갈 수 있는 국내 여행을 계획 중이에요.,For this vacation, I'm planning a domestic trip that I can go on by train without taking a plane.
+10,3,해외여행,Overseas travel,해외여행을 갈 때는 그 나라의 문화와 에티켓을 미리 공부하는 것이 예의입니다.,When going on an overseas trip, it is polite to study that country's culture and etiquette in advance.
+10,4,수학여행,Field trip,고등학교 시절 친구들과 제주도로 수학여행을 갔던 추억이 아직도 생생해요.,The memory of going on a school field trip to Jeju Island with high school friends is still vivid.
+10,5,신혼여행,Honeymoon,결혼식이 끝난 후 두 사람은 축복을 받으며 몰디브로 신혼여행을 떠났습니다.,After the wedding, the two left for a honeymoon in the Maldives while receiving blessings.
+10,6,가족 여행,Family trip,오랜만에 온 가족이 모여 가족 여행을 가니 부모님이 정말 행복해하셨어요.,Seeing the whole family gather and go on a family trip after a long time made my parents really happy.
+10,7,패키지여행,Package tour,일일이 일정을 짜기 귀찮아서 모든 것이 포함된 패키지여행을 선택했습니다.,I chose a package tour with everything included because I was too lazy to plan the itinerary myself.
+10,8,크루즈 여행,Cruise trip,배 위에서 숙식을 해결하며 여러 나라를 방문하는 크루즈 여행은 매우 낭만적이에요.,A cruise trip, visiting several countries while eating and sleeping on a ship, is very romantic.
+10,9,골프 여행,Golf trip,아버지께서는 은퇴 후 친구들과 함께 동남아시아로 골프 여행을 자주 다니십니다.,After retirement, my father often goes on golf trips to Southeast Asia with his friends.
+10,10,초원,Grassland,몽골의 끝없이 펼쳐진 초원을 보고 있으면 마음이 평화로워지는 기분이에요.,Looking at the endlessly unfolding grasslands of Mongolia makes me feel peaceful.
+10,11,해수욕장,Beach,여름 휴가철이면 전국의 해수욕장은 피서객들로 발 디딜 틈 없이 붐빕니다.,During the summer vacation season, beaches across the country are crowded with vacationers.
+10,12,국립공원,National park,설악산 국립공원은 단풍이 아름답기로 유명해서 가을에 관광객이 많이 찾습니다.,Seoraksan National Park is famous for its beautiful autumn leaves, so many tourists visit in the fall.
+10,13,유적지,Historic site,경주에는 신라 시대의 역사를 느낄 수 있는 귀중한 유적지가 많이 남아 있어요.,In Gyeongju, many precious historic sites where you can feel the history of the Silla period remain.
+10,14,고궁,Ancient palace,한복을 입고 고궁을 산책하면 마치 조선 시대로 돌아간 것 같은 느낌이 듭니다.,Walking through an ancient palace in Hanbok feels like going back to the Joseon Dynasty.
+10,15,호수,Lake,이른 아침 안개가 자욱하게 낀 호수의 풍경은 말로 표현할 수 없을 만큼 신비로워요.,The scenery of a lake covered in thick morning mist is indescribably mysterious.
+10,16,사찰,Buddhist temple,산속 깊은 곳에 위치한 사찰에 가면 복잡한 생각들이 정리되는 것 같아요.,When I go to a Buddhist temple located deep in the mountains, it feels like my complex thoughts are organized.
+10,17,온천,Hot spring,추운 겨울날 따뜻한 온천물에 몸을 담그면 쌓였던 피로가 한꺼번에 풀립니다.,Soaking your body in warm hot spring water on a cold winter day relieves accumulated fatigue all at once.
+10,18,계곡,Valley,계곡의 시원한 물줄기에 발을 담그고 수박을 먹으며 무더위를 잊어보려 합니다.,I'm trying to forget the heat by dipping my feet in the cool valley stream and eating watermelon.
+10,19,놀이공원,Amusement park,아이들은 놀이공원에서 놀이기구를 타는 것을 세상에서 가장 즐거워해요.,Children find riding amusement park rides to be the most enjoyable thing in the world.
+10,20,박물관,Museum,박물관에 전시된 유물들을 통해 조상들의 지혜와 삶의 방식을 엿볼 수 있습니다.,Through the artifacts displayed in the museum, we can glimpse the wisdom and lifestyle of our ancestors.
+10,21,섬,Island,제주도는 한국에서 가장 크고 아름다운 섬으로 전 세계 관광객들에게 인기가 많아요.,Jeju Island is the largest and most beautiful island in Korea, popular with tourists worldwide.
+10,22,사막,Desert,사막의 밤하늘은 도시에서는 볼 수 없는 수많은 별들로 가득 차 있어 장관입니다.,The desert night sky is spectacular, filled with countless stars that cannot be seen in the city.
+10,23,델타,Delta,강 하구에 형성된 델타 지역은 토양이 비옥해서 농사가 아주 잘 된다고 합니다.,The delta region formed at the mouth of the river is said to have fertile soil, so farming is very successful.
+10,24,석회암 동굴,Solutional cave,석회암 동굴 내부의 종유석들이 만들어내는 기묘한 모습은 대자연의 신비로움 그 자체예요.,The strange appearance created by stalactites inside the solutional cave is the mystery of nature itself.
+10,25,계획을 세우다,To make a plan,여행을 떠나기 전 어디에 가서 무엇을 할지 꼼꼼하게 계획을 세우는 편입니다.,I tend to make a meticulous plan of where to go and what to do before leaving on a trip.
+10,26,예약하다,To make a reservation,성수기에는 숙소와 비행기 표를 미리 예약하지 않으면 여행을 가기가 힘들어져요.,In peak season, it becomes difficult to go on a trip if you don't book accommodation and plane tickets in advance.
+10,27,일정을 짜다,To arrange the schedule,친구들과 카페에 모여 이번 여름 휴가 일정을 짜느라 시간 가는 줄 몰랐어요.,We gathered at a cafe with friends and didn't realize how time passed while arranging our summer vacation schedule.
+10,28,변경하다,To change,갑작스러운 회사 업무 때문에 여행 일정을 다음 주로 변경할 수밖에 없었습니다.,Due to sudden company work, I had no choice but to change the travel schedule to next week.
+10,29,취소하다,To cancel,기상 악화로 인해 예약했던 비행기 표를 취소하고 집에서 쉬기로 결정했어요.,Due to deteriorating weather, I decided to cancel the booked plane ticket and rest at home.
+10,30,출발하다,To depart,차가 막히기 전에 서둘러 출발해야 약속 장소에 늦지 않게 도착할 수 있어요.,We must depart quickly before traffic gets heavy to arrive at the appointment location on time.
+10,31,도착하다,To arrive,비행기가 연착되는 바람에 예정보다 두 시간이나 늦게 목적지에 도착했습니다.,Due to the flight delay, we arrived at the destination two hours later than scheduled.
+10,32,출국하다,To leave a country,출국 절차를 마치고 면세점에서 지인들에게 줄 선물을 고르는 중이에요.,After completing the departure procedures, I'm picking out gifts for acquaintances at the duty-free shop.
+10,33,입국하다,To enter a country,외국인이 한국에 입국하려면 유효한 여권과 필요한 경우 비자가 있어야 합니다.,For a foreigner to enter Korea, they must have a valid passport and, if necessary, a visa.
+10,34,여권,Passport,해외여행 시 여권은 자신의 신분을 증명하는 가장 중요한 물건이므로 잘 챙겨야 해요.,When traveling abroad, a passport is the most important item proving your identity, so you must take good care of it.
+10,35,비자,Visa,미국에 가려면 대사관을 통해 미리 비자를 발급받아야 한다는 것을 잊지 마세요.,Don't forget that to go to the US, you must obtain a visa in advance through the embassy.
+10,36,항공권,Airline ticket,인터넷으로 항공권을 예매하면 가끔 특가 상품을 저렴하게 구할 수 있습니다.,If you book airline tickets online, you can sometimes get special deal products cheaply.
+10,37,여행자수표,Traveler's check,요즘은 신용카드를 많이 쓰지만 비상용으로 여행자수표를 조금 챙겨가는 게 좋아요.,Credit cards are used a lot these days, but it's good to take some traveler's checks for emergencies.
+10,38,여행자 보험,Traveler's insurance,해외에서 아프거나 물건을 잃어버릴 경우를 대비해 여행자 보험에 꼭 가입하세요.,Make sure to buy traveler's insurance in case you get sick or lose things abroad.
+10,39,숙박 시설,Accommodation,이 관광지는 유명해서 그런지 호텔, 민박 등 다양한 숙박 시설이 잘 갖춰져 있네요.,Perhaps because this tourist spot is famous, it's well-equipped with various accommodations like hotels and B&Bs.
+10,40,성수기,Peak season,여름 성수기에는 숙박비가 평소보다 두 배 이상 비싸져서 부담이 큽니다.,During the summer peak season, accommodation costs become more than twice as expensive, which is a big burden.
+10,41,비수기,Off-season,비수기에 여행을 가면 한적하게 관광을 즐길 수 있을 뿐만 아니라 비용도 절약돼요.,If you travel in the off-season, you can enjoy quiet sightseeing and save on costs.
+10,42,세계 문화유산,World heritage,불국사와 석굴암은 유네스코가 지정한 소중한 세계 문화유산으로 보호받고 있습니다.,Bulguksa and Seokguram are protected as precious World Heritage sites designated by UNESCO.
+10,43,고객,Customer/guest,저희 호텔은 고객 한 분 한 분을 소중히 여기며 최상의 서비스를 제공하려 노력합니다.,Our hotel values each and every customer and tries to provide the best service.
+10,44,뽑히다,To be picked,그는 뛰어난 언어 능력 덕분에 이번 해외 연수 장학생으로 뽑히게 되었습니다.,Thanks to his excellent language skills, he was picked as a scholarship student for this overseas training.
+10,45,입술 보호제,Lip protectors,겨울철 건조한 날씨 때문에 입술이 자꾸 터서 입술 보호제를 수시로 바르고 있어요.,Because my lips keep chapping due to the dry winter weather, I'm applying lip protectors frequently.
+10,46,곡창지대,Breadbasket,호남 평야는 한국의 대표적인 곡창지대로 매년 많은 양의 쌀을 생산합니다.,The Honam Plain is a representative breadbasket of Korea, producing a large amount of rice every year.
+10,47,야외,The outside/outdoors,날씨가 화창해서 실내에 있기보다는 야외로 나가 소풍을 즐기기에 딱 좋은 날씨예요.,The weather is sunny, making it perfect for going outdoors and enjoying a picnic rather than staying inside.
+10,48,자외선 차단제,Sunscreen,야외 활동을 할 때는 피부를 보호하기 위해 자외선 차단제를 꼼꼼히 발라야 합니다.,When doing outdoor activities, you must apply sunscreen meticulously to protect your skin.
+10,49,나룻배,Small boat,나룻배를 타고 강을 건너며 주변 경치를 구경하는 여유로운 시간을 가졌습니다.,I had a leisurely time crossing the river on a small boat and looking at the surrounding scenery.
+10,50,운전면허,Driver's license,방학 동안 운전면허 학원에 다녀서 드디어 운전면허를 취득하게 되어 기뻐요.,I'm happy to have finally obtained my driver's license after going to a driving school during vacation.
+10,51,피로 회복,Fatigue recovery,충분한 휴식과 비타민 섭취는 피로 회복을 돕는 가장 효과적인 방법입니다.,Sufficient rest and vitamin intake are the most effective ways to help fatigue recovery.
+10,52,당일,That day,갑작스러운 출장 때문에 당일 비행기 표를 구하느라 애를 많이 먹었습니다.,I struggled a lot to get a flight ticket for that day due to a sudden business trip.
+10,53,유용하다,To be useful,인터넷을 통해 얻은 여행 정보들이 실제 여행지에서 아주 유용하게 쓰였습니다.,The travel information obtained through the internet was used very usefully at the actual travel destination.
+10,54,해수욕,Sea bathing,푸른 바다에 들어가 해수욕을 즐기다 보니 어느덧 해가 뉘엿뉘엿 지고 있네요.,While enjoying sea bathing in the blue sea, the sun is setting before I knew it.
+10,55,동반,Accompanying,이 영화는 폭력적인 장면이 포함되어 있어 부모 동반 하에 관람이 가능합니다.,This movie includes violent scenes, so viewing is possible only when accompanied by parents.
+10,56,이동 수단,Means of transportation,자전거는 환경을 보호할 뿐만 아니라 건강도 지킬 수 있는 아주 좋은 이동 수단이죠.,The bicycle is not only environment-friendly but also a very good means of transportation for health.
+10,57,문화유산,Cultural heritage,우리는 조상들이 물려준 소중한 문화유산을 잘 보존하여 후손에게 물려줘야 해요.,We must preserve the precious cultural heritage inherited from our ancestors and pass it on to descendants.
+10,58,인기를 끌다,To catch popularity,최근 한국의 케이팝이 전 세계 젊은이들 사이에서 폭발적인 인기를 끌고 있습니다.,Recently, Korean K-pop is catching explosive popularity among young people worldwide.
+10,59,봉사 활동,Volunteer activity,방학 동안 해외 봉사 활동을 다녀오면서 남을 돕는 즐거움을 깨닫게 되었습니다.,While doing overseas volunteer activity during vacation, I realized the joy of helping others.
+10,60,일교차,Daily temperature range,환절기에는 일교차가 심해서 감기에 걸리지 않도록 옷차림에 신경을 써야 합니다.,In the change of seasons, the daily temperature range is severe, so pay attention to your outfit to avoid catching a cold.
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+11,1,고민,Worry,취업 준비가 길어지면서 앞으로의 진로에 대한 고민이 깊어지고 있습니다.,As the job preparation gets longer, my worries about my future career are deepening.
+11,2,고민이 생기다,To have something to worry,갑자기 해결하기 어려운 고민이 생겨서 밤잠을 설치고 말았습니다.,I ended up losing sleep because I suddenly had something difficult to worry about.
+11,3,고민을 해결하다,To find a solution,혼자 애쓰기보다는 주변 사람들과 대화하며 고민을 해결하는 게 더 빨라요.,It's faster to find a solution to your problem by talking with people rather than struggling alone.
+11,4,갈등을 겪다,To experience conflicts,가치관의 차이로 인해 직장 상사와 갈등을 겪는 동료들이 꽤 많습니다.,Quite a few colleagues experience conflicts with their superiors due to differences in values.
+11,5,갈등이 생기다,A conflict arises,사소한 오해로 시작된 갈등이 생기면 즉시 대화로 푸는 것이 최선입니다.,If a conflict arises from a minor misunderstanding, it's best to solve it through dialogue immediately.
+11,6,갈등을 해소하다,To resolve a conflict,서로의 입장을 이해하고 한 발짝씩 양보하여 마침내 갈등을 해소했습니다.,We understood each other's positions, yielded a step each, and finally resolved the conflict.
+11,7,갈등을 극복하다,To overcome complications,어려운 시기를 함께 이겨내며 갈등을 극복한 끝에 더 깊은 우정을 쌓게 되었어요.,After overcoming complications by enduring hard times together, we built a deeper friendship.
+11,8,스트레스가 쌓이다,Stress builds up,해야 할 일이 계속 밀리다 보니 나도 모르게 스트레스가 쌓여서 힘들어요.,As work keeps piling up, stress builds up without me knowing, making it hard.
+11,9,스트레스를 풀다,To relieve stress,저는 주말마다 등산을 하며 땀을 흘리는 것으로 스트레스를 풀곤 합니다.,I often relieve stress by sweating while hiking every weekend.
+11,10,불면증,Insomnia,취업 스트레스 때문에 불면증에 걸려 밤새 천장만 바라보다 아침을 맞았어요.,I got insomnia due to job stress and faced the morning after just looking at the ceiling all night.
+11,11,우울증,Depression,과도한 경쟁 사회에서 우울증을 겪는 현대인들을 위한 사회적 대책이 시급합니다.,Social measures for modern people suffering from depression in a hyper-competitive society are urgent.
+11,12,자신감이 있다,To be confident,그는 충분한 연습 덕분에 무대 위에서 매우 자신감이 있어 보였습니다.,Thanks to sufficient practice, he looked very confident on stage.
+11,13,자신감을 잃다,To lose confidence,계속되는 실패로 인해 자신감을 잃고 의기소침해진 동생을 격려해 주었어요.,I encouraged my younger sibling who lost confidence and became discouraged due to continuous failure.
+11,14,초조하다,To be anxious,합격 발표 시간을 기다리는 동안 가슴이 두근거리고 마음이 너무 초조했어요.,While waiting for the pass announcement time, my heart throbbed and I felt so anxious.
+11,15,긴장되다,To be nervous,많은 사람들 앞에서 발표를 하려니 목소리가 떨릴 정도로 너무 긴장되네요.,I'm so nervous to present in front of many people that my voice is trembling.
+11,16,두렵다,To be afraid,실패하는 것이 두렵다기보다는 아무것도 시도하지 않는 것이 더 두렵습니다.,It's not that I'm afraid of failing; I'm more afraid of not trying anything.
+11,17,불안하다,To be uneasy,미래가 불확실해서 그런지 가끔 마음이 불안하고 잠이 안 올 때가 있어요.,Perhaps because the future is uncertain, there are times when I feel uneasy and can't sleep.
+11,18,상담 센터,Counseling center,마음의 병을 고치기 위해 용기를 내어 근처 심리 상담 센터를 방문했습니다.,I took courage and visited a nearby psychological counseling center to heal my mind's sickness.
+11,19,상담사,Consultant,친절한 상담사 선생님과의 대화를 통해 마음속에 있던 응어리가 풀리는 것 같았어요.,Through the conversation with the kind consultant, the lump in my heart felt like it was dissolving.
+11,20,상담을 받다,To be consulted,혼자 해결하기 어려운 문제는 전문가에게 상담을 받는 것이 가장 현명한 방법입니다.,For problems hard to solve alone, the wisest way is to be consulted by an expert.
+11,21,조언을 구하다,To ask for advice,인생 선배님께 앞으로의 진로에 대해 진지하게 조언을 구하기로 했습니다.,I decided to seriously ask for advice from a senior in life about my future career.
+11,22,진로 문제,Career problems,대학교 4학년이 되니 취업과 진로 문제로 고민하는 친구들이 아주 많아요.,As we become college seniors, many friends are worried about employment and career problems.
+11,23,이성 문제,The opposite sex problems,사춘기 학생들에게 이성 문제는 공부만큼이나 중요한 최대의 관심사 중 하나죠.,For adolescent students, opposite-sex problems are one of the biggest interests, as important as studying.
+11,24,인간관계 문제,Personal relationship problems,대부분의 스트레스는 업무 자체보다 인간관계 문제에서 오는 경우가 많습니다.,Most stress often comes from personal relationship problems rather than the work itself.
+11,25,취업 문제,Employment problem,경제 불황으로 인해 청년들의 취업 문제가 사회적 화두로 떠오르고 있습니다.,Due to the economic recession, the employment problem of youth is emerging as a social topic.
+11,26,경제적 문제,Economic problem,갑작스러운 실직으로 인해 경제적 문제를 겪게 되어 생활비 걱정이 큽니다.,Due to sudden unemployment, I'm facing economic problems and am very worried about living expenses.
+11,27,가정 문제,Home problems,화목해 보이는 집도 들여다보면 말 못 할 가정 문제 한두 가지는 있기 마련이에요.,Even houses that look harmonious are bound to have one or two unspoken home problems if you look inside.
+11,28,개발하다,To develop,회사는 경쟁력을 높이기 위해 신제품을 개발하는 데 많은 예산을 투자합니다.,The company invests a large budget in developing new products to increase competitiveness.
+11,29,경쟁,Competition,지나친 경쟁은 스트레스를 유발하므로 가끔은 여유를 갖는 자세가 필요해요.,Excessive competition induces stress, so an attitude of being leisurely at times is needed.
+11,30,공고,Notice/announcement,게시판에 올라온 신입 사원 채용 공고를 보고 지원 서류를 준비하기 시작했어요.,After seeing the new employee recruitment notice on the board, I started preparing application documents.
+11,31,관계,Relationship,신뢰를 바탕으로 한 인간 관계야말로 사회 생활에서 가장 큰 자산입니다.,A relationship based on trust is the greatest asset in social life.
+11,32,관련되다,To be related,이번 사고와 관련된 사람들은 모두 경찰에 출석하여 조사를 받아야 합니다.,Everyone related to this accident must appear at the police station and undergo investigation.
+11,33,관리,Management,건강 관리를 위해 매일 아침 거르지 않고 규칙적으로 운동을 하고 있습니다.,For health management, I'm exercising regularly every morning without fail.
+11,34,구분되다,To be divided,이 책은 독자의 연령대에 따라 세 부분으로 구분되어 구성되어 있습니다.,This book is composed by being divided into three parts according to the reader's age group.
+11,35,권하다,To recommend,의사 선생님께서 건강을 위해 자극적인 음식보다는 채식을 하라고 권하셨어요.,The doctor recommended that I eat a vegetarian diet rather than stimulating food for my health.
+11,36,기법,Technique,작가는 독특한 기법을 사용하여 인간의 내면을 심도 있게 묘사했습니다.,The author used a unique technique to describe the human interior in depth.
+11,37,끌다,To pull/lead,그의 열정적인 강의는 학생들의 흥미를 끌기에 충분할 만큼 매력적이었습니다.,His passionate lecture was attractive enough to pull the interest of students.
+11,38,눈높이,Eye-level/ability,아이들의 눈높이에 맞춰 설명해 주니 훨씬 더 쉽고 재미있게 이해하더라고요.,Since I explained at the children's eye-level, they understood much more easily and enjoyably.
+11,39,늘다,To grow/increase,꾸준히 노력한 결과 한국어 실력이 몰라보게 늘어서 정말 뿌듯합니다.,As a result of steady effort, my Korean skills have grown remarkably, so I'm really proud.
+11,40,때로,Occasionally,때로 삶이 힘들게 느껴질 때면 잠시 멈춰 서서 뒤를 돌아보는 여유가 필요해요.,When life occasionally feels hard, you need the leisure to stop for a moment and look back.
+11,41,떠올리다,To recall,오랜만에 고향 친구를 만나니 옛 추억이 하나둘씩 떠올라 즐거웠습니다.,Meeting a hometown friend after a long time, I was happy as old memories recalled one by one.
+11,42,떨치다,To shake off,실패에 대한 두려움을 떨치고 다시 일어서는 용기가 성공의 시작입니다.,The courage to shake off the fear of failure and stand up again is the start of success.
+11,43,리포트,Report,이번 주말까지 전공 수업 리포트를 제출해야 해서 도서관에 가야 합니다.,I have to go to the library because I must submit a major class report by this weekend.
+11,44,반영하다,To reflect,기업들은 소비자들의 요구를 제품 개발에 적극적으로 반영하려고 노력합니다.,Companies try to actively reflect consumers' needs in product development.
+11,45,반응,Reaction,새로 출시된 제품에 대한 시장의 반응이 생각보다 뜨거워서 놀랐습니다.,I was surprised because the market reaction to the newly released product was hotter than expected.
+11,46,발달,Development,정보기술의 발달은 우리의 생활 방식을 획기적으로 변화시켜 놓았습니다.,The development of information technology has epoch-makingly changed our lifestyle.
+11,47,부담,Burden,부모님의 기대가 너무 크면 자녀들에게는 오히려 큰 부담이 될 수 있어요.,If parents' expectations are too high, it can actually be a big burden to children.
+11,48,부딪치다,To hit/bump/crash,길을 걷다가 딴생각을 하는 바람에 전봇대에 부딪쳐서 이마에 혹이 났어요.,While walking, I hit a telephone pole because I was thinking of something else, and got a bump on my forehead.
+11,49,부적응,Maladjustment,새로운 환경에 대한 부적응으로 인해 학교 생활에 어려움을 겪는 학생이 있어요.,There is a student experiencing difficulty in school life due to maladjustment to the new environment.
+11,50,사소하다,To be insignificant,사소한 오해가 쌓이면 나중에는 돌이킬 수 없는 큰 갈등으로 번질 수 있습니다.,If insignificant misunderstandings pile up, they can later flare into a large, irreversible conflict.
+11,51,사연,Story/situation,라디오 방송에 보낸 나의 애틋한 사연이 채택되어 선물을 받게 되었어요.,My tender story sent to the radio broadcast was selected, so I got to receive a gift.
+11,52,사이버,Cyber,사이버 공간에서도 현실 세계와 마찬가지로 예절을 지키는 것이 중요합니다.,Observing etiquette is important in cyber space just as in the real world.
+11,53,삶,Living/life,어떻게 사는 것이 가치 있는 삶인지에 대해 진지하게 고민해 볼 필요가 있습니다.,It is necessary to seriously worry about what kind of living is a valuable life.
+11,54,심각하다,To be serious,지구 온난화로 인한 환경 문제가 예상보다 훨씬 더 심각한 수준입니다.,Environmental problems due to global warming are at a much more serious level than expected.
+11,55,심리,Mentality/psychology,소비자들의 구매 심리를 정확히 파악하는 것이 마케팅 성공의 핵심입니다.,Accurately identifying consumers' buying mentality is the core of marketing success.
+11,56,역할,Role,부모는 자녀의 올바른 성장을 위해 훌륭한 조력자 역할을 해야 합니다.,Parents must play the role of great helpers for the proper growth of their children.
+11,57,오히려,On the contrary,도와주려고 한 행동이 오히려 친구에게 폐를 끼치고 말아서 미안했어요.,I was sorry because the action intended to help actually (on the contrary) ended up causing trouble for my friend.
+11,58,유리하다,To be favorable,외국어 능력이 뛰어나면 취업 시장에서 다른 지원자들보다 유리한 위치를 차지합니다.,If your foreign language ability is excellent, you occupy a favorable position over other applicants in the job market.
+11,59,이미지,Image/impression,기업의 긍정적인 이미지를 구축하기 위해 다양한 사회 공헌 활동을 펼치고 있어요.,They are carrying out various social contribution activities to build a positive image of the company.
+11,60,인턴,Intern,방학 동안 대기업에서 인턴으로 근무하며 실무 경험을 쌓기로 했습니다.,I decided to accumulate practical experience by working as an intern at a major company during vacation.
+11,61,자격,Qualification,이 일은 전문적인 지식이 필요하기 때문에 관련 자격증이 있는 분만 지원 가능합니다.,As this work requires professional knowledge, only those with relevant qualifications can apply.
+11,62,저절로,By oneself,꾸준히 한국어 노래를 듣다 보니 어느새 가사를 저절로 외우게 되었어요.,Listening to Korean songs steadily, I came to memorize the lyrics by myself before I knew it.
+11,63,전문적,Being professional,더 깊이 있는 공부를 위해 대학원에 진학하여 전문적인 지식을 쌓고 싶습니다.,I want to enter graduate school and accumulate professional knowledge for deeper study.
+11,64,절대,Absolutely,성공하기 위해서는 어떤 어려움이 닥쳐도 절대 포기하지 않는 끈기가 필요해요.,To succeed, you need perseverance to absolutely not give up no matter what difficulties strike.
+11,65,제대로,Properly,식사를 제대로 챙겨 먹지 않으면 건강을 해칠 수 있으니 주의해야 합니다.,You must be careful because not eating meals properly can harm your health.
+11,66,제도,System,정부는 저출산 문제를 해결하기 위해 다양한 복지 제도를 마련하고 있습니다.,The government is preparing various welfare systems to solve the low birthrate problem.
+11,67,채용,Recruitment/hire,하반기 공개 채용 시즌이 다가오면서 취업 준비생들의 발걸음이 바빠지고 있어요.,As the second-half open recruitment season approaches, job seekers' footsteps are getting busier.
+11,68,코너,Corner,백화점 식품 코너에는 맛있는 음식들이 많아서 그냥 지나치기가 힘들어요.,There are so many delicious foods in the department store food corner that it's hard to just pass by.
+11,69,털어놓다,To reveal/disclose,믿을 만한 친구에게 속마음을 솔직하게 털어놓으니 마음이 한결 가벼워졌어요.,Revealing my inner heart frankly to a reliable friend, my heart felt much lighter.
+11,70,평범하다,To be ordinary,그는 평범한 직장인이지만 퇴근 후에는 열정적인 화가로 변신합니다.,He is an ordinary office worker, but after work, he transforms into a passionate painter.
+11,71,폭넓다,To be wide,다양한 분야의 책을 읽는 것은 폭넓은 지식을 쌓는 데 큰 도움이 됩니다.,Reading books in diverse fields is a great help in accumulating wide knowledge.
+11,72,표정,Facial expression,긴장을 해서 그런지 그의 표정이 평소보다 다소 딱딱해 보였습니다.,Perhaps because he was nervous, his facial expression looked somewhat stiffer than usual.
+11,73,푹,Well/completely,내일 중요한 시험이 있으니까 오늘은 일찍 들어가서 푹 자는 게 좋겠어요.,Since you have an important exam tomorrow, it would be good to go in early and sleep well today.
+11,74,피하다,To avoid,갈등을 피하기만 하는 것보다 대화를 통해 적극적으로 해결하는 자세가 필요합니다.,An attitude of actively solving conflicts through dialogue is needed rather than just avoiding them.
+11,75,훨씬,Much/far,혼자 공부할 때보다 친구와 같이 공부하니 능률이 훨씬 더 오르네요.,Studying with a friend makes efficiency go up much more than when studying alone.
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+12,1,인터넷,Internet,인터넷 덕분에 이제는 전 세계 어디서든 실시간으로 정보를 주고받을 수 있어요.,Thanks to the internet, we can now exchange information in real-time anywhere in the world.
+12,2,사이트,Site,자주 방문하는 웹 사이트를 즐겨찾기에 추가해 두면 나중에 찾기 편리합니다.,It is convenient to find web sites later if you add the ones you visit often to your favorites.
+12,3,블로그,Blog,자신의 일상이나 유익한 정보를 블로그에 공유하며 소통하는 사람들이 많아졌어요.,Many people have started communicating by sharing their daily lives or useful information on blogs.
+12,4,홈페이지,Homepage,학교 홈페이지 공지사항을 수시로 확인해야 중요한 일정을 놓치지 않습니다.,You must check the school homepage announcements frequently so as not to miss important schedules.
+12,5,웹 문서,Web document,필요한 정보를 찾기 위해 수많은 웹 문서를 검색하며 시간을 보냈습니다.,I spent time searching through numerous web documents to find the necessary information.
+12,6,동영상,Video,유튜브에서 한국어 학습 동영상을 보며 발음 연습을 하는 것이 큰 도움이 돼요.,Watching Korean learning videos on YouTube and practicing pronunciation is a great help.
+12,7,이미지,Image,보고서에 넣을 적절한 이미지를 찾기 위해 저작권 무료 사이트를 이용했습니다.,I used a copyright-free site to find appropriate images to put in my report.
+12,8,검색,Search/browsing,모르는 단어가 나올 때마다 인터넷 검색을 통해 즉시 뜻을 확인하곤 해요.,Whenever an unknown word comes up, I tend to check the meaning immediately through internet search.
+12,9,댓글,Comment,기사에 달린 따뜻한 응원의 댓글이 누군가에게는 큰 힘이 될 수 있습니다.,A warm comment of support on an article can be a great strength to someone.
+12,10,보내기,Sending,이메일 작성을 마친 후 보내기 버튼을 누르기 전 첨부 파일이 있는지 확인하세요.,After finishing an email, check if there are attachments before pressing the send button.
+12,11,답 메일,Reply mail,교수님께 보낸 문의 사항에 대한 답 메일을 기다리고 있는 중입니다.,I am waiting for a reply mail to the inquiry I sent to my professor.
+12,12,받기,Receiving,대용량 파일을 전송받기 위해서는 인터넷 속도가 빨라야 합니다.,To receive large-capacity files, the internet speed must be fast.
+12,13,전체 메일,Full-mail,동아리 회원들에게 이번 모임 일정을 안내하기 위해 전체 메일을 발송했습니다.,I sent a full-mail to club members to announce the schedule for this meeting.
+12,14,전달하기,Conveying,받은 메일의 내용을 팀원들에게 그대로 전달하기 기능을 사용하여 공유했어요.,I shared the content of the received email with my team members using the forward function.
+12,15,이메일 주소,E-mail address,연락처와 함께 정확한 이메일 주소를 기입해 주셔야 연락이 가능합니다.,You must fill in your accurate email address along with your contact info to be contacted.
+12,16,복사하기,Copying,중요한 텍스트를 복사하기 해서 다른 문서에 붙여넣어 정리했습니다.,I copied important text and organized it by pasting it into another document.
+12,17,잘라내기,Snipping/Cut,문장의 순서를 바꾸기 위해 특정 부분을 잘라내기 해서 아래로 옮겼어요.,I cut a specific part to move it down in order to change the order of sentences.
+12,18,불러오기,Opening/getting,어제 작업하다가 저장해 둔 파일을 불러오기 해서 작업을 이어서 했습니다.,I opened the file I saved while working yesterday and continued the work.
+12,19,글씨 크기,Font size,제목을 강조하기 위해 글씨 크기를 본문보다 조금 더 크게 조절했습니다.,I adjusted the font size to be a bit larger than the body text to emphasize the title.
+12,20,삭제하기,Deleting,필요 없는 파일들이 컴퓨터 용량을 많이 차지해서 삭제하기로 했습니다.,I decided to delete unnecessary files as they take up a lot of computer capacity.
+12,21,오려두기,Cutting and putting,기사에서 필요한 부분만 오려두기 해서 스크랩북에 붙여 보관하고 있어요.,I am keeping snips of only the necessary parts from articles by pasting them in a scrapbook.
+12,22,되돌리기,Returning/Undo,실수로 내용을 지웠을 때 되돌리기 버튼을 누르면 이전 상태로 복구됩니다.,If you accidentally erase content, it restores to the previous state when you press the undo button.
+12,23,글씨 모양,Font/Handwriting shape,문서의 성격에 따라 적절한 글씨 모양을 선택하는 것이 가독성에 중요해요.,Choosing an appropriate font shape according to the nature of the document is important for readability.
+12,24,저장하기,Saving,열심히 작성한 문서가 사라지지 않도록 수시로 저장하기를 눌러야 합니다.,You must press save frequently so that the document you worked hard on doesn't disappear.
+12,25,붙이기,Pasting,웹사이트에서 찾은 정보를 복사한 후 보고서에 붙이기 해서 내용을 보충했어요.,After copying information found on a website, I supplemented the content by pasting it into my report.
+12,26,인쇄하기,Printing,회의 시작 전에 발표 자료를 인원수만큼 인쇄하기 위해 인쇄기를 돌렸어요.,I ran the printer to print the presentation materials for the number of people before the meeting.
+12,27,문단 모양,Paragraph shape,문서가 깔끔해 보이도록 문단 모양을 정렬하여 가독성을 높였습니다.,I aligned the paragraph shape to make the document look neat and increased readability.
+12,28,궁궐,Palace,경복궁과 같은 고풍스러운 궁궐을 방문하면 한국의 전통 미를 느낄 수 있어요.,Visiting an elegant palace like Gyeongbokgung, you can feel the traditional beauty of Korea.
+12,29,설문 조사,Survey,소비자들의 만족도를 알아보기 위해 온라인 설문 조사를 실시하기로 했습니다.,We decided to conduct an online survey to find out consumer satisfaction.
+12,30,제출하다,To submit,과제 마감 기한이 오늘까지라 서둘러서 리포트를 교수님께 제출했습니다.,The assignment deadline is today, so I hurried and submitted the report to my professor.
+12,31,대출,Loan/borrowing,은행에서 학자금 대출을 받은 덕분에 등록금 걱정을 덜 수 있게 되었어요.,Thanks to the student loan from the bank, I was able to ease my tuition worries.
+12,32,신청서,Application form,장학금을 신청하기 위해 필요한 서류와 신청서를 꼼꼼하게 작성했습니다.,I meticulously filled out the necessary documents and application form to apply for a scholarship.
+12,33,참가비,Entry fee,이번 마라톤 대회의 참가비는 전액 불우 이웃을 돕는 데 사용될 예정입니다.,The entry fee for this marathon will be used entirely to help neighbors in need.
+12,34,돌리다,To turn/spin,세탁기를 돌리는 동안 집안 청소를 하며 시간을 효율적으로 썼습니다.,I used time efficiently by cleaning the house while running (turning) the washing machine.
+12,35,야경,Night view,서울 타워에서 바라보는 서울 시내의 야경은 정말 환상적이고 아름다워요.,The night view of downtown Seoul from Seoul Tower is truly fantastic and beautiful.
+12,36,참고 자료,Reference materials,논문을 작성하기 위해 도서관에서 다양한 참고 자료를 찾아 읽어 보았습니다.,I looked for and read various reference materials at the library to write a thesis.
+12,37,마무리하다,To end/finish,오랫동안 공들여 준비한 프로젝트를 드디어 오늘 성공적으로 마무리했습니다.,I finally finished the project successfully today, which I had worked hard on for a long time.
+12,38,유인물,Printed materials/Handout,회의실 입구에서 오늘 회의 내용을 정리한 유인물을 한 장씩 나누어 주었어요.,Handouts summarizing today's meeting content were distributed at the meeting room entrance.
+12,39,찻집,Tea shop,조용한 분위기의 전통 찻집에서 차를 마시며 친구와 이야기를 나눴습니다.,I talked with a friend while drinking tea in a traditional tea shop with a quiet atmosphere.
+12,40,민속박물관,Folk museum,민속박물관에 가면 우리 조상들의 옛 생활 모습을 한눈에 살펴볼 수 있어요.,If you go to the folk museum, you can see the old lifestyle of our ancestors at a glance.
+12,41,요약,Summing-up,방대한 양의 자료를 핵심 내용만 골라 짧게 요약해서 발표하기로 했어요.,I decided to present by selecting only core content and briefly summing up the vast amount of data.
+12,42,추천하다,To recommend,한국어 실력을 키우고 싶다면 매일 한국어 신문을 읽어 볼 것을 추천합니다.,If you want to build your Korean skills, I recommend reading a Korean newspaper every day.
+12,43,빠뜨리다,To drop/leave out,짐을 싸면서 중요한 물건을 빠뜨리지 않았는지 다시 한번 확인해 보세요.,When packing, check again if you left out any important items.
+12,44,연기되다,To be postponed,갑작스러운 폭우로 인해 축구 경기가 다음 주로 연기되었다는 공지를 받았어요.,I received a notice that the soccer match was postponed to next week due to sudden heavy rain.
+12,45,취소되다,To be cancelled,예약 인원이 적어서 이번 달에 예정되어 있던 해외 연수가 취소되었습니다.,The overseas training scheduled for this month was cancelled because there were few reserved people.
+12,46,보고서 작성,Writing a report,데이터 분석 결과를 바탕으로 결론을 도출하여 보고서 작성을 시작했습니다.,I started writing a report by drawing conclusions based on the data analysis results.
+12,47,짜다,To be salty,이 찌개는 제 입맛에는 너무 짜서 물을 좀 더 넣고 다시 끓여야겠어요.,This stew is too salty for my taste, so I should add more water and boil it again.
+12,48,한식당,Korean restaurant,외국인 친구에게 한국의 전통적인 맛을 보여주기 위해 유명한 한식당에 갔어요.,I went to a famous Korean restaurant to show my foreign friend the traditional taste of Korea.
+12,49,분실물 센터,Lost-and-found,지하철에서 가방을 잃어버렸다면 즉시 분실물 센터에 가서 확인해 보세요.,If you lost your bag on the subway, go to the lost-and-found immediately and check.
+12,50,적응,Adaptation,새로운 환경에서의 적응 기간이 지나고 나니 이제는 학교 생활이 즐거워요.,After the adaptation period in the new environment passed, school life is enjoyable now.
+12,51,숙소,Lodging,여행을 떠나기 전 교통이 편리하고 깨끗한 숙소를 예약하는 것이 필수입니다.,Before leaving for a trip, it is essential to book clean lodging with convenient transport.
+12,52,적응하다,To adapt,그는 긍정적인 성격 덕분에 낯선 외국 생활에도 금방 적응할 수 있었습니다.,Thanks to his positive personality, he was able to adapt quickly even to a strange life abroad.
+13,1,희망,Hope,절망적인 상황 속에서도 희망을 잃지 않는 마음이 가장 큰 무기입니다.,A heart that doesn't lose hope even in desperate situations is the greatest weapon.
+13,2,희망/꿈이 있다,To have a hope/dream,나이가 들어도 가슴속에 희망이 있는 사람은 언제나 젊게 살 수 있어요.,Someone who has hope in their heart can always live young even as they age.
+13,3,희망/꿈을 가지다,To carry a hope/dream,어린이들이 원대한 꿈을 가지고 자랄 수 있는 세상을 만드는 것이 우리의 역할입니다.,It is our role to make a world where children can grow up carrying grand dreams.
+13,4,희망적이다,To be wishful,상황이 점점 좋아지고 있다는 희망적인 소식이 들려와서 정말 다행이에요.,I'm so relieved that wishful news is coming through that the situation is getting better.
+13,5,희망/꿈을 키우다,To nurture hope/dream,그는 가난한 환경 속에서도 훌륭한 과학자가 되겠다는 꿈을 키워 왔습니다.,He has nurtured the dream of becoming a great scientist even in a poor environment.
+13,6,희망/꿈을 나누다,To share hope/dream,봉사 활동을 통해 어려운 이웃들과 희망을 나누며 사는 보람을 느낍니다.,Through volunteer activities, I feel the reward of sharing hope with neighbors in need.
+13,7,희망을 잃다,To lose one's hope,거듭된 실패로 인해 희망을 잃고 좌절하고 있는 친구를 따뜻하게 격려해 주었어요.,I warmly encouraged my friend who was losing hope and feeling frustrated due to repeated failure.
+13,8,꿈을 펼치다,To follow the dream,세계 무대에서 자신의 재능을 마음껏 펼치며 꿈을 이루기를 진심으로 응원합니다.,I sincerely support you in achieving your dream by following your talents on the world stage.
+13,9,장래 희망,Future hope,초등학교 때 제 장래 희망은 아픈 사람을 고쳐 주는 의사가 되는 것이었습니다.,My future hope in elementary school was to become a doctor who heals sick people.
+13,10,진로,Future path,고등학교 3학년이 되면 자신의 적성에 맞는 진로를 결정해야 하는 시기가 와요.,When you become a high school senior, the time comes to decide on a future path that fits your aptitude.
+13,11,진로를 정하다,To decide future course,부모님의 권유보다는 자신이 정말 하고 싶은 일을 찾아 진로를 정해야 합니다.,You must find work you truly want to do and decide your future course rather than following your parents' advice.
+13,12,취업하다,To get a job,원하던 회사에 취업하게 되었다는 합격 통지서를 받고 온 가족이 기뻐했어요.,The whole family was happy after receiving the acceptance letter saying I got a job at the desired company.
+13,13,진학하다,To enter a higher school,그는 미술에 대한 더 깊은 공부를 위해 명문 미술 대학에 진학하기로 결심했습니다.,He decided to enter a prestigious art college for deeper study of art.
+13,14,유학을 가다,To go study abroad,넓은 세상을 경험하고 영어를 배우기 위해 내년에 미국으로 유학을 갈 계획이에요.,I plan to go study abroad in the US next year to experience the wide world and learn English.
+13,15,적성에 맞다,To fit the aptitude,자신이 하는 일이 적성에 맞아야 스트레스를 덜 받고 즐겁게 일할 수 있어요.,The work you do must fit your aptitude for you to work enjoyably with less stress.
+13,16,경험을 쌓다,To accumulate experience,다양한 실무 경험을 쌓기 위해 방학 동안 인턴 사원으로 근무하기로 했습니다.,I decided to work as an intern during vacation to accumulate various practical experiences.
+13,17,봉사 활동을 하다,To do volunteer activities,주말마다 노인 복지관에 가서 어르신들을 돕는 봉사 활동을 하고 있습니다.,I am doing volunteer activities to help seniors by going to the senior welfare center every weekend.
+13,18,기부를 하다,To make a donation,적은 금액이지만 매달 수입의 일부를 어려운 아이들을 위해 기부를 하고 있어요.,Though it's a small amount, I'm making a donation of part of my monthly income for children in need.
+13,19,자원봉사를 하다,To do volunteer work,여름 방학을 맞아 농촌 마을에 가서 일손을 돕는 자원봉사를 할 예정입니다.,I plan to do volunteer work by going to a rural village and helping with the labor during summer vacation.
+13,20,자원봉사자,Volunteer,재난 현장에서 피해 복구를 위해 힘쓰는 수많은 자원봉사자들의 모습이 감동적입니다.,The sight of numerous volunteers striving for damage recovery at the disaster site is touching.
+13,21,양로원,Nursing home,명절이면 양로원을 방문하여 외로운 할아버지, 할머니들의 말벗이 되어 드려요.,During holidays, I visit nursing homes and become a companion for lonely grandfathers and grandmothers.
+13,22,고아원,Orphanage,고아원에서 생활하는 아이들이 밝고 건강하게 자랄 수 있도록 사회적 관심이 필요합니다.,Social interest is needed so that children living in orphanages can grow up brightly and healthily.
+13,23,시각장애인,Visually impaired person,시각장애인들을 위한 점자 도서가 더 많이 보급되어 정보의 격차를 줄여야 합니다.,More braille books for the visually impaired must be distributed to reduce the information gap.
+13,24,청각장애인,Hearing-impaired person,청각장애인들이 사회 생활을 하는 데 불편함이 없도록 수어 통역 서비스가 확대되어야 해요.,Sign language interpretation services should be expanded so the hearing-impaired have no inconvenience in social life.
+13,25,신체장애인,Physically handicapped person,신체장애인들도 편리하게 대중교통을 이용할 수 있도록 저상 버스 도입을 늘리고 있습니다.,The introduction of low-floor buses is being increased so the physically handicapped can also use public transport conveniently.
+13,26,장애인 복지시설,Welfare facilities,지역 사회 내에 장애인 복지시설이 확충되어 장애인들의 삶의 질이 향상되길 바랍니다.,I hope the quality of life for the disabled improves with the expansion of welfare facilities within the community.
+13,27,보람이 있다,To be worthwhile,내가 가르친 학생이 시험에 합격했다는 소식을 들으니 선생님으로서 정말 보람이 있네요.,Hearing the news that the student I taught passed the exam makes it truly worthwhile as a teacher.
+13,28,보람을 느끼다,To feel rewarded,봉사 활동을 마친 후 사람들의 환한 미소를 볼 때 가장 큰 보람을 느낍니다.,I feel the greatest reward when I see people's bright smiles after finishing volunteer activities.
+13,29,성공하다,To succeed,그는 수많은 실패를 딛고 일어서서 마침내 사업가로 크게 성공하게 되었습니다.,He stood up after overcoming numerous failures and finally became greatly successful as an entrepreneur.
+13,30,성공을 거두다,To win success,이번 신제품은 시장에서 폭발적인 반응을 얻으며 큰 상업적 성공을 거두었습니다.,This new product achieved great commercial success while receiving an explosive reaction in the market.
+13,31,성공 비결,Key to success,그가 젊은 나이에 정상의 자리에 오를 수 있었던 성공 비결은 바로 성실함이었습니다.,The key to success that allowed him to reach the top at a young age was none other than sincerity.
+13,32,꿈을 이루다,To achieve the dream,어린 시절부터 갈망하던 화가가 되기 위해 끊임없이 노력한 끝에 마침내 꿈을 이루었어요.,After working constantly to become a painter I had longed for since childhood, I finally achieved my dream.
+13,33,도전하다,To challenge,안주하기보다는 새로운 목표를 향해 끊임없이 도전하는 자세가 성공의 밑거름입니다.,An attitude of constantly challenging toward new goals rather than being complacent is the foundation of success.
+13,34,실패하다,To fail,비록 이번 프로젝트는 실패했지만 이를 교훈 삼아 다음에는 꼭 성공할 것입니다.,Though this project failed, I will use it as a lesson and definitely succeed next time.
+13,35,노력하다,To make effort,꿈을 이루기 위해서는 막연한 기대보다는 구체적인 계획을 세우고 노력해야 해요.,To achieve your dream, you must make effort and set specific plans rather than having vague expectations.
+13,36,최선을 다하다,To do one's best,결과와 상관없이 과정에서 최선을 다했다면 그것만으로도 충분히 가치가 있습니다.,Regardless of the result, if you did your best in the process, that alone is valuable enough.
+13,37,좌절하다,To despair/be dashed,한두 번의 실패에 좌절하지 말고 다시 일어설 수 있는 용기를 갖는 것이 중요합니다.,It is important to have the courage to stand up again rather than despairing over one or two failures.
+13,38,용기를 가지다,To have courage,어려운 상황일수록 용기를 가지고 정면으로 돌파하려는 의지가 필요합니다.,In difficult situations, you need the will to breakthrough head-on with courage.
+13,39,극복하다,To overcome,그는 가난과 장애라는 역경을 극복하고 마침내 세계적인 소설가가 되었습니다.,He overcame the adversities of poverty and disability and finally became a world-class novelist.
+13,40,각종,Various,이번 박람회에는 각종 최첨단 가전제품들이 전시되어 관람객들의 눈길을 끌었습니다.,In this fair, various cutting-edge home appliances were displayed and caught the eyes of visitors.
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+13,41,교육자,Educator,그는 평생을 후학 양성에 힘쓴 존경받는 교육자로서 많은 이들의 귀감이 되었습니다.,As a respected educator who dedicated his life to nurturing younger students, he became a role model for many.
+13,42,구체적으로,Concretely,목표를 이룰 수 있도록 앞으로의 계획을 구체적으로 세워서 실천해 보세요.,Try to make your future plans concretely and put them into practice so that you can achieve your goals.
+13,43,금메달을 따다,To win a gold medal,그는 부상이라는 시련을 딛고 일어나 마침내 올림픽에서 금메달을 따는 쾌거를 이루었습니다.,He overcame the ordeal of injury and finally achieved the feat of winning a gold medal at the Olympics.
+13,44,기도,Prayer,간절한 기도가 하늘에 닿았는지 병세가 호전되었다는 기쁜 소식을 들었습니다.,Perhaps my earnest prayer reached the heavens, as I heard the happy news that the medical condition improved.
+13,45,당첨되다,To be chosen/be picked,이벤트에 응모했는데 생각지도 못하게 1등에 당첨되어 최신형 노트북을 받게 되었어요.,I entered an event and unexpectedly got picked for 1st place, so I received a brand new laptop.
+13,46,동시통역사,Simultaneous interpreter,국제 회의에서 활약하는 동시통역사가 되기 위해 통번역 대학원에서 공부하고 있습니다.,I am studying at a graduate school of interpretation and translation to become a simultaneous interpreter active in international conferences.
+13,47,몸무게,Weight,건강 검진 결과 몸무게가 작년보다 늘어서 이제부터라도 식단 조절을 시작하려고요.,The health checkup result showed that my weight increased since last year, so I'm going to start dietary control from now on.
+13,48,백만장자,Millionaire,그는 밑바닥부터 시작하여 자수성가한 백만장자가 되어 많은 기부 활동을 펼치고 있습니다.,Starting from the bottom, he became a self-made millionaire and is carrying out many donation activities.
+13,49,백악관,The White House,뉴스에서 미국 대통령이 백악관 앞에서 기자들의 질문에 답변하는 장면을 보았습니다.,I saw a scene on the news where the US President was answering reporters' questions in front of the White House.
+13,50,복권,Lottery ticket,복권에 당첨되어 일확천금을 노리기보다는 성실하게 일해서 돈을 모으는 것이 바람직합니다.,It is desirable to work sincerely and save money rather than aiming for a windfall by winning the lottery.
+13,51,분야,Field,그는 자신의 전문 분야에서 독보적인 기술을 보유한 최고의 전문가로 인정받고 있습니다.,He is recognized as a top expert with unrivaled technology in his professional field.
+13,52,비결,Secret,나이가 믿기지 않을 정도로 젊음을 유지하는 그녀의 비결은 매일 아침 명상을 하는 것입니다.,Her secret to maintaining youth to an unbelievable degree is meditating every morning.
+13,53,비만 클리닉,Obesity clinic,혼자서는 다이어트가 힘들어서 전문적인 도움을 받기 위해 비만 클리닉을 찾았습니다.,Dieting was hard alone, so I visited an obesity clinic to get professional help.
+13,54,사업가,Businessperson/Entrepreneur,도전 정신이 강한 그는 직장을 그만두고 자신의 아이디어로 성공한 사업가가 되었습니다.,Having a strong challenging spirit, he quit his job and became a successful entrepreneur with his own ideas.
+13,55,시설,Facility/Installation,이 도서관은 최첨단 디지털 시설을 갖추고 있어 정보 검색이 매우 편리합니다.,This library is equipped with state-of-the-art digital facilities, making information search very convenient.
+13,56,실제 크기,Actual size,박물관에는 공룡의 뼈를 실제 크기로 복원해 놓은 모형이 전시되어 있어 장관입니다.,The museum displays a model of dinosaur bones restored to their actual size, which is a spectacular sight.
+13,57,실제로,Actually,책으로만 보던 유적지를 실제로 와서 보니 그 웅장함에 압도되는 기분이에요.,Seeing the historic site in person, which I had only seen in books, I feel overwhelmed by its grandeur.
+13,58,안마,Massage,부모님께 안마 의자를 선물해 드렸더니 하루의 피로가 다 풀린다며 아주 좋아하세요.,I gave my parents a massage chair as a gift, and they like it very much, saying it relieves all the day's fatigue.
+13,59,암,Cancer,정기적인 건강 검진은 암을 조기에 발견하여 완치율을 높이는 데 가장 효과적입니다.,Regular health checkups are most effective for detecting cancer early and increasing the cure rate.
+13,60,역할 놀이,Role playing,아이들은 역할 놀이를 통해 타인의 입장을 이해하고 사회성을 기를 수 있습니다.,Children can understand others' positions and develop social skills through role-playing.
+13,61,연구,Research/Study,대학 부설 연구소에서 신약 개발을 위한 연구에 매진하고 있는 연구원들을 만났습니다.,I met researchers who are dedicated to research for new drug development at the university-affiliated research center.
+13,62,연예인,Entertainer,유명한 연예인이 되는 것도 좋지만 대중에게 긍정적인 영향력을 주는 것이 더 중요합니다.,Being a famous entertainer is good, but giving a positive influence to the public is more important.
+13,63,원서,Original edition,번역본보다는 원서로 읽는 것이 작가의 의도를 더 정확하게 파악할 수 있는 방법이죠.,Reading the original edition rather than the translated version is the way to more accurately grasp the author's intention.
+13,64,의학계,The medical world,이번 연구 결과는 불치병 치료의 새로운 가능성을 열었다는 점에서 의학계의 주목을 받고 있습니다.,This research result is receiving attention from the medical world for opening new possibilities for treating incurable diseases.
+13,65,이웃,Neighbor,층간 소음 문제로 이웃과 갈등을 겪기보다는 대화로 해결하려는 자세가 필요합니다.,An attitude of trying to solve via dialogue is needed rather than experiencing conflict with neighbors over inter-floor noise.
+13,66,인내하다,To be patient,고통의 시간을 묵묵히 인내한 끝에 마침내 그는 자신이 원하던 목표를 달성했습니다.,After silently being patient through the time of pain, he finally achieved the goal he wanted.
+13,67,인턴사원,Intern staff,방학 기간 동안 대기업에서 인턴사원으로 근무하며 실무 경험을 쌓기로 결심했습니다.,I decided to accumulate practical experience by working as an intern staff at a major company during vacation.
+13,68,인형,Doll,어릴 적 아버지가 선물해 주신 곰 인형은 성인이 된 지금까지도 제 소중한 보물입니다.,The teddy bear doll my father gave me as a gift when I was young is still my precious treasure even now as an adult.
+13,69,장애인위원회,Committee for the disabled,정부 직속 장애인위원회에서는 장애인들의 권익 보호를 위한 다양한 정책을 수립하고 있습니다.,The government's direct committee for the disabled is establishing various policies for protecting the rights of the disabled.
+13,70,적합하다,To be suitable,이곳은 주변 환경이 조용해서 수험생들이 공부하기에 아주 적합한 장소인 것 같아요.,The surrounding environment here is quiet, so I think it's a very suitable place for examinees to study.
+13,71,직장,Workplace,즐거운 마음으로 출근할 수 있는 직장 분위기를 만드는 것이 경영자의 중요한 역할입니다.,Creating a workplace atmosphere where employees can go to work happily is an important role of a manager.
+13,72,최초,The first/The initial,그는 한국인 최초로 세계 권위의 문학상을 수상하며 한국 문학의 위상을 높였습니다.,He raised the status of Korean literature by becoming the first Korean to win a world-renowned literary prize.
+13,73,충격,Impact/Shock,갑작스러운 사고 소식은 유가족뿐만 아니라 지인들에게도 큰 정신적 충격을 주었습니다.,The sudden news of the accident gave a great mental shock not only to the bereaved family but also to acquaintances.
+13,74,취업 준비,Preparing for employment,졸업을 앞두고 취업 준비를 하느라 도서관에서 밤을 새우는 날이 많아졌습니다.,I have more days staying up all night at the library preparing for employment ahead of graduation.
+13,75,치료하다,To treat,의사로서 아픈 환자들을 성심성의껏 치료하여 건강을 되찾아 주는 일이 가장 보람차요.,As a doctor, treating sick patients with all my heart and restoring their health is the most rewarding.
+13,76,특별보좌관,Special assistant,대통령은 경제 정책에 대한 자문을 얻기 위해 전문가를 특별보좌관으로 임명했습니다.,The President appointed an expert as a special assistant to get advice on economic policies.
+13,77,평생,Entire life,그는 평생 모은 전 재산을 어려운 학생들을 위한 장학금으로 기부하여 감동을 주었습니다.,He touched many by donating his entire fortune collected over his entire life as scholarships for needy students.
+13,78,포인트,Key point,발표할 때 핵심 포인트를 명확하게 전달해야 청중들이 내용을 쉽게 이해할 수 있어요.,When presenting, you must convey the key points clearly so the audience can easily understand the content.
+13,79,피아니스트,Pianist,그는 섬세한 연주 실력을 갖춘 피아니스트로서 전 세계 팬들의 사랑을 독차지하고 있습니다.,As a pianist with delicate performance skills, he is monopolizing the love of fans worldwide.
+13,80,현실적이다,To be realistic,이상만 쫓기보다는 현재의 상황을 냉정하게 파악하고 현실적인 대안을 마련해야 합니다.,Rather than just chasing ideals, you must coldly grasp the current situation and prepare realistic alternatives.
+13,81,협동성,Cooperativity,팀 프로젝트의 성공을 위해서는 팀원들 간의 원활한 소통과 협동성이 필수적입니다.,For the success of a team project, smooth communication and cooperativity among team members are essential.
+13,82,회복되다,To be recovered,수술 후 경과가 좋아서 건강이 빠르게 회복되고 있으니 조만간 퇴원할 수 있을 거예요.,The progress after surgery is good and health is recovering quickly, so you'll be able to be discharged soon.
+14,1,영화와 드라마,Film and drama,최근 한국의 영화와 드라마가 세계적인 스트리밍 플랫폼을 통해 큰 인기를 끌고 있습니다.,Recently, Korean films and dramas are catching great popularity through global streaming platforms.
+14,2,배우,Actor/actress,그 배우는 맡은 역할에 따라 완전히 다른 사람으로 변신하는 뛰어난 연기력을 가졌어요.,That actor has excellent acting skills to transform into a completely different person depending on the role.
+14,3,탤런트,TV actor/TV actress,인기 탤런트가 주연으로 출연하는 새로운 드라마가 다음 주부터 방영될 예정입니다.,A new drama starring a popular TV actor as the lead is scheduled to air starting next week.
+14,4,감독,Director,이 영화의 감독은 독특한 미장센과 연출력으로 평단과 관객의 찬사를 동시에 받았습니다.,The director of this movie received praise from both critics and the audience for unique mise-en-scène and production.
+14,5,주인공,Main character,주인공이 역경을 딛고 성공하는 과정이 너무 감동적이라 영화를 보는 내내 눈물이 났어요.,The process of the main character succeeding after overcoming adversity was so touching that I cried throughout the movie.
+14,6,조연,Supporting role,주연 못지않은 뛰어난 조연들의 연기가 영화의 완성도를 한층 더 높여 주었습니다.,The acting of excellent supporting roles, no less than the leads, raised the movie's completion level even more.
+14,7,역할(을 맡다),To take on a role,그녀는 이번 작품에서 악당 역할을 맡아 지금까지와는 전혀 다른 이미지를 보여주었습니다.,She took on a villain role in this work, showing a completely different image from before.
+14,8,대사,Line/Part,주인공이 마지막 장면에 남긴 대사는 관객들에게 깊은 울림과 메시지를 전달했습니다.,The line the main character left in the last scene conveyed a deep resonance and message to the audience.
+14,9,장면,Scene,아름다운 석양을 배경으로 두 주인공이 재회하는 장면은 이 영화의 명장면입니다.,The scene where the two main characters reunite against the beautiful sunset is a famous scene in this movie.
+14,10,줄거리,Plot/Storyline,영화의 줄거리가 너무 복잡해서 한 번 보는 것만으로는 내용을 다 이해하기 힘들었어요.,The movie's plot was so complex that it was hard to understand all the content just by watching it once.
+14,11,배경음악,Background music,슬픈 장면에 흐르는 애절한 배경음악이 관객들의 감정을 더욱 자극했습니다.,The sorrowful background music flowing in the sad scene stimulated the audience's emotions even more.
+14,12,연기를 잘하다,To act well,그 배우는 대사뿐만 아니라 미세한 표정 변화까지 완벽하게 소화하며 연기를 아주 잘해요.,That actor acts very well, perfectly handling not only lines but even minute facial expression changes.
+14,13,인기가 있다/없다,To be/be not popular,이 드라마는 방영 초반부터 인기가 많아서 시청률 20%를 가뿐히 넘겼습니다.,This drama has been popular since the beginning of its airing, easily surpassing a 20% viewership rating.
+14,14,실감나다,To feel real,전쟁 장면이 너무 실감나서 마치 제가 전장의 한복판에 있는 것 같은 착각이 들었어요.,The war scene felt so real that I had the illusion of being in the middle of the battlefield.
+14,15,촬영하다,To shoot/To film,영화 촬영지인 이 섬은 영화 개봉 이후 많은 관광객들이 찾는 명소가 되었습니다.,This island, a movie shooting location, became a hotspot visited by many tourists after the movie's premiere.
+14,16,출연하다,To appear/To play,좋아하는 배우가 이번 신작 영화에 주연으로 출연한다는 소식을 듣고 정말 기뻤어요.,I was really happy to hear the news that my favorite actor appears as a lead in this new movie.
+14,17,공포 영화,Horror movie,저는 겁이 많아서 여름 밤에 혼자 공포 영화를 보는 것을 아주 무서워합니다.,Being scared easily, I am very afraid of watching horror movies alone on summer nights.
+14,18,액션 영화,Action movie,스트레스를 풀고 싶을 때는 박진감 넘치는 액션 영화를 보며 시간을 보내곤 해요.,When I want to relieve stress, I often spend time watching action movies full of excitement.
+14,19,멜로 영화,Romantic movie,두 남녀의 애절한 사랑 이야기를 다룬 멜로 영화는 언제 봐도 가슴이 뭉클해집니다.,Romantic movies dealing with a sorrowful love story of a man and woman always make my heart ache.
+14,20,코미디 영화,Comedy movie,웃음이 필요할 때는 아무 생각 없이 즐겁게 웃을 수 있는 코미디 영화가 최고죠.,When you need a laugh, a comedy movie where you can laugh joyfully without any thoughts is the best.
+14,21,만화영화,Cartoon film,주말 아침이면 아이들과 함께 거실에 모여 앉아 재미있는 만화영화를 봐요.,On weekend mornings, I sit with the kids in the living room and watch fun cartoon films.
+14,22,전쟁 영화,War movie,전쟁 영화는 전쟁의 참혹함과 평화의 소중함을 다시 한번 일깨워 주는 계기가 됩니다.,War movies serve as an opportunity to remind us once again of the cruelty of war and the preciousness of peace.
+14,23,판타지 영화,Fantasy film,상상력 가득한 판타지 영화를 보고 있으면 마치 꿈속의 세계를 여행하는 기분이 들어요.,Watching fantasy films full of imagination feels like traveling to a world in a dream.
+14,24,공상과학영화,Science fiction film,공상과학영화 속의 미래 기술들이 실제로 실현되는 것을 보면 정말 신기합니다.,It is truly amazing to see future technologies in science fiction films actually being realized.
+14,25,예매하다,To purchase in advance,주말 영화는 인기가 많으니 미리 인터넷으로 예매를 해 두는 것이 좋습니다.,Weekend movies are popular, so it is good to book in advance via the internet.
+14,26,개봉하다,To premiere,오랫동안 기다려온 화제작이 드디어 이번 주 목요일에 개봉한다는 소식이에요.,The news is that the long-awaited hot topic work is finally premiering this Thursday.
+14,27,매진되다,To be sold out,상영 시간이 얼마 남지 않았는데 벌써 좌석이 매진되어 다음 회차를 기다려야겠네요.,There's not much time left until show time, but since seats are already sold out, I should wait for the next slot.
+14,28,관람하다,To see/To watch,영화관 에티켓을 지키며 조용히 영화를 관람하는 것은 문화 시민의 기본입니다.,Watching a movie quietly while observing cinema etiquette is a basic of a cultural citizen.
+14,29,관람객,Visitor/audience,이 영화는 작품성이 높다는 입소문이 퍼지면서 관람객 수가 급격히 늘고 있습니다.,The number of audience members for this movie is rapidly increasing as word of mouth about its high artistic quality spreads.
+14,30,예고편,Trailer/Preview,영화 시작 전에 나오는 예고편들을 보면 보고 싶은 영화들이 점점 더 많아져요.,Looking at the trailers that come out before the movie starts, there are more and more movies I want to see.
+14,31,상영하다,To play/To show,이 영화관에서는 최신 화제작뿐만 아니라 고전 명작들도 주기적으로 상영합니다.,This cinema periodically shows classic masterpieces as well as the latest hot topic works.
+14,32,상영관,Theater,상영관 내부가 넓고 좌석이 편안해서 긴 시간 동안 영화를 보는 데 불편함이 없었어요.,The theater interior was wide and seats were comfortable, so there was no inconvenience in watching a movie for a long time.
+14,33,상영 시간,Show time,상영 시간이 두 시간 반이나 되어서 영화를 보기 전에 미리 화장실에 다녀왔습니다.,The show time was two and a half hours, so I went to the restroom in advance before watching the movie.
+14,34,조조,Early morning,조조 영화는 관람료가 저렴할 뿐만 아니라 극장 안이 한산해서 영화를 즐기기에 딱이죠.,Early morning movies not only have cheaper admission but are also perfect for enjoying movies as the theater is quiet.
+14,35,심야 영화,Late-night movie,잠이 오지 않는 금요일 밤, 친구와 함께 심야 영화를 보며 스트레스를 풀었습니다.,On a Friday night when I couldn't sleep, I relieved stress by watching a late-night movie with a friend.
+14,36,시사회,Premiere/Preview,개봉 전에 감독과 배우들을 직접 만날 수 있는 영화 시사회에 초대받아 다녀왔어요.,I was invited to and attended a movie premiere where I could personally meet the director and actors before the release.
+14,37,매표소,Ticket office,매표소 앞에 줄이 너무 길어서 키오스크를 이용해 빠르게 티켓을 발권했습니다.,The line in front of the ticket office was too long, so I quickly issued the ticket using a kiosk.
+14,38,영화표,Movie ticket,영화표 가격이 오르면서 예전만큼 자주 극장을 찾지 않게 되어 조금 아쉬워요.,As movie ticket prices rose, I don't visit the cinema as often as before, which is a bit of a shame.
+14,39,회,Episode,이 드라마는 총 16회로 구성되어 있으며 매주 반전을 거듭하는 전개가 일품입니다.,This drama is composed of a total of 16 episodes, and the development with repeated twists every week is excellent.
+14,40,감동적이다,To be touching,주인공의 희생적인 삶을 다룬 다큐멘터리 영화가 매우 감동적이라 눈물을 닦았습니다.,The documentary movie dealing with the protagonist's sacrificial life was so touching that I wiped my tears.
+14,41,슬프다,To be sad,사랑하는 사람과 헤어지는 장면이 너무 슬퍼서 극장 안이 여기저기서 훌쩍거리는 소리로 가득했어요.,The scene of parting with a loved one was so sad that the theater was filled with the sound of sniffing here and there.
+14,42,신나다,To be excited,신나는 음악과 화려한 춤이 어우러진 뮤지컬 영화를 보니 절로 어깨가 들썩였어요.,Watching a musical movie where exciting music and splendid dancing harmonized, my shoulders naturally moved.
+14,43,웃기다,To make someone laugh,배우들의 코믹한 연기가 너무 웃겨서 영화를 보는 내내 배꼽을 잡고 웃었습니다.,The actors' comic acting was so funny that I laughed holding my belly throughout the movie.
+14,44,오싹하다,To feel a chill,공포 영화의 긴장감 넘치는 분위기와 배경음악 때문에 등줄기가 오싹한 기분이 들었어요.,I felt a chill down my spine because of the horror movie's tension-filled atmosphere and background music.
+14,45,끔찍하다,To be awful/horrible,전쟁의 참혹함을 보여주는 끔찍한 장면들을 보며 평화의 소중함을 다시 한번 느꼈습니다.,Looking at the horrible scenes showing the cruelty of war, I felt the preciousness of peace once again.
+14,46,폭력적이다,To be violent,이 영화는 다소 폭력적인 장면이 포함되어 있어 청소년 관람 불가 판정을 받았습니다.,This movie received an 'R' rating as it includes somewhat violent scenes.
+14,47,인상적이다,To be impressive,주인공이 위기를 극복하고 마지막에 남긴 명대사가 매우 인상적이라 잊히지 않네요.,The famous line the main character left at the end after overcoming a crisis is very impressive and unforgettable.
+14,48,기억에 남다,To remain in one's memory,여행 중에 보았던 아름다운 노을은 평생 잊지 못할 만큼 기억에 남을 것 같아요.,The beautiful sunset I saw during the trip will likely remain in my memory for the rest of my life.
+14,49,각각,Each/Every single,세 명의 주인공은 각각 다른 성격을 가지고 있어 이야기의 전개가 흥미진진합니다.,The three main characters each have different personalities, making the development of the story exciting.
+14,50,감상문,Book report/Review,영화가 끝나고 느낀 점을 잊기 전에 블로그에 짧은 영화 감상문을 남겼습니다.,Before forgetting what I felt after the movie, I left a short movie review on my blog.
+14,51,관람평,Audience review,관객들의 실시간 관람평을 보니 대부분의 사람들이 이 영화를 강력하게 추천하더라고요.,Looking at the audience's real-time reviews, most people were strongly recommending this movie.
+14,52,나뉘다,To be divided,그 작품에 대해서는 전문가들 사이에서도 호불호가 극명하게 나뉘는 편입니다.,Regarding that work, likes and dislikes are starkly divided even among experts.
+14,53,등급,Grade/Class,이 영화는 관람 등급에 따라 어린이들이 볼 수 없는 장면이 포함되어 있을 수 있습니다.,This movie might include scenes that children cannot watch depending on the viewing grade.
+14,54,무엇이든지,Whatever/Anything,도움이 필요하면 무엇이든지 물어보세요. 제가 아는 선에서 최대한 도와드릴게요.,If you need help, ask anything. I'll help as much as possible within what I know.
+14,55,배경,Background/Situation,이 소설은 1950년대 한국 전쟁을 배경으로 한 가족의 비극을 다루고 있습니다.,This novel deals with a family's tragedy against the background of the 1950s Korean War.
+14,56,사투리,Dialect,지방이 배경인 영화라서 그런지 배우들이 사용하는 사투리가 아주 구수하고 정겹네요.,Perhaps because the movie's background is a province, the dialect the actors use is very earthy and friendly.
+14,57,실생활,Real life,드라마 속의 이야기가 가끔은 우리의 실생활과 너무 비슷해서 공감이 갈 때가 많아요.,Stories in dramas are sometimes so similar to our real lives that there are many times I empathize.
+14,58,유치하다,To be childish,성인이 보기에는 다소 유치한 내용일 수 있지만 아이들에게는 최고의 인기작입니다.,It might be somewhat childish content for an adult to see, but it's the top hit for children.
+14,59,일상생활,Everyday life,스마트폰은 이제 우리의 일상생활에서 떼려야 뗄 수 없는 필수품이 되었습니다.,The smartphone has now become a necessity that cannot be separated from our everyday life.
+14,60,자연스럽게,Naturally,반복해서 듣다 보면 한국어 표현들이 입에서 자연스럽게 나올 날이 올 거예요.,If you listen repeatedly, the day will come when Korean expressions come out of your mouth naturally.
+14,61,작품,Product/Work,그는 이번 전시회에 자신의 혼이 담긴 예술 작품 20여 점을 출품하였습니다.,He submitted about 20 artistic works containing his soul to this exhibition.
+14,62,제한하다,To limit,안전을 위해 상영관 내로 음식물을 반입하는 것을 일정 부분 제한하고 있습니다.,For safety, bringing food into the theater is being limited to a certain extent.
+14,63,중심지,Center,명동은 한국 패션과 문화의 중심지로서 늘 많은 외국인 관광객들로 붐빕니다.,Myeongdong, as the center of Korean fashion and culture, is always crowded with many foreign tourists.
+14,64,즐겨 보다,To enjoy watching,저는 퇴근 후 집에서 쉬면서 예능 프로그램을 즐겨 보는 것이 유일한 낙이에요.,Enjoying watching variety shows while resting at home after work is my only joy.
+14,65,차지하다,To possess/To occupy,이 영화는 개봉 첫 주 만에 박스오피스 1위를 차지하며 흥행 돌풍을 일으켰습니다.,This movie occupied 1st place at the box office in its first week of release, creating a box office sensation.
+14,66,추천하다,To recommend,주말에 가족들과 함께 볼 만한 가슴 따뜻한 가족 영화 한 편 추천해 주세요.,Please recommend a heart-warming family movie worth watching with the family over the weekend.
+14,67,해리포터,Harry Potter,어린 시절 해리포터 소설을 읽으며 마법의 세계로 여행을 떠나는 상상을 하곤 했어요.,When I was young, I used to imagine traveling to a world of magic while reading Harry Potter novels.
+14,68,흥행,Box office success,작품성보다는 오로지 흥행만을 목적으로 만든 영화들은 관객들에게 실망을 주기 쉬워요.,Movies made solely for box office success rather than artistic quality are easy to disappoint audiences.
+Lesson,ID,Word,Meaning,Sentence_KR,Sentence_EN
+15,1,예절과 규칙,The rules of etiquette,공공장소에서 예절과 규칙을 지키는 것은 타인에 대한 기본적인 배려이자 의무입니다.,Observing the rules of etiquette in public places is both a basic consideration and a duty toward others.
+15,2,예절,Manners/Etiquette,한국의 식사 예절에서는 어른이 먼저 수저를 드신 후에 식사를 시작해야 합니다.,In Korean dining etiquette, you should start eating only after the elders have picked up their utensils.
+15,3,예의,Manners/Etiquette,처음 만난 사람에게 너무 개인적인 질문을 하는 것은 예의가 아니라고 생각해요.,I think it is not good manners to ask too many personal questions to someone you've met for the first time.
+15,4,규칙,Rule,기숙사 생활을 원만하게 하려면 정해진 규칙을 잘 따르는 태도가 무엇보다 중요합니다.,To live harmoniously in a dormitory, an attitude of following the set rules is more important than anything.
+15,5,법,Law,법은 사회의 질서를 유지하기 위해 모든 국민이 반드시 준수해야 하는 최소한의 약속입니다.,Law is a minimum promise that all citizens must observe to maintain the order of society.
+15,6,도덕,Ethics/Morals,도덕은 법으로 강제하지 않아도 사람이 마땅히 지켜야 할 내면의 양심과도 같습니다.,Ethics are like an internal conscience that a person should rightfully follow even if not forced by law.
+15,7,예절[예의]을/를 지키다,To observe good manners,상대방의 기분을 상하게 하지 않도록 대화 중에도 항상 예의를 지켜야 합니다.,You must always observe good manners even during a conversation so as not to hurt the other person's feelings.
+15,8,예절 바르다,To have good breeding,그는 어릴 때부터 가정 교육을 잘 받아서 그런지 행동이 아주 예절 바릅니다.,Perhaps because he received good home education since childhood, his behavior is very well-mannered.
+15,9,예절[예의]을/를 안 지키다,To be rude/disrespectful,공공장소에서 큰 소리로 전화를 하는 것은 예의를 안 지키는 무례한 행동입니다.,Talking loudly on the phone in a public place is a rude behavior that is disrespectful.
+15,10,예의가 없다,To lack courtesy,자기 생각만 고집하며 남의 말을 끊는 사람은 예의가 없다는 평판을 듣기 쉬워요.,Someone who only insists on their own thoughts and interrupts others is easy to be reputed as lacking courtesy.
+15,11,예의에 어긋나다,To go against etiquette,어른 앞에서 다리를 꼬고 앉거나 담배를 피우는 것은 예의에 어긋나는 행동이에요.,Sitting with legs crossed or smoking in front of elders is behavior that goes against etiquette.
+15,12,실례가 되다,To be disrespectful to,바쁘신데 갑자기 찾아와서 질문을 드리는 것이 실례가 되지 않을지 걱정되네요.,I'm worried if it might be disrespectful to visit suddenly and ask questions when you are busy.
+15,13,규칙을 지키다,To obey the rules,도서관에서는 다른 사람들의 면학 분위기를 위해 정숙이라는 규칙을 잘 지켜야 합니다.,In the library, you must obey the rule of silence for the sake of others' study atmosphere.
+15,14,질서가 있다,To have order,줄을 서서 차례를 기다리는 모습에서 이 사회의 질서가 잘 유지되고 있음을 느꼈습니다.,I felt that order is being well-maintained in this society seeing people wait in line for their turn.
+15,15,규칙[법]을 어기다[위반하다],To break the rules/law,교통 규칙을 어기면 사고의 위험이 커질 뿐만 아니라 벌금을 물게 될 수도 있습니다.,If you break traffic rules, the risk of accidents increases and you may also have to pay a fine.
+15,16,규칙에 어긋나다,To be against the rules,시험 도중에 옆 사람과 대화를 하는 것은 부정행위이자 규칙에 어긋나는 일입니다.,Talking to the person next to you during an exam is cheating and against the rules.
+15,17,피해를 주다,To damage/to harm,밤늦은 시간에 층간 소음을 일으키는 것은 이웃 주민들에게 큰 피해를 주는 행위입니다.,Causing inter-floor noise late at night is an action that causes great harm to neighbors.
+15,18,방해하다,To interrupt/disturb,공부에 집중하고 있는 동생을 방해하지 않으려고 거실에서 조용히 TV를 보았습니다.,I watched TV quietly in the living room so as not to disturb my younger sibling who was concentrating on studying.
+15,19,결근,Absence from work,몸이 너무 아파서 도저히 출근할 수 없는 상황이라 회사에 미리 결근 소식을 전했어요.,I informed the office of my absence in advance because I was so sick that I couldn't possibly go to work.
+15,20,공경하다,To respect (elders),어른을 공경하고 공손하게 대하는 것은 한국 사회의 오랜 전통이자 미덕입니다.,Respecting and treating elders politely is a long-standing tradition and virtue in Korean society.
+15,21,공공장소,Public place,공공장소에서는 모두의 편의를 위해 스마트폰을 진동 모드로 바꾸는 매너가 필요합니다.,In public places, manners are needed to change your smartphone to vibration mode for everyone's convenience.
+15,22,공동생활,Communal life,기숙사와 같은 공동생활 공간에서는 개인의 자유보다 타인에 대한 배려가 우선입니다.,In communal living spaces like dormitories, consideration for others takes priority over individual freedom.
+15,23,공연장,Theater/Performance hall,공연장 내부에서는 저작권 보호를 위해 사진이나 동영상 촬영이 금지되어 있습니다.,Inside the performance hall, taking photos or videos is prohibited for copyright protection.
+15,24,관공서,Government office,서류 발급을 위해 관공서에 방문할 때는 반드시 신분증을 지참해야 업무 처리가 가능해요.,When visiting a government office to issue documents, you must bring an ID card to process the business.
+15,25,낙서,"Doodle, scribble",문화재에 낙서를 하는 행위는 소중한 유산을 훼손하는 일이므로 절대 해서는 안 됩니다.,Doodling on cultural assets is an act of damaging precious heritage, so it must absolutely not be done.
+15,26,대중교통,Public transportation,출퇴근 시간에는 차가 많이 막히기 때문에 대중교통을 이용하는 것이 훨씬 빠릅니다.,Because traffic is heavy during commute hours, using public transportation is much faster.
+15,27,무리하다,To be impractical/unreasonable,자신의 체력을 고려하지 않은 무리한 운동은 오히려 건강을 해칠 우려가 있습니다.,Unreasonable exercise that doesn't consider one's physical strength risks harming health instead.
+15,28,번호표,Number ticket,은행에 도착하자마자 대기 시간을 줄이기 위해 번호표부터 뽑고 순서를 기다렸습니다.,As soon as I arrived at the bank, I drew a number ticket first and waited for my turn to reduce waiting time.
+15,29,불쾌감,Unpleasant feeling,지하철에서 큰 소리로 떠드는 행동은 주변 승객들에게 불쾌감을 줄 수 있어 주의해야 해요.,Talking loudly on the subway can give an unpleasant feeling to nearby passengers, so you must be careful.
+15,30,비밀,Secret,비밀을 지켜준다는 믿음이 있을 때 비로소 진정한 인간관계가 형성될 수 있습니다.,Only when there is trust that a secret will be kept can a true human relationship be formed.
+15,31,뽑다,To pick/To draw,행운권 추첨 행사에서 제 번호가 뽑히기를 간절히 바랐지만 아쉽게도 낙첨되었습니다.,I earnestly hoped my number would be picked at the lucky draw event, but unfortunately, it wasn't.
+15,32,상사,Superior/Boss,직장 상사에게 보고를 드릴 때는 예의를 갖추고 명확하게 내용을 전달해야 합니다.,When reporting to a workplace superior, you must maintain etiquette and convey content clearly.
+15,33,수저,Spoon and chopsticks,한국 음식은 숟가락과 젓가락인 수저를 모두 사용하여 먹는 독특한 문화를 가지고 있죠.,Korean food has a unique culture of eating using both spoons and chopsticks, which are 'Sujeo'.
+15,34,악수,Handshake,비즈니스 미팅을 시작하기 전 서로 가벼운 악수를 나누며 인사를 주고받았습니다.,Before starting the business meeting, we exchanged greetings while sharing a light handshake.
+15,35,양보하다,To concede/yield,지하철 노약자석은 비어 있더라도 몸이 불편한 분들을 위해 양보하는 마음이 필요합니다.,Even if the priority seats on the subway are empty, a heart to yield for those with physical difficulties is needed.
+15,36,외박,Staying out overnight,기숙사 규칙상 외박을 할 경우에는 미리 사유서를 작성하여 제출해야 허가가 납니다.,According to dormitory rules, if you stay out overnight, permission is granted only after you write and submit a reason in advance.
+15,37,이어폰,Earphone,공공장소에서 음악을 들을 때는 주변 사람들에게 방해가 되지 않도록 이어폰을 사용하세요.,When listening to music in public places, use earphones so as not to disturb the people around you.
+15,38,진동,Vibration,도서관이나 극장 같은 조용한 장소에서는 휴대전화를 진동이나 무음으로 설정해야 합니다.,In quiet places like libraries or theaters, you must set your mobile phone to vibration or silent mode.
+15,39,창피하다,To be embarrassed,많은 사람들 앞에서 실수로 넘어지는 바람에 얼굴이 빨개질 정도로 창피했어요.,I was so embarrassed that my face turned red after accidentally falling down in front of many people.
+15,40,청하다,To request/To ask for,혼자 해결하기 벅찬 문제는 주저하지 말고 선배나 동료에게 도움을 청해 보세요.,Don't hesitate to ask for help from seniors or colleagues for problems that are overwhelming to solve alone.
+15,41,흡연실,Smoking room,비흡연자들에게 피해를 주지 않도록 지정된 흡연실에서만 담배를 피워 주시기 바랍니다.,Please smoke only in designated smoking rooms so as not to harm non-smokers.
+
+

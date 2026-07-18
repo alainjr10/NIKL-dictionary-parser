@@ -18,9 +18,10 @@ def main():
     output_filename = args.output_filename
 
     json_files = list(input_dir.glob('*.json'))
-    results = pd.DataFrame(columns=['Form', 'Part of Speech', 'Korean Definition', 'English Definition', 'Usages', 'Vocabulary Level', 'Semantic Category'])
+    results = pd.DataFrame(columns=['Form', 'English Form', 'Part of Speech', 'Korean Definition', 'English Definition', 'Usages', 'Vocabulary Level', 'Semantic Category'])
 
     form_col = []
+    eng_form_col = []
     pos_col = []
     kor_definitions_col = []
     eng_definitions_col = []
@@ -41,11 +42,13 @@ def main():
 
             kor_definitions = []
             eng_definitions = []
+            eng_forms = []
             usage_lists = []
             if isinstance(entry['Sense'], list):
                 for meaning in entry['Sense']:
                     kor_definitions.append(parse_feature(meaning, 'definition'))
                     eng_definitions.append(parse_equivalents(meaning, "영어", 'definition'))
+                    eng_forms.append(parse_equivalents(meaning, "영어", 'lemma'))
                     usage_lists.extend(parse_examples(meaning, ['문장', '대화']))
 
             elif type(entry['Sense']) is dict:
@@ -54,6 +57,7 @@ def main():
 
                 kor_definitions.append(parse_feature(entry['Sense'], 'definition'))
                 eng_definitions.append(parse_equivalents(entry['Sense'], "영어", 'definition'))
+                eng_forms.append(parse_equivalents(entry['Sense'], "영어", 'lemma'))
                 usage_lists.extend(parse_examples(entry['Sense'], ['문장', '대화']))
 
             else:
@@ -61,6 +65,7 @@ def main():
                 break
 
             form_col.append(form)
+            eng_form_col.append(eng_forms)
             pos_col.append(pos)
             kor_definitions_col.append(kor_definitions)
             eng_definitions_col.append(eng_definitions)
@@ -69,6 +74,7 @@ def main():
             semantic_category_col.append(semantic_category)
 
     results['Form'] = form_col
+    results['English Form'] = eng_form_col
     results['Part of Speech'] = pos_col
     results['Korean Definition'] = kor_definitions_col
     results['English Definition'] = eng_definitions_col
