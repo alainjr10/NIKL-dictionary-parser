@@ -7847,5 +7847,2902 @@
     "similarToIds": [
       8
     ]
+  },
+  {
+    "grammarId": 295,
+    "name": "N치고",
+    "englishMeaning": "Every N / Without exception",
+    "level": "Intermediate",
+    "briefDescription": "Used to show that a certain fact applies to all members of a category. Similar to: N마다 (No. 73).",
+    "featuredExample": "사람치고 돈을 싫어하는 사람은 없어요.",
+    "featuredTranslation": "There is no human (without exception) who dislikes money.",
+    "longerExplanation": "Unlike 'N치고는' (which means 'considering the standard'), this version expresses a universal truth. It is almost always followed by a negative ending like '없다' or '않다' to mean 'There is no [N] that doesn't...'.",
+    "sentenceExamples": [
+      {
+        "kr": "아이치고 초콜릿을 안 좋아하는 아이가 있을까요?",
+        "en": "Is there any child (without exception) who doesn't like chocolate?"
+      },
+      {
+        "kr": "운동선수치고 몸이 약한 사람은 본 적이 없어요.",
+        "en": "I've never seen an athlete who has a weak body."
+      },
+      {
+        "kr": "한국 사람치고 김치를 모르는 사람은 없다.",
+        "en": "There is no Korean person who doesn't know Kimchi."
+      }
+    ],
+    "similarToIds": [
+      73
+    ]
+  },
+  {
+    "grammarId": 296,
+    "name": "A/V-(으)ㄴ가/는가 (하다/보다)",
+    "englishMeaning": "Is it...? / I wonder if...",
+    "level": "Intermediate",
+    "briefDescription": "A formal interrogative form used to express a logical conjecture or self-question. Similar to: -나 보다 (No. 90).",
+    "featuredExample": "무슨 좋은 일이 있는가 해서 물어봤어요.",
+    "featuredTranslation": "I asked because I wondered if something good was happening.",
+    "longerExplanation": "Found in SNU Book 4. It is a formal way to speculate or present a question to oneself. It is often paired with '하다' or '보다' to show the speaker is thinking through a possibility based on observation.",
+    "sentenceExamples": [
+      {
+        "kr": "그의 말이 사실인가 해서 확인해 봤어요.",
+        "en": "I wondered if his words were true, so I checked."
+      },
+      {
+        "kr": "시험이 어려운가 보다 생각했어요.",
+        "en": "I thought to myself, 'I guess the exam is difficult'."
+      },
+      {
+        "kr": "누가 왔는가 하고 밖을 내다봤습니다.",
+        "en": "I looked outside wondering if someone had come."
+      }
+    ],
+    "similarToIds": [
+      90
+    ]
+  },
+  {
+    "grammarId": 297,
+    "name": "N(이)면 N",
+    "englishMeaning": "If it's N, then N (The best/The absolute)",
+    "level": "Intermediate",
+    "briefDescription": "Used to emphasize that a specific noun is the perfect representative of its category.",
+    "featuredExample": "노래면 노래, 춤이면 춤, 그녀는 완벽한 스타예요.",
+    "featuredTranslation": "Whether it's singing or dancing, she is a perfect star.",
+    "longerExplanation": "This structure repeats the noun to show that the subject is an expert or possesses all qualities related to that noun. It’s like saying 'From A to Z regarding N, this person/thing is the best.'",
+    "sentenceExamples": [
+      {
+        "kr": "겨울 스포츠면 겨울 스포츠, 그는 못하는 게 없어요.",
+        "en": "When it comes to winter sports, there is nothing he can't do."
+      },
+      {
+        "kr": "음식하면 음식, 분위기하면 분위기, 이 식당이 최고예요.",
+        "en": "The food, the atmosphere—this restaurant is top-tier in every way."
+      },
+      {
+        "kr": "이론이면 이론, 실기면 실기, 부족한 게 없습니다.",
+        "en": "Theory or practice, it's perfect; nothing is lacking."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 298,
+    "name": "A/V-(으)ㄴ가/는가 하면",
+    "englishMeaning": "While X is true, on the other hand Y...",
+    "level": "Intermediate",
+    "briefDescription": "Used to connect two contrasting or diverse facts about a situation. Similar to: -는 반면에 (No. 112).",
+    "featuredExample": "야채를 좋아하는 사람이 있는가 하면 고기를 좋아하는 사람도 있어요.",
+    "featuredTranslation": "While there are people who like vegetables, there are also people who like meat.",
+    "longerExplanation": "Found in SNU Book 4, pg 72. It is used to describe diversity or multiple existing realities within a group. It highlights that while one state (A) exists, a different or opposite state (B) also exists simultaneously.",
+    "sentenceExamples": [
+      {
+        "kr": "날씨가 맑은가 하면 갑자기 비가 오기도 해요.",
+        "en": "While the weather is clear, it also suddenly rains sometimes."
+      },
+      {
+        "kr": "공부를 잘하는 학생이 있는가 하면 운동을 잘하는 학생도 있다.",
+        "en": "While some students are good at academics, others are good at sports."
+      },
+      {
+        "kr": "가격이 싼가 하면 품질이 좋은 제품도 많습니다.",
+        "en": "While some prices are cheap, there are also many high-quality products."
+      }
+    ],
+    "similarToIds": [
+      112
+    ]
+  },
+  {
+    "grammarId": 299,
+    "name": "(A-(으)ㄴ/V-는) N에 (A-(으)ㄴ/V-는) N",
+    "englishMeaning": "N after N / N upon N",
+    "level": "Advanced",
+    "briefDescription": "Used to describe many different things being stacked or added together. Similar to: N에다가 N (In addition to).",
+    "featuredExample": "모르는 단어에 모르는 문법에, 정말 읽기 힘들어요.",
+    "featuredTranslation": "Unknown words upon unknown grammar; it's really hard to read.",
+    "longerExplanation": "This pattern is used to emphasize that multiple items or situations are piling up, usually creating a feeling of being overwhelmed. It repeats the descriptive form (Modifier + Noun) to show a cumulative effect.",
+    "sentenceExamples": [
+      {
+        "kr": "비싼 가격에 비싼 관리비에, 그 아파트는 포기했어요.",
+        "en": "The expensive price on top of the expensive maintenance fees made me give up on that apartment."
+      },
+      {
+        "kr": "바쁜 업무에 바쁜 집안일에, 눈코 뜰 새 없이 지내고 있어요.",
+        "en": "Between the busy work and the busy housework, I'm incredibly busy."
+      },
+      {
+        "kr": "매운 음식에 매운 소스에, 속이 너무 아파요.",
+        "en": "With spicy food on top of spicy sauce, my stomach hurts so much."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 300,
+    "name": "N(까지)는 못 돼도 N은/는 A/V-(으)ㄹ 줄 알았다",
+    "englishMeaning": "Even if it couldn't reach X, I thought it would at least be Y",
+    "level": "Advanced",
+    "briefDescription": "Used to express a minimum expectation that was not met. Similar to: -줄 알았다 (No. 192).",
+    "featuredExample": "1등은 못 돼도 합격은 할 줄 알았어요.",
+    "featuredTranslation": "Even if I couldn't get first place, I thought I would at least pass.",
+    "longerExplanation": "This complex structure expresses disappointment. The speaker admits that a high goal (the first N) might have been difficult, but they had a solid expectation for a lower, more realistic goal (the second N) which still wasn't achieved.",
+    "sentenceExamples": [
+      {
+        "kr": "부자는 못 돼도 빚은 없을 줄 알았는데.",
+        "en": "I didn't expect to be rich, but I thought at least I wouldn't have debt."
+      },
+      {
+        "kr": "칭찬은 못 돼도 욕은 안 먹을 줄 알았어요.",
+        "en": "I didn't expect praise, but I thought at least I wouldn't be insulted."
+      },
+      {
+        "kr": "프로 선수는 못 돼도 대표팀에는 뽑힐 줄 알았습니다.",
+        "en": "Even if I didn't become a pro, I thought I'd at least be picked for the national team."
+      }
+    ],
+    "similarToIds": [
+      192
+    ]
+  },
+  {
+    "grammarId": 301,
+    "name": "V-는 둥 마는 둥",
+    "englishMeaning": "To barely do V / To do V half-heartedly",
+    "level": "Advanced",
+    "briefDescription": "Describes an action done incompletely due to distraction or haste. Similar to: 대충 (Carelessly).",
+    "featuredExample": "늦잠을 자서 아침을 먹는 둥 마는 둥 했어요.",
+    "featuredTranslation": "I overslept, so I barely ate any breakfast.",
+    "longerExplanation": "Literally 'Doing it or not doing it.' It implies that even if the action happened, it was so quick or distracted that it was almost like it didn't happen at all. Often used with verbs like eating, sleeping, or listening.",
+    "sentenceExamples": [
+      {
+        "kr": "어제는 걱정이 많아서 잠을 자는 둥 마는 둥 했어요.",
+        "en": "I was so worried yesterday that I barely slept a wink."
+      },
+      {
+        "kr": "바빠서 보고서를 읽는 둥 마는 둥 하고 제출해 버렸어요.",
+        "en": "I was in a rush, so I barely skimmed the report before submitting it."
+      },
+      {
+        "kr": "선생님 말씀을 듣는 둥 마는 둥 하더니 실수를 했네요.",
+        "en": "He barely listened to the teacher and ended up making a mistake."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 302,
+    "name": "A/V-다는 소리를 듣다",
+    "englishMeaning": "To hear (others say) that... / To be told that...",
+    "level": "Advanced",
+    "briefDescription": "Used to mention a reputation or a common comment heard from others. Similar to: -다고 하다 (No. 234).",
+    "featuredExample": "저는 어렸을 때부터 똑똑하다는 소리를 많이 들었어요.",
+    "featuredTranslation": "I've been told I'm smart since I was a child.",
+    "longerExplanation": "This pattern reports what people generally say about the subject. It is often used to describe one's character, personality, or a recurring piece of feedback from social circles.",
+    "sentenceExamples": [
+      {
+        "kr": "그 사람은 성격이 좋다는 소리를 자주 들어요.",
+        "en": "That person is often told that they have a good personality."
+      },
+      {
+        "kr": "너 요즘 예뻐졌다는 소리 안 들어?",
+        "en": "Haven't people been telling you that you've gotten prettier lately?"
+      },
+      {
+        "kr": "게으르다는 소리를 안 들으려면 부지런히 일해야 해.",
+        "en": "If you don't want to be told you're lazy, you must work diligently."
+      }
+    ],
+    "similarToIds": [
+      234
+    ]
+  },
+  {
+    "grammarId": 303,
+    "name": "A/V-다는 인상을 주다",
+    "englishMeaning": "To give the impression that...",
+    "level": "Advanced",
+    "briefDescription": "Used to describe the first impression or feeling one gives off. Similar to: -아/어 보이다 (No. 150).",
+    "featuredExample": "그는 첫인상에서 성실하다는 인상을 주었습니다.",
+    "featuredTranslation": "He gave the impression of being sincere at first meeting.",
+    "longerExplanation": "Focuses on the perception or 'vibe' an observer gets. It is a formal way to analyze how someone's clothes, behavior, or speech make them appear to the world.",
+    "sentenceExamples": [
+      {
+        "kr": "옷차림이 화려해서 부자라는 인상을 줬어요.",
+        "en": "Because of the flashy clothes, they gave off the impression of being rich."
+      },
+      {
+        "kr": "자신감이 부족하다는 인상을 주지 않도록 조심하세요.",
+        "en": "Be careful not to give the impression that you lack confidence."
+      },
+      {
+        "kr": "이 식당은 아주 위생적이라는 인상을 줍니다.",
+        "en": "This restaurant gives the impression of being very hygienic."
+      }
+    ],
+    "similarToIds": [
+      150
+    ]
+  },
+  {
+    "grammarId": 304,
+    "name": "V-는 한이 있어도",
+    "englishMeaning": "Even if it means... / Even if the worst happens",
+    "level": "Advanced",
+    "briefDescription": "Expresses strong determination regardless of extreme consequences. Similar to: -더라도 (No. 164).",
+    "featuredExample": "굶는 한이 있어도 거짓말은 안 해요.",
+    "featuredTranslation": "Even if it means starving, I won't tell a lie.",
+    "longerExplanation": "The strongest form of 'even if.' It sets a hypothetical, extreme, and usually negative scenario in the first clause to show that the second clause (the speaker's resolve) is absolute.",
+    "sentenceExamples": [
+      {
+        "kr": "욕을 먹는 한이 있어도 제 소신을 굽히지 않겠습니다.",
+        "en": "Even if I get criticized, I will not bend my convictions."
+      },
+      {
+        "kr": "밤을 새우는 한이 있어도 이 일은 꼭 끝내야 해요.",
+        "en": "Even if it means staying up all night, I must finish this."
+      },
+      {
+        "kr": "돈을 다 잃는 한이 있어도 다시 도전할 거예요.",
+        "en": "Even if I lose all my money, I will try again."
+      }
+    ],
+    "similarToIds": [
+      164
+    ]
+  },
+  {
+    "grammarId": 305,
+    "name": "V-는 등 (N에) 재능을 발휘하다",
+    "englishMeaning": "To exhibit talent in doing V",
+    "level": "Advanced",
+    "briefDescription": "Used to describe specific activities where someone shows their skill. Similar to: N에 소질이 있다.",
+    "featuredExample": "그는 어릴 때부터 요리하는 등 주방에서 재능을 발휘했어요.",
+    "featuredTranslation": "He has exhibited talent in the kitchen, such as cooking, since he was young.",
+    "longerExplanation": "Commonly used in biographies or profiles. It lists examples of actions (V-는 등) to prove that someone is gifted in a certain field (N에 재능을 발휘하다).",
+    "sentenceExamples": [
+      {
+        "kr": "그녀는 그림을 그리는 등 예술 분야에서 재능을 발휘하고 있습니다.",
+        "en": "She is exhibiting talent in the art field, such as painting."
+      },
+      {
+        "kr": "외국어를 빨리 배우는 등 언어 학습에 재능을 발휘하더군요.",
+        "en": "I noticed they exhibit talent in language learning, such as learning foreign languages quickly."
+      },
+      {
+        "kr": "어려운 문제를 푸는 등 수학에서 뛰어난 재능을 발휘했어요.",
+        "en": "He exhibited outstanding talent in math, such as solving difficult problems."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 306,
+    "name": "N을/를 시작으로 N을/를 거쳐 N을/를 맡다",
+    "englishMeaning": "Starting with N, going through N, to taking charge of N",
+    "level": "Advanced",
+    "briefDescription": "Used to describe a career path or the progression of roles over time.",
+    "featuredExample": "그는 사원을 시작으로 부장을 거쳐 현재 사장을 맡고 있다.",
+    "featuredTranslation": "Starting as an employee, going through manager, he is currently in charge as the CEO.",
+    "longerExplanation": "A formal way to describe a chronological career trajectory or a sequence of positions held by a person.",
+    "sentenceExamples": [
+      {
+        "kr": "기자를 시작으로 앵커를 거쳐 국회의원을 맡게 되었습니다.",
+        "en": "Starting as a reporter, moving through news anchor, he came to hold the position of a National Assembly member."
+      },
+      {
+        "kr": "조연을 시작으로 주연을 거쳐 감독까지 맡게 되었어요.",
+        "en": "Starting with supporting roles, through leading roles, he even came to take charge as a director."
+      },
+      {
+        "kr": "인턴을 시작으로 팀장을 거쳐 본부장을 맡고 있습니다.",
+        "en": "Starting as an intern, through team leader, he is currently in charge as head of headquarters."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 307,
+    "name": "V-(으)ㄴ 바 있다",
+    "englishMeaning": "There is a history of V / As has been V-ed",
+    "level": "Advanced",
+    "briefDescription": "A formal way to mention a past experience or a previously stated fact. Similar to: -(으)ㄴ 적이 있다 (No. 4).",
+    "featuredExample": "앞서 언급한 바와 같이 이 문제는 심각합니다.",
+    "featuredTranslation": "As mentioned previously, this problem is serious.",
+    "longerExplanation": "Used primarily in formal writing, speeches, or news reports. It indicates that something happened or was established in the past. When used with '바와 같이', it means 'As already [V-ed]'.",
+    "sentenceExamples": [
+      {
+        "kr": "그 회사는 예전에도 세금을 체납한 바 있습니다.",
+        "en": "That company has a history of being delinquent on taxes before."
+      },
+      {
+        "kr": "우리는 이미 이 사건에 대해 조사한 바가 있어요.",
+        "en": "We have already investigated this incident before."
+      },
+      {
+        "kr": "대통령이 성명을 발표한 바에 따르면...",
+        "en": "According to the statement the President has released..."
+      }
+    ],
+    "similarToIds": [
+      4
+    ]
+  },
+  {
+    "grammarId": 308,
+    "name": "너나없이 (모두)",
+    "englishMeaning": "Everyone without exception / Without distinction of you or me",
+    "level": "Advanced",
+    "briefDescription": "Used when every person in a group does the same thing. Similar to: 누구나 (No. 238).",
+    "featuredExample": "축제 날에는 너나없이 모두 광장으로 모였어요.",
+    "featuredTranslation": "On the festival day, everyone without exception gathered in the plaza.",
+    "longerExplanation": "This expression emphasizes complete group participation. It suggests that there was no boundary or difference between people; everyone joined in the action together.",
+    "sentenceExamples": [
+      {
+        "kr": "그 소식을 듣고 사람들은 너나없이 기뻐했습니다.",
+        "en": "Upon hearing that news, people were happy without exception."
+      },
+      {
+        "kr": "위기가 닥치자 시민들은 너나없이 서로를 도왔어요.",
+        "en": "When the crisis hit, the citizens helped each other without distinction."
+      },
+      {
+        "kr": "유행이 시작되자 너나없이 그 옷을 입기 시작했어요.",
+        "en": "Once the trend started, everyone started wearing those clothes without exception."
+      }
+    ],
+    "similarToIds": [
+      238
+    ]
+  },
+  {
+    "grammarId": 309,
+    "name": "N(이)나마",
+    "englishMeaning": "At least / Although it is just...",
+    "level": "Advanced",
+    "briefDescription": "Expresses that while something isn't perfect, it is better than nothing. Similar to: N(이)라도 (No. 244).",
+    "featuredExample": "작은 정성이나마 받아 주세요.",
+    "featuredTranslation": "Please accept this, even though it's just a small token of my sincerity.",
+    "longerExplanation": "Used when the speaker acknowledges that the noun is insufficient or disappointing, but offers or accepts it as a compromise. It often carries a nuance of humility.",
+    "sentenceExamples": [
+      {
+        "kr": "늦게나마 제 실수를 사과하고 싶습니다.",
+        "en": "I want to apologize for my mistake, even if it's late (at least now)."
+      },
+      {
+        "kr": "잠시나마 즐거운 시간을 보낼 수 있어서 좋았어요.",
+        "en": "I was glad to spend a pleasant time, even if it was just for a short while."
+      },
+      {
+        "kr": "부족한 실력이나마 최선을 다하겠습니다.",
+        "en": "Although my skills are lacking, I will do my best."
+      }
+    ],
+    "similarToIds": [
+      244
+    ]
+  },
+  {
+    "grammarId": 310,
+    "name": "생각다 못해",
+    "englishMeaning": "Being unable to think of another way / As a last resort",
+    "level": "Advanced",
+    "briefDescription": "Used when someone takes an action because they couldn't find any other solution. Similar to: 참다 못해 (No. 176).",
+    "featuredExample": "방법이 없어서 생각다 못해 경찰에 신고했어요.",
+    "featuredTranslation": "Since there was no way, as a last resort, I reported it to the police.",
+    "longerExplanation": "This phrase describes a state of psychological exhaustion or desperation. The subject has thought and thought, and eventually, out of that 'inability to think further,' they take a decisive (sometimes extreme) step.",
+    "sentenceExamples": [
+      {
+        "kr": "혼자 해결하기 힘들어서 생각다 못해 친구에게 전화를 했지.",
+        "en": "It was hard to solve alone, so as a last resort, I called a friend."
+      },
+      {
+        "kr": "돈이 부족해서 생각다 못해 차를 팔기로 했어요.",
+        "en": "I was short on money, so I finally decided to sell the car as a last resort."
+      },
+      {
+        "kr": "고민 끝에 생각다 못해 유학을 포기하기로 했습니다.",
+        "en": "After much agonizing, I eventually decided to give up on studying abroad as a last resort."
+      }
+    ],
+    "similarToIds": [
+      176
+    ]
+  },
+  {
+    "grammarId": 311,
+    "name": "N(의) 대표적인 예로 N을/를 들다",
+    "englishMeaning": "To cite N as a representative example of N",
+    "level": "Advanced",
+    "briefDescription": "Used in presentations or essays to provide a specific, well-known example. Similar to: N-만 해도 (No. 161).",
+    "featuredExample": "한국의 정보 통신 기술의 대표적인 예로 반도체를 들 수 있습니다.",
+    "featuredTranslation": "One can cite semiconductors as a representative example of Korea's IT technology.",
+    "longerExplanation": "This is a formal academic phrase used to support a general statement with a specific, powerful example. It is essential for TOPIK II Task 54 essays and professional presentations.",
+    "sentenceExamples": [
+      {
+        "kr": "성공적인 마케팅의 대표적인 예로 이 브랜드의 광고를 들었습니다.",
+        "en": "I cited this brand's advertisement as a representative example of successful marketing."
+      },
+      {
+        "kr": "환경 오염의 원인 중 대표적인 예로 비닐 사용을 들 수 있어요.",
+        "en": "One can cite the use of plastic as a representative example among the causes of environmental pollution."
+      },
+      {
+        "kr": "한국 문화를 알린 대표적인 예로 케이팝을 들고 싶네요.",
+        "en": "I'd like to cite K-Pop as a representative example that made Korean culture known."
+      }
+    ],
+    "similarToIds": [
+      161
+    ]
+  },
+  {
+    "grammarId": 312,
+    "name": "아래와 같이",
+    "englishMeaning": "As shown below / As follows",
+    "level": "Advanced",
+    "briefDescription": "Used to introduce a list, table, or detailed explanation that follows. Similar to: 다음과 같이.",
+    "featuredExample": "회의 결과는 아래와 같이 요약할 수 있습니다.",
+    "featuredTranslation": "The meeting results can be summarized as follows (shown below).",
+    "longerExplanation": "A standard phrase used in formal reports, emails, and announcements. It directs the reader's attention to the content presented immediately below the current sentence.",
+    "sentenceExamples": [
+      {
+        "kr": "이번 달 행사 일정을 아래와 같이 공지합니다.",
+        "en": "We announce this month's event schedule as follows."
+      },
+      {
+        "kr": "준비물은 아래와 같이 총 세 가지입니다.",
+        "en": "There are three items to prepare in total, as shown below."
+      },
+      {
+        "kr": "아래와 같이 계약 조건을 변경하고자 합니다.",
+        "en": "We intend to change the contract terms as follows."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 313,
+    "name": "V-(으)오니",
+    "englishMeaning": "As it is... / Since... (Ultra-Formal)",
+    "level": "Advanced",
+    "briefDescription": "A highly formal and humble connective used in official notices or letters. Similar to: -(으)니까 (No. 20).",
+    "featuredExample": "공사가 진행 중이오니 우회하여 주시기 바랍니다.",
+    "featuredTranslation": "As construction is underway, please take a detour.",
+    "longerExplanation": "This is a very polite and formal version of the 'reason' connector. It is rarely used in speech, but you will see it constantly on signs, public announcements, and formal business letters.",
+    "sentenceExamples": [
+      {
+        "kr": "내일은 휴강이오니 착오 없으시길 바랍니다.",
+        "en": "As there is no class tomorrow, we hope there is no confusion."
+      },
+      {
+        "kr": "날씨가 추우오니 건강에 유의하시기 바랍니다.",
+        "en": "As the weather is cold, please take care of your health."
+      },
+      {
+        "kr": "문의 사항이 있으시면 연락 주시오니 친절히 답해 드리겠습니다.",
+        "en": "If you have any inquiries, please contact us and we will answer kindly."
+      }
+    ],
+    "similarToIds": [
+      20
+    ]
+  },
+  {
+    "grammarId": 314,
+    "name": "N에 한하여",
+    "englishMeaning": "Limited to N / Only for N",
+    "level": "Advanced",
+    "briefDescription": "Used to specify a limit or an exclusive condition. Similar to: N-만 (Only).",
+    "featuredExample": "이번 세일은 학생증 소지자에 한하여 적용됩니다.",
+    "featuredTranslation": "This sale is applied only to student ID holders.",
+    "longerExplanation": "A formal restrictive particle. It is commonly used in legal documents, event guidelines, and promotions to define a specific group or condition that is eligible for something.",
+    "sentenceExamples": [
+      {
+        "kr": "참가 자격은 서울 거주자에 한하여 주어집니다.",
+        "en": "Eligibility to participate is given only to Seoul residents."
+      },
+      {
+        "kr": "주말에 한하여 주차장을 무료로 개방합니다.",
+        "en": "The parking lot is open for free only on weekends."
+      },
+      {
+        "kr": "1인당 1개에 한하여 구매하실 수 있습니다.",
+        "en": "Purchase is limited to one per person."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 315,
+    "name": "N이/가 중요한 역할을 하다",
+    "englishMeaning": "N plays an important role",
+    "level": "Advanced",
+    "briefDescription": "Used to describe the significance of a noun in a certain process or result.",
+    "featuredExample": "비타민은 우리 몸에서 중요한 역할을 합니다.",
+    "featuredTranslation": "Vitamins play an important role in our bodies.",
+    "longerExplanation": "This phrase identifies a key factor in a system. It is a staple expression in scientific or social essays to emphasize why a particular element is necessary.",
+    "sentenceExamples": [
+      {
+        "kr": "교육은 국가 발전에 중요한 역할을 한다고 봅니다.",
+        "en": "I view education as playing an important role in national development."
+      },
+      {
+        "kr": "부모의 태도는 아이의 성격 형성에 중요한 역할을 해요.",
+        "en": "Parents' attitudes play an important role in forming a child's personality."
+      },
+      {
+        "kr": "인터넷은 정보 공유에 있어서 중요한 역할을 수행하고 있습니다.",
+        "en": "The internet is performing an important role in information sharing."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 316,
+    "name": "N에서 N의 비중이 높다",
+    "englishMeaning": "N has a high proportion/weight in N",
+    "level": "Advanced",
+    "briefDescription": "Used in statistics or social analysis to show the importance of a specific part of a whole.",
+    "featuredExample": "한국 수출에서 반도체의 비중이 매우 높습니다.",
+    "featuredTranslation": "Semiconductors have a very high proportion in Korea's exports.",
+    "longerExplanation": "This describes how much influence or space a specific category occupies within a larger group. '비중' literally means 'relative weight.'",
+    "sentenceExamples": [
+      {
+        "kr": "현대 사회에서는 서비스 산업의 비중이 높아지고 있어요.",
+        "en": "In modern society, the weight of the service industry is increasing."
+      },
+      {
+        "kr": "가계 지출에서 식비가 차지하는 비중이 높은 편입니다.",
+        "en": "The proportion of food expenses in household spending is on the higher side."
+      },
+      {
+        "kr": "우리 회사에서 연구 개발의 비중은 절대적입니다.",
+        "en": "In our company, the proportion of research and development is absolute."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 317,
+    "name": "A/V-(으)면 그만이다",
+    "englishMeaning": "That's all one needs / It's enough as long as...",
+    "level": "Advanced",
+    "briefDescription": "Used when the speaker believes one condition is sufficient, regardless of other factors.",
+    "featuredExample": "맛만 있으면 그만이지 가격이 뭐가 중요해요?",
+    "featuredTranslation": "As long as it tastes good, that's all that matters; why is the price important?",
+    "longerExplanation": "This pattern expresses a simplified or sometimes cynical view. It suggests that if one primary goal is met, nothing else matters. Depending on the context, it can sound pragmatic or irresponsible.",
+    "sentenceExamples": [
+      {
+        "kr": "나만 행복하면 그만이라는 생각은 위험해요.",
+        "en": "The thought that it's enough as long as I'm happy is dangerous."
+      },
+      {
+        "kr": "돈만 많이 벌면 그만이라고 생각하는 사람들이 늘고 있어요.",
+        "en": "The number of people who think earning lots of money is all that matters is increasing."
+      },
+      {
+        "kr": "시험만 잘 보면 그만이지 공부 과정은 중요하지 않아요.",
+        "en": "As long as you do well on the exam, that's enough; the study process isn't important."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 318,
+    "name": "이래 가지고(서)(야)",
+    "englishMeaning": "Given this situation / If things stay like this...",
+    "level": "Advanced",
+    "briefDescription": "Used to criticize a current state and predict that a desired goal will be impossible. Similar to: -아/어서는 (No. 133 similar).",
+    "featuredExample": "이래 가지고서야 언제 일을 다 끝내겠어요?",
+    "featuredTranslation": "Given this situation, when will we ever finish all the work?",
+    "longerExplanation": "This is a negative conditional. It takes the current unsatisfactory situation (이래 가지고) and asserts that if it continues, the expected positive result (second clause) will never happen.",
+    "sentenceExamples": [
+      {
+        "kr": "공부를 이래 가지고야 시험에 합격할 리가 없지.",
+        "en": "If you study like this (so poorly), there's no way you'll pass the exam."
+      },
+      {
+        "kr": "날씨가 이래 가지고서야 소풍을 갈 수 있겠어?",
+        "en": "With the weather like this, do you think we can go on a picnic?"
+      },
+      {
+        "kr": "준비가 이래 가지고야 제대로 발표를 하겠니?",
+        "en": "With preparation like this, will you be able to give a proper presentation?"
+      }
+    ],
+    "similarToIds": [
+      133
+    ]
+  },
+  {
+    "grammarId": 319,
+    "name": "V-(으)ㅁ으로써",
+    "englishMeaning": "By doing V / As a means of doing V",
+    "level": "Advanced",
+    "briefDescription": "Indicates the method, tool, or means used to achieve a result. Similar to: N-(으)로써.",
+    "featuredExample": "꾸준히 운동함으로써 건강을 지킬 수 있습니다.",
+    "featuredTranslation": "You can protect your health by exercising steadily.",
+    "longerExplanation": "A formal and literary connector. It turns a verb into a noun (-ㅁ) and adds the 'means' particle (-써). It is a high-level way to describe a functional methodology in essays.",
+    "sentenceExamples": [
+      {
+        "kr": "신기술을 개발함으로써 시장 점유율을 높였습니다.",
+        "en": "They increased their market share by developing new technology."
+      },
+      {
+        "kr": "서로 대화함으로써 오해를 풀기로 했어요.",
+        "en": "We decided to resolve the misunderstanding by talking to each other."
+      },
+      {
+        "kr": "쓰레기를 줄임으로써 환경 보호에 기여하고 싶습니다.",
+        "en": "I want to contribute to environmental protection by reducing waste."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 320,
+    "name": "A-(으)ㄴ/V-는 면이 있다",
+    "englishMeaning": "There is an aspect of... / Has a side that is...",
+    "level": "Advanced",
+    "briefDescription": "Used to point out a specific characteristic or a 'side' of someone's personality. Similar to: -는 점이 있다.",
+    "featuredExample": "그 사람은 차가워 보이지만 따뜻한 면이 있어요.",
+    "featuredTranslation": "That person looks cold, but they have a warm side.",
+    "longerExplanation": "Used when describing someone or something that isn't simple. It allows the speaker to acknowledge one trait while introducing a different, perhaps unexpected, 'aspect' or 'side' (면).",
+    "sentenceExamples": [
+      {
+        "kr": "이 계획은 완벽해 보이지만 위험한 면이 있습니다.",
+        "en": "This plan looks perfect, but it has a dangerous side."
+      },
+      {
+        "kr": "그 배우는 연기할 때 아주 진지한 면이 있더라고요.",
+        "en": "I noticed that actor has a very serious side when acting."
+      },
+      {
+        "kr": "도심 생활은 편리한 면도 있지만 스트레스가 많은 면도 있어요.",
+        "en": "City life has a convenient side, but it also has a stressful side."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 321,
+    "name": "A-기 그지없다",
+    "englishMeaning": "Endlessly A / Incomparably A",
+    "level": "Advanced",
+    "briefDescription": "Used to emphasize an extreme, limit-breaking state. Similar to: -기 짝이 없다 (No. 301).",
+    "featuredExample": "그의 말은 정말 무례하기 그지없네요.",
+    "featuredTranslation": "His words are truly incomparably (endlessly) rude.",
+    "longerExplanation": "Literally 'without an end (그지).' It is used to express that an adjective is at its absolute maximum level. It often carries a nuance of strong emotion, whether positive (beautiful) or negative (shameful).",
+    "sentenceExamples": [
+      {
+        "kr": "이런 큰 상을 받게 되어 영광스럽기 그지없습니다.",
+        "en": "It is an endless honor to receive such a great award."
+      },
+      {
+        "kr": "홀로 계신 어머니를 생각하면 안타깝기 그지없어요.",
+        "en": "Thinking of my mother alone, it is heart-breaking beyond words."
+      },
+      {
+        "kr": "경치가 아름답기 그지없어서 눈을 뗄 수 없었지요.",
+        "en": "The scenery was so incomparably beautiful I couldn't take my eyes off it."
+      }
+    ],
+    "similarToIds": [
+      301
+    ]
+  },
+  {
+    "grammarId": 322,
+    "name": "A/V-(으)ㅁ에 틀림없다",
+    "englishMeaning": "There is no doubt that... / Must be...",
+    "level": "Advanced",
+    "briefDescription": "Expresses strong certainty or conviction about a fact. Similar to: -게 뻔하다 (No. 255).",
+    "featuredExample": "열심히 노력하는 걸 보니 성공함에 틀림없어요.",
+    "featuredTranslation": "Seeing how hard they work, there is no doubt they will succeed.",
+    "longerExplanation": "This is a logical conclusion. Based on the evidence the speaker has, they are 100% sure the statement is true. It is more formal and authoritative than '-것 같다.'",
+    "sentenceExamples": [
+      {
+        "kr": "그가 범인임에 틀림없다는 증거가 나왔습니다.",
+        "en": "Evidence has come out that he is undoubtedly the culprit."
+      },
+      {
+        "kr": "어제 그 소문은 거짓임에 틀림없어요.",
+        "en": "There is no doubt that the rumor yesterday was a lie."
+      },
+      {
+        "kr": "이 요리는 전문가가 만들었음에 틀림없을 정도로 맛있네요.",
+        "en": "This dish is so delicious it must have been made by an expert."
+      }
+    ],
+    "similarToIds": [
+      255
+    ]
+  },
+  {
+    "grammarId": 323,
+    "name": "뭐니 뭐니 해도",
+    "englishMeaning": "Whatever anyone says / All in all / When all is said and done",
+    "level": "Advanced",
+    "briefDescription": "An idiomatic phrase used to emphasize that a specific thing is the most important or best. Similar to: 무엇보다도.",
+    "featuredExample": "뭐니 뭐니 해도 건강이 제일 중요합니다.",
+    "featuredTranslation": "Whatever anyone says, health is the most important thing.",
+    "longerExplanation": "Literally translated as 'No matter what [anyone] says or does,' this phrase is used to introduce the speaker's firm opinion on what the top priority or best option in a category is.",
+    "sentenceExamples": [
+      {
+        "kr": "한국 음식은 뭐니 뭐니 해도 김치가 최고지요.",
+        "en": "When all is said and done, Kimchi is the best Korean food."
+      },
+      {
+        "kr": "여행은 뭐니 뭐니 해도 마음 맞는 친구와 가는 게 좋아요.",
+        "en": "Whatever anyone says, it's best to go on a trip with a like-minded friend."
+      },
+      {
+        "kr": "뭐니 뭐니 해도 집이 제일 편안한 법이에요.",
+        "en": "All in all, it's natural that home is the most comfortable place."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 324,
+    "name": "N을/를 계기로",
+    "englishMeaning": "With N as a turning point / Using N as an opportunity",
+    "level": "Advanced",
+    "briefDescription": "Indicates that a certain event (N) triggered a major change or a new action. Similar to: N을/를 통해서 (No. 261 similar).",
+    "featuredExample": "이번 사고를 계기로 안전 수칙을 강화했습니다.",
+    "featuredTranslation": "With this accident as a turning point, we strengthened safety regulations.",
+    "longerExplanation": "Used when an event acts as a catalyst. It explains that because of N, a new situation developed or a significant decision was made. It is very common in news and historical context.",
+    "sentenceExamples": [
+      {
+        "kr": "그 영화를 계기로 한국 문화에 관심을 갖게 되었어요.",
+        "en": "With that movie as an opportunity, I came to have an interest in Korean culture."
+      },
+      {
+        "kr": "우리는 대학교 때 봉사 활동을 계기로 처음 만났습니다.",
+        "en": "We first met using a volunteer activity in university as the occasion."
+      },
+      {
+        "kr": "실패를 계기로 삼아 더 열심히 노력하기로 했어요.",
+        "en": "I decided to use the failure as a turning point and work harder."
+      }
+    ],
+    "similarToIds": [
+      261
+    ]
+  },
+  {
+    "grammarId": 325,
+    "name": "A/V-지(요), 뭐",
+    "englishMeaning": "Let's just... / I guess I'll... (Casual acceptance)",
+    "level": "Advanced",
+    "briefDescription": "Used when the speaker makes a decision or gives a suggestion in a cool, casual, or slightly indifferent manner.",
+    "featuredExample": "약속이 취소됐으면 그냥 집에서 쉬지, 뭐.",
+    "featuredTranslation": "If the appointment is canceled, I guess I'll just rest at home.",
+    "longerExplanation": "This ending shows that the speaker is not overly stressed about a situation and is choosing an easy alternative. It often carries a nuance of 'it's not a big deal, I'll just do this instead.'",
+    "sentenceExamples": [
+      {
+        "kr": "배가 안 고프면 나중에 먹지, 뭐.",
+        "en": "If you're not hungry, I guess we'll just eat later."
+      },
+      {
+        "kr": "버스가 안 오면 택시 타고 가지, 뭐.",
+        "en": "If the bus doesn't come, I'll just take a taxi."
+      },
+      {
+        "kr": "모르면 선생님께 물어보지, 뭐.",
+        "en": "If I don't know, I guess I'll just ask the teacher."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 326,
+    "name": "A/V-다는 거야",
+    "englishMeaning": "The thing is that... / They're saying that...",
+    "level": "Advanced",
+    "briefDescription": "Used to summarize or emphasize the core point of what someone said. Similar to: -다는 뜻이다.",
+    "featuredExample": "결국 우리가 이겼다는 거야.",
+    "featuredTranslation": "The point is that we eventually won.",
+    "longerExplanation": "A conversational contraction of '-다는 것이야'. It is used to clarify the bottom line of a story or to re-explain a complex situation in a single, powerful sentence.",
+    "sentenceExamples": [
+      {
+        "kr": "그러니까 그 사람이 범인이 아니라는 거야.",
+        "en": "So, what they're saying is that person is not the culprit."
+      },
+      {
+        "kr": "내 말은 우리가 더 노력해야 한다는 거야.",
+        "en": "My point is that we need to work harder."
+      },
+      {
+        "kr": "그 소문이 다 거짓말이었다는 거야?",
+        "en": "Are you saying that the rumor was all a lie?"
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 327,
+    "name": "A/V-겠거니 (하다)",
+    "englishMeaning": "Assuming that... / Thinking that...",
+    "level": "Advanced",
+    "briefDescription": "Used when the speaker makes a subjective assumption that a certain state or action is obvious.",
+    "featuredExample": "당연히 오겠거니 하고 기다리고 있었어요.",
+    "featuredTranslation": "I was waiting, assuming that of course they would come.",
+    "longerExplanation": "This describes a mental state where the speaker expected something to happen as a matter of course. It is often followed by a result that contrasts with that assumption (e.g., 'I assumed they'd come, but they didn't').",
+    "sentenceExamples": [
+      {
+        "kr": "선생님이 도와주겠거니 믿고 공부를 안 했어요.",
+        "en": "Assuming the teacher would help, I didn't study."
+      },
+      {
+        "kr": "비가 곧 그치겠거니 생각해서 우산을 안 챙겼지.",
+        "en": "Thinking the rain would stop soon, I didn't bring an umbrella."
+      },
+      {
+        "kr": "다들 알고 있겠거니 해서 말을 안 했어요.",
+        "en": "I didn't say anything, assuming that everyone already knew."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 328,
+    "name": "따지고 보면",
+    "englishMeaning": "If you look into it closely / Actually / When you think about it",
+    "level": "Advanced",
+    "briefDescription": "Used to introduce a fact that becomes clear after logical thinking or detailed analysis.",
+    "featuredExample": "따지고 보면 그 사람 말도 일리가 있어요.",
+    "featuredTranslation": "If you think about it, what he says also makes sense.",
+    "longerExplanation": "This phrase is used to challenge a superficial view. It signals that while the surface situation looks one way, the 'actual' reality or deeper logic is different.",
+    "sentenceExamples": [
+      {
+        "kr": "따지고 보면 이게 다 우리를 위한 일이에요.",
+        "en": "Actually, when you look into it, this is all for our benefit."
+      },
+      {
+        "kr": "그 문제는 따지고 보면 아주 간단한 문제였어요.",
+        "en": "If you look closely, that problem was actually a very simple one."
+      },
+      {
+        "kr": "따지고 보면 환경 오염의 책임은 우리 모두에게 있죠.",
+        "en": "When you think about it, the responsibility for environmental pollution lies with all of us."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 329,
+    "name": "다시 말해서",
+    "englishMeaning": "In other words / That is to say",
+    "level": "Advanced",
+    "briefDescription": "Used to provide a simpler or more direct explanation of a previous statement. Similar to: 즉 (No. 62 similar).",
+    "featuredExample": "그는 퇴사했어요. 다시 말해서 이제 우리 직원이 아니에요.",
+    "featuredTranslation": "He resigned. In other words, he is no longer our employee.",
+    "longerExplanation": "A logical transition used to rephrase or summarize a complex idea to ensure the listener understands perfectly. It is essential for academic discussions and formal writing.",
+    "sentenceExamples": [
+      {
+        "kr": "이건 무료예요. 다시 말해서 돈을 낼 필요가 없다는 뜻이죠.",
+        "en": "This is free. That is to say, you don't need to pay money."
+      },
+      {
+        "kr": "우리는 실패했습니다. 다시 말해서 새로운 계획이 필요해요.",
+        "en": "We failed. In other words, we need a new plan."
+      },
+      {
+        "kr": "그는 천재예요. 다시 말해서 노력 없이도 잘한다는 거죠.",
+        "en": "He is a genius. That is to say, he does well without even trying."
+      }
+    ],
+    "similarToIds": [
+      62
+    ]
+  },
+  {
+    "grammarId": 330,
+    "name": "V-(으)려는지",
+    "englishMeaning": "I wonder if [one] intends to... / Seeming to be about to...",
+    "level": "Advanced",
+    "briefDescription": "Used to express a guess about someone's intentions or a future natural event.",
+    "featuredExample": "아이가 왜 울려는지 이유를 모르겠어요.",
+    "featuredTranslation": "I don't know the reason why the child seems to be about to cry.",
+    "longerExplanation": "This pattern shows the speaker's uncertainty about a future action or intention. It is often used when observing an outward sign (like clouds before rain) and guessing the 'intent' of the situation.",
+    "sentenceExamples": [
+      {
+        "kr": "하늘을 보니 비가 오려는지 구름이 몰려오네요.",
+        "en": "Looking at the sky, clouds are gathering as if it's about to rain."
+      },
+      {
+        "kr": "그 사람이 무엇을 도와주려는지 계속 쳐다봐요.",
+        "en": "I wonder if he intends to help with something, as he keeps staring."
+      },
+      {
+        "kr": "내일은 날씨가 좋으려는지 달이 참 밝네요.",
+        "en": "The moon is so bright; I wonder if the weather will be good tomorrow."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 331,
+    "name": "A/V-거나 하다",
+    "englishMeaning": "To do something like... / Or do such things",
+    "level": "Advanced",
+    "briefDescription": "Used to list one or two representative actions/states as examples. Similar to: -거나 (No. 15).",
+    "featuredExample": "주말에는 보통 잠을 자거나 해요.",
+    "featuredTranslation": "On weekends, I usually do things like sleeping.",
+    "longerExplanation": "Unlike a simple '-거나', adding '하다' at the end makes the action sound more like a general example of a habit or a loose suggestion. It implies 'this is one of the things I do among others.'",
+    "sentenceExamples": [
+      {
+        "kr": "심심할 때는 책을 읽거나 합니다.",
+        "en": "When I'm bored, I do things like reading books."
+      },
+      {
+        "kr": "아프면 약을 먹거나 병원에 가야지.",
+        "en": "If you're sick, you should do things like taking medicine or going to the hospital."
+      },
+      {
+        "kr": "스트레스를 받으면 매운 걸 먹거나 해요.",
+        "en": "When I'm stressed, I do things like eating spicy food."
+      }
+    ],
+    "similarToIds": [
+      15
+    ]
+  },
+  {
+    "grammarId": 332,
+    "name": "N 바람이 불다",
+    "englishMeaning": "A craze for N is blowing / N trend is spreading",
+    "level": "Advanced",
+    "briefDescription": "A metaphorical expression describing a sudden social trend or obsession.",
+    "featuredExample": "요즘 젊은이들 사이에서 운동 바람이 불고 있어요.",
+    "featuredTranslation": "An exercise craze is blowing among young people these days.",
+    "longerExplanation": "Uses the image of 'wind' (바람) to describe a fast-moving social phenomenon. It indicates that a specific activity, product, or mindset has suddenly become very popular.",
+    "sentenceExamples": [
+      {
+        "kr": "해외 주식 투자 바람이 불어서 많은 사람들이 계좌를 만들었죠.",
+        "en": "Since the foreign stock investment craze blew, many people created accounts."
+      },
+      {
+        "kr": "복고풍 패션 바람이 불기 시작했어요.",
+        "en": "A trend for retro fashion has begun to blow."
+      },
+      {
+        "kr": "건강식 바람이 부는 마당에 채식주의자가 늘고 있습니다.",
+        "en": "Under the circumstances where a healthy food trend is blowing, vegetarians are increasing."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 333,
+    "name": "N이자 N",
+    "englishMeaning": "N and also N / Both N and N",
+    "level": "Advanced",
+    "briefDescription": "Used to show that a person or thing has two roles or identities simultaneously.",
+    "featuredExample": "그는 나의 스승이자 친구예요.",
+    "featuredTranslation": "He is my teacher and also my friend.",
+    "longerExplanation": "This particle connects two nouns that describe the same subject. It is commonly used for job titles, relationships, or dual-purpose objects (e.g., 'a bedroom and also a study room').",
+    "sentenceExamples": [
+      {
+        "kr": "이곳은 관광지이자 역사적인 장소입니다.",
+        "en": "This place is a tourist attraction and also a historical site."
+      },
+      {
+        "kr": "그녀는 가수이자 배우로 활동하고 있습니다.",
+        "en": "She is active as both a singer and an actress."
+      },
+      {
+        "kr": "실패는 성공의 어머니이자 가장 좋은 교훈이죠.",
+        "en": "Failure is the mother of success and also the best lesson."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 334,
+    "name": "한편으로(는)",
+    "englishMeaning": "On one hand / On the other hand",
+    "level": "Advanced",
+    "briefDescription": "Used to introduce a different or contrasting perspective on the same topic.",
+    "featuredExample": "기술의 발전이 기쁘기도 하지만 한편으로는 두렵기도 해요.",
+    "featuredTranslation": "Technological progress is joyful, but on the other hand, it's also scary.",
+    "longerExplanation": "This transition word is used to explore the complexity of a situation. After stating one side (A), the speaker uses '한편으로는' to introduce a second, often conflicting, viewpoint (B).",
+    "sentenceExamples": [
+      {
+        "kr": "취직해서 좋으면서도 한편으로는 책임감이 무겁게 느껴집니다.",
+        "en": "While I'm glad to be hired, on the other hand, the sense of responsibility feels heavy."
+      },
+      {
+        "kr": "도심 생활은 편리하지만 한편으로는 공해가 심각하죠.",
+        "en": "City life is convenient, but on the other hand, pollution is serious."
+      },
+      {
+        "kr": "성공이 부럽기도 하지만 한편으로는 그 노력이 대단해 보여요.",
+        "en": "I'm envious of the success, but on the other hand, that effort looks amazing."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 335,
+    "name": "N(이)니 N(이)니 하다",
+    "englishMeaning": "Saying X and Y / Complaining about X and Y",
+    "level": "Advanced",
+    "briefDescription": "Used to describe someone listing multiple reasons, excuses, or complaints. Similar to: -니 -니 하다 (No. 322).",
+    "featuredExample": "바쁘니 시간이 없니 하면서 핑계만 대요.",
+    "featuredTranslation": "They just keep making excuses, saying they are busy or have no time.",
+    "longerExplanation": "This pattern is used to quote various statements made by someone, often with a negative or critical nuance. It suggests that the speaker finds the list of reasons or complaints to be tiresome or insincere.",
+    "sentenceExamples": [
+      {
+        "kr": "돈이 없니 비싸니 해도 결국 살 거잖아요.",
+        "en": "Even though you say you have no money or it's expensive, you're going to buy it anyway."
+      },
+      {
+        "kr": "어렵니 못하겠니 하지 말고 일단 해 보세요.",
+        "en": "Stop saying it's hard or you can't do it, and just try it first."
+      },
+      {
+        "kr": "음식이 짜니 맵니 투덜대면서도 다 먹었네요.",
+        "en": "They grumbled about the food being salty or spicy, yet they ate it all."
+      }
+    ],
+    "similarToIds": [
+      322
+    ]
+  },
+  {
+    "grammarId": 336,
+    "name": "N 여부",
+    "englishMeaning": "Whether or not N / The status of N",
+    "level": "Advanced",
+    "briefDescription": "Used to express the binary possibility of a noun (Success/Failure, Participation/Absence).",
+    "featuredExample": "합격 여부는 내일 홈페이지에서 확인하세요.",
+    "featuredTranslation": "Check the website tomorrow for whether or not you passed.",
+    "longerExplanation": "A formal noun-based structure used in official documents and news. It combines a hanja-based noun with '여부' (Yes/No) to discuss a result that is not yet determined.",
+    "sentenceExamples": [
+      {
+        "kr": "참석 여부를 오늘까지 알려 주시기 바랍니다.",
+        "en": "Please let us know whether or not you will attend by today."
+      },
+      {
+        "kr": "사실 여부가 확인될 때까지 기다려 봅시다.",
+        "en": "Let's wait until the truth of the matter (whether it is a fact or not) is confirmed."
+      },
+      {
+        "kr": "성공 여부에 관계없이 최선을 다했다는 것이 중요해요.",
+        "en": "Regardless of whether it's a success or not, the fact that you did your best is important."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 337,
+    "name": "N을/를 바탕으로",
+    "englishMeaning": "Based on N / Founded on N",
+    "level": "Advanced",
+    "briefDescription": "Indicates that N is the foundation or primary source for a result. Similar to: N에 기초하여.",
+    "featuredExample": "실제 경험을 바탕으로 소설을 썼어요.",
+    "featuredTranslation": "I wrote a novel based on my actual experiences.",
+    "longerExplanation": "This describes the underlying source material or evidence used to create something new. It is a very common phrase in academic writing, reporting, and discussing creative works.",
+    "sentenceExamples": [
+      {
+        "kr": "연구 결과를 바탕으로 대책을 마련해야 합니다.",
+        "en": "We must prepare measures based on the research results."
+      },
+      {
+        "kr": "이 영화는 실화를 바탕으로 제작되었습니다.",
+        "en": "This movie was produced based on a true story."
+      },
+      {
+        "kr": "신뢰를 바탕으로 한 인간관계가 중요합니다.",
+        "en": "Human relationships based on trust are important."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 338,
+    "name": "이상에서 본 바와 같이",
+    "englishMeaning": "As seen from the above / As mentioned earlier",
+    "level": "Advanced",
+    "briefDescription": "A formal transition used to summarize points previously discussed. Similar to: 앞서 말한 것과 같이.",
+    "featuredExample": "이상에서 본 바와 같이 경제 위기는 심각한 수준입니다.",
+    "featuredTranslation": "As seen from the points above, the economic crisis is at a serious level.",
+    "longerExplanation": "A standard academic 'summary' phrase used at the end of a presentation or an essay section. It signals to the reader/listener that you are now drawing a conclusion from the facts presented.",
+    "sentenceExamples": [
+      {
+        "kr": "이상에서 본 바와 같이 우리는 새로운 대안을 찾아야 합니다.",
+        "en": "As discussed above, we must find a new alternative."
+      },
+      {
+        "kr": "이상에서 본 바와 같이 환경 보호는 더 이상 미룰 수 없는 과제입니다.",
+        "en": "As seen above, environmental protection is a task that can no longer be delayed."
+      },
+      {
+        "kr": "이상에서 본 바와 같이 두 제도는 명확한 차이점이 있습니다.",
+        "en": "As seen above, the two systems have clear differences."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 339,
+    "name": "V-(으)ㄴ 후에야 (비로소)",
+    "englishMeaning": "Only after V / Not until V",
+    "level": "Advanced",
+    "briefDescription": "Emphasizes that a result finally happened only after a specific action. Similar to: -아/어서야 (No. 133).",
+    "featuredExample": "사고가 난 후에야 비로소 안전의 소중함을 깨달았어요.",
+    "featuredTranslation": "Only after the accident happened did I finally realize the importance of safety.",
+    "longerExplanation": "Adding '-야' and '비로소' to the standard 'after' pattern (-ㄴ 후에) creates strong emphasis. It suggests a sense of regret or a late realization that Action A was a strict requirement for Action B.",
+    "sentenceExamples": [
+      {
+        "kr": "부모가 된 후에야 부모님의 마음을 이해하게 되었습니다.",
+        "en": "Not until I became a parent did I finally come to understand my parents' hearts."
+      },
+      {
+        "kr": "건강을 잃은 후에야 비로소 규칙적인 운동을 시작했어요.",
+        "en": "Only after losing my health did I finally start exercising regularly."
+      },
+      {
+        "kr": "시험이 끝난 후에야 긴장이 풀렸어요.",
+        "en": "Only after the exam ended did the tension finally release."
+      }
+    ],
+    "similarToIds": [
+      133
+    ]
+  },
+  {
+    "grammarId": 340,
+    "name": "A/V-(으)ㄴ들",
+    "englishMeaning": "Even if... / No matter how... (Rhetorical)",
+    "level": "Advanced",
+    "briefDescription": "Used to say that even if a certain condition is met, the expected result is impossible. Similar to: -아/어도 (No. 8).",
+    "featuredExample": "아무리 후회한들 이미 지나간 일이에요.",
+    "featuredTranslation": "No matter how much you regret it, it's already in the past.",
+    "longerExplanation": "A literary and rhetorical concessive ending. It is often used to emphasize futility. It basically asks: 'Even if [X] is true, what use is it?' or 'How could [X] change the outcome?'",
+    "sentenceExamples": [
+      {
+        "kr": "돈이 많은들 건강을 잃으면 무슨 소용이 있겠어요?",
+        "en": "Even if you have a lot of money, what use is it if you lose your health?"
+      },
+      {
+        "kr": "아무리 예쁜들 성격이 나쁘면 소용없다.",
+        "en": "No matter how pretty one is, it's useless if the personality is bad."
+      },
+      {
+        "kr": "과거를 그리워한들 다시 돌아갈 수는 없다.",
+        "en": "Even if you long for the past, you cannot go back."
+      }
+    ],
+    "similarToIds": [
+      8
+    ]
+  },
+  {
+    "grammarId": 341,
+    "name": "A/V-되",
+    "englishMeaning": "While [X] is true, [Y]... / But...",
+    "level": "Advanced",
+    "briefDescription": "Used to acknowledge the first clause but add a condition or a contrasting point. Similar to: -지만 (No. 162).",
+    "featuredExample": "술을 마시되 지나치게 마시지는 마세요.",
+    "featuredTranslation": "You may drink, but do not drink excessively.",
+    "longerExplanation": "A formal and literary connector. It admits the first fact or gives permission for an action, but immediately follows with a restriction, a command, or a more important consideration in the second clause.",
+    "sentenceExamples": [
+      {
+        "kr": "자유는 누리되 책임은 져야 합니다.",
+        "en": "Enjoy your freedom, but you must take responsibility."
+      },
+      {
+        "kr": "열심히 공부하되 휴식도 잊지 마세요.",
+        "en": "Study hard, but don't forget to rest as well."
+      },
+      {
+        "kr": "지원은 해 주되 간섭은 하지 않는 것이 원칙입니다.",
+        "en": "The principle is to provide support but not to interfere."
+      }
+    ],
+    "similarToIds": [
+      162
+    ]
+  },
+  {
+    "grammarId": 342,
+    "name": "V-노라면",
+    "englishMeaning": "If you keep doing V... / While V-ing...",
+    "level": "Advanced",
+    "briefDescription": "A poetic/literary conditional describing a discovery made through continuous action. Similar to: -다 보면 (No. 165).",
+    "featuredExample": "옛 사진을 보고 있노라면 어린 시절이 생각나요.",
+    "featuredTranslation": "If I stay looking at old photos, I am reminded of my childhood.",
+    "longerExplanation": "Found in songs, poems, and descriptive essays. It suggests that by being in the middle of a continuous state or action, a certain feeling or realization naturally flows in.",
+    "sentenceExamples": [
+      {
+        "kr": "강물을 바라보고 있노라면 마음이 편안해집니다.",
+        "en": "While looking at the river water, my heart becomes peaceful."
+      },
+      {
+        "kr": "열심히 살다 노라면 언젠가는 좋은 날이 오겠죠.",
+        "en": "If you keep living hard, a good day will surely come eventually."
+      },
+      {
+        "kr": "노래를 듣고 있노라면 슬픈 감정이 밀려와요.",
+        "en": "While listening to the song, sad feelings wash over me."
+      }
+    ],
+    "similarToIds": [
+      165
+    ]
+  },
+  {
+    "grammarId": 343,
+    "name": "N은/는 A/V-(으)ㅁ을 말해 주다",
+    "englishMeaning": "N tells/shows that [Clause]...",
+    "level": "Advanced",
+    "briefDescription": "Used to explain the meaning or implication of a specific fact or phenomenon.",
+    "featuredExample": "이 지표는 경제가 회복되고 있음을 말해 줍니다.",
+    "featuredTranslation": "This indicator tells us that the economy is recovering.",
+    "longerExplanation": "A formal way to interpret data or signs. It presents a noun (N) as evidence and explains what truth or state (nominalized clause) that evidence proves.",
+    "sentenceExamples": [
+      {
+        "kr": "그녀의 눈물은 그동안 힘들었음을 말해 주었어요.",
+        "en": "Her tears told us that she had been having a hard time."
+      },
+      {
+        "kr": "이 유적은 당시 문화가 화려했음을 말해 준다.",
+        "en": "These ruins tell us that the culture of that time was magnificent."
+      },
+      {
+        "kr": "낮은 출산율은 사회적 불안이 심각함을 말해 줍니다.",
+        "en": "The low birth rate tells us that social anxiety is serious."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 344,
+    "name": "N에 대한 논란이 있다",
+    "englishMeaning": "There is controversy over N",
+    "level": "Advanced",
+    "briefDescription": "A standard phrase used to introduce a hot topic or a debated subject in news and essays.",
+    "featuredExample": "최근 원자력 발전소 건설에 대한 논란이 있습니다.",
+    "featuredTranslation": "Recently, there is controversy over the construction of nuclear power plants.",
+    "longerExplanation": "Essential for TOPIK II Task 54 (Writing) or discussions. It objectively introduces a topic that has conflicting opinions in society.",
+    "sentenceExamples": [
+      {
+        "kr": "인공지능의 윤리적 가이드라인에 대한 논란이 여전해요.",
+        "en": "Controversy over ethical guidelines for AI still remains."
+      },
+      {
+        "kr": "그 정치인의 발언에 대한 논란이 확산되고 있습니다.",
+        "en": "Controversy over that politician's remarks is spreading."
+      },
+      {
+        "kr": "새로운 교육 정책에 대한 논란이 끊이지 않고 있어요.",
+        "en": "Controversy over the new education policy is unceasing."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 345,
+    "name": "A/V-다는 지적이 있다",
+    "englishMeaning": "It is pointed out that... / There are criticisms that...",
+    "level": "Advanced",
+    "briefDescription": "Used to mention a specific criticism or a problem raised by others (experts/public).",
+    "featuredExample": "이 정책이 대기업에만 유리하다는 지적이 있습니다.",
+    "featuredTranslation": "There are points being made that this policy is only advantageous to large corporations.",
+    "longerExplanation": "A formal way to present a counter-argument or a negative observation without sounding like it is only the speaker's personal opinion. It attributes the point to general observation or experts.",
+    "sentenceExamples": [
+      {
+        "kr": "준비가 너무 부족했다는 지적이 나오고 있어요.",
+        "en": "Criticisms are emerging that the preparation was far too insufficient."
+      },
+      {
+        "kr": "현실을 제대로 반영하지 못한다는 지적이 많습니다.",
+        "en": "There are many points being made that it fails to properly reflect reality."
+      },
+      {
+        "kr": "지나치게 상업적이라는 지적을 피하기 어렵겠네요.",
+        "en": "It will be hard to avoid the criticism that it is excessively commercial."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 346,
+    "name": "A/V-다는 점을 인정하다",
+    "englishMeaning": "To admit the fact that...",
+    "level": "Advanced",
+    "briefDescription": "Used in debates to acknowledge an opponent's point or a general truth before continuing.",
+    "featuredExample": "실수가 있었다는 점을 인정하고 사과했습니다.",
+    "featuredTranslation": "They admitted that there was a mistake and apologized.",
+    "longerExplanation": "A logical tool for argumentation. It shows the speaker is being objective by accepting a certain fact before moving on to their next argument.",
+    "sentenceExamples": [
+      {
+        "kr": "그의 주장이 타당하다는 점을 인정하지 않을 수 없어요.",
+        "en": "I cannot help but admit that his argument is valid."
+      },
+      {
+        "kr": "기술의 편리함이 크다는 점을 인정하면서도 부작용이 걱정돼요.",
+        "en": "While admitting that technology is very convenient, I worry about side effects."
+      },
+      {
+        "kr": "우리가 뒤처져 있다는 점을 인정하고 노력해야 합니다.",
+        "en": "We must admit the fact that we are falling behind and work hard."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 347,
+    "name": "N은/는 물론이려니와",
+    "englishMeaning": "Not to mention N / Not only N but also...",
+    "level": "Advanced",
+    "briefDescription": "A stronger variant of -은 물론이고 (No. 306). Used for formal emphasis.",
+    "featuredExample": "건강은 물론이려니와 경제력도 중요합니다.",
+    "featuredTranslation": "Not to mention health, economic power is also important.",
+    "longerExplanation": "A formal, high-literary additive connector. It emphasizes that the first noun is a given (obvious), and the second noun is equally or more important.",
+    "sentenceExamples": [
+      {
+        "kr": "실력은 물론이려니와 인성까지 갖춘 인재입니다.",
+        "en": "They are a talented person who possesses character, not to mention skills."
+      },
+      {
+        "kr": "한국은 물론이려니와 전 세계적으로 인기가 많아요.",
+        "en": "It's popular worldwide, not to mention in Korea."
+      },
+      {
+        "kr": "이론은 물론이려니와 실기 실력도 아주 뛰어납니다.",
+        "en": "Their practical skills are outstanding, not to mention their theory."
+      }
+    ],
+    "similarToIds": [
+      306
+    ]
+  },
+  {
+    "grammarId": 348,
+    "name": "V-는 추세이다",
+    "englishMeaning": "To be the current trend / To be a growing tendency",
+    "level": "Advanced",
+    "briefDescription": "Used to describe a social or economic direction that is currently happening.",
+    "featuredExample": "요즘은 1인 가구가 증가하는 추세입니다.",
+    "featuredTranslation": "These days, single-person households are a growing trend.",
+    "longerExplanation": "Used in news and reports to analyze social changes. It describes a movement that has been happening for a while and is expected to continue.",
+    "sentenceExamples": [
+      {
+        "kr": "친환경 제품을 선호하는 소비자가 늘고 있는 추세예요.",
+        "en": "Consumers who prefer eco-friendly products are on a growing trend."
+      },
+      {
+        "kr": "물가가 계속해서 오르는 추세라 걱정입니다.",
+        "en": "I'm worried because prices are on a continuing upward trend."
+      },
+      {
+        "kr": "재택근무를 도입하는 기업이 많아지는 추세입니다.",
+        "en": "The number of companies introducing remote work is a growing tendency."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 349,
+    "name": "A/V-았으면/었으면 하다",
+    "englishMeaning": "I would like it if... / I wish for...",
+    "level": "Advanced",
+    "briefDescription": "A softer, more polite way to express a desire or wish. Similar to: -았으면 좋겠다 (No. 3).",
+    "featuredExample": "주말에는 좀 푹 쉬었으면 해요.",
+    "featuredTranslation": "I would like to just rest well on the weekend.",
+    "longerExplanation": "While '-았으면 좋겠다' sounds like a direct hope, '-았으면 하다' sounds more like a personal thought or a humble request. It is often used when suggesting something to a superior or expressing a delicate wish.",
+    "sentenceExamples": [
+      {
+        "kr": "다 같이 행복하게 지냈으면 하는 마음입니다.",
+        "en": "It is my heart's wish that we all live happily together."
+      },
+      {
+        "kr": "조금만 더 신중하게 결정했으면 하네요.",
+        "en": "I would like it if you made the decision just a bit more carefully."
+      },
+      {
+        "kr": "이번 일이 잘 해결되었으면 합니다.",
+        "en": "I wish (would like it if) this matter is resolved well."
+      }
+    ],
+    "similarToIds": [
+      3
+    ]
+  },
+  {
+    "grammarId": 350,
+    "name": "A/V-건 (A/V-건) (간에)",
+    "englishMeaning": "Whether X or Y / Regardless of",
+    "level": "Advanced",
+    "briefDescription": "Used to show that a certain fact or result remains the same regardless of which option is chosen. Similar to: -든지 (No. 116).",
+    "featuredExample": "비가 오건 눈이 오건 간에 우리는 내일 출발할 거예요.",
+    "featuredTranslation": "Whether it rains or snows, we are leaving tomorrow.",
+    "longerExplanation": "A formal and literary version of '-든지'. It lists two contrasting options (often opposites like good/bad, go/stay) to emphasize that the final outcome is not affected by these conditions. '간에' is optional but often added for emphasis.",
+    "sentenceExamples": [
+      {
+        "kr": "성공하건 실패하건 결과는 중요하지 않아요.",
+        "en": "Whether you succeed or fail, the result isn't important."
+      },
+      {
+        "kr": "누가 뭐라고 하건 간에 제 소신대로 하겠습니다.",
+        "en": "No matter what anyone says, I will act according to my convictions."
+      },
+      {
+        "kr": "음식이 맛있건 맛없건 정성이 중요하죠.",
+        "en": "Whether the food is tasty or not, the sincerity is what matters."
+      }
+    ],
+    "similarToIds": [
+      116
+    ]
+  },
+  {
+    "grammarId": 351,
+    "name": "A/V-거니와",
+    "englishMeaning": "Not only... but also... / Furthermore",
+    "level": "Advanced",
+    "briefDescription": "Used to connect two related facts where the second reinforces the first. Similar to: -(으)ㄹ 뿐만 아니라 (No. 103).",
+    "featuredExample": "그는 실력도 좋거니와 성격도 훌륭해요.",
+    "featuredTranslation": "He not only has great skills but also a great personality.",
+    "longerExplanation": "A high-level formal connector used primarily in writing or formal speeches. It adds a second positive or negative fact to the first one. It sounds more objective and authoritative than the standard '-고' or '-아서/어서'.",
+    "sentenceExamples": [
+      {
+        "kr": "날씨가 춥거니와 바람까지 불어서 외출이 힘들어요.",
+        "en": "The weather is cold, and furthermore, it's windy, making it hard to go out."
+      },
+      {
+        "kr": "가격도 저렴하거니와 품질도 뛰어나서 인기가 많습니다.",
+        "en": "It's popular because the price is low and the quality is outstanding."
+      },
+      {
+        "kr": "그는 정직하거니와 책임감도 강한 인재입니다.",
+        "en": "He is an honest person as well as one with a strong sense of responsibility."
+      }
+    ],
+    "similarToIds": [
+      103
+    ]
+  },
+  {
+    "grammarId": 352,
+    "name": "A/V-다손 치더라도",
+    "englishMeaning": "Even if we grant that... / Even assuming that...",
+    "level": "Advanced",
+    "briefDescription": "Used to acknowledge a hypothetical situation but state it wouldn't change the main point. Similar to: -다 해도 (No. 114).",
+    "featuredExample": "아무리 바쁘다손 치더라도 식사는 꼭 하세요.",
+    "featuredTranslation": "Even granting that you are very busy, make sure to eat.",
+    "longerExplanation": "A highly formal concessive pattern used in debates. It allows the speaker to 'give in' to an opponent's point temporarily ('even if I agree that X is true') before asserting their own argument as more important.",
+    "sentenceExamples": [
+      {
+        "kr": "그 소문이 사실이다손 치더라도 그렇게 화를 낼 일은 아니에요.",
+        "en": "Even assuming that rumor is true, it's not something to get that angry about."
+      },
+      {
+        "kr": "실패한다손 치더라도 도전하는 것 자체에 의미가 있습니다.",
+        "en": "Even if we assume failure, there is meaning in the challenge itself."
+      },
+      {
+        "kr": "돈이 많다손 치더라도 건강이 없으면 소용이 없지요.",
+        "en": "Even if one has a lot of money, it's useless without health."
+      }
+    ],
+    "similarToIds": [
+      114
+    ]
+  },
+  {
+    "grammarId": 353,
+    "name": "N은/는 말할 것도 없다",
+    "englishMeaning": "It goes without saying that N / Needless to say...",
+    "level": "Advanced",
+    "briefDescription": "Used to mention a fact that is so obvious it doesn't need explanation. Similar to: -은 물론이고 (No. 306).",
+    "featuredExample": "그는 실력은 말할 것도 없고 인성까지 완벽해요.",
+    "featuredTranslation": "Needless to say he has the skills, his character is even perfect.",
+    "longerExplanation": "A formal idiomatic expression. It implies 'Why even discuss [N]? It's a clear fact.' It is used to quickly establish a consensus before moving to a secondary point that the speaker wants to highlight.",
+    "sentenceExamples": [
+      {
+        "kr": "가족은 말할 것도 없고 친구들도 다 응원하고 있어요.",
+        "en": "It goes without saying that my family is supporting me, but all my friends are too."
+      },
+      {
+        "kr": "서울은 말할 것도 없고 전국적으로 비가 내리고 있습니다.",
+        "en": "Needless to say it's raining in Seoul, it's raining nationwide."
+      },
+      {
+        "kr": "이 책은 스토리는 말할 것도 없고 그림이 정말 아름다워요.",
+        "en": "Needless to say the story is good, the illustrations are truly beautiful."
+      }
+    ],
+    "similarToIds": [
+      306
+    ]
+  },
+  {
+    "grammarId": 354,
+    "name": "V-(으)려고 들다",
+    "englishMeaning": "To be determined to V / To set one's mind to V (often aggressively)",
+    "level": "Advanced",
+    "briefDescription": "Describes someone acting with a very strong, often stubborn or intense intention.",
+    "featuredExample": "그는 어떻게든 이기려고 들어서 대화가 안 돼요.",
+    "featuredTranslation": "He's so determined to win that conversation is impossible.",
+    "longerExplanation": "The verb '들다' adds a nuance of 'plunging into' or 'attacking' an action. It is often used to describe someone who is pushing too hard for a goal or acting based on a strong, singular motivation.",
+    "sentenceExamples": [
+      {
+        "kr": "아이가 장난감을 다 가지려고 들어서 걱정이에요.",
+        "en": "I'm worried because the child is determined to have all the toys."
+      },
+      {
+        "kr": "잘못을 감추려고 들면 나중에 더 큰 문제가 됩니다.",
+        "en": "If you set your mind to hiding a mistake, it will become a bigger problem later."
+      },
+      {
+        "kr": "모든 일을 혼자서 다 해내려고 들지 마세요.",
+        "en": "Don't try (be so determined) to do everything all by yourself."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 355,
+    "name": "A/V-(으)리라",
+    "englishMeaning": "I guess/think/will... (Strong conviction/Future)",
+    "level": "Advanced",
+    "briefDescription": "A formal/literary ending expressing a strong future guess or the speaker's firm will.",
+    "featuredExample": "노력하면 반드시 성공하리라 믿습니다.",
+    "featuredTranslation": "I believe that if you work hard, you will surely succeed.",
+    "longerExplanation": "Found in classic literature, speeches, and formal resolutions. It is a more 'authoritative' and poetic version of '-(으)ㄹ 것이다'. It sounds like a prophecy or a deep inner conviction.",
+    "sentenceExamples": [
+      {
+        "kr": "그날이 오면 모두가 기뻐하리라.",
+        "en": "When that day comes, everyone shall rejoice."
+      },
+      {
+        "kr": "다시는 이런 실수를 하지 않으리라 결심했어요.",
+        "en": "I resolved that I will never make this kind of mistake again."
+      },
+      {
+        "kr": "언젠가는 진실이 밝혀지리라고 생각해요.",
+        "en": "I think that someday the truth will be revealed."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 356,
+    "name": "V-자",
+    "englishMeaning": "As soon as / Right after",
+    "level": "Advanced",
+    "briefDescription": "Indicates that the action in the second clause happens immediately after the first. Similar to: -자마자 (No. 98).",
+    "featuredExample": "집에 도착하자 전화를 걸었어요.",
+    "featuredTranslation": "As soon as I arrived home, I made a call.",
+    "longerExplanation": "A concise, formal version of '-자마자'. It is frequently used in news headlines and historical narratives to show a quick succession of events. Unlike '-자마자', it is more often used in written contexts.",
+    "sentenceExamples": [
+      {
+        "kr": "수업이 끝나자 학생들이 밖으로 나갔습니다.",
+        "en": "As soon as class ended, the students went outside."
+      },
+      {
+        "kr": "비가 그치자 무지개가 떴어요.",
+        "en": "Right after the rain stopped, a rainbow appeared."
+      },
+      {
+        "kr": "그 소식을 듣자 눈물이 쏟아졌어요.",
+        "en": "As soon as I heard that news, tears poured out."
+      }
+    ],
+    "similarToIds": [
+      98
+    ]
+  },
+  {
+    "grammarId": 357,
+    "name": "N(으)로 보다",
+    "englishMeaning": "To view as N / To regard as N",
+    "level": "Advanced",
+    "briefDescription": "Used to express a perspective or a standard of judgment.",
+    "featuredExample": "저는 이 문제를 기회로 보고 있습니다.",
+    "featuredTranslation": "I am viewing this problem as an opportunity.",
+    "longerExplanation": "Used when analyzing a situation or person. It defines the 'lens' through which the subject is interpreted. It is a formal way to state an opinion (e.g., 'I see this as a success').",
+    "sentenceExamples": [
+      {
+        "kr": "많은 학자들이 이 현상을 긍정적으로 보고 있어요.",
+        "en": "Many scholars are viewing this phenomenon positively."
+      },
+      {
+        "kr": "그 사건을 단순한 실수로 보기는 어렵습니다.",
+        "en": "It's hard to regard that incident as a simple mistake."
+      },
+      {
+        "kr": "실패를 성공의 과정으로 보는 태도가 필요해요.",
+        "en": "An attitude of viewing failure as a process of success is necessary."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 358,
+    "name": "A-(으)ㄴ/V-는 가운데",
+    "englishMeaning": "Amidst... / In the middle of...",
+    "level": "Advanced",
+    "briefDescription": "Describes the background state or ongoing situation while something else happens. Similar to: -는 중에.",
+    "featuredExample": "바쁜 가운데 참석해 주셔서 감사합니다.",
+    "featuredTranslation": "Thank you for attending amidst your busy schedule.",
+    "longerExplanation": "A formal way to set the scene. It describes a 'surrounding atmosphere' or a 'simultaneous condition.' It is very common in official greetings, news reports, and formal event openings.",
+    "sentenceExamples": [
+      {
+        "kr": "폭우가 내리는 가운데 구조 작업이 진행되었습니다.",
+        "en": "Rescue operations were carried out amidst heavy rain."
+      },
+      {
+        "kr": "경기가 안 좋은 가운데 물가만 오르고 있어요.",
+        "en": "While the economy is bad (amidst a bad economy), only prices are rising."
+      },
+      {
+        "kr": "모두가 긴장한 가운데 결과가 발표되었습니다.",
+        "en": "The results were announced amidst everyone being tense."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 359,
+    "name": "V-(으)ㄹ래야 V-(으)ㄹ 수(가) 없다",
+    "englishMeaning": "Even if I want to V, I cannot / Impossible to V",
+    "level": "Advanced",
+    "briefDescription": "A strong, emphatic expression of total inability to do an action.",
+    "featuredExample": "너무 시끄러워서 집중할래야 할 수가 없어요.",
+    "featuredTranslation": "It's so noisy that even if I want to concentrate, I absolutely cannot.",
+    "longerExplanation": "This repeats the verb to emphasize that the speaker's 'will' (intent to do V) is being completely blocked by circumstances. It sounds more frustrated and definitive than a simple '할 수 없다'.",
+    "sentenceExamples": [
+      {
+        "kr": "돈이 없어서 그 옷은 살래야 살 수가 없네요.",
+        "en": "I have no money, so even if I wanted to buy those clothes, I just can't."
+      },
+      {
+        "kr": "시간이 부족해서 다 끝낼래야 끝낼 수가 없었습니다.",
+        "en": "Time was so short that I couldn't finish it all even if I tried."
+      },
+      {
+        "kr": "너무 닮아서 구별할래야 할 수가 없더라고요.",
+        "en": "They look so much alike that I couldn't distinguish them even if I wanted to."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 360,
+    "name": "어찌나 A/V-던지",
+    "englishMeaning": "It was so A/V that... (Past emphasis)",
+    "level": "Advanced",
+    "briefDescription": "Used to recall and emphasize the extreme degree of a past state. Similar to: 어찌나 -는지 (No. 252).",
+    "featuredExample": "어제는 어찌나 춥던지 얼어 죽는 줄 알았어요.",
+    "featuredTranslation": "It was so cold yesterday that I thought I was going to freeze to death.",
+    "longerExplanation": "The combination of '어찌나' and '-던지' creates a strong retrospective exclamation. The speaker is looking back at a past scene and describing how overwhelming or surprising the intensity of that moment was.",
+    "sentenceExamples": [
+      {
+        "kr": "그 영화가 어찌나 슬프던지 엉엉 울고 말았어요.",
+        "en": "That movie was so sad that I ended up crying my eyes out."
+      },
+      {
+        "kr": "아이가 어찌나 잘 먹던지 보기만 해도 배가 불렀어요.",
+        "en": "The child ate so well that I felt full just watching."
+      },
+      {
+        "kr": "어찌나 길이 막히던지 평소보다 2시간이나 더 걸렸어요.",
+        "en": "The traffic was so bad that it took two hours longer than usual."
+      }
+    ],
+    "similarToIds": [
+      252
+    ]
+  },
+  {
+    "grammarId": 361,
+    "name": "A-(으)ㄴ/V-는 데(에) 반해",
+    "englishMeaning": "Whereas... / In contrast to...",
+    "level": "Advanced",
+    "briefDescription": "Used to strongly contrast two different facts or situations. Similar to: -는 반면에 (No. 112).",
+    "featuredExample": "형은 공부를 좋아하는 데 반해 동생은 운동을 좋아해요.",
+    "featuredTranslation": "Whereas the older brother likes studying, the younger brother likes sports.",
+    "longerExplanation": "A formal contrastive connector. It is often used in comparative analysis or essays to highlight a sharp difference between two subjects or two time periods.",
+    "sentenceExamples": [
+      {
+        "kr": "물가는 비싼 데 반해 소득은 제자리걸음입니다.",
+        "en": "While prices are expensive, income is at a standstill."
+      },
+      {
+        "kr": "수출은 증가한 데 반해 내수 시장은 여전히 침체되어 있어요.",
+        "en": "In contrast to exports increasing, the domestic market is still stagnant."
+      },
+      {
+        "kr": "그는 겉은 차가운 데 반해 속은 아주 따뜻한 사람이에요.",
+        "en": "Whereas he looks cold on the outside, he is a very warm person inside."
+      }
+    ],
+    "similarToIds": [
+      112
+    ]
+  },
+  {
+    "grammarId": 362,
+    "name": "V-(으)ㅁ에 따라",
+    "englishMeaning": "As V happens... / In accordance with V...",
+    "level": "Advanced",
+    "briefDescription": "Shows that one result changes or happens as a direct consequence of an action's progress. Similar to: -아/어감에 따라.",
+    "featuredExample": "기술이 발전함에 따라 우리의 삶도 변하고 있습니다.",
+    "featuredTranslation": "As technology develops, our lives are also changing.",
+    "longerExplanation": "Used in formal logic to show a proportional change. As Action A progresses or develops, Situation B follows that same trajectory. It is standard for scientific and sociological reporting.",
+    "sentenceExamples": [
+      {
+        "kr": "인구가 고령화됨에 따라 새로운 사회 문제가 발생하고 있어요.",
+        "en": "As the population ages, new social problems are occurring."
+      },
+      {
+        "kr": "시간이 흐름에 따라 오해도 서서히 풀리기 마련입니다.",
+        "en": "As time flows, it's natural that misunderstandings gradually resolve."
+      },
+      {
+        "kr": "경제 상황이 변함에 따라 투자 전략도 달라져야 합니다.",
+        "en": "As the economic situation changes, investment strategies must also vary."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 363,
+    "name": "V-(으)ㄹ 바에는 [바에야] (차라리)",
+    "englishMeaning": "Rather than V / If you're going to V anyway",
+    "level": "Advanced",
+    "briefDescription": "Used when choosing a better option among poor choices. Similar to: -느니 차라리 (No. 169).",
+    "featuredExample": "그렇게 대충 할 바에는 차라리 시작을 하지 마세요.",
+    "featuredTranslation": "If you're going to do it so half-heartedly, you'd be better off not starting at all.",
+    "longerExplanation": "This is a strong expression of preference. It acknowledges a situation or choice in the first clause but suggests that if that is the case, an alternative (often an extreme one) is much better. It carries a tone of advice or stern warning.",
+    "sentenceExamples": [
+      {
+        "kr": "비싼 돈을 주고 살 바에야 직접 만드는 게 낫겠어요.",
+        "en": "Rather than paying a lot of money to buy it, it would be better to make it myself."
+      },
+      {
+        "kr": "포기할 바에는 죽을 힘을 다해 노력해 보겠어.",
+        "en": "Rather than giving up, I will try with all my might."
+      },
+      {
+        "kr": "지각해서 혼날 바에야 아예 안 가는 게 나을지도 몰라.",
+        "en": "If I'm going to get in trouble for being late anyway, it might be better not to go at all."
+      }
+    ],
+    "similarToIds": [
+      169
+    ]
+  },
+  {
+    "grammarId": 364,
+    "name": "A-(으)ㄴ/V-는 까닭에 [까닭으로]",
+    "englishMeaning": "Because / For the reason that",
+    "level": "Advanced",
+    "briefDescription": "A highly formal and literary way to state a reason. Similar to: -기 때문에 (No. 26).",
+    "featuredExample": "준비가 부족했던 까닭에 사고를 막지 못했습니다.",
+    "featuredTranslation": "Because the preparation was insufficient, the accident could not be prevented.",
+    "longerExplanation": "'까닭' is a formal noun meaning 'reason' or 'cause.' Using this structure makes the sentence sound very objective and analytical. It is common in history books, formal reports, and news editorials.",
+    "sentenceExamples": [
+      {
+        "kr": "날씨가 험악한 까닭에 배가 출항하지 못하고 있어요.",
+        "en": "For the reason that the weather is harsh, the ship is unable to set sail."
+      },
+      {
+        "kr": "그가 정직하지 못한 까닭으로 신뢰를 잃고 말았습니다.",
+        "en": "Because he was not honest, he ended up losing everyone's trust."
+      },
+      {
+        "kr": "경기가 침체된 까닭에 소비가 위축되고 있습니다.",
+        "en": "Due to the economic recession, consumption is shrinking."
+      }
+    ],
+    "similarToIds": [
+      26
+    ]
+  },
+  {
+    "grammarId": 365,
+    "name": "A/V-다 뿐이지",
+    "englishMeaning": "It's just that... / The only difference is...",
+    "level": "Advanced",
+    "briefDescription": "Used to show that two things are essentially the same, with only a minor or specific difference.",
+    "featuredExample": "이름만 다르다 뿐이지 사실상 같은 제품이에요.",
+    "featuredTranslation": "The only difference is the name; it's practically the same product.",
+    "longerExplanation": "This pattern emphasizes that Action A and Action B (or State A and B) are equivalent in essence. It highlights that the only 'remaining' factor is the one mentioned in the first clause.",
+    "sentenceExamples": [
+      {
+        "kr": "말을 안 한다 뿐이지 속으로는 다 알고 있을 거야.",
+        "en": "It's just that they aren't speaking; they likely know everything inside."
+      },
+      {
+        "kr": "시간이 좀 걸린다 뿐이지 누구나 할 수 있는 일입니다.",
+        "en": "The only thing is that it takes some time; it's work anyone can do."
+      },
+      {
+        "kr": "표현 방식이 다르다 뿐이지 두 사람의 생각은 같습니다.",
+        "en": "It's just that their ways of expression are different; their thoughts are the same."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 366,
+    "name": "V-기란",
+    "englishMeaning": "As for doing V / The act of V-ing is...",
+    "level": "Advanced",
+    "briefDescription": "Used to emphasize a verb as the subject of a sentence, often describing it as difficult. Similar to: V-는 것은.",
+    "featuredExample": "매일 꾸준히 운동하기란 쉽지 않은 일이에요.",
+    "featuredTranslation": "As for exercising steadily every day, it is no easy task.",
+    "longerExplanation": "This is a contraction of '-기라는 것은'. It singles out a specific action and presents it as a topic for evaluation. It is almost always followed by an adjective describing the difficulty or nature of that action.",
+    "sentenceExamples": [
+      {
+        "kr": "외국어로 농담을 하기란 여간 어려운 게 아닙니다.",
+        "en": "As for making jokes in a foreign language, it is extraordinarily difficult."
+      },
+      {
+        "kr": "실패를 인정하기란 누구에게나 고통스러운 과정이죠.",
+        "en": "Admitting failure is a painful process for anyone."
+      },
+      {
+        "kr": "진실을 밝히기란 때로는 용기가 필요한 법입니다.",
+        "en": "Revealing the truth is an act that naturally requires courage sometimes."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 367,
+    "name": "A/V-(으)ㄹ지라도",
+    "englishMeaning": "Even if / Even though (Ultra-Formal)",
+    "level": "Advanced",
+    "briefDescription": "A strong concessive connector used for hypothetical or extreme situations. Similar to: -아/어도 (No. 8).",
+    "featuredExample": "아무리 힘들지라도 결코 포기하지 않겠어.",
+    "featuredTranslation": "No matter how hard it may be, I will never give up.",
+    "longerExplanation": "A high-level formal version of '-아/어도'. It is used to express a firm resolve or an absolute fact that remains true despite a significant obstacle or a hypothetical 'worst-case' scenario.",
+    "sentenceExamples": [
+      {
+        "kr": "비바람이 칠지라도 우리는 전진해야 합니다.",
+        "en": "Even if the wind and rain lash down, we must move forward."
+      },
+      {
+        "kr": "그가 나를 배신할지라도 나는 그를 원망하지 않겠다.",
+        "en": "Even if he were to betray me, I would not resent him."
+      },
+      {
+        "kr": "세월이 흐를지라도 우리의 우정은 변하지 않을 거예요.",
+        "en": "Even though time flows, our friendship will not change."
+      }
+    ],
+    "similarToIds": [
+      8
+    ]
+  },
+  {
+    "grammarId": 368,
+    "name": "V-고서는",
+    "englishMeaning": "Only after doing V / Unless V happens...",
+    "level": "Advanced",
+    "briefDescription": "Indicates that the first action is a mandatory prerequisite for the second. Similar to: -고 나서야 (No. 185).",
+    "featuredExample": "직접 먹어 보고서는 그 맛을 평가할 수 없어요.",
+    "featuredTranslation": "Unless you try eating it yourself, you cannot evaluate the taste.",
+    "longerExplanation": "Often used in negative sentences to show that without completing the first action, the second state or result is impossible. It stresses the dependency of the result on the preceding action.",
+    "sentenceExamples": [
+      {
+        "kr": "범인을 잡고서는 이 사건을 끝낼 수 없습니다.",
+        "en": "Unless we catch the culprit, we cannot end this case."
+      },
+      {
+        "kr": "돈을 벌고서는 사고 싶은 걸 다 살 거예요.",
+        "en": "Only after earning money will I buy everything I want."
+      },
+      {
+        "kr": "공부를 하지 않고서는 성공하기 어려운 법입니다.",
+        "en": "It is natural that it's hard to succeed without studying."
+      }
+    ],
+    "similarToIds": [
+      185
+    ]
+  },
+  {
+    "grammarId": 369,
+    "name": "V-게끔",
+    "englishMeaning": "So that / In order to (Directional)",
+    "level": "Advanced",
+    "briefDescription": "Indicates a goal or a desired state for an action. Similar to: -게 (No. 22).",
+    "featuredExample": "모두가 들을 수 있게끔 크게 말씀해 주세요.",
+    "featuredTranslation": "Please speak loudly so that everyone can hear.",
+    "longerExplanation": "Adding '-끔' to the purpose connector '-게' adds a nuance of 'reaching a specific point' or 'ensuring a certain result.' It is often used when giving instructions to achieve a specific outcome.",
+    "sentenceExamples": [
+      {
+        "kr": "아이가 잘 수 있게끔 방을 어둡게 해 주세요.",
+        "en": "Make the room dark so that the baby can sleep."
+      },
+      {
+        "kr": "늦지 않게끔 미리 준비하는 것이 좋겠어요.",
+        "en": "It's best to prepare in advance so as not to be late."
+      },
+      {
+        "kr": "오해가 없게끔 사실대로 다 말했습니다.",
+        "en": "I told everything truthfully so that there would be no misunderstanding."
+      }
+    ],
+    "similarToIds": [
+      22
+    ]
+  },
+  {
+    "grammarId": 370,
+    "name": "A-기(가) 이를 데 없다",
+    "englishMeaning": "To be incomparably A / To be A beyond words",
+    "level": "Advanced",
+    "briefDescription": "Used to describe an extreme state, usually a positive one. Similar to: -기 짝이 없다 (No. 301).",
+    "featuredExample": "그의 성공 소식은 기쁘기 이를 데 없었습니다.",
+    "featuredTranslation": "The news of his success was joyful beyond words.",
+    "longerExplanation": "Literally 'there is no place to reach (the end of A).' While '-기 짝이 없다' is often used for negative states, '-기 이를 데 없다' is frequently used for positive or magnificent descriptions (beauty, joy, honor).",
+    "sentenceExamples": [
+      {
+        "kr": "경치가 아름답기 이를 데 없어서 감탄했어요.",
+        "en": "I was in awe because the scenery was incomparably beautiful."
+      },
+      {
+        "kr": "그분의 인품은 훌륭하기 이를 데 없습니다.",
+        "en": "His character is excellent beyond compare."
+      },
+      {
+        "kr": "이런 큰 상을 받게 되어 영광스럽기 이를 데 없네요.",
+        "en": "It is a joy beyond words to receive such a great award."
+      }
+    ],
+    "similarToIds": [
+      301
+    ]
+  },
+  {
+    "grammarId": 371,
+    "name": "N더러",
+    "englishMeaning": "To (someone) / Toward (someone)",
+    "level": "Advanced",
+    "briefDescription": "A particle used when the speaker is quoting a command or request to a specific person. Similar to: N한테/에게.",
+    "featuredExample": "엄마가 동생더러 심부름을 갔다 오라고 하셨어요.",
+    "featuredTranslation": "Mom told my younger sibling to go on an errand.",
+    "longerExplanation": "Used primarily with verbs of 'saying,' 'asking,' or 'ordering' (말하다, 시키다, 부탁하다). It is informal but very common when relaying instructions directed at a third person.",
+    "sentenceExamples": [
+      {
+        "kr": "누구더러 바보라고 하는 거야?",
+        "en": "Who are you calling a fool?"
+      },
+      {
+        "kr": "선생님이 학생들더러 조용히 하라고 하셨습니다.",
+        "en": "The teacher told the students to be quiet."
+      },
+      {
+        "kr": "친구더러 같이 가자고 졸랐어요.",
+        "en": "I pestered my friend to go with me."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 372,
+    "name": "N이/가 다 뭐예요?",
+    "englishMeaning": "What do you mean N? / N is the least of my worries",
+    "level": "Advanced",
+    "briefDescription": "Used to dismiss a noun as being irrelevant or insufficient compared to a much larger problem.",
+    "featuredExample": "칭찬이 다 뭐예요? 욕만 안 먹으면 다행이죠.",
+    "featuredTranslation": "What do you mean 'praise'? I'm just lucky I'm not getting insulted.",
+    "longerExplanation": "A rhetorical question used to show that a certain expectation is far-fetched or trivial given the harsh reality of the current situation. It emphasizes a sense of frustration or a gap between hope and reality.",
+    "sentenceExamples": [
+      {
+        "kr": "휴가가 다 뭐예요? 일주일 내내 야근하느라고 정신없어요.",
+        "en": "What do you mean 'vacation'? I'm out of my mind working overtime all week."
+      },
+      {
+        "kr": "다이어트가 다 뭐예요? 배고파서 죽겠는데.",
+        "en": "What do you mean 'dieting'? I'm starving to death here."
+      },
+      {
+        "kr": "사과가 다 뭐예요? 이미 늦었다니까요.",
+        "en": "What do you mean 'apology'? I told you it's already too late."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 373,
+    "name": "N은/는 고사하고",
+    "englishMeaning": "Let alone N / Setting aside N",
+    "level": "Advanced",
+    "briefDescription": "Used to say that even a basic or easier thing is impossible. Similar to: -은/는커녕 (No. 109).",
+    "featuredExample": "밥은 고사하고 물 한 모금도 못 마셨어요.",
+    "featuredTranslation": "Let alone a meal, I couldn't even drink a sip of water.",
+    "longerExplanation": "A formal and emphatic version of '-은/는커녕'. It essentially means that the first noun is a luxury or a high expectation that cannot even be considered because even something much simpler is failing.",
+    "sentenceExamples": [
+      {
+        "kr": "칭찬은 고사하고 혼만 나지 않으면 좋겠어요.",
+        "en": "Let alone being praised, I just hope I don't get in trouble."
+      },
+      {
+        "kr": "해외여행은 고사하고 국내 여행 갈 시간도 없어요.",
+        "en": "Let alone traveling abroad, I don't even have time to travel domestically."
+      },
+      {
+        "kr": "결혼은 고사하고 연애할 여유조차 없습니다.",
+        "en": "Let alone getting married, I don't even have the luxury to date."
+      }
+    ],
+    "similarToIds": [
+      109
+    ]
+  },
+  {
+    "grammarId": 374,
+    "name": "A/V-든지 A/V-든지 하다",
+    "englishMeaning": "Either do X or do Y (specifically)",
+    "level": "Advanced",
+    "briefDescription": "Used to suggest or describe a choice between two actions to resolve a situation. Similar to: -거나 -거나 하다 (No. 331).",
+    "featuredExample": "모르면 물어보든지 책을 찾아보든지 하세요.",
+    "featuredTranslation": "If you don't know, either ask or look it up in a book.",
+    "longerExplanation": "While '-든지' (No. 116) usually shows indifference, this full pattern '-든지 -든지 하다' is used to offer a concrete range of solutions or to describe someone's alternating behaviors. It sounds more decisive and instructional.",
+    "sentenceExamples": [
+      {
+        "kr": "비가 오면 실내에서 놀든지 영화를 보든지 합시다.",
+        "en": "If it rains, let's either play indoors or watch a movie."
+      },
+      {
+        "kr": "사과를 하든지 해명을 하든지 해야 할 것 같아요.",
+        "en": "You should either apologize or give an explanation."
+      },
+      {
+        "kr": "공부를 하든지 잠을 자든지 하나만 선택해.",
+        "en": "Either study or sleep; just pick one."
+      }
+    ],
+    "similarToIds": [
+      331,
+      116
+    ]
+  },
+  {
+    "grammarId": 375,
+    "name": "N와/과 맞먹다",
+    "englishMeaning": "To be on par with N / To be equal to N",
+    "level": "Advanced",
+    "briefDescription": "A descriptive phrase used to show that a value or status is equivalent to a high standard.",
+    "featuredExample": "이 아파트 가격은 서울 도심의 집값과 맞먹습니다.",
+    "featuredTranslation": "The price of this apartment is on par with housing prices in downtown Seoul.",
+    "longerExplanation": "Used when comparing two things to emphasize how great or significant the first one is by equating it to a well-known high standard. Often used in economic contexts regarding prices or capabilities.",
+    "sentenceExamples": [
+      {
+        "kr": "그의 실력은 전문가와 맞먹을 정도로 뛰어납니다.",
+        "en": "His skills are outstanding to the point of being on par with an expert."
+      },
+      {
+        "kr": "한 달 월급이 웬만한 자동차 가격과 맞먹네요.",
+        "en": "One month's salary is equal to the price of a decent car."
+      },
+      {
+        "kr": "작은 중소기업의 매출이 대기업과 맞먹는 수준입니다.",
+        "en": "The sales of that small business are at a level equal to a large corporation."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 376,
+    "name": "설령 [설사/가령] A/V-다(고) 해도",
+    "englishMeaning": "Even assuming that... / Even if we suppose...",
+    "level": "Advanced",
+    "briefDescription": "An emphatic concessive connector for extreme hypothetical situations. Similar to: -다손 치더라도 (No. 352).",
+    "featuredExample": "설령 실패한다고 해도 다시 일어설 용기가 있습니다.",
+    "featuredTranslation": "Even assuming I fail, I have the courage to stand up again.",
+    "longerExplanation": "This is a formal 'worst-case scenario' conditional. The adverbs '설령' or '설사' add a strong rhetorical weight, implying that even if the most unlikely or negative event were to happen, the speaker's resolve remains unchanged.",
+    "sentenceExamples": [
+      {
+        "kr": "설사 그게 사실이라 해도 나는 너를 믿을 거야.",
+        "en": "Even if that were the truth, I would still believe you."
+      },
+      {
+        "kr": "설령 비바람이 칠지라도 우리의 행진은 계속됩니다.",
+        "en": "Even assuming it storms, our march will continue."
+      },
+      {
+        "kr": "가령 지구가 멸망한다 해도 오늘 할 일을 하겠습니다.",
+        "en": "Suppose the world ends; I will still do what I must today."
+      }
+    ],
+    "similarToIds": [
+      352
+    ]
+  },
+  {
+    "grammarId": 377,
+    "name": "V-(으)ㄹ라치면",
+    "englishMeaning": "Whenever one tries to V / Every time I'm about to V",
+    "level": "Advanced",
+    "briefDescription": "Used to describe a situation that consistently happens whenever the subject intends to do an action.",
+    "featuredExample": "공부를 하려라치면 꼭 친구한테 전화가 와요.",
+    "featuredTranslation": "Whenever I'm about to start studying, a friend always calls me.",
+    "longerExplanation": "A conversational but advanced conditional. It focuses on the recurring nature of an obstacle or event that interrupts an intended action. It implies a sense of irony or annoyance.",
+    "sentenceExamples": [
+      {
+        "kr": "외출을 하려라치면 갑자기 비가 쏟아지곤 해요.",
+        "en": "Every time I'm about to go out, it suddenly pours with rain."
+      },
+      {
+        "kr": "다이어트를 시작하려라치면 맛있는 게 눈에 띄네요.",
+        "en": "Whenever I try to start a diet, delicious food catches my eye."
+      },
+      {
+        "kr": "책을 좀 읽으려라치면 아이가 울기 시작해요.",
+        "en": "Every time I try to read a book, the baby starts crying."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 378,
+    "name": "A/V-다고 할 것까지는 [할 것까지야] 없다",
+    "englishMeaning": "It's not to the extent that one would call it... / Not quite X",
+    "level": "Advanced",
+    "briefDescription": "Used to downplay a description, saying it doesn't reach a certain extreme label.",
+    "featuredExample": "화가 났다고 할 것까지는 없지만 좀 서운하긴 해요.",
+    "featuredTranslation": "It's not that I'm angry exactly, but I am a bit hurt.",
+    "longerExplanation": "Used for precise communication. It acknowledges that a situation is close to a certain label (like 'expert' or 'angry') but clarifies that the degree is actually lower or less serious than that word implies.",
+    "sentenceExamples": [
+      {
+        "kr": "전문가라고 할 것까지는 없지만 웬만한 건 다 압니다.",
+        "en": "I wouldn't go as far as to call myself an expert, but I know most things."
+      },
+      {
+        "kr": "비싸다고 할 것까지야 없지만 저렴한 편도 아니에요.",
+        "en": "It's not exactly expensive, but it's not cheap either."
+      },
+      {
+        "kr": "성공이라고 할 것까지는 없어도 큰 진전이었습니다.",
+        "en": "Even if you can't call it a success yet, it was great progress."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 379,
+    "name": "A/V-다고 치다",
+    "englishMeaning": "Let's assume that... / Even if we suppose...",
+    "level": "Advanced",
+    "briefDescription": "Used to temporarily accept an opponent's premise in an argument. Similar to: -다고 가정하다.",
+    "featuredExample": "그 말이 맞다고 치고, 다음 문제는 어떻게 할 거예요?",
+    "featuredTranslation": "Let's assume you're right; what are you going to do about the next problem?",
+    "longerExplanation": "A common debate pattern. It allows a speaker to move past a disputed point by 'conceding' it for the sake of the current discussion, usually to point out a different, larger problem.",
+    "sentenceExamples": [
+      {
+        "kr": "돈이 많다고 칩시다. 행복은 살 수 있나요?",
+        "en": "Let's say (assume) you have lots of money. Can you buy happiness?"
+      },
+      {
+        "kr": "과거는 잊었다고 치고 우리 새로 시작해요.",
+        "en": "Let's assume the past is forgotten and start anew."
+      },
+      {
+        "kr": "실수였다고 치더라도 책임은 지셔야 합니다.",
+        "en": "Even if we assume it was a mistake, you must take responsibility."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 380,
+    "name": "V-(으)ㄹ 리 만무하다",
+    "englishMeaning": "There is absolutely no reason for V / Completely impossible",
+    "level": "Advanced",
+    "briefDescription": "A highly formal and strongest possible denial of a fact. Similar to: -(으)ㄹ 리가 없다 (No. 96).",
+    "featuredExample": "그 정직한 사람이 거짓말을 했을 리 만무합니다.",
+    "featuredTranslation": "There is absolutely no reason that such an honest person would have lied.",
+    "longerExplanation": "'만무하다' means 'to not exist at all.' Combining this with '리' (reason) creates an absolute logical wall. It is frequently used in legal judgments, logic-heavy essays, and news analysis.",
+    "sentenceExamples": [
+      {
+        "kr": "그 소문이 진실일 리 만무하다는 증거가 나왔어요.",
+        "en": "Evidence has emerged that it's impossible for that rumor to be true."
+      },
+      {
+        "kr": "아무런 노력 없이 성공할 리 만무하지요.",
+        "en": "There is absolutely no way to succeed without any effort."
+      },
+      {
+        "kr": "그가 약속을 잊었을 리 만무하니 조금 더 기다려 봅시다.",
+        "en": "It is completely impossible that he forgot the promise, so let's wait a bit longer."
+      }
+    ],
+    "similarToIds": [
+      96
+    ]
+  },
+  {
+    "grammarId": 381,
+    "name": "A/V-던 차에 [차이다]",
+    "englishMeaning": "Just as I was... / At the moment of...",
+    "level": "Advanced",
+    "briefDescription": "Describes the exact moment an intended action was about to happen or was in progress. Similar to: -(으)려던 참에 (No. 104).",
+    "featuredExample": "배가 고프던 차에 친구가 피자를 사 왔어요.",
+    "featuredTranslation": "Just as I was feeling hungry, my friend bought pizza.",
+    "longerExplanation": "'차' refers to a specific timing or opportunity. This structure indicates that the situation in the second clause happened exactly when the speaker was in the state or action of the first clause.",
+    "sentenceExamples": [
+      {
+        "kr": "은행에 가려던 차에 비가 오기 시작했어요.",
+        "en": "Just as I was about to go to the bank, it started to rain."
+      },
+      {
+        "kr": "심심하던 차에 잘 왔어. 같이 게임하자.",
+        "en": "You came at the perfect time (just as I was bored). Let's play a game."
+      },
+      {
+        "kr": "고민하던 차에 당신의 조언이 큰 도움이 됐습니다.",
+        "en": "Your advice was a big help just when I was agonizing over it."
+      }
+    ],
+    "similarToIds": [
+      104
+    ]
+  },
+  {
+    "grammarId": 382,
+    "name": "A/V-(으)ㄹ 성싶다",
+    "englishMeaning": "I guess... / It seems likely that...",
+    "level": "Advanced",
+    "briefDescription": "A literary and slightly archaic-sounding conjecture. Similar to: -(으)ㄹ 것 같다 (No. 1).",
+    "featuredExample": "내일은 비가 올 성싶은 날씨네요.",
+    "featuredTranslation": "The weather looks like it might rain tomorrow.",
+    "longerExplanation": "Found in classic literature or used by older generations to express a thoughtful guess. It sounds more gentle and speculative than the standard '-것 같다.'",
+    "sentenceExamples": [
+      {
+        "kr": "이제야 오해가 풀릴 성싶습니다.",
+        "en": "It seems likely that the misunderstanding will finally be resolved."
+      },
+      {
+        "kr": "그의 말이 사실일 성싶어 마음이 놓여요.",
+        "en": "I feel relieved as it seems likely his words are true."
+      },
+      {
+        "kr": "머지않아 좋은 소식이 들려올 성싶군요.",
+        "en": "It seems likely that good news will be heard before long."
+      }
+    ],
+    "similarToIds": [
+      1
+    ]
+  },
+  {
+    "grammarId": 383,
+    "name": "(비록/차라리) A/V-(으)ㄹ지언정",
+    "englishMeaning": "Even if / Although... (I will still/never...)",
+    "level": "Advanced",
+    "briefDescription": "A strong resolve pattern where the subject accepts a hardship but rejects a worse moral choice. Similar to: -ㄹ망정 (No. 309).",
+    "featuredExample": "가난할지언정 비겁하게 살지는 않겠어.",
+    "featuredTranslation": "Although I may be poor, I will not live cowardly.",
+    "longerExplanation": "This is a grammar of 'pride and principles.' It establishes a difficult but acceptable reality (A) and contrasts it with an unacceptable or shameful reality (B).",
+    "sentenceExamples": [
+      {
+        "kr": "실패할지언정 시도조차 안 하지는 않겠습니다.",
+        "en": "Even if I fail, I will not be someone who doesn't even try."
+      },
+      {
+        "kr": "죽을지언정 비밀은 밝힐 수 없다.",
+        "en": "Even if I die, I cannot reveal the secret."
+      },
+      {
+        "kr": "조금 늦을지언정 정확하게 하는 게 중요해요.",
+        "en": "Although it might be a bit late, doing it accurately is what matters."
+      }
+    ],
+    "similarToIds": [
+      309
+    ]
+  },
+  {
+    "grammarId": 384,
+    "name": "V-ㄴ/는답시고",
+    "englishMeaning": "With the intention of doing V (Sarcastic/Negative)",
+    "level": "Advanced",
+    "briefDescription": "Used to mock or criticize an action that failed or was pretentious. Similar to: -ㄴ/는다고 하면서.",
+    "featuredExample": "도와준답시고 한 일이 오히려 방해가 됐어요.",
+    "featuredTranslation": "The thing he did 'claiming' to be helping actually became a hindrance.",
+    "longerExplanation": "A judgmental pattern used to describe someone doing something for a 'supposed' reason that the speaker finds annoying, insufficient, or silly.",
+    "sentenceExamples": [
+      {
+        "kr": "요리한답시고 주방을 엉망으로 만들어 놨네요.",
+        "en": "Claiming to be cooking, he's left the kitchen in a complete mess."
+      },
+      {
+        "kr": "공부한답시고 책상 앞에 앉아만 있더라고요.",
+        "en": "I saw him just sitting at the desk, claiming to be studying (but not actually doing it)."
+      },
+      {
+        "kr": "효도한답시고 준 것이 다 깨진 그릇이었어요.",
+        "en": "The thing he gave 'as an act of filial piety' was a broken bowl."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 385,
+    "name": "A/V-(으)ㄹ 턱이 없다",
+    "englishMeaning": "No way... / There's no reason that...",
+    "level": "Advanced",
+    "briefDescription": "Strong disbelief based on common sense. Similar to: -(으)ㄹ 리가 없다 (No. 96).",
+    "featuredExample": "그가 거짓말을 할 턱이 없는데 이상하네요.",
+    "featuredTranslation": "There's no way he would lie; it's strange.",
+    "longerExplanation": "'턱' refers to a logical ground or reason. This is a conversational but firm way to say that something is impossible because it doesn't make logical sense.",
+    "sentenceExamples": [
+      {
+        "kr": "어린아이가 이걸 다 먹었을 턱이 없지.",
+        "en": "There's no way a small child ate all of this."
+      },
+      {
+        "kr": "그렇게 비싼 옷을 제가 살 턱이 있겠어요?",
+        "en": "Is there any way I would buy such expensive clothes? (No way)."
+      },
+      {
+        "kr": "약속을 잊었을 턱이 없어요. 어제도 통화했거든요.",
+        "en": "There's no way he forgot; we spoke on the phone yesterday."
+      }
+    ],
+    "similarToIds": [
+      96
+    ]
+  },
+  {
+    "grammarId": 386,
+    "name": "N(으)로 말미암아",
+    "englishMeaning": "Due to N / Caused by N (Formal)",
+    "level": "Advanced",
+    "briefDescription": "A highly formal, literary way to state a cause. Similar to: -로 인해서 (No. 310 similar).",
+    "featuredExample": "작은 부주의로 말미암아 큰 사고가 났습니다.",
+    "featuredTranslation": "A major accident occurred due to a small moment of carelessness.",
+    "longerExplanation": "Found in historical texts or formal news reporting. It connects a specific noun to a significant consequence, often a negative or large-scale one.",
+    "sentenceExamples": [
+      {
+        "kr": "전쟁으로 말미암아 수많은 이재민이 발생했어요.",
+        "en": "Countless refugees were created due to the war."
+      },
+      {
+        "kr": "신기술 개발로 말미암아 인류의 삶이 변했습니다.",
+        "en": "Human life has changed due to the development of new technology."
+      },
+      {
+        "kr": "오해로 말미암아 두 사람의 관계가 멀어졌어요.",
+        "en": "The relationship between the two became distant due to a misunderstanding."
+      }
+    ],
+    "similarToIds": [
+      310
+    ]
+  },
+  {
+    "grammarId": 387,
+    "name": "N에 지나지 않다",
+    "englishMeaning": "To be nothing more than N / Merely N",
+    "level": "Advanced",
+    "briefDescription": "Used to downplay the importance or scale of something. Similar to: N에 불과하다 (No. 273).",
+    "featuredExample": "이것은 시작에 지나지 않으니 너무 기뻐하지 마세요.",
+    "featuredTranslation": "This is nothing more than the beginning, so don't be too happy.",
+    "longerExplanation": "A formal and cool-headed expression. It suggests that while something might look big or important, its actual value or progress is limited to the noun mentioned.",
+    "sentenceExamples": [
+      {
+        "kr": "그 소문은 뜬구름 잡는 이야기에 지나지 않습니다.",
+        "en": "That rumor is nothing more than an unrealistic story."
+      },
+      {
+        "kr": "그는 내 인생의 한 조각에 지나지 않아요.",
+        "en": "He is nothing more than a small piece of my life."
+      },
+      {
+        "kr": "참가자가 10명에 지나지 않아 행사가 취소됐어요.",
+        "en": "Because there were merely 10 participants, the event was canceled."
+      }
+    ],
+    "similarToIds": [
+      273
+    ]
+  },
+  {
+    "grammarId": 388,
+    "name": "A/V-기로서니",
+    "englishMeaning": "Even if it is the case that... / No matter how...",
+    "level": "Advanced",
+    "briefDescription": "Used to acknowledge a fact but argue it is no excuse for a certain behavior. Similar to: -다고 해도.",
+    "featuredExample": "아무리 돈이 없기로서니 도둑질을 해서야 되겠어요?",
+    "featuredTranslation": "No matter how little money you have, is it okay to steal?",
+    "longerExplanation": "This is a rhetorical concessive connector. The speaker admits the first clause is true but finds the second clause's reaction or result to be unacceptable or surprising. It often ends with a rhetorical question like '-겠어요?' or '-나?'.",
+    "sentenceExamples": [
+      {
+        "kr": "배가 고프기로서니 남의 음식을 함부로 먹으면 안 되지.",
+        "en": "Even if you were hungry, you shouldn't just eat someone else's food."
+      },
+      {
+        "kr": "아무리 바쁘기로서니 부모님 생신을 잊을 수 있니?",
+        "en": "No matter how busy you are, how could you forget your parents' birthday?"
+      },
+      {
+        "kr": "시험에 떨어졌기로서니 그렇게 낙심해서야 되겠어?",
+        "en": "Even if you failed the exam, should you be that discouraged?"
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 389,
+    "name": "V-아/어 주십사 (하고)",
+    "englishMeaning": "Requesting that you please do V / Humbling asking for V",
+    "level": "Advanced",
+    "briefDescription": "A highly formal and humble way to make a request to a superior or organization.",
+    "featuredExample": "부디 너그러운 마음으로 용서해 주십사 하고 찾아왔습니다.",
+    "featuredTranslation": "I have come humbly requesting that you please forgive me with a generous heart.",
+    "longerExplanation": "This is an extremely formal honorific request, far above '-아/어 주세요.' It is typically used in formal letters, petitions, or when a person in a much lower status addresses a person of high authority to ask for a favor or reconsideration.",
+    "sentenceExamples": [
+      {
+        "kr": "사업 계획을 재고해 주십사 하고 메일을 드립니다.",
+        "en": "I am emailing you humbly requesting that you please reconsider the business plan."
+      },
+      {
+        "kr": "한 번만 더 기회를 주십사 하고 간곡히 부탁드렸어요.",
+        "en": "I earnestly requested that they please give me one more chance."
+      },
+      {
+        "kr": "행사에 참석해 주십사 하고 직접 방문했습니다.",
+        "en": "I came in person humbly requesting that you please attend the event."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 390,
+    "name": "N인지라",
+    "englishMeaning": "Because it is N / Given that it is N",
+    "level": "Advanced",
+    "briefDescription": "A formal and literary way to state a reason based on a noun's nature. Similar to: N이라서 (No. 78).",
+    "featuredExample": "초행길인지라 길을 찾는 데 한참 걸렸어요.",
+    "featuredTranslation": "Given that it was my first time on this road, it took a long while to find the way.",
+    "longerExplanation": "Used primarily in written style or formal storytelling. It suggests that the reason for the following situation is an unavoidable or natural characteristic of the noun mentioned. It carries an 'as might be expected' nuance.",
+    "sentenceExamples": [
+      {
+        "kr": "워낙 대공사인지라 완공까지 시간이 오래 걸릴 법해요.",
+        "en": "Since it is such a large-scale construction, it's likely to take a long time to complete."
+      },
+      {
+        "kr": "명절인지라 고속도로가 무척 붐비네요.",
+        "en": "Given that it's a holiday, the highway is very crowded."
+      },
+      {
+        "kr": "막내인지라 집에서 귀여움을 독차지하고 자랐어요.",
+        "en": "Because I was the youngest, I grew up receiving all the affection at home."
+      }
+    ],
+    "similarToIds": [
+      78
+    ]
+  },
+  {
+    "grammarId": 391,
+    "name": "어디 N뿐인가(요)?",
+    "englishMeaning": "Is it only N? / It's much more than just N",
+    "level": "Advanced",
+    "briefDescription": "A rhetorical question used to show that there are many more examples besides N.",
+    "featuredExample": "그가 잘하는 게 어디 노래뿐인가요? 춤도 잘 춰요.",
+    "featuredTranslation": "Is singing the only thing he's good at? He dances well too.",
+    "longerExplanation": "This phrase is used for emphasis. It suggests that 'N' is just the starting point of a long list of characteristics or facts. It translates to 'N is not the only thing; there is also...' or 'Don't even get me started on N.'",
+    "sentenceExamples": [
+      {
+        "kr": "환경 오염의 원인이 어디 플라스틱뿐인가요? 비닐도 큰 문제죠.",
+        "en": "Is plastic the only cause of environmental pollution? Vinyl is also a major problem."
+      },
+      {
+        "kr": "서울의 명소가 어디 남산뿐인가요? 갈 곳이 정말 많아요.",
+        "en": "Is Namsan the only famous spot in Seoul? There are so many places to go."
+      },
+      {
+        "kr": "이 책의 장점이 어디 스토리뿐인가요? 교훈도 아주 깊습니다.",
+        "en": "Is the story the only merit of this book? The lesson is also very deep."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 392,
+    "name": "V-느니만 못하다",
+    "englishMeaning": "To be not as good as... / To be worse than...",
+    "level": "Advanced",
+    "briefDescription": "Used to say that a certain action is actually worse than an alternative. Similar to: N만 못하다 (No. 274).",
+    "featuredExample": "대충 할 바에는 안 하느니만 못해요.",
+    "featuredTranslation": "If you're going to do it half-heartedly, it's not even as good as (worse than) not doing it at all.",
+    "longerExplanation": "This structure compares an action (V) with its negative or a different baseline. It implies that the current action is a waste of time or effort and that 'not doing it' would actually be a better outcome.",
+    "sentenceExamples": [
+      {
+        "kr": "서둘러서 실수하느니 천천히 하느니만 못합니다.",
+        "en": "Making mistakes by rushing is worse than (not as good as) doing it slowly."
+      },
+      {
+        "kr": "맛없는 걸 억지로 먹느니 차라리 굶느니만 못해요.",
+        "en": "Eating something untasty by force is worse than just starving."
+      },
+      {
+        "kr": "거짓말로 위기만 모면하는 것은 진실을 밝히느니만 못하다.",
+        "en": "Escaping a crisis with a lie is not as good as revealing the truth."
+      }
+    ],
+    "similarToIds": [
+      274
+    ]
+  },
+  {
+    "grammarId": 393,
+    "name": "V-아/어 봤자 [봤댔자]",
+    "englishMeaning": "Even if you try V / No use V-ing",
+    "level": "Advanced",
+    "briefDescription": "Expresses the futility of an action. Similar to: -아/어 봐야 (No. 100).",
+    "featuredExample": "지금 후회해 봤자 이미 늦었어요.",
+    "featuredTranslation": "Even if you regret it now, it's already too late (no use).",
+    "longerExplanation": "A conversational but advanced version of '-아/어 봐야'. It emphasizes that the effort in the first clause will result in no change or a negative result. '봤댔자' is an even more emphatic/cynical spoken variant.",
+    "sentenceExamples": [
+      {
+        "kr": "아무리 설명해 봤자 그 사람은 이해 못 할 거예요.",
+        "en": "No matter how much you try to explain, that person won't understand."
+      },
+      {
+        "kr": "뛰어 봤자 벼룩이지 얼마나 멀리 가겠어?",
+        "en": "A flea is still just a flea even if it jumps; how far could it go? (Proverb meaning you can't escape your limits)."
+      },
+      {
+        "kr": "소리를 질러 봤자 아무도 안 도와줘요.",
+        "en": "Even if you scream, no one will help you."
+      }
+    ],
+    "similarToIds": [
+      100
+    ]
+  },
+  {
+    "grammarId": 394,
+    "name": "V-(으)랴 V-(으)랴",
+    "englishMeaning": "Busy doing X and also Y / Juggling X and Y",
+    "level": "Advanced",
+    "briefDescription": "Used to describe a very busy or hectic situation where one must handle two things at once.",
+    "featuredExample": "낮에는 일하랴 밤에는 공부하랴 눈코 뜰 새 없이 바빠요.",
+    "featuredTranslation": "Between working during the day and studying at night, I'm incredibly busy.",
+    "longerExplanation": "This pattern lists two demanding tasks to emphasize the difficulty or the effort required to manage both. It creates a sense of being 'pulled in two directions' or being overwhelmed by responsibilities.",
+    "sentenceExamples": [
+      {
+        "kr": "아이 키우랴 직장 다니랴 정신이 하나도 없어요.",
+        "en": "Juggling raising a child and going to work, I'm completely out of my mind."
+      },
+      {
+        "kr": "손님 맞으랴 음식 준비하랴 정말 고생 많으셨네요.",
+        "en": "You really went through a lot, between welcoming guests and preparing food."
+      },
+      {
+        "kr": "돈 벌랴 집안일 하랴 몸이 열 개라도 모자랄 지경이에요.",
+        "en": "Between earning money and doing housework, I'm at the point where even ten bodies wouldn't be enough."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 395,
+    "name": "V-(으)ㄹ세라",
+    "englishMeaning": "Fearing that... / Lest... / Worried that...",
+    "level": "Advanced",
+    "briefDescription": "Used when the subject does an action because they are afraid of a certain outcome. Similar to: -(으)ㄹ까 봐 (No. 95).",
+    "featuredExample": "누가 볼세라 얼른 주머니에 넣었어요.",
+    "featuredTranslation": "Lest someone see, I quickly put it in my pocket.",
+    "longerExplanation": "A literary and slightly poetic pattern. It describes an action taken out of a sense of caution or anxiety that something negative might happen. It is often found in novels or descriptive prose.",
+    "sentenceExamples": [
+      {
+        "kr": "아이가 잠에서 깰세라 조심스럽게 문을 닫았습니다.",
+        "en": "Fearing the baby might wake up, I closed the door carefully."
+      },
+      {
+        "kr": "기회를 놓칠세라 서둘러 지원서를 냈지요.",
+        "en": "Lest I miss the opportunity, I hurried to submit the application."
+      },
+      {
+        "kr": "소문이 날세라 아무에게도 말하지 않았어요.",
+        "en": "Fearing that rumors might spread, I didn't tell anyone."
+      }
+    ],
+    "similarToIds": [
+      95
+    ]
+  },
+  {
+    "grammarId": 396,
+    "name": "N을/를 불문하고",
+    "englishMeaning": "Regardless of N / Irrespective of N",
+    "level": "Advanced",
+    "briefDescription": "Similar to -을 막론하고 (No. 305); indicates that N is not a factor.",
+    "featuredExample": "이유 여하를 불문하고 약속은 지켜야 합니다.",
+    "featuredTranslation": "Regardless of the reason, promises must be kept.",
+    "longerExplanation": "Used in formal logic to show that a statement is universally applicable across all categories of the noun mentioned. '불문(不問)' literally means 'not asking.'",
+    "sentenceExamples": [
+      {
+        "kr": "동서고금을 불문하고 정직은 최고의 가치예요.",
+        "en": "Irrespective of time or place, honesty is the best value."
+      },
+      {
+        "kr": "국적을 불문하고 누구나 참여할 수 있습니다.",
+        "en": "Anyone can participate regardless of nationality."
+      },
+      {
+        "kr": "남녀노소를 불문하고 그 가수는 인기가 많아요.",
+        "en": "That singer is popular regardless of age or gender."
+      }
+    ],
+    "similarToIds": [
+      305
+    ]
+  },
+  {
+    "grammarId": 397,
+    "name": "V-(으)ㄴ/는 이상",
+    "englishMeaning": "Since... / Now that...",
+    "level": "Advanced",
+    "briefDescription": "Used when a certain fact or decision is established, making the next action inevitable. Similar to: -(으)니까 (No. 20).",
+    "featuredExample": "이미 약속한 이상 반드시 지켜야 해요.",
+    "featuredTranslation": "Now that I've already promised, I must keep it.",
+    "longerExplanation": "This is a 'logic of necessity.' It indicates that because a certain threshold has been crossed or a choice has been made, there is a natural responsibility or unavoidable outcome that must follow.",
+    "sentenceExamples": [
+      {
+        "kr": "시작한 이상 끝을 봐야겠지.",
+        "en": "Since I've started, I must see it through to the end."
+      },
+      {
+        "kr": "한국에 온 이상 한국말을 완벽하게 배우고 싶어요.",
+        "en": "Now that I've come to Korea, I want to learn Korean perfectly."
+      },
+      {
+        "kr": "범인임이 밝혀진 이상 처벌을 피할 수 없을 거예요.",
+        "en": "Since it's been revealed they are the culprit, they won't be able to avoid punishment."
+      }
+    ],
+    "similarToIds": [
+      20
+    ]
+  },
+  {
+    "grammarId": 398,
+    "name": "A/V-(으)니/느니 A/V-(으)니/느니 (하다)",
+    "englishMeaning": "Saying this and that / Complaining about X and Y",
+    "level": "Advanced",
+    "briefDescription": "Used to describe people making various excuses or comments. Similar to: -니 -니 하다 (No. 335).",
+    "featuredExample": "비싸니 맛없느니 하면서 투덜대기만 하네요.",
+    "featuredTranslation": "They're just grumbling, saying it's expensive or that it's untasty.",
+    "longerExplanation": "This pattern captures a scene of nitpicking or listing various opinions. It often carries a negative nuance, describing someone who is being difficult, indecisive, or annoying with their words.",
+    "sentenceExamples": [
+      {
+        "kr": "좋으니 싫으니 해도 결국은 살 거잖아.",
+        "en": "Whether you say you like it or hate it, you're going to buy it anyway."
+      },
+      {
+        "kr": "가느니 마느니 한참을 망설였어요.",
+        "en": "They hesitated for a long time, saying they would go or not go."
+      },
+      {
+        "kr": "시간이 없느니 돈이 없느니 핑계 대지 마세요.",
+        "en": "Don't make excuses, saying you have no time or no money."
+      }
+    ],
+    "similarToIds": [
+      335
+    ]
+  },
+  {
+    "grammarId": 399,
+    "name": "A/V-건만",
+    "englishMeaning": "But / Although / Even though",
+    "level": "Advanced",
+    "briefDescription": "A literary and formal version of -지만. Similar to: -건마는.",
+    "featuredExample": "달은 밝건만 내 마음은 어둡기만 하구나.",
+    "featuredTranslation": "The moon is bright, yet my heart is only dark.",
+    "longerExplanation": "Found in poems, song lyrics, and high-level novels. It is a more evocative and emotional way to show contrast. It often carries a tone of lament or deep reflection on a contradiction.",
+    "sentenceExamples": [
+      {
+        "kr": "세월은 흐르건만 기억은 여전히 생생해요.",
+        "en": "Time flows, yet the memory is still vivid."
+      },
+      {
+        "kr": "꽃은 피건만 봄은 아직 오지 않은 듯합니다.",
+        "en": "The flowers are blooming, yet it appears spring hasn't truly come."
+      },
+      {
+        "kr": "열심히 노력했건만 결과는 좋지 않았어요.",
+        "en": "I worked hard, but the result was not good."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 400,
+    "name": "V-는 게 고작이다",
+    "englishMeaning": "All one can do is V / To be only V-ing (limited)",
+    "level": "Advanced",
+    "briefDescription": "Used to show that a result is at a very low level despite effort.",
+    "featuredExample": "하루 종일 일했지만 겨우 한 페이지를 쓴 게 고작이에요.",
+    "featuredTranslation": "I worked all day, but all I managed to do was write a single page.",
+    "longerExplanation": "'고작' means 'at most' or 'only.' This grammar expresses the speaker's frustration that the final outcome of a significant effort was very small or limited. It emphasizes a lack of achievement.",
+    "sentenceExamples": [
+      {
+        "kr": "월급을 받아도 방세를 내는 게 고작입니다.",
+        "en": "Even if I get paid, paying the rent is the best I can do (it's the limit)."
+      },
+      {
+        "kr": "집에서 쉬는 날에는 티비만 보는 게 고작이에요.",
+        "en": "On my rest days, watching TV is all I ever manage to do."
+      },
+      {
+        "kr": "도와준다는 게 옆에서 쳐다보는 게 고작이네요.",
+        "en": "Your 'helping' is merely watching from the side (that's the extent of it)."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 401,
+    "name": "N(이)며 N(이)며",
+    "englishMeaning": "N and N / Both N and N",
+    "level": "Intermediate",
+    "briefDescription": "Used to list multiple nouns emphatically to show that everything in a category is included. Similar to: N하고 N (No. 48).",
+    "featuredExample": "그는 외모며 성격이며 빠지는 게 하나도 없어요.",
+    "featuredTranslation": "He has everything, from looks to personality; nothing is lacking.",
+    "longerExplanation": "Introduced in SNU Book 4. It is used to enumerate nouns to show that they are all relevant. It is more descriptive and formal than '하고' or '랑'. It often implies a sense of 'all of these things combined.'",
+    "sentenceExamples": [
+      {
+        "kr": "방이며 거실이며 집안 전체가 아주 깨끗해요.",
+        "en": "From the room to the living room, the whole house is very clean."
+      },
+      {
+        "kr": "수학이며 과학이며 못하는 과목이 없어요.",
+        "en": "Whether it's math or science, there isn't a subject they're bad at."
+      },
+      {
+        "kr": "옷이며 신발이며 쇼핑을 너무 많이 했어요.",
+        "en": "I did too much shopping, from clothes to shoes."
+      }
+    ],
+    "similarToIds": [
+      48
+    ]
+  },
+  {
+    "grammarId": 402,
+    "name": "A/V-건 A/V-건 간에",
+    "englishMeaning": "Whether A or B / Regardless of whether...",
+    "level": "Advanced",
+    "briefDescription": "Indicates that the result is the same regardless of which option is chosen. Similar to: -든지 (No. 116).",
+    "featuredExample": "성공하건 실패하건 간에 최선을 다하는 게 중요해요.",
+    "featuredTranslation": "Whether you succeed or fail, doing your best is what matters.",
+    "longerExplanation": "Found in SNU Book 6. This is a highly formal and literary version of the indifference pattern. It is used in debates, news editorials, or formal writing to emphasize that a certain principle or outcome is independent of the listed conditions. '간에' is often added to strengthen the 'regardless' nuance.",
+    "sentenceExamples": [
+      {
+        "kr": "비가 오건 눈이 오건 간에 내일 행사는 예정대로 진행됩니다.",
+        "en": "Whether it rains or snows, tomorrow's event will proceed as scheduled."
+      },
+      {
+        "kr": "그가 찬성하건 반대하건 간에 저는 제 결정을 바꾸지 않겠습니다.",
+        "en": "Whether he agrees or opposes, I will not change my decision."
+      },
+      {
+        "kr": "음식이 맛있건 맛없건 간에 정성이 들어간 음식은 가치가 있어요.",
+        "en": "Regardless of whether the food is tasty or not, food made with sincerity has value."
+      }
+    ],
+    "similarToIds": [
+      116
+    ]
+  },
+  {
+    "grammarId": 403,
+    "name": "N을/를 막론하고",
+    "englishMeaning": "Regardless of N / Irrespective of N",
+    "level": "Advanced",
+    "briefDescription": "A formal Hanja expression used to show that a fact applies to all members of a category. Similar to: N을/를 불문하고 (No. 320).",
+    "featuredExample": "이유 여하를 막론하고 폭력은 정당화될 수 없습니다.",
+    "featuredTranslation": "Regardless of the reason, violence cannot be justified.",
+    "longerExplanation": "Found in SNU Book 5. This is a Level 5/6 essential pattern. It uses the Hanja roots 莫 (No) and 論 (Logic/Discussion), literally meaning 'not even needing a discussion.' It is used to generalize a statement across all variables like age, gender, nationality, or rank.",
+    "sentenceExamples": [
+      {
+        "kr": "동서고금을 막론하고 효도는 가장 중요한 가치 중 하나입니다.",
+        "en": "Regardless of time or place (East/West, Old/New), filial piety is one of the most important values."
+      },
+      {
+        "kr": "남녀노소를 막론하고 누구나 그 가수의 노래를 좋아해요.",
+        "en": "Irrespective of age or gender, everyone likes that singer's songs."
+      },
+      {
+        "kr": "지위 고하를 막론하고 법은 모든 사람에게 평등하게 적용되어야 한다.",
+        "en": "Regardless of high or low status, the law must be applied equally to all people."
+      }
+    ],
+    "similarToIds": [
+      320
+    ]
+  },
+  {
+    "grammarId": 404,
+    "name": "N(이)란 N은/는 모두",
+    "englishMeaning": "Every single N / When it comes to N / All of the N",
+    "level": "Advanced",
+    "briefDescription": "Used to make a strong, emphatic generalization about every single member of a category.",
+    "featuredExample": "맛집이란 맛집은 다 찾아다니는 게 제 취미예요.",
+    "featuredTranslation": "Seeking out every single famous restaurant there is, is my hobby.",
+    "longerExplanation": "Found in SNU Book 5. By repeating the noun and using the identifying particle '-(이)란,' the speaker emphasizes the sheer scale or totality of the category. It often carries a nuance of surprise, obsession, or a sense of 'there is nothing left out.'",
+    "sentenceExamples": [
+      {
+        "kr": "소문이란 소문은 이미 동네에 다 퍼져서 모르는 사람이 없어요.",
+        "en": "Every single rumor has already spread through the neighborhood, so there is no one who doesn't know."
+      },
+      {
+        "kr": "백화점에 가서 옷이란 옷은 다 입어 본 것 같아요.",
+        "en": "I feel like I tried on every single piece of clothing at the department store."
+      },
+      {
+        "kr": "그는 이번 사건과 관련된 서류란 서류는 모두 검토했습니다.",
+        "en": "He reviewed every single document related to this case."
+      }
+    ],
+    "similarToIds": []
+  },
+  {
+    "grammarId": 405,
+    "name": "A-(으)ㄴ가?, V-는가?",
+    "englishMeaning": "Is it...? / Do they...? (Formal/written question)",
+    "level": "Intermediate",
+    "briefDescription": "A formal, written interrogative ending used to ask a question or pose a rhetorical question. Similar to: A/V-(으)ㄴ가/는가 (하다/보다) (No. 296).",
+    "featuredExample": "이것이 과연 사실인가?",
+    "featuredTranslation": "Is this really true?",
+    "longerExplanation": "Found in SNU Book 4, pg 72. This is a sentence-final question ending used in writing, news, exams, and rhetorical questions. Attach -(으)ㄴ가? to adjectives (좋은가?, 큰가?), -는가? to verbs and 있다/없다 (가는가?, 있는가?), and -인가? to nouns (학생인가?). It is more literary than -나요? or -습니까?. Do not confuse it with -(으)ㄴ가/는가 하다/보다 (No. 296), which means 'I wonder if / I guess,' or with -(으)ㄴ가/는가 하면 (No. 298), which means 'on the one hand... on the other.'",
+    "sentenceExamples": [
+      {
+        "kr": "그는 지금 어디에 가는가?",
+        "en": "Where is he going now?"
+      },
+      {
+        "kr": "이 문제가 그렇게 어려운가?",
+        "en": "Is this problem that difficult?"
+      },
+      {
+        "kr": "우리가 무엇을 할 수 있는가?",
+        "en": "What can we do?"
+      }
+    ],
+    "similarToIds": [
+      296,
+      298
+    ]
   }
 ]

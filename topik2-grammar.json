@@ -8484,5 +8484,20 @@
         "en": "He reviewed every single document related to this case."
       }
     ]
+  },
+  {
+    "grammarId": 405,
+    "name": "A-(으)ㄴ가?, V-는가?",
+    "englishMeaning": "Is it...? / Do they...? (Formal/written question)",
+    "level": "Intermediate",
+    "briefDescription": "A formal, written interrogative ending used to ask a question or pose a rhetorical question. Similar to: A/V-(으)ㄴ가/는가 (하다/보다) (No. 296).",
+    "featuredExample": "이것이 과연 사실인가?",
+    "featuredTranslation": "Is this really true?",
+    "longerExplanation": "Found in SNU Book 4, pg 72. This is a sentence-final question ending used in writing, news, exams, and rhetorical questions. Attach -(으)ㄴ가? to adjectives (좋은가?, 큰가?), -는가? to verbs and 있다/없다 (가는가?, 있는가?), and -인가? to nouns (학생인가?). It is more literary than -나요? or -습니까?. Do not confuse it with -(으)ㄴ가/는가 하다/보다 (No. 296), which means 'I wonder if / I guess,' or with -(으)ㄴ가/는가 하면 (No. 298), which means 'on the one hand... on the other.'",
+    "sentenceExamples": [
+      { "kr": "그는 지금 어디에 가는가?", "en": "Where is he going now?" },
+      { "kr": "이 문제가 그렇게 어려운가?", "en": "Is this problem that difficult?" },
+      { "kr": "우리가 무엇을 할 수 있는가?", "en": "What can we do?" }
+    ]
   }
 ]
