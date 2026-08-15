@@ -1,2 +1,4 @@
-pandas==2.2.0
+pandas==2.3.3
 tqdm==4.67.3
+supabase==2.18.1
+python-dotenv==1.1.0
