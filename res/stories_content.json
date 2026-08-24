@@ -11,8 +11,8 @@
         "kr": "지민 씨, 오늘 오전까지 제출하기로 한 기획안은 어떻게 됐어요? 아직 안 들어왔더라고요.",
         "en": "Jimin, what happened to the proposal you were supposed to submit by this morning? I noticed it hasn't come in yet.",
         "grammarIds": [
-          7,
-          55
+          83,
+          128
         ]
       },
       {
@@ -20,9 +20,9 @@
         "kr": "죄송합니다, 팀장님. 어제 갑자기 컴퓨터가 고장 나는 바람에 저장해 둔 자료가 다 날아가 버렸어요.",
         "en": "I'm sorry, Manager. Because my computer suddenly broke yesterday, all the data I had saved ended up being lost.",
         "grammarIds": [
-          26,
-          6,
-          17
+          99,
+          82,
+          92
         ]
       },
       {
@@ -30,8 +30,8 @@
         "kr": "아니, 미리미리 백업을 해 놨어야 했는데 왜 안 했어요? 중요한 프로젝트잖아요.",
         "en": "Wait, you should have backed it up in advance; why didn't you? It's an important project.",
         "grammarIds": [
-          6,
-          54
+          82,
+          127
         ]
       },
       {
@@ -39,8 +39,8 @@
         "kr": "안 그래도 밤을 새워서 복구하느라고 노력했는데 생각보다 시간이 오래 걸릴 지경이에요.",
         "en": "Actually, I stayed up all night trying to restore it, but it's at the point where it's taking much longer than expected.",
         "grammarIds": [
-          80,
-          64
+          153,
+          137
         ]
       },
       {
@@ -48,8 +48,8 @@
         "kr": "사람은 누구나 실수하기 마련이지만, 이번 일은 좀 실망스럽네요. 퇴근하는 대로 바로 보고해 주세요.",
         "en": "Everyone is bound to make mistakes, but I'm quite disappointed this time. Report to me immediately as soon as you finish for the day.",
         "grammarIds": [
-          71,
-          33
+          144,
+          106
         ]
       }
     ],
@@ -75,7 +75,7 @@
   {
     "id": "ST_002",
     "type": "story",
-    "level": "Advanced (Level 5)",
+    "level": "Intermediate (Level 4)",
     "title": "서울의 숨은 위로, 정적의 서점 (Seoul's Hidden Comfort: The Silent Bookstore)",
     "intro": "A narrative story about a modern trend in Korea: 'Silent Bookstores' where people go to escape the 'Ppal-li Ppal-li' culture.",
     "lines": [
@@ -83,41 +83,41 @@
         "kr": "서울의 바쁜 도심 한복판에 위치한 이 서점은 다른 곳들과는 달리 아주 조용하다.",
         "en": "Located in the middle of Seoul's busy downtown, this bookstore is very quiet, unlike other places.",
         "grammarIds": [
-          233
+          271
         ]
       },
       {
         "kr": "입구에 들어서자마자 휴대폰은 가방 깊숙이 넣어야 하며, 대화는커녕 숨소리조차 조심해야 할 지경이다.",
         "en": "As soon as you enter the entrance, you must put your phone deep in your bag; let alone talking, you almost have to be careful of the sound of your breathing.",
         "grammarIds": [
-          25,
-          36,
-          64
+          98,
+          109,
+          137
         ]
       },
       {
         "kr": "사람들은 현대 사회의 빠른 속도에 지친 나머지, 이런 정적 속에서 위로를 얻고자 이곳을 찾는다.",
         "en": "Exhausted by the fast pace of modern society, people visit this place seeking comfort in such silence.",
         "grammarIds": [
-          52,
-          98
+          125,
+          13
         ]
       },
       {
         "kr": "창밖으로 보이는 바쁜 사람들을 구경하다 보면, 혼자만의 시간이 얼마나 소중한지 새삼 깨닫게 된다.",
         "en": "While observing the busy people visible through the window, one comes to realize anew how precious time alone is.",
         "grammarIds": [
-          95,
-          10
+          165,
+          85
         ]
       },
       {
         "kr": "결과는 노력에 달려 있다는 말도 좋지만, 가끔은 아무것도 하지 않은 채로 쉬어 가는 용기도 필요한 법이다.",
         "en": "The saying that results depend on effort is good, but sometimes, the courage to rest while doing nothing is also natural (necessary).",
         "grammarIds": [
-          34,
-          49,
-          136
+          107,
+          122,
+          174
         ]
       }
     ],
@@ -152,7 +152,7 @@
         "kr": "수진 씨, 이번 추석 연휴에 고향에 내려간다면서요? 표는 구했어요?",
         "en": "Sujin, I heard you are going down to your hometown this Chuseok holiday? Did you get a ticket?",
         "grammarIds": [
-          152
+          190
         ]
       },
       {
@@ -160,8 +160,8 @@
         "kr": "아니요, 표를 사려고 노력해 봤지만 매진되는 바람에 결국 못 구했어요.",
         "en": "No, I tried my best to buy a ticket, but because they were sold out, I ended up not getting one.",
         "grammarIds": [
-          125,
-          26
+          35,
+          99
         ]
       },
       {
@@ -169,8 +169,8 @@
         "kr": "그래요? 그럼 고향에 못 가는 셈이에요? 부모님이 많이 기다리실 텐데 아쉽겠어요.",
         "en": "Really? So does that mean you practically can't go home? I imagine your parents will be waiting, so that’s a shame.",
         "grammarIds": [
-          5,
-          76
+          81,
+          149
         ]
       },
       {
@@ -178,8 +178,8 @@
         "kr": "네, 그래서 이번에는 그냥 집에서 쉬는 대신에 한국 요리를 배워 볼까 해요.",
         "en": "Yes, so this time, instead of just resting at home, I'm thinking of trying to learn Korean cooking.",
         "grammarIds": [
-          119,
-          85
+          9,
+          158
         ]
       },
       {
@@ -187,7 +187,7 @@
         "kr": "좋은 생각이에요! 요리를 배우다 보니까 한국 문화가 더 재미있지 않아요?",
         "en": "That's a great idea! Since you've been learning to cook, don't you find Korean culture more interesting?",
         "grammarIds": [
-          37
+          110
         ]
       }
     ],
@@ -222,9 +222,9 @@
         "kr": "최근 일회용품 사용이 급증함에 따라 환경 오염의 심각성이 다시 한번 주목받고 있습니다.",
         "en": "As the use of disposable products has surged recently, the seriousness of environmental pollution is once again receiving attention.",
         "grammarIds": [
-          61,
-          234,
-          132
+          134,
+          272,
+          42
         ]
       },
       {
@@ -232,8 +232,8 @@
         "kr": "정부는 환경을 보호하고자 카페 내 플라스틱 컵 사용을 전면 금지하기로 했습니다.",
         "en": "In order to protect the environment, the government has decided to completely ban the use of plastic cups inside cafes.",
         "grammarIds": [
-          98,
-          7
+          13,
+          83
         ]
       },
       {
@@ -241,8 +241,8 @@
         "kr": "이 소식을 들은 시민들은 처음에는 불편해하는 모양이었으나, 취지에 공감하며 텀블러를 챙기기 시작했습니다.",
         "en": "Citizens appeared to find it inconvenient at first upon hearing this news, but they are beginning to bring their own tumblers, agreeing with the purpose.",
         "grammarIds": [
-          16,
-          127
+          91,
+          37
         ]
       },
       {
@@ -250,8 +250,8 @@
         "kr": "조금 번거롭기는 하지만, 우리 아이들에게 물려줄 미래를 생각하면 당연히 해야 할 일이라고 봐요.",
         "en": "It’s a bit of a hassle, but considering the future we will pass on to our children, I see it as something that obviously must be done.",
         "grammarIds": [
-          89,
-          221
+          162,
+          259
         ]
       },
       {
@@ -259,9 +259,9 @@
         "kr": "불편함을 감수하고서라도 환경을 지키려는 노력이 계속되는 한, 지구의 미래는 밝을 것으로 보입니다.",
         "en": "As long as efforts to protect the environment continue, even at the cost of inconvenience, the future of the Earth appears bright.",
         "grammarIds": [
-          147,
-          150,
-          75
+          185,
+          188,
+          148
         ]
       }
     ],
@@ -287,7 +287,7 @@
   {
     "id": "ST_005",
     "type": "announcement",
-    "level": "Advanced (Level 5)",
+    "level": "Intermediate (Level 4)",
     "title": "지하철 공사 및 우회 안내 (Subway Construction and Detour Notice)",
     "intro": "A highly formal announcement using the literary and formal endings (-(으)므로, -기 바랍니다) common in professional settings.",
     "lines": [
@@ -300,30 +300,30 @@
         "kr": "현재 2호선 시청역 인근 도로의 노후화로 인해 긴급 보수 공사가 진행 중입니다.",
         "en": "Emergency repair work is currently underway due to the deterioration of the roads near City Hall Station on Line 2.",
         "grammarIds": [
-          132
+          42
         ]
       },
       {
         "kr": "본 공사는 도로 안전을 확보하기 위해서 실시되는 것이므로 시민 여러분의 너그러운 양해를 부탁드립니다.",
         "en": "As this construction is being carried out to ensure road safety, we ask for the citizens' generous understanding.",
         "grammarIds": [
-          32,
-          133
+          105,
+          171
         ]
       },
       {
         "kr": "공사 기간 중에는 교통 정체가 예상되오니, 가급적 대중교통을 이용해 주시기 바랍니다.",
         "en": "Traffic congestion is expected during the construction period, so please use public transportation whenever possible.",
         "grammarIds": [
-          105
+          20
         ]
       },
       {
         "kr": "또한, 자차를 이용하시는 분들은 주변 도로로 우회하시거나 안전 요원의 지시에 따라 주십시오.",
         "en": "In addition, those using private vehicles should detour to surrounding roads or follow the instructions of safety personnel.",
         "grammarIds": [
-          100,
-          109
+          15,
+          24
         ]
       }
     ],
@@ -349,7 +349,7 @@
   {
     "id": "ST_006",
     "type": "story",
-    "level": "Advanced (Level 6)",
+    "level": "Intermediate (Level 4)",
     "title": "기억의 조각, 고향의 골목길 (Fragments of Memory: The Hometown Alleyway)",
     "intro": "A descriptive narrative reflecting on nostalgia and the passage of time. Focuses on literary and emotional expressions.",
     "lines": [
@@ -357,49 +357,49 @@
         "kr": "오랜만에 찾은 고향 집 앞 골목길은 예전의 활기찬 모습은커녕 적막함만이 감돌고 있었다.",
         "en": "The alleyway in front of my hometown house, which I visited after a long time, was filled only with silence, far from its former vibrant appearance.",
         "grammarIds": [
-          36,
-          132
+          109,
+          42
         ]
       },
       {
         "kr": "어린 시절, 해가 지는 줄도 모르고 친구들과 뛰어놀던 그 길은 이제 잡초만이 무성할 따름이다.",
         "en": "That road where I used to run and play with friends in my childhood, not even realizing the sun was setting, is now merely overgrown with weeds.",
         "grammarIds": [
-          51,
-          113
+          124,
+          166
         ]
       },
       {
         "kr": "담벼락에 기대어 앉아 계시던 할머니들의 웃음소리도 이제는 더 이상 들리지 않는다.",
         "en": "The laughter of the grandmothers who used to sit leaning against the walls can no longer be heard either.",
         "grammarIds": [
-          11,
-          112
+          86,
+          27
         ]
       },
       {
         "kr": "세월이 흐름에 따라 모든 것이 변하기 마련이라지만, 가슴 한구석이 허전해지는 것은 어쩔 수 없었다.",
         "en": "They say everything is bound to change as time flows, but I couldn't help the feeling of emptiness in a corner of my heart.",
         "grammarIds": [
-          234,
-          71,
-          24
+          272,
+          144,
+          97
         ]
       },
       {
         "kr": "그때 좀 더 자주 찾아왔더라면 좋았을 것이라는 뒤늦은 후회가 밀려온다.",
         "en": "A belated regret washes over me that it would have been good if I had visited a bit more often back then.",
         "grammarIds": [
-          62,
-          245
+          135,
+          283
         ]
       },
       {
         "kr": "변해 버린 풍경 속에서도 기억 속의 따뜻한 정만큼은 여전히 살아 있는 듯하다.",
         "en": "Even within the changed scenery, it seems that the warm affection in my memories is still alive.",
         "grammarIds": [
-          17,
-          75
+          92,
+          148
         ]
       }
     ],
@@ -434,9 +434,9 @@
         "kr": "우리 회사는 업무량이 많은 편인데, 야근이 잦더라도 끝까지 책임지고 해낼 수 있겠습니까?",
         "en": "Our company has a high workload; even if overtime is frequent, can you take responsibility and pull it off until the end?",
         "grammarIds": [
-          78,
-          94,
-          142
+          151,
+          164,
+          180
         ]
       },
       {
@@ -444,8 +444,8 @@
         "kr": "네, 저는 지난 직장에서 프로젝트를 완수하기 위해서 한 달 내내 사무실에서 살다시피 한 적이 있습니다.",
         "en": "Yes, in my previous job, in order to complete a project, I have a history of practically living in the office for a whole month.",
         "grammarIds": [
-          32,
-          144,
+          105,
+          182,
           4
         ]
       },
@@ -454,7 +454,7 @@
         "kr": "실무 능력은 충분해 보이는군요. 그런데 상사와 의견이 다를 경우에는 어떻게 대처할 생각입니까?",
         "en": "Your practical skills seem sufficient. But how do you plan to handle it if your opinion differs from your superior's?",
         "grammarIds": [
-          77
+          150
         ]
       },
       {
@@ -462,9 +462,9 @@
         "kr": "무작정 제 고집을 내세우기보다는 상사의 의중을 파악하는 대로 대화를 통해 타협점을 찾도록 하겠습니다.",
         "en": "Rather than blindly asserting my own stubbornness, I will try to find a compromise through dialogue as soon as I grasp my superior's intentions.",
         "grammarIds": [
-          118,
-          33,
-          44
+          169,
+          106,
+          117
         ]
       },
       {
@@ -472,7 +472,7 @@
         "kr": "좋습니다. 결과는 이번 주 내로 통보할 테니까 연락을 기다려 주시기 바랍니다.",
         "en": "Good. Since I will notify you of the results within this week, please wait for our contact.",
         "grammarIds": [
-          86
+          159
         ]
       }
     ],
@@ -498,7 +498,7 @@
   {
     "id": "ST_008",
     "type": "essay",
-    "level": "Advanced (Level 5/6)",
+    "level": "Intermediate (Level 4)",
     "title": "인공지능 시대의 명과 암 (The Light and Shadow of the AI Era)",
     "intro": "A formal social commentary essay about the dual nature of AI development. Uses high-level formal connectors typical of TOPIK II Task 54.",
     "lines": [
@@ -506,42 +506,42 @@
         "kr": "인공지능 기술이 비약적으로 발전함에 따라 우리의 삶은 이전과는 비교할 수 없을 정도로 편리해졌다.",
         "en": "As Artificial Intelligence technology develops by leaps and bounds, our lives have become convenient to the point where they cannot be compared to before.",
         "grammarIds": [
-          61,
-          234,
-          18
+          134,
+          272,
+          93
         ]
       },
       {
         "kr": "복잡한 계산을 순식간에 해내는가 하면, 인간의 고유 영역이라 여겨졌던 창작 활동까지 수행하고 있다.",
         "en": "While it performs complex calculations in an instant, it is even carrying out creative activities that were considered the unique domain of humans.",
         "grammarIds": [
-          42,
-          142,
-          148
+          115,
+          180,
+          186
         ]
       },
       {
         "kr": "그러나 기술의 편리함에만 도취되어 그 이면의 부작용을 간과하는 것은 위험천만한 일이다.",
         "en": "However, it is a very dangerous thing to be drunk only on the convenience of technology and overlook the side effects on the other side.",
         "grammarIds": [
-          129,
-          61
+          39,
+          134
         ]
       },
       {
         "kr": "기계가 인간의 일자리를 대체하는 마당에, 우리는 과연 어떠한 가치를 지켜나가야 하는지 고민하지 않을 수 없다.",
         "en": "Under the circumstances where machines are replacing human jobs, we cannot help but worry about what values we must protect.",
         "grammarIds": [
-          143,
-          24
+          181,
+          97
         ]
       },
       {
         "kr": "기술의 발전이 인간을 위한 도구로 남으려면, 법적 제도 마련과 더불어 윤리적 기준이 확립되어야 할 법하다.",
         "en": "If technological development is to remain a tool for humans, it stands to reason that ethical standards must be established along with legal systems.",
         "grammarIds": [
-          47,
-          146
+          120,
+          184
         ]
       }
     ],
@@ -576,9 +576,9 @@
         "kr": "마크 씨, 어제 설거지를 안 해 놨더라고요. 바쁜 건 알겠지만 같이 사는 집인데 신경 좀 써 주지 그랬어요.",
         "en": "Mark, I noticed you didn't do the dishes yesterday. I know you're busy, but since we live together, I wish you had been more mindful.",
         "grammarIds": [
-          55,
-          6,
-          109
+          128,
+          82,
+          24
         ]
       },
       {
@@ -586,8 +586,8 @@
         "kr": "아, 미안해요. 어제 시험 공부를 하느라고 정신이 없어서 깜빡했나 봐요.",
         "en": "Ah, I'm sorry. I guess I forgot because I was so distracted studying for my exams.",
         "grammarIds": [
-          80,
-          15
+          153,
+          90
         ]
       },
       {
@@ -595,8 +595,8 @@
         "kr": "시험 기간이라 피곤할 텐데 이해는 해요. 그래도 다음부터는 자기 전에 꼭 해 주세요.",
         "en": "I imagine you're tired since it's exam period, so I understand. Still, from next time, please make sure to do it before you sleep.",
         "grammarIds": [
-          76,
-          123
+          149,
+          33
         ]
       },
       {
@@ -604,7 +604,7 @@
         "kr": "네, 알겠어요. 주말에 청소하는 김에 화장실 청소까지 제가 다 할게요.",
         "en": "Yes, I understand. While I'm at it cleaning this weekend, I'll do all the bathroom cleaning too.",
         "grammarIds": [
-          84
+          157
         ]
       },
       {
@@ -612,8 +612,8 @@
         "kr": "그렇게 말해 주니까 고맙네요. 서로 조금씩만 배려하면 싸울 리가 없겠죠.",
         "en": "I'm grateful that you say that. If we are just a little considerate of each other, there's no way we'll fight, right?",
         "grammarIds": [
-          106,
-          23
+          21,
+          96
         ]
       }
     ],
@@ -639,7 +639,7 @@
   {
     "id": "ST_010",
     "type": "conversation",
-    "level": "Advanced (Level 5)",
+    "level": "Intermediate (Level 4)",
     "title": "숏폼 콘텐츠와 주의력 결핍 (Short-form Content and Attention Deficit)",
     "intro": "A debate between two friends, 민호 and 서연, about the impact of TikTok/Shorts on the human brain and concentration.",
     "lines": [
@@ -648,9 +648,9 @@
         "kr": "서연 씨, 요즘 유행하는 숏폼 영상을 보다 보면 시간이 가는 줄도 모르고 계속 보게 되지 않아요?",
         "en": "Seoyeon, when you watch those trending short-form videos these days, don't you end up watching them continuously without even realizing time is passing?",
         "grammarIds": [
-          37,
-          51,
-          10
+          110,
+          124,
+          85
         ]
       },
       {
@@ -658,8 +658,8 @@
         "kr": "맞아요. 자극적인 영상들이 끊임없이 이어지는 바람에 저도 모르게 중독될 지경이에요.",
         "en": "That's true. Because stimulating videos follow one after another without end, I'm at the point where I'm getting addicted without even knowing it.",
         "grammarIds": [
-          26,
-          64
+          99,
+          137
         ]
       },
       {
@@ -667,9 +667,9 @@
         "kr": "그런데 이런 짧은 영상들만 취하다 보면 긴 글을 읽거나 한 가지에 집중하기가 어려워지기 마련이잖아요.",
         "en": "But if you only consume these short videos, it's bound to become difficult to read long texts or focus on one thing.",
         "grammarIds": [
-          37,
-          71,
-          126
+          110,
+          144,
+          36
         ]
       },
       {
@@ -677,8 +677,8 @@
         "kr": "네, 뇌가 즉각적인 재미에만 반응하게 된 나머지 깊이 있는 사고를 하는 능력이 무뎌질까 봐 걱정이에요.",
         "en": "Yes, I'm worried that my ability to think deeply might become dull because my brain has come to react only to immediate fun.",
         "grammarIds": [
-          52,
-          22
+          125,
+          95
         ]
       },
       {
@@ -686,9 +686,9 @@
         "kr": "편리함을 누리는 것도 좋지만, 디지털 기기에만 의존하기보다는 스스로 주의력을 기르려고 노력해야 할 법해요.",
         "en": "Enjoying convenience is fine, but it stands to reason that we should try to cultivate our attention span ourselves rather than relying only on digital devices.",
         "grammarIds": [
-          239,
-          98,
-          146
+          277,
+          13,
+          184
         ]
       }
     ],
@@ -714,7 +714,7 @@
   {
     "id": "ST_011",
     "type": "story",
-    "level": "Advanced (Level 6)",
+    "level": "Intermediate (Level 4)",
     "title": "덤과 정이 살아있는 전통시장 (Jeong and the Culture of 'Deom' in Traditional Markets)",
     "intro": "A narrative describing the unique Korean cultural concept of 'Jeong' found in the bustling atmosphere of a traditional market.",
     "lines": [
@@ -722,41 +722,41 @@
         "kr": "왁자지껄한 소리가 들려오는 전통시장에 들어서자마자 사람 사는 냄새가 물씬 풍겨온다.",
         "en": "As soon as you step into the bustling traditional market where noisy sounds are heard, the scent of human life wafts strongly.",
         "grammarIds": [
-          25
+          98
         ]
       },
       {
         "kr": "대형 마트는커녕 편의점조차 없던 시절부터 이곳은 이웃들이 소식을 나누던 소중한 소통의 장이었다.",
         "en": "Since the time when there were no convenience stores, let alone large supermarkets, this place was a precious venue for communication where neighbors shared news.",
         "grammarIds": [
-          36,
-          13
+          109,
+          88
         ]
       },
       {
         "kr": "물건값을 깎으려고 실랑이를 벌이다가도, 상인이 넌지시 얹어주는 '덤' 한 움큼에 마음이 사르르 녹곤 한다.",
         "en": "Even while haggling to lower the price, one's heart often melts at a handful of 'Deom' (extra portion) given discreetly by the merchant.",
         "grammarIds": [
-          73,
-          98,
-          79
+          146,
+          13,
+          152
         ]
       },
       {
         "kr": "단순히 물건을 사고파는 행위를 넘어, 서로의 안부를 묻는 정이 남아있는 한 전통시장은 사라지지 않을 것이다.",
         "en": "Beyond the simple act of buying and selling goods, as long as the 'Jeong' (affection) of asking after each other remains, traditional markets will not disappear.",
         "grammarIds": [
-          150,
-          20
+          188,
+          7
         ]
       },
       {
         "kr": "현대화된 도시 속에서 우리가 잃어가는 인간미를 다시 찾으려면 이런 따뜻한 공간이 더 많아져야 할 따름이다.",
         "en": "If we intend to find again the humanity we are losing in modernized cities, it's merely a matter of needing more such warm spaces.",
         "grammarIds": [
-          47,
-          126,
-          113
+          120,
+          36,
+          166
         ]
       }
     ],
@@ -791,9 +791,9 @@
         "kr": "우리가 무심코 버린 플라스틱이 미세하게 분해되어 결국 우리의 식탁까지 위협하고 있다는 사실, 알고 계십니까?",
         "en": "Did you know that the plastics we carelessly threw away are being finely decomposed and are eventually threatening our dinner tables?",
         "grammarIds": [
-          102,
-          126,
-          132
+          17,
+          36,
+          42
         ]
       },
       {
@@ -801,9 +801,9 @@
         "kr": "해양 생물들이 미세 플라스틱을 먹이로 착각하고 섭취함에 따라 생태계 파괴가 가속화되고 있습니다.",
         "en": "As marine creatures mistake microplastics for food and ingest them, the destruction of the ecosystem is accelerating.",
         "grammarIds": [
-          61,
-          234,
-          126
+          134,
+          272,
+          36
         ]
       },
       {
@@ -811,9 +811,10 @@
         "kr": "연구 결과에 의해서 밝혀진 바에 따르면, 심해어류조차 이미 오염된 채로 발견되는 경우가 많다고 합니다.",
         "en": "According to what has been revealed through research results, even deep-sea fish are reportedly found already in a contaminated state more often than not.",
         "grammarIds": [
-          59,
-          49,
-          135
+          132,
+          122,
+          173,
+          307
         ]
       },
       {
@@ -821,9 +822,9 @@
         "kr": "지금 당장 대책을 마련하지 않다가는 머지않아 회복 불가능한 지경에 이를지도 모릅니다.",
         "en": "If we don't prepare measures right now, we might soon reach a point of no recovery.",
         "grammarIds": [
-          63,
-          64,
-          81
+          136,
+          137,
+          154
         ]
       },
       {
@@ -831,9 +832,9 @@
         "kr": "개인의 노력도 중요하지만 기업들이 생산 단계에서부터 플라스틱을 줄이도록 하는 법적 규제가 시급해 보입니다.",
         "en": "Individual efforts are important, but legal regulations that make companies reduce plastic from the production stage appear to be urgent.",
         "grammarIds": [
-          89,
-          44,
-          75
+          162,
+          117,
+          148
         ]
       }
     ],
@@ -859,7 +860,7 @@
   {
     "id": "ST_013",
     "type": "story",
-    "level": "Advanced (Level 5)",
+    "level": "Intermediate (Level 4)",
     "title": "화성 탐사와 인류의 꿈 (Mars Exploration and the Dream of Mankind)",
     "intro": "A scientific narrative about the challenges of sending humans to Mars and the role of robotic rovers.",
     "lines": [
@@ -867,48 +868,48 @@
         "kr": "우주 과학 기술이 비약적으로 발전함에 따라, 인류는 이제 달을 넘어 화성을 향한 여정을 준비하고 있다.",
         "en": "As space science and technology develop by leaps and bounds, mankind is now preparing for a journey toward Mars, moving beyond the Moon.",
         "grammarIds": [
-          61,
-          234,
-          132
+          134,
+          272,
+          42
         ]
       },
       {
         "kr": "과거에는 화성에 생명체가 살고 있을 줄 알았으나, 실제 탐사 결과는 예상과는 전혀 달랐다.",
         "en": "In the past, people thought that living organisms might be living on Mars, but the actual exploration results were completely different from expectations.",
         "grammarIds": [
-          154,
-          134
+          192,
+          172
         ]
       },
       {
         "kr": "희박한 대기와 극심한 온도 변화를 견뎌야 하는 마당에, 사람이 직접 그곳에 거주하는 것은 결코 쉬운 일이 아니다.",
         "en": "Under the circumstances where one must endure a thin atmosphere and extreme temperature changes, it is by no means easy for a person to reside there directly.",
         "grammarIds": [
-          143,
-          110
+          181,
+          25
         ]
       },
       {
         "kr": "그럼에도 불구하고 탐사 로봇들은 험난한 지형을 헤쳐 나가며 귀중한 데이터를 수집해 내고 있다.",
         "en": "Nevertheless, exploration robots are making their way through rugged terrain and successfully collecting precious data.",
         "grammarIds": [
-          142,
-          132
+          180,
+          42
         ]
       },
       {
         "kr": "기술적 한계를 극복하려는 노력이 계속되는 한, 화성에 발을 내딛는 날이 머지않아 오리라고 믿는다.",
         "en": "As long as efforts to overcome technical limitations continue, I believe the day we set foot on Mars will come before long.",
         "grammarIds": [
-          150,
-          149
+          188,
+          187
         ]
       },
       {
         "kr": "지구와는 환경이 상이한 행성을 개척하는 과정은 인류에게 큰 도전이자 기회가 될 법하다.",
         "en": "The process of pioneering a planet with an environment different from Earth is likely to be both a great challenge and an opportunity for mankind.",
         "grammarIds": [
-          146
+          184
         ]
       }
     ],
@@ -934,7 +935,7 @@
   {
     "id": "ST_014",
     "type": "news",
-    "level": "Advanced (Level 6)",
+    "level": "Intermediate (Level 4)",
     "title": "저출산 고령화와 경제적 위기 (Low Birth Rate, Aging Society, and Economic Crisis)",
     "intro": "A formal economic news report addressing the impact of Korea's demographic shift on future productivity.",
     "lines": [
@@ -943,8 +944,8 @@
         "kr": "대한민국이 직면한 저출산 문제는 단순히 인구 감소를 넘어 국가의 존립을 위협하기까지 하고 있습니다.",
         "en": "The low birth rate problem facing South Korea is going beyond simple population decline and is even threatening the existence of the nation.",
         "grammarIds": [
-          148,
-          132
+          186,
+          42
         ]
       },
       {
@@ -952,8 +953,8 @@
         "kr": "아이를 낳아 기르기에 경제적 부담이 큰 탓에, 많은 청년들이 결혼을 포기하거나 미루기 일쑤입니다.",
         "en": "Due to the heavy economic burden of giving birth to and raising a child, many young people habitually give up or postpone marriage.",
         "grammarIds": [
-          70,
-          135
+          143,
+          173
         ]
       },
       {
@@ -961,8 +962,8 @@
         "kr": "이런 추세가 지속된다면 노동 인구가 줄어들 뿐더러 연금 고갈과 같은 심각한 사회적 갈등을 초래할 법합니다.",
         "en": "If this trend continues, not only will the working population decrease, but it is also likely to cause serious social conflicts such as the depletion of pensions.",
         "grammarIds": [
-          114,
-          146
+          167,
+          184
         ]
       },
       {
@@ -970,8 +971,8 @@
         "kr": "단순한 지원금 정책에 의존하기보다는, 일과 가정이 양립할 수 있는 근본적인 구조 개선에 힘써야 합니다.",
         "en": "Rather than relying on simple subsidy policies, we must strive for fundamental structural improvements where work and family can coexist.",
         "grammarIds": [
-          118,
-          110
+          169,
+          25
         ]
       },
       {
@@ -979,8 +980,8 @@
         "kr": "국가의 미래가 달린 중대한 사안인 만큼, 범정부 차원의 다각적인 대책 마련이 시급한 마당입니다.",
         "en": "As it is a significant issue on which the nation's future depends, we are in a situation where multi-faceted measures at the pan-governmental level are urgent.",
         "grammarIds": [
-          34,
-          143
+          107,
+          181
         ]
       }
     ],
@@ -1019,7 +1020,7 @@
         "kr": "에밀리 씨, 요즘 날씨가 이상하지 않아요? 봄인데도 벌써 여름처럼 더울 지경이에요.",
         "en": "Emily, isn't the weather strange lately? Even though it's spring, it's at the point where it's already as hot as summer.",
         "grammarIds": [
-          64
+          137
         ]
       },
       {
@@ -1027,8 +1028,8 @@
         "kr": "맞아요. 지구 온난화 때문에 전 세계적으로 이상 기후가 나타나는 모양이에요.",
         "en": "That's true. It appears that abnormal climates are appearing worldwide due to global warming.",
         "grammarIds": [
-          16,
-          132
+          91,
+          42
         ]
       },
       {
@@ -1036,8 +1037,8 @@
         "kr": "지난주에는 건조한 날씨에 바람까지 부는 통에 산불이 크게 나서 고생했다던데요.",
         "en": "I heard that last week they suffered because a large forest fire broke out due to the windy and dry weather.",
         "grammarIds": [
-          58,
-          56
+          131,
+          129
         ]
       },
       {
@@ -1045,8 +1046,8 @@
         "kr": "자연을 훼손하다가는 우리가 살 곳을 잃어버릴지도 모른다는 경고처럼 느껴져요.",
         "en": "It feels like a warning that if we keep damaging nature, we might lose the place where we live.",
         "grammarIds": [
-          63,
-          81
+          136,
+          154
         ]
       },
       {
@@ -1054,8 +1055,8 @@
         "kr": "불편하더라도 일회용품 사용을 줄이는 것부터 실천해야 할 법해요.",
         "en": "Even if it's inconvenient, it stands to reason that we should practice reducing the use of disposables first.",
         "grammarIds": [
-          94,
-          146
+          164,
+          184
         ]
       }
     ],
@@ -1081,7 +1082,7 @@
   {
     "id": "ST_016",
     "type": "story",
-    "level": "Advanced (Level 5)",
+    "level": "Intermediate (Level 4)",
     "title": "세종대왕과 한글 창제 (King Sejong and the Creation of Hangeul)",
     "intro": "A historical narrative explaining the background and purpose of the creation of Hangeul.",
     "lines": [
@@ -1089,42 +1090,42 @@
         "kr": "조선 시대 초기, 우리나라는 우리말이 있음에도 불구하고 중국의 한자를 빌려 쓰고 있었다.",
         "en": "In the early Joseon Dynasty, despite having our own spoken language, our country was borrowing and using Chinese characters.",
         "grammarIds": [
-          212,
-          132
+          250,
+          42
         ]
       },
       {
         "kr": "한자는 배우기 어려울 뿐더러 일반 백성들이 익히기에는 너무나도 복잡했다.",
         "en": "Chinese characters were not only hard to learn, but they were also far too complex for ordinary commoners to master.",
         "grammarIds": [
-          114,
-          128
+          167,
+          38
         ]
       },
       {
         "kr": "세종대왕은 백성들이 자신의 생각을 표현하지 못하는 것을 안타깝게 여긴 나머지 쉬운 문자를 만들기로 결심했다.",
         "en": "King Sejong felt so sorry for the people who couldn't express their thoughts that he decided to create an easy script.",
         "grammarIds": [
-          52,
-          7
+          125,
+          83
         ]
       },
       {
         "kr": "집현전 학자들과 밤낮으로 연구하다 보니까 마침내 소리 나는 대로 적을 수 있는 '훈민정음'이 탄생하게 된 것이다.",
         "en": "As he researched day and night with the Jiphyeonjeon scholars, 'Hunminjeongeum,' which allows writing exactly as things sound, was finally born.",
         "grammarIds": [
-          37,
-          33,
-          10
+          110,
+          106,
+          85
         ]
       },
       {
         "kr": "기득권의 반대가 심했을 법하지만, 백성을 사랑하는 왕의 의지가 있는 한 그 무엇도 막을 수 없었다.",
         "en": "Opposition from the ruling class was likely strong, but as long as the King had his will of loving the people, nothing could stop it.",
         "grammarIds": [
-          146,
-          150,
-          112
+          184,
+          188,
+          27
         ]
       }
     ],
@@ -1150,7 +1151,7 @@
   {
     "id": "ST_017",
     "type": "news",
-    "level": "Advanced (Level 5)",
+    "level": "Intermediate (Level 4)",
     "title": "주식 시장의 변동성과 투자 전략 (Stock Market Volatility and Investment Strategy)",
     "intro": "An economic report discussing the current state of the global stock market and advice for individual investors.",
     "lines": [
@@ -1159,9 +1160,9 @@
         "kr": "최근 글로벌 경제의 불확실성이 커짐에 따라 주식 시장의 변동성이 그 어느 때보다 심화되고 있습니다.",
         "en": "As global economic uncertainty grows, stock market volatility is worsening more than ever before.",
         "grammarIds": [
-          61,
-          234,
-          132
+          134,
+          272,
+          42
         ]
       },
       {
@@ -1169,8 +1170,8 @@
         "kr": "일부 종목이 급등하는가 하면 다른 종목은 폭락하는 등, 시장의 흐름을 예측하기가 매우 어려운 상황입니다.",
         "en": "While some stocks are soaring, others are plummeting; it is a situation where predicting the market flow is very difficult.",
         "grammarIds": [
-          42,
-          128
+          115,
+          38
         ]
       },
       {
@@ -1178,8 +1179,8 @@
         "kr": "단기적인 이익에만 도취되어 무리하게 투자하다가는 큰 손실을 입기 마련입니다.",
         "en": "If you invest recklessly while being drunk only on short-term profits, you are bound to suffer a large loss.",
         "grammarIds": [
-          63,
-          71
+          136,
+          144
         ]
       },
       {
@@ -1187,9 +1188,9 @@
         "kr": "전문가들은 시장의 지표를 면밀히 분석한 끝에 장기적인 관점에서 분산 투자를 할 것을 권고하고 있습니다.",
         "en": "After analyzing market indicators closely, experts are recommending diversified investment from a long-term perspective.",
         "grammarIds": [
-          139,
-          57,
-          132
+          177,
+          130,
+          42
         ]
       },
       {
@@ -1197,8 +1198,8 @@
         "kr": "원칙을 지키는 투자가 계속되는 한, 일시적인 하락장은 오히려 좋은 매수의 기회가 될 수도 있습니다.",
         "en": "As long as investment that follows principles continues, a temporary bear market can actually be a good buying opportunity.",
         "grammarIds": [
-          150,
-          81
+          188,
+          154
         ]
       }
     ],
@@ -1233,8 +1234,8 @@
         "kr": "원장님, 요즘 몸이 계속 무거운 데다가 소화도 잘 안 되는 모양이에요.",
         "en": "Doctor, lately my body feels heavy and it appears that my digestion isn't going well either.",
         "grammarIds": [
-          65,
-          16
+          138,
+          91
         ]
       },
       {
@@ -1242,9 +1243,9 @@
         "kr": "진맥을 해 보니까 기운이 많이 약해지셨네요. 스트레스를 과하게 받은 나머지 몸의 균형이 깨진 듯합니다.",
         "en": "Having checked your pulse, your energy has weakened a lot. It appears that your body's balance is broken due to excessive stress.",
         "grammarIds": [
-          82,
-          52,
-          75
+          155,
+          125,
+          148
         ]
       },
       {
@@ -1252,8 +1253,8 @@
         "kr": "약을 먹어야 할까요? 아니면 생활 습관을 바꿔야 할까요?",
         "en": "Should I take medicine? Or should I change my lifestyle habits?",
         "grammarIds": [
-          110,
-          100
+          25,
+          15
         ]
       },
       {
@@ -1261,9 +1262,9 @@
         "kr": "한의학은 체질에 의해서 치료 방법이 달라지기 마련입니다. 일단 자극적인 음식을 피하고 푹 쉬도록 하세요.",
         "en": "In traditional medicine, treatment methods are bound to change depending on one's constitution. First, avoid stimulating foods and make sure to rest.",
         "grammarIds": [
-          59,
-          71,
-          44
+          132,
+          144,
+          117
         ]
       },
       {
@@ -1271,8 +1272,8 @@
         "kr": "네, 알려주신 대로 노력해 볼게요. 신경 써 주셔서 감사합니다.",
         "en": "Yes, I will try according to what you told me. Thank you for your concern.",
         "grammarIds": [
-          33,
-          109
+          106,
+          24
         ]
       }
     ],
@@ -1298,7 +1299,7 @@
   {
     "id": "ST_019",
     "type": "essay",
-    "level": "Advanced (Level 6)",
+    "level": "Intermediate (Level 4)",
     "title": "민주주의의 꽃, 투표와 시민의 권리 (Voting and Civil Rights)",
     "intro": "A formal essay about the importance of political participation and the value of a single vote.",
     "lines": [
@@ -1306,39 +1307,39 @@
         "kr": "투표는 시민이 자신의 의사를 국정에 반영할 수 있는 가장 강력한 수단임이 분명하다.",
         "en": "It is clear that voting is the most powerful means for citizens to reflect their will in national administration.",
         "grammarIds": [
-          61,
-          66
+          134,
+          139
         ]
       },
       {
         "kr": "정치적 무관심이 팽배한 마당에, 한 표의 가치를 가볍게 여기는 것은 민주주의의 근간을 흔드는 일이다.",
         "en": "Under the circumstances where political indifference is prevalent, taking the value of a single vote lightly is an act that shakes the foundation of democracy.",
         "grammarIds": [
-          143,
-          129
+          181,
+          39
         ]
       },
       {
         "kr": "과거 수많은 이들의 투쟁 끝에 얻어낸 권리인 만큼, 우리는 이를 소중히 지켜나가야 할 법하다.",
         "en": "As it is a right obtained after the struggles of many in the past, it stands to reason that we should cherish and protect it.",
         "grammarIds": [
-          146
+          184
         ]
       },
       {
         "kr": "비록 결과가 내 생각과는 다를지라도, 참여를 포기하지 않는 한 변화의 가능성은 항상 열려 있다.",
         "en": "Even if the result is different from my thoughts, as long as one does not give up participation, the possibility for change is always open.",
         "grammarIds": [
-          90,
-          150
+          163,
+          188
         ]
       },
       {
         "kr": "시민의 목소리가 살아있는 사회가 되려면, 무엇보다 투표장으로 향하는 발걸음이 끊이지 않아야 오리라고 본다.",
         "en": "If we intend to become a society where the voices of citizens are alive, above all, I see it as likely that the footsteps toward the polling booths must not cease.",
         "grammarIds": [
-          47,
-          149
+          120,
+          187
         ]
       }
     ],
@@ -1364,7 +1365,7 @@
   {
     "id": "ST_020",
     "type": "story",
-    "level": "Advanced (Level 5)",
+    "level": "Intermediate (Level 4)",
     "title": "로봇 비서 시대와 인간의 가치 (The Era of Robot Assistants and Human Value)",
     "intro": "A deep dive into the rapid integration of service robots in Korea and the ethical questions following them.",
     "lines": [
@@ -1372,69 +1373,69 @@
         "kr": "최근 한국의 식당이나 카페를 가 보면 사람 대신 로봇이 서빙을 하는 모습을 심심찮게 볼 수 있다.",
         "en": "If you visit restaurants or cafes in Korea lately, you can quite easily see robots serving instead of people.",
         "grammarIds": [
-          106,
-          112
+          21,
+          27
         ]
       },
       {
         "kr": "인건비가 상승함에 따라 효율성을 중시하는 업주들이 앞다투어 서비스 로봇을 도입하기 시작했기 때문이다.",
         "en": "This is because business owners who prioritize efficiency have begun to introduce service robots one after another as labor costs rise.",
         "grammarIds": [
-          61,
-          234,
-          127,
-          111
+          134,
+          272,
+          37,
+          26
         ]
       },
       {
         "kr": "로봇은 지치지도 않을 뿐더러 불평 한마디 없이 정확하게 업무를 수행해 낸다는 장점이 있다.",
         "en": "Robots have the advantage of not only not getting tired but also carrying out tasks accurately without a single word of complaint.",
         "grammarIds": [
-          114,
-          142
+          167,
+          180
         ]
       },
       {
         "kr": "그러나 기술의 편리함에만 도취되어 인간 사이의 따뜻한 정을 잃어가는 것은 아닌지 우려하는 목소리도 크다.",
         "en": "However, there are also many voices concerned that we might be losing the warm affection between humans while being drunk only on the convenience of technology.",
         "grammarIds": [
-          61,
-          132
+          134,
+          42
         ]
       },
       {
         "kr": "손님과 나누던 짧은 인사와 미소는커녕, 이제는 기계적인 안내 음성만이 식당 안을 채울 따름이다.",
         "en": "Far from the short greetings and smiles shared with customers, now only mechanical guidance voices merely fill the restaurant.",
         "grammarIds": [
-          36,
-          113
+          109,
+          166
         ]
       },
       {
         "kr": "무인화 시스템이 가속화되는 마당에 우리가 일자리를 잃을까 봐 걱정하는 이들도 적지 않다.",
         "en": "Under the circumstances where unmanned systems are accelerating, there are not a few people worried that they might lose their jobs.",
         "grammarIds": [
-          143,
-          22,
-          126
+          181,
+          95,
+          36
         ]
       },
       {
         "kr": "로봇이 우리 삶의 일부로 자리 잡는 것은 어쩔 수 없는 시대적 흐름이라지만, 그럴수록 인간만이 할 수 있는 역할이 무엇인지 고민해야 한다.",
         "en": "They say that robots becoming a part of our lives is an unavoidable trend of the times, but the more that is the case, the more we must contemplate what roles only humans can fulfill.",
         "grammarIds": [
-          10,
-          101,
-          112
+          85,
+          16,
+          27
         ]
       },
       {
         "kr": "기술이 발전하더라도 인간의 존엄성과 감성을 소중히 여기는 한, 로봇은 우리의 적이 아닌 훌륭한 동반자가 오리라고 믿는다.",
         "en": "Even if technology develops, as long as we cherish human dignity and sensibility, I believe robots will come to be our excellent companions rather than our enemies.",
         "grammarIds": [
-          94,
-          150,
-          149
+          164,
+          188,
+          187
         ]
       }
     ],
@@ -1464,7 +1465,7 @@
   {
     "id": "ST_021",
     "type": "conversation",
-    "level": "Advanced (Level 6)",
+    "level": "Intermediate (Level 4)",
     "title": "제주도 오버투어리즘과 생태 보존 (Jeju Overtourism and Eco-Preservation)",
     "intro": "A high-level debate between 지민 (an environmentalist) and 민수 (a travel agency owner) regarding the sustainability of Jeju Island.",
     "lines": [
@@ -1473,8 +1474,8 @@
         "kr": "민수 씨, 요즘 제주도에 관광객이 너무 몰리는 바람에 자연환경이 심각하게 훼손되고 있다는 소식 들었어요?",
         "en": "Min-su, have you heard the news that the natural environment is being seriously damaged because too many tourists are flocking to Jeju Island lately?",
         "grammarIds": [
-          26,
-          132
+          99,
+          42
         ]
       },
       {
@@ -1482,9 +1483,9 @@
         "kr": "네, 하지만 관광 수입에 의해서 지역 경제가 유지되는 마당에 관광객을 무작정 막을 수는 없지 않을까요?",
         "en": "Yes, but under the circumstances where the local economy is maintained by tourism revenue, wouldn't it be impossible to just blindly block tourists?",
         "grammarIds": [
-          59,
-          143,
-          112
+          132,
+          181,
+          27
         ]
       },
       {
@@ -1492,8 +1493,8 @@
         "kr": "경제도 중요하기는 하지만 쓰레기 문제와 교통 정체가 미칠 정도로 심해져서 주민들이 고통받고 있어요.",
         "en": "Economy is important too, but residents are suffering because waste problems and traffic congestion have become severe to the point of going crazy.",
         "grammarIds": [
-          89,
-          18
+          162,
+          93
         ]
       },
       {
@@ -1501,8 +1502,8 @@
         "kr": "그래서 최근에는 입도세를 도입하거나 특정 구역의 출입을 제한하려던 참이라고 하더라고요.",
         "en": "That's why I heard they were just about to introduce an entry tax or restrict access to certain areas.",
         "grammarIds": [
-          31,
-          55
+          104,
+          128
         ]
       },
       {
@@ -1510,9 +1511,9 @@
         "kr": "단순한 규제는커녕 관광객 스스로가 자연을 아끼는 마음을 갖도록 하는 캠페인이 병행되어야 할 법해요.",
         "en": "Far from simple regulations, it stands to reason that a campaign should be run in parallel to make tourists themselves have a heart for cherishing nature.",
         "grammarIds": [
-          36,
-          9,
-          146
+          109,
+          84,
+          184
         ]
       },
       {
@@ -1520,8 +1521,8 @@
         "kr": "맞아요. 자연이 파괴되어 봐야 나중에는 아무도 제주도를 찾지 않게 될 거라는 사실을 명심해야겠죠.",
         "en": "Exactly. We must keep in mind the fact that even if we try [to fix it] after nature is destroyed, eventually no one will visit Jeju anymore.",
         "grammarIds": [
-          27,
-          20
+          100,
+          7
         ]
       },
       {
@@ -1529,8 +1530,8 @@
         "kr": "제주도의 아름다움이 영구적으로 보존되는 한, 진정한 의미의 지속 가능한 관광이 가능하리라고 봅니다.",
         "en": "As long as the beauty of Jeju Island is permanently preserved, I see it as likely that truly sustainable tourism will be possible.",
         "grammarIds": [
-          150,
-          149
+          188,
+          187
         ]
       }
     ],
@@ -1556,7 +1557,7 @@
   {
     "id": "ST_022",
     "type": "story",
-    "level": "Advanced (Level 5)",
+    "level": "Intermediate (Level 4)",
     "title": "과시 소비와 행복의 상관관계 (Conspicuous Consumption and the Correlation with Happiness)",
     "intro": "An analysis of the 'Flex' culture and social media's role in shaping modern Korean spending habits.",
     "lines": [
@@ -1564,57 +1565,57 @@
         "kr": "SNS의 발달로 타인의 화려한 일상을 실시간으로 엿볼 수 있게 되면서, 이른바 '플렉스' 문화가 확산되고 있다.",
         "en": "As the development of social media has made it possible to peek at the glamorous daily lives of others in real-time, the so-called 'Flex' culture is spreading.",
         "grammarIds": [
-          10,
-          104,
-          132
+          85,
+          19,
+          42
         ]
       },
       {
         "kr": "많은 이들이 자신의 경제적 능력은커녕 감당하기 힘든 빚을 내서라도 명품을 사들이기 일쑤다.",
         "en": "Many people habitually buy luxury goods even by taking out loans that are hard to handle, far from their actual economic ability.",
         "grammarIds": [
-          36,
-          135
+          109,
+          173
         ]
       },
       {
         "kr": "타인에게 뒤처질까 봐 불안해하는 나머지, 보여주기식 삶에 집착하게 되는 현상이 나타나는 것이다.",
         "en": "The phenomenon appears where people become obsessed with a 'show-off' lifestyle because they are so anxious that they might fall behind others.",
         "grammarIds": [
-          22,
-          52
+          95,
+          125
         ]
       },
       {
         "kr": "물건을 소유함으로써 얻는 기쁨은 일시적인 데다가, 그 만족감은 갈수록 더 큰 소비를 요구하기 마련이다.",
         "en": "The joy obtained by owning an item is temporary, and on top of that, that satisfaction is bound to demand even greater consumption as time goes on.",
         "grammarIds": [
-          65,
-          71
+          138,
+          144
         ]
       },
       {
         "kr": "진정한 행복이란 외적인 과시가 아닌 내면의 평화에 달려 있다는 사실을 잊어서는 안 된다.",
         "en": "We must not forget the fact that true happiness depends on inner peace, not on external display.",
         "grammarIds": [
-          34,
-          110
+          107,
+          25
         ]
       },
       {
         "kr": "남의 시선을 의식하며 살자니 삶이 피곤해질 수밖에 없고, 결국 본인의 색깔을 잃어버리게 된다.",
         "en": "Since one is about to live while being conscious of others' gazes, life has no choice but to become tiring, and eventually, one loses their own color.",
         "grammarIds": [
-          117,
-          24
+          168,
+          97
         ]
       },
       {
         "kr": "스스로를 사랑하는 태도가 유지되는 한, 타인의 삶과 자신을 비교하며 불행해질 리가 없을 것이다.",
         "en": "As long as the attitude of loving oneself is maintained, there is no way one will become unhappy by comparing oneself to the lives of others.",
         "grammarIds": [
-          150,
-          23
+          188,
+          96
         ]
       }
     ],
@@ -1644,7 +1645,7 @@
   {
     "id": "ST_023",
     "type": "story",
-    "level": "Advanced (Level 6)",
+    "level": "Intermediate (Level 4)",
     "title": "단군 신화와 인내의 가치 (The Dan-gun Myth and the Value of Patience)",
     "intro": "A literary retelling of the Korean foundation myth, focusing on the tiger and the bear's trial to become human.",
     "lines": [
@@ -1652,63 +1653,63 @@
         "kr": "아주 먼 옛날, 곰과 호랑이가 사람이 되고 싶어 한 나머지 하늘의 아들 환웅을 찾아갔다.",
         "en": "A long time ago, a bear and a tiger wanted to become humans so much that they went to find Hwan-ung, the son of Heaven.",
         "grammarIds": [
-          124,
-          52
+          34,
+          125
         ]
       },
       {
         "kr": "환웅은 그들에게 쑥과 마늘만 먹으며 백 일 동안 햇빛을 보지 않은 채로 버티라고 말했다.",
         "en": "Hwan-ung told them to endure for one hundred days while eating only mugwort and garlic without looking at the sunlight.",
         "grammarIds": [
-          49,
-          108
+          122,
+          23
         ]
       },
       {
         "kr": "호랑이는 배고픔을 참다 못해 동굴을 뛰쳐나갔으나, 곰은 고통을 견디며 끝까지 자리를 지켰다.",
         "en": "The tiger, unable to stand the hunger any longer, rushed out of the cave, but the bear endured the pain and kept her place until the end.",
         "grammarIds": [
-          138
+          176
         ]
       },
       {
         "kr": "어두운 동굴 안에서 마늘만 먹느라고 기력이 다했을 법하지만, 곰의 의지는 결코 꺾이지 않았다.",
         "en": "While she likely lost all her strength due to eating only garlic in the dark cave, the bear's will never faltered.",
         "grammarIds": [
-          80,
-          146
+          153,
+          184
         ]
       },
       {
         "kr": "마침내 이십일 일을 견뎌내서야 곰은 아름다운 여인 '웅녀'로 변하게 되었다.",
         "en": "Only after finally enduring for twenty-one days did the bear come to transform into a beautiful woman named 'Ung-nyeo'.",
         "grammarIds": [
-          60,
-          10
+          133,
+          85
         ]
       },
       {
         "kr": "웅녀는 환웅과 결혼하여 아들을 낳았는데, 그가 바로 고조선을 세운 단군왕검이라는 것이다.",
         "en": "Ung-nyeo married Hwan-ung and gave birth to a son, and the point is that he was Dan-gun Wang-geom, who founded Gojoseon.",
         "grammarIds": [
-          108,
-          66
+          23,
+          139
         ]
       },
       {
         "kr": "이 신화는 우리 민족이 고난을 이겨내고 나라를 세운 끈기 있는 민족임을 보여주고 있는 듯하다.",
         "en": "This myth appears to show that our people are a resilient nation that overcame hardships to establish a country.",
         "grammarIds": [
-          132,
-          75
+          42,
+          148
         ]
       },
       {
         "kr": "역사가 흐르는 한, 단군 신화 속에 담긴 인내의 가치는 영원히 전해지리라고 본다.",
         "en": "As long as history flows, I see it as likely that the value of patience contained in the Dan-gun myth will be passed down forever.",
         "grammarIds": [
-          150,
-          149
+          188,
+          187
         ]
       }
     ],
@@ -1738,7 +1739,7 @@
   {
     "id": "ST_024",
     "type": "news",
-    "level": "Advanced (Level 5)",
+    "level": "Intermediate (Level 4)",
     "title": "K-팝의 경제적 파급 효과 (The Economic Impact of K-Pop)",
     "intro": "An economic report analyzing how K-Pop influence extends beyond music into tourism and exports.",
     "lines": [
@@ -1747,9 +1748,9 @@
         "kr": "K-팝이 전 세계적인 인기를 얻음으로써 대한민국의 국가 브랜드 가치가 비약적으로 상승하고 있습니다.",
         "en": "As K-Pop gains worldwide popularity, South Korea's national brand value is rising by leaps and bounds.",
         "grammarIds": [
-          61,
-          126,
-          132
+          134,
+          36,
+          42
         ]
       },
       {
@@ -1757,9 +1758,9 @@
         "kr": "음반 판매량이 급증하는가 하면, 해외 팬들이 뮤직비디오 촬영지를 방문하기 위해 한국을 찾기 일쑤입니다.",
         "en": "While album sales are surging, foreign fans habitually visit Korea to see the locations where music videos were filmed.",
         "grammarIds": [
-          42,
           115,
-          135
+          28,
+          173
         ]
       },
       {
@@ -1767,8 +1768,8 @@
         "kr": "이들은 단순히 공연을 보는 데 그치지 않고 한국의 화장품이나 패션 제품을 대량으로 구매하기까지 합니다.",
         "en": "They don't stop at simply watching performances, but even go as far as buying Korean cosmetics or fashion products in large quantities.",
         "grammarIds": [
-          129,
-          148
+          39,
+          186
         ]
       },
       {
@@ -1776,8 +1777,8 @@
         "kr": "문화 콘텐츠가 소비재 수출을 견인하는 마당에, 정부도 관련 산업에 대한 지원을 아끼지 말아야 할 법해요.",
         "en": "Under the circumstances where cultural content is driving consumer goods exports, it stands to reason that the government should also not spare support for related industries.",
         "grammarIds": [
-          143,
-          146
+          181,
+          184
         ]
       },
       {
@@ -1785,8 +1786,8 @@
         "kr": "이런 추세가 계속되는 한, K-팝은 단순한 음악 장르를 넘어 하나의 거대한 경제 동력이 오리라고 믿습니다.",
         "en": "As long as this trend continues, I believe K-Pop will come to be a massive economic engine beyond just a music genre.",
         "grammarIds": [
-          150,
-          149
+          188,
+          187
         ]
       },
       {
@@ -1794,9 +1795,9 @@
         "kr": "지속적인 성장을 위해서는 아티스트의 권익을 보호하고 창작 환경을 개선하는 노력이 병행되어야 할 따름입니다.",
         "en": "For continuous growth, it is merely a matter of needing parallel efforts to protect artists' rights and improve the creative environment.",
         "grammarIds": [
-          32,
-          126,
-          113
+          105,
+          36,
+          166
         ]
       }
     ],
@@ -1826,7 +1827,7 @@
   {
     "id": "ST_025",
     "type": "story",
-    "level": "Advanced (Level 5)",
+    "level": "Intermediate (Level 4)",
     "title": "연어의 모천회귀와 생명의 신비 (Salmon Homing and the Mystery of Life)",
     "intro": "A biological narrative about the homing instinct of salmon and the cycles of nature.",
     "lines": [
@@ -1834,49 +1835,49 @@
         "kr": "어린 연어들은 태어난 강을 떠나 넓은 바다로 나아가 수천 킬로미터를 헤엄치며 성장한다.",
         "en": "Young salmon leave the river where they were born and grow while swimming thousands of kilometers out into the wide ocean.",
         "grammarIds": [
-          108
+          23
         ]
       },
       {
         "kr": "그러다 산란 시기가 되면 자신이 태어난 고향 강을 한 번에 찾아내는 놀라운 능력을 발휘한다.",
         "en": "Then, when the spawning season comes, they exhibit the amazing ability to find their home river where they were born all at once.",
         "grammarIds": [
-          130
+          40
         ]
       },
       {
         "kr": "거센 물살을 거슬러 올라가느라고 몸이 상할 정도로 힘들 법하지만, 연어들은 멈추지 않는다.",
         "en": "While it is likely difficult to the point where their bodies get damaged due to swimming up against the strong currents, the salmon do not stop.",
         "grammarIds": [
-          80,
-          18,
-          146
+          153,
+          93,
+          184
         ]
       },
       {
         "kr": "냄새를 기억했다가 길을 찾아가는 과정을 보다 보면 자연의 신비로움에 경탄하지 않을 수 없다.",
         "en": "Watching the process of remembering the scent and finding the way, one cannot help but marvel at the mysteriousness of nature.",
         "grammarIds": [
-          73,
-          37,
-          24
+          146,
+          110,
+          97
         ]
       },
       {
         "kr": "많은 난관을 극복한 끝에 마침내 고향에 도착하여 알을 낳고 생을 마감하기 마련이다.",
         "en": "After overcoming many obstacles, they finally arrive at their hometown, lay eggs, and are bound to end their lives.",
         "grammarIds": [
-          139,
-          108,
-          71
+          177,
+          23,
+          144
         ]
       },
       {
         "kr": "이런 생명의 순환이 반복되는 한, 우리 지구의 생태계는 건강하게 유지되리라고 본다.",
         "en": "As long as this cycle of life is repeated, I see it as likely that our Earth's ecosystem will be maintained healthily.",
         "grammarIds": [
-          150,
-          149
+          188,
+          187
         ]
       }
     ],
@@ -1906,7 +1907,7 @@
   {
     "id": "ST_026",
     "type": "essay",
-    "level": "Advanced (Level 6)",
+    "level": "Intermediate (Level 4)",
     "title": "간병 로봇과 노인 복지의 미래 (Caregiving Robots and the Future of Senior Welfare)",
     "intro": "A deep analysis of how robotics might solve the caregiving shortage in an aging society, and the potential loss of human connection.",
     "lines": [
@@ -1914,59 +1915,59 @@
         "kr": "고령화 사회가 가속화됨에 따라 거동이 불편한 노인들을 돌볼 인력이 부족해지기까지 하고 있다.",
         "en": "As the aging society accelerates, there is even a shortage of manpower to care for the elderly with mobility issues.",
         "grammarIds": [
-          61,
-          234,
-          148
+          134,
+          272,
+          186
         ]
       },
       {
         "kr": "이런 상황에서 간병 로봇의 도입은 선택이 아닌 필수적인 과제로 떠오르는 마당이다.",
         "en": "Under these circumstances, the introduction of caregiving robots is emerging as an essential task rather than a choice.",
         "grammarIds": [
-          143
+          181
         ]
       },
       {
         "kr": "로봇은 24시간 내내 환자의 상태를 관찰할 수 있을 뿐더러 무거운 몸을 옮기는 힘든 일도 척척 해낼 수 있다.",
         "en": "Robots can not only monitor the patient's condition 24 hours a day but can also easily carry out difficult tasks like moving heavy bodies.",
         "grammarIds": [
-          114,
-          112,
-          142
+          167,
+          27,
+          180
         ]
       },
       {
         "kr": "하지만 기계가 인간의 온기를 대신하자니, 노인들이 느낄 정서적 소외감을 우려하지 않을 수 없다.",
         "en": "Since machines are about to replace human warmth, one cannot help but worry about the emotional alienation the elderly might feel.",
         "grammarIds": [
-          117,
-          92,
-          24
+          168,
+          9,
+          97
         ]
       },
       {
         "kr": "가족의 따뜻한 손길은커녕 금속 팔의 차가운 감촉만을 느끼며 노후를 보내는 것은 서글픈 일이리라고 본다.",
         "en": "I see it as likely a sad thing to spend one's later years feeling only the cold touch of metal arms, let alone the warm touch of family.",
         "grammarIds": [
-          36,
-          113,
-          149
+          109,
+          166,
+          187
         ]
       },
       {
         "kr": "효율성만을 강조하다가는 복지의 본질인 '인간 존엄성'을 잃어버릴 법하다.",
         "en": "If we keep emphasizing only efficiency, we are likely to lose 'human dignity,' which is the essence of welfare.",
         "grammarIds": [
-          63,
-          146
+          136,
+          184
         ]
       },
       {
         "kr": "로봇 기술이 아무리 발전하더라도 인간의 마음을 읽어주는 진심 어린 소통이 유지되는 한, 기술은 축복이 될 것이다.",
         "en": "No matter how much robot technology develops, as long as sincere communication that reads the human heart is maintained, technology will be a blessing.",
         "grammarIds": [
-          94,
-          150
+          164,
+          188
         ]
       }
     ],
@@ -2005,8 +2006,8 @@
         "kr": "준호 씨, 아까 지하철에서 비어 있는 배려석에 앉으려다가 그냥 서서 왔어요. 사람들이 쳐다보는 것 같아서요.",
         "en": "Junho, earlier on the subway, I was about to sit in an empty priority seat but just came standing. It felt like people were staring.",
         "grammarIds": [
-          130,
-          31,
+          40,
+          104,
           1
         ]
       },
@@ -2015,9 +2016,9 @@
         "kr": "알다시피 한국에서는 그 자리가 비어 있더라도 젊은 사람들이 앉는 것을 좋지 않게 보곤 하잖아요.",
         "en": "As you know, even if those seats are empty, people often don't look kindly on young people sitting there, right?",
         "grammarIds": [
-          144,
-          94,
-          79
+          182,
+          164,
+          152
         ]
       },
       {
@@ -2025,9 +2026,9 @@
         "kr": "피곤해서 다리가 아플 지경인데도 눈치가 보여서 못 앉자니 억울한 마음이 들 때도 있어요.",
         "en": "Since I can't sit because I'm self-conscious even though my legs hurt to the point of breaking, I sometimes feel it's unfair.",
         "grammarIds": [
-          64,
-          117,
-          130
+          137,
+          168,
+          40
         ]
       },
       {
@@ -2035,7 +2036,7 @@
         "kr": "맞아요. 하지만 어르신이나 임산부에게 양보하는 문화가 정착된 마당에 무턱대고 앉기도 어렵죠.",
         "en": "True. But under the circumstances where the culture of yielding to seniors or pregnant women is established, it's hard to just sit blindly.",
         "grammarIds": [
-          143
+          181
         ]
       },
       {
@@ -2043,8 +2044,8 @@
         "kr": "규칙을 강요하기보다는 서로의 형편을 배려하는 마음이 우선시되어야 할 법해요.",
         "en": "It stands to reason that a heart that considers each other's circumstances should be prioritized rather than forcing rules.",
         "grammarIds": [
-          118,
-          146
+          169,
+          184
         ]
       },
       {
@@ -2052,9 +2053,9 @@
         "kr": "그렇죠. 서로 조금씩만 이해해 준다면 대중교통 이용이 훨씬 즐거워지리라고 믿어요.",
         "en": "Right. I believe that if we just understand each other a little, using public transport will become much more pleasant.",
         "grammarIds": [
-          109,
-          106,
-          149
+          24,
+          21,
+          187
         ]
       }
     ],
@@ -2080,7 +2081,7 @@
   {
     "id": "ST_028",
     "type": "story",
-    "level": "Advanced (Level 5)",
+    "level": "Intermediate (Level 4)",
     "title": "한옥의 과학, 온돌과 마루 (The Science of Hanok: Ondol and Maru)",
     "intro": "A descriptive text explaining how traditional Korean houses used scientific principles to manage both heat and cold.",
     "lines": [
@@ -2088,48 +2089,48 @@
         "kr": "전통 가옥인 한옥은 자연과 조화를 이루면서도 과학적인 원리가 숨어 있는 건축물이다.",
         "en": "Hanok, the traditional house, is a building where scientific principles are hidden while being in harmony with nature.",
         "grammarIds": [
-          104
+          19
         ]
       },
       {
         "kr": "겨울의 추위를 이겨내기 위해 바닥을 데우는 '온돌'을 설치했는가 하면, 여름에는 시원한 바람이 통하도록 '마루'를 두었다.",
         "en": "While 'Ondol' (underfloor heating) was installed to overcome the winter cold, 'Maru' (wooden porch) was placed to let cool breezes through in summer.",
         "grammarIds": [
-          32,
-          42,
-          44
+          105,
+          115,
+          117
         ]
       },
       {
         "kr": "산과 강을 뒤에 두고 남쪽을 향해 집을 지어서 그런지, 사계절 내내 쾌적한 환경을 유지할 수 있었다.",
         "en": "Maybe because the houses were built facing south with mountains and rivers behind them, a pleasant environment could be maintained all year round.",
         "grammarIds": [
-          103,
-          112
+          18,
+          27
         ]
       },
       {
         "kr": "나무와 흙 등 천연 재료를 사용한 끝에, 숨을 쉬는 집이라 불리는 건강한 주거 공간이 완성된 것이다.",
         "en": "After using natural materials such as wood and clay, a healthy living space called a 'breathing house' was completed.",
         "grammarIds": [
-          139,
-          66
+          177,
+          139
         ]
       },
       {
         "kr": "현대적인 아파트가 편하기는 하지만, 한옥이 주는 고즈넉한 정취와 여유는 따라갈 수 없는 법이다.",
         "en": "Modern apartments are convenient, but it's natural that the quiet atmosphere and leisure that Hanok provides cannot be matched.",
         "grammarIds": [
-          89,
-          136
+          162,
+          174
         ]
       },
       {
         "kr": "우리의 전통 건축 문화를 계승하고 보존하는 한, 한옥의 가치는 세계적으로 인정받으리라고 본다.",
         "en": "As long as we inherit and preserve our traditional architectural culture, I see it as likely that the value of Hanok will be recognized globally.",
         "grammarIds": [
-          150,
-          149
+          188,
+          187
         ]
       }
     ],
