@@ -2156,5 +2156,906 @@
         "meaning": "to inherit/succeed"
       }
     ]
+  },
+  {
+    "id": "ST_029",
+    "type": "essay",
+    "level": "Advanced (Level 6)",
+    "title": "개인정보 보호와 디지털 감시 사회 (Privacy and the Digital Surveillance Society)",
+    "intro": "A TOPIK II-style formal essay weighing convenience against surveillance. Uses advanced connectors such as -을 막론하고, -느니, -는 이상, and rhetorical -는가?",
+    "lines": [
+      {
+        "kr": "스마트폰과 소셜 미디어를 비롯하여 일상의 거의 모든 영역이 데이터로 기록되는 시대가 되었다.",
+        "en": "We have entered an era in which almost every domain of daily life is recorded as data, starting with smartphones and social media.",
+        "grammarIds": [
+          396
+        ]
+      },
+      {
+        "kr": "편리함을 얻는 대가로 위치, 소비, 인간관계란 인간관계는 모두 기업과 국가의 시선 아래에 놓이게 된 것이다.",
+        "en": "In exchange for convenience, every single aspect of location, consumption, and human relationships has come to sit under the gaze of corporations and the state.",
+        "grammarIds": [
+          404
+        ]
+      },
+      {
+        "kr": "설령 범죄 예방을 위한 감시라 해도, 시민의 동의 없이 정보가 수집되는 한 자유는 위협받을 수밖에 없다.",
+        "en": "Even if it is surveillance for crime prevention, as long as information is collected without citizens' consent, freedom inevitably comes under threat.",
+        "grammarIds": [
+          376,
+          188
+        ]
+      },
+      {
+        "kr": "편의를 누리느니 다소 불편하더라도 프라이버시를 지키는 쪽을 택하겠다는 목소리 또한 커지고 있다.",
+        "en": "Voices saying they would rather protect privacy even if it is somewhat inconvenient, instead of enjoying convenience, are also growing louder.",
+        "grammarIds": [
+          351
+        ]
+      },
+      {
+        "kr": "이미 데이터가 권력인 이상, 규제의 공백을 방치하는 것은 민주주의의 근간을 흔드는 일이나 다름없다.",
+        "en": "As long as data is already power, leaving a regulatory vacuum is no different from shaking the foundation of democracy.",
+        "grammarIds": [
+          397
+        ]
+      },
+      {
+        "kr": "과연 우리는 편리함의 대가로 무엇을 내어 주고 있는가? 이 물음에 답하지 못하는 사회는 지속 가능할 수 없다.",
+        "en": "Indeed, what are we giving away in exchange for convenience? A society that cannot answer this question cannot be sustainable.",
+        "grammarIds": [
+          405
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "감시",
+        "meaning": "surveillance/monitoring"
+      },
+      {
+        "word": "프라이버시",
+        "meaning": "privacy"
+      },
+      {
+        "word": "규제",
+        "meaning": "regulation"
+      },
+      {
+        "word": "근간",
+        "meaning": "foundation/root"
+      },
+      {
+        "word": "지속 가능",
+        "meaning": "sustainable"
+      }
+    ]
+  },
+  {
+    "id": "ST_030",
+    "type": "news",
+    "level": "Advanced (Level 5)",
+    "title": "지방 소멸과 지역 균형 발전 (Regional Decline and Balanced Development)",
+    "intro": "A formal news analysis on Korea's regional population collapse. Highlights advanced patterns like -을 불문하고, -건 -건 간에, -는 가운데, and -은 바 있다.",
+    "lines": [
+      {
+        "speaker": "앵커",
+        "kr": "청년 인구 유출을 막론하고 출생률 저하까지 겹치면서, 지방의 소멸 위기가 현실로 다가오고 있습니다.",
+        "en": "With falling birth rates stacking on top of youth outflow regardless, the crisis of regional disappearance is approaching as a reality.",
+        "grammarIds": [
+          403
+        ]
+      },
+      {
+        "speaker": "기자",
+        "kr": "정부가 발표한 바에 따르면, 향후 30년 안에 상당수 시·군이 기능을 상실할 위험이 있다고 합니다.",
+        "en": "According to what the government has announced, a significant number of cities and counties are at risk of losing their functions within the next 30 years.",
+        "grammarIds": [
+          307
+        ]
+      },
+      {
+        "speaker": "기자",
+        "kr": "대기업이 유치되건 관광 상품이 개발되건 간에, 정주 여건이 개선되지 않으면 효과는 일시적일 따름입니다.",
+        "en": "Whether large companies are attracted or tourism products are developed, if settlement conditions do not improve, the effect is merely temporary.",
+        "grammarIds": [
+          402,
+          174
+        ]
+      },
+      {
+        "speaker": "전문가",
+        "kr": "수도권 집중이 심화되는 가운데, 일자리며 의료며 교육 인프라가 동시에 무너지고 있는 곳이 적지 않습니다.",
+        "en": "Amid intensifying concentration in the capital region, there are not a few places where jobs, medical care, and education infrastructure are collapsing at the same time.",
+        "grammarIds": [
+          358,
+          401
+        ]
+      },
+      {
+        "speaker": "앵커",
+        "kr": "나이와 계층을 불문하고 지역에 머물 이유를 만드는 일이야말로 균형 발전의 핵심이라 할 수 있겠습니다.",
+        "en": "Creating reasons to stay in the regions, regardless of age or class, can indeed be called the core of balanced development.",
+        "grammarIds": [
+          373,
+          390
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "소멸",
+        "meaning": "disappearance/extinction"
+      },
+      {
+        "word": "유출",
+        "meaning": "outflow/drain"
+      },
+      {
+        "word": "정주",
+        "meaning": "settlement/residency"
+      },
+      {
+        "word": "인프라",
+        "meaning": "infrastructure"
+      },
+      {
+        "word": "균형 발전",
+        "meaning": "balanced development"
+      }
+    ]
+  },
+  {
+    "id": "ST_031",
+    "type": "conversation",
+    "level": "Advanced (Level 6)",
+    "title": "완벽주의와 번아웃 (Perfectionism and Burnout)",
+    "intro": "A high-level conversation between coworkers about toxic perfectionism. Uses -는 한이 있어도, -을래야 을 수 없다, -을 바에야, -기 이를 데 없다, and -이/가 다 뭐예요?",
+    "lines": [
+      {
+        "speaker": "하늘",
+        "kr": "지안 씨, 요즘 표정이 기색이 어두워 보여요. 야근이 계속되는 통에 많이 지친 거죠?",
+        "en": "Jian, your expression looks dark these days. You're exhausted because of the ongoing overtime, right?",
+        "grammarIds": [
+          131
+        ]
+      },
+      {
+        "speaker": "지안",
+        "kr": "솔직히 말해요. 완성도가 떨어질 바에야 잠을 줄여서라도 끝내겠다는 생각이 습관이 됐달까요.",
+        "en": "To be honest, I'd say I've gotten into the habit of thinking I'd rather cut sleep and finish it than let the quality drop.",
+        "grammarIds": [
+          363
+        ]
+      },
+      {
+        "speaker": "하늘",
+        "kr": "그 정도면 성실하기 이를 데 없지만, 건강을 잃으면 경력이 다 뭐예요?",
+        "en": "At that point you're extremely dedicated, but if you lose your health, what good is a career?",
+        "grammarIds": [
+          370,
+          372
+        ]
+      },
+      {
+        "speaker": "지안",
+        "kr": "알아요. 쉬고 싶어도 쉴래야 쉴 수가 없는 기분이랄까요. 실수하는 한이 있어도 속도를 좀 늦춰야겠어요.",
+        "en": "I know. It feels like even if I want to rest, I can't rest even if I try. Even if it means making mistakes, I should slow down a bit.",
+        "grammarIds": [
+          359,
+          304
+        ]
+      },
+      {
+        "speaker": "하늘",
+        "kr": "완벽을 추구하다 성과가 나는 게 고작이면, 그건 성장이 아니라 소모일 뿐이에요.",
+        "en": "If pursuing perfection only yields so little achievement, that is depletion rather than growth.",
+        "grammarIds": [
+          400
+        ]
+      },
+      {
+        "speaker": "지안",
+        "kr": "맞아요. 오늘은 일찍 퇴근하건 산책을 하건 간에, 나 자신을 먼저 챙기기로 할게요.",
+        "en": "You're right. Whether I leave early today or take a walk, I'll decide to take care of myself first.",
+        "grammarIds": [
+          402,
+          83
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "번아웃",
+        "meaning": "burnout"
+      },
+      {
+        "word": "완성도",
+        "meaning": "degree of completeness/quality"
+      },
+      {
+        "word": "성실하다",
+        "meaning": "to be sincere/diligent"
+      },
+      {
+        "word": "소모",
+        "meaning": "consumption/depletion"
+      },
+      {
+        "word": "추구하다",
+        "meaning": "to pursue"
+      }
+    ]
+  },
+  {
+    "id": "ST_032",
+    "type": "conversation",
+    "level": "Beginner (Level 1)",
+    "title": "카페에서 만나요 (Meeting at a Cafe)",
+    "intro": "A short beginner chat between 민지 and 톰 about meeting at a cafe. Uses basic particles, -고 싶다, -(으)ㄹ까요?, and -(으)ㄹ 거예요.",
+    "lines": [
+      {
+        "speaker": "민지",
+        "kr": "톰 씨, 오늘 시간이 있어요?",
+        "en": "Tom, do you have time today?",
+        "grammarIds": [
+          46,
+          54
+        ]
+      },
+      {
+        "speaker": "톰",
+        "kr": "네, 오후에 시간이 있어요. 왜요?",
+        "en": "Yes, I have time in the afternoon. Why?",
+        "grammarIds": [
+          46,
+          54
+        ]
+      },
+      {
+        "speaker": "민지",
+        "kr": "같이 커피 마실래요? 학교 앞 카페에 가요.",
+        "en": "Shall we drink coffee together? Let's go to the cafe in front of school.",
+        "grammarIds": [
+          6,
+          52
+        ]
+      },
+      {
+        "speaker": "톰",
+        "kr": "좋아요. 저는 아이스 커피를 마시고 싶어요.",
+        "en": "Sounds good. I want to drink iced coffee.",
+        "grammarIds": [
+          34
+        ]
+      },
+      {
+        "speaker": "민지",
+        "kr": "그럼 세 시에 만나요. 저는 주스를 마실 거예요.",
+        "en": "Then let's meet at three o'clock. I will drink juice.",
+        "grammarIds": [
+          54,
+          7
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "카페",
+        "meaning": "cafe"
+      },
+      {
+        "word": "시간",
+        "meaning": "time"
+      },
+      {
+        "word": "커피",
+        "meaning": "coffee"
+      },
+      {
+        "word": "주스",
+        "meaning": "juice"
+      }
+    ]
+  },
+  {
+    "id": "ST_033",
+    "type": "story",
+    "level": "Beginner (Level 2)",
+    "title": "나의 하루 (My Day)",
+    "intro": "A simple daily-routine story for beginners. Practices -아서/어서, -고, -(으)면, and -(으)ㄹ 수 있다.",
+    "lines": [
+      {
+        "kr": "저는 매일 아침 일곱 시에 일어나요.",
+        "en": "I wake up at seven every morning.",
+        "grammarIds": [
+          54
+        ]
+      },
+      {
+        "kr": "밥을 먹고 학교에 가요.",
+        "en": "I eat and go to school.",
+        "grammarIds": [
+          23,
+          52
+        ]
+      },
+      {
+        "kr": "학교에서 친구를 만나서 같이 공부해요.",
+        "en": "I meet my friend at school and study together.",
+        "grammarIds": [
+          17,
+          48
+        ]
+      },
+      {
+        "kr": "집에 오면 텔레비전을 보거나 책을 읽어요.",
+        "en": "When I come home, I watch TV or read a book.",
+        "grammarIds": [
+          21,
+          15
+        ]
+      },
+      {
+        "kr": "주말에는 공원에서 운동할 수 있어서 좋아요.",
+        "en": "On weekends I like that I can exercise in the park.",
+        "grammarIds": [
+          27,
+          17
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "일어나다",
+        "meaning": "to wake up"
+      },
+      {
+        "word": "학교",
+        "meaning": "school"
+      },
+      {
+        "word": "공원",
+        "meaning": "park"
+      },
+      {
+        "word": "운동하다",
+        "meaning": "to exercise"
+      }
+    ]
+  },
+  {
+    "id": "ST_034",
+    "type": "conversation",
+    "level": "Beginner (Level 2)",
+    "title": "주말 계획 (Weekend Plans)",
+    "intro": "Mina and Joon talk about weekend plans. Uses -아/어 보다, -고 싶다, N보다, and -(으)면 좋겠다.",
+    "lines": [
+      {
+        "speaker": "미나",
+        "kr": "준 씨, 주말에 뭐 할 거예요?",
+        "en": "Joon, what will you do on the weekend?",
+        "grammarIds": [
+          7
+        ]
+      },
+      {
+        "speaker": "준",
+        "kr": "영화를 볼까 해요. 미나 씨는요?",
+        "en": "I'm thinking of watching a movie. What about you, Mina?",
+        "grammarIds": [
+          6
+        ]
+      },
+      {
+        "speaker": "미나",
+        "kr": "저는 한국 음식을 먹어 보고 싶어요.",
+        "en": "I want to try Korean food.",
+        "grammarIds": [
+          35,
+          34
+        ]
+      },
+      {
+        "speaker": "준",
+        "kr": "그럼 같이 가요. 영화보다 음식이 더 재미있을 것 같아요.",
+        "en": "Then let's go together. Food seems more fun than a movie.",
+        "grammarIds": [
+          2,
+          1
+        ]
+      },
+      {
+        "speaker": "미나",
+        "kr": "좋아요. 내일 날씨가 좋으면 좋겠어요.",
+        "en": "Great. I hope the weather is nice tomorrow.",
+        "grammarIds": [
+          3,
+          21
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "주말",
+        "meaning": "weekend"
+      },
+      {
+        "word": "영화",
+        "meaning": "movie"
+      },
+      {
+        "word": "음식",
+        "meaning": "food"
+      },
+      {
+        "word": "날씨",
+        "meaning": "weather"
+      }
+    ]
+  },
+  {
+    "id": "ST_035",
+    "type": "story",
+    "level": "Beginner (Level 1)",
+    "title": "시장에 가요 (Going to the Market)",
+    "intro": "A very short beginner narrative about shopping. Uses location particles, -고 싶다, and -아서/어서.",
+    "lines": [
+      {
+        "kr": "오늘 엄마하고 시장에 가요.",
+        "en": "Today I go to the market with my mom.",
+        "grammarIds": [
+          48,
+          52
+        ]
+      },
+      {
+        "kr": "사과하고 바나나를 사고 싶어요.",
+        "en": "I want to buy apples and bananas.",
+        "grammarIds": [
+          48,
+          34
+        ]
+      },
+      {
+        "kr": "시장이 집에서 가까워요.",
+        "en": "The market is close to home.",
+        "grammarIds": [
+          46
+        ]
+      },
+      {
+        "kr": "과일이 싸서 많이 사요.",
+        "en": "Fruit is cheap, so we buy a lot.",
+        "grammarIds": [
+          17
+        ]
+      },
+      {
+        "kr": "집에 와서 같이 먹어요. 정말 맛있어요!",
+        "en": "We come home and eat together. It's really delicious!",
+        "grammarIds": [
+          23
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "시장",
+        "meaning": "market"
+      },
+      {
+        "word": "사과",
+        "meaning": "apple"
+      },
+      {
+        "word": "바나나",
+        "meaning": "banana"
+      },
+      {
+        "word": "과일",
+        "meaning": "fruit"
+      }
+    ]
+  },
+  {
+    "id": "ST_036",
+    "type": "conversation",
+    "level": "Beginner (Level 1)",
+    "title": "교실에서 (In the Classroom)",
+    "intro": "A teacher and student talk before class. Uses basic particles, -아요/어요, and -(으)ㄹ까요?",
+    "lines": [
+      {
+        "speaker": "선생님",
+        "kr": "수진 씨, 책하고 공책이 있어요?",
+        "en": "Sujin, do you have a book and a notebook?",
+        "grammarIds": [
+          46,
+          48
+        ]
+      },
+      {
+        "speaker": "수진",
+        "kr": "네, 여기 있어요. 펜도 있어요.",
+        "en": "Yes, here they are. I have a pen too.",
+        "grammarIds": [
+          46
+        ]
+      },
+      {
+        "speaker": "선생님",
+        "kr": "좋아요. 오늘 한국어를 공부할까요?",
+        "en": "Good. Shall we study Korean today?",
+        "grammarIds": [
+          6
+        ]
+      },
+      {
+        "speaker": "수진",
+        "kr": "네! 저는 한국어가 재미있어요.",
+        "en": "Yes! Korean is fun for me.",
+        "grammarIds": [
+          46
+        ]
+      },
+      {
+        "speaker": "선생님",
+        "kr": "그럼 칠판을 보세요. 같이 읽어요.",
+        "en": "Then look at the board. Let's read together.",
+        "grammarIds": [
+          47
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "공책",
+        "meaning": "notebook"
+      },
+      {
+        "word": "펜",
+        "meaning": "pen"
+      },
+      {
+        "word": "칠판",
+        "meaning": "blackboard"
+      },
+      {
+        "word": "읽다",
+        "meaning": "to read"
+      }
+    ]
+  },
+  {
+    "id": "ST_037",
+    "type": "story",
+    "level": "Beginner (Level 1)",
+    "title": "우리 가족 (My Family)",
+    "intro": "A very simple self-introduction about family members and ages.",
+    "lines": [
+      {
+        "kr": "제 이름은 하늘이에요.",
+        "en": "My name is Haneul.",
+        "grammarIds": [
+          44
+        ]
+      },
+      {
+        "kr": "우리 가족은 네 명이에요.",
+        "en": "There are four people in my family.",
+        "grammarIds": [
+          44
+        ]
+      },
+      {
+        "kr": "아버지하고 어머니가 계세요.",
+        "en": "I have a father and a mother.",
+        "grammarIds": [
+          48,
+          46
+        ]
+      },
+      {
+        "kr": "남동생도 있어요. 동생은 열 살이에요.",
+        "en": "I also have a younger brother. He is ten years old.",
+        "grammarIds": [
+          46,
+          44
+        ]
+      },
+      {
+        "kr": "주말에 가족이 같이 밥을 먹어요.",
+        "en": "On weekends my family eats together.",
+        "grammarIds": [
+          48
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "가족",
+        "meaning": "family"
+      },
+      {
+        "word": "아버지",
+        "meaning": "father"
+      },
+      {
+        "word": "어머니",
+        "meaning": "mother"
+      },
+      {
+        "word": "남동생",
+        "meaning": "younger brother"
+      }
+    ]
+  },
+  {
+    "id": "ST_038",
+    "type": "conversation",
+    "level": "Beginner (Level 2)",
+    "title": "옷 가게에서 (At the Clothing Store)",
+    "intro": "A shopper asks about clothes. Uses N보다, -지만-style contrast via -는데, and -고 싶다.",
+    "lines": [
+      {
+        "speaker": "직원",
+        "kr": "어서 오세요. 무엇을 찾으세요?",
+        "en": "Welcome. What are you looking for?",
+        "grammarIds": [
+          47
+        ]
+      },
+      {
+        "speaker": "손님",
+        "kr": "이 티셔츠를 사고 싶어요. 얼마예요?",
+        "en": "I want to buy this T-shirt. How much is it?",
+        "grammarIds": [
+          34
+        ]
+      },
+      {
+        "speaker": "직원",
+        "kr": "만 원이에요. 저 티셔츠보다 싸요.",
+        "en": "It's 10,000 won. It's cheaper than that T-shirt.",
+        "grammarIds": [
+          44,
+          2
+        ]
+      },
+      {
+        "speaker": "손님",
+        "kr": "색이 예쁜데요. 한번 입어 볼 수 있어요?",
+        "en": "The color is pretty. Can I try it on?",
+        "grammarIds": [
+          12,
+          35,
+          27
+        ]
+      },
+      {
+        "speaker": "직원",
+        "kr": "네, 여기 탈의실이 있어요. 천천히 보세요.",
+        "en": "Yes, the fitting room is here. Please take your time looking.",
+        "grammarIds": [
+          46,
+          47
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "티셔츠",
+        "meaning": "T-shirt"
+      },
+      {
+        "word": "싸다",
+        "meaning": "to be cheap"
+      },
+      {
+        "word": "입다",
+        "meaning": "to wear"
+      },
+      {
+        "word": "색",
+        "meaning": "color"
+      }
+    ]
+  },
+  {
+    "id": "ST_039",
+    "type": "story",
+    "level": "Beginner (Level 2)",
+    "title": "날씨와 산책 (Weather and a Walk)",
+    "intro": "A short weather story. Uses -아서/어서, -(으)면, and -고 싶다.",
+    "lines": [
+      {
+        "kr": "오늘 날씨가 정말 좋아요.",
+        "en": "The weather is really nice today.",
+        "grammarIds": [
+          54
+        ]
+      },
+      {
+        "kr": "하늘이 맑아서 기분이 좋아요.",
+        "en": "The sky is clear, so I feel good.",
+        "grammarIds": [
+          17
+        ]
+      },
+      {
+        "kr": "친구하고 공원에 가서 산책하고 싶어요.",
+        "en": "I want to go to the park with a friend and take a walk.",
+        "grammarIds": [
+          48,
+          52,
+          34
+        ]
+      },
+      {
+        "kr": "비가 오면 집에 있을 거예요.",
+        "en": "If it rains, I will stay home.",
+        "grammarIds": [
+          21,
+          7
+        ]
+      },
+      {
+        "kr": "하지만 지금은 해가 있어서 바깥에 나가요.",
+        "en": "But now there is sun, so I go outside.",
+        "grammarIds": [
+          17,
+          46
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "날씨",
+        "meaning": "weather"
+      },
+      {
+        "word": "맑다",
+        "meaning": "to be clear (weather)"
+      },
+      {
+        "word": "산책",
+        "meaning": "a walk"
+      },
+      {
+        "word": "바깥",
+        "meaning": "outside"
+      }
+    ]
+  },
+  {
+    "id": "ST_040",
+    "type": "conversation",
+    "level": "Beginner (Level 2)",
+    "title": "점심 뭐 먹을까요? (What Shall We Eat for Lunch?)",
+    "intro": "Two friends choose lunch. Uses -(으)ㄹ까요?, -거나, and -면 되다.",
+    "lines": [
+      {
+        "speaker": "유진",
+        "kr": "배고파요. 점심 먹을까요?",
+        "en": "I'm hungry. Shall we eat lunch?",
+        "grammarIds": [
+          6
+        ]
+      },
+      {
+        "speaker": "현우",
+        "kr": "좋아요. 비빔밥이나 김밥을 먹어요.",
+        "en": "Sure. Let's eat bibimbap or kimbap.",
+        "grammarIds": [
+          69
+        ]
+      },
+      {
+        "speaker": "유진",
+        "kr": "저는 비빔밥을 먹고 싶어요. 매운 음식을 좋아해요.",
+        "en": "I want to eat bibimbap. I like spicy food.",
+        "grammarIds": [
+          34,
+          60
+        ]
+      },
+      {
+        "speaker": "현우",
+        "kr": "그럼 이 식당에 가면 돼요. 가깝고 맛있어요.",
+        "en": "Then we just need to go to this restaurant. It's close and delicious.",
+        "grammarIds": [
+          5,
+          23
+        ]
+      },
+      {
+        "speaker": "유진",
+        "kr": "좋아요. 빨리 가요. 배가 너무 고파요!",
+        "en": "Great. Let's go quickly. I'm so hungry!",
+        "grammarIds": [
+          52
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "점심",
+        "meaning": "lunch"
+      },
+      {
+        "word": "비빔밥",
+        "meaning": "bibimbap"
+      },
+      {
+        "word": "김밥",
+        "meaning": "kimbap"
+      },
+      {
+        "word": "식당",
+        "meaning": "restaurant"
+      }
+    ]
+  },
+  {
+    "id": "ST_041",
+    "type": "story",
+    "level": "Beginner (Level 1)",
+    "title": "도서관에서 (At the Library)",
+    "intro": "A quiet beginner story about studying at the library.",
+    "lines": [
+      {
+        "kr": "저는 자주 도서관에 가요.",
+        "en": "I often go to the library.",
+        "grammarIds": [
+          52
+        ]
+      },
+      {
+        "kr": "도서관이 조용하고 깨끗해요.",
+        "en": "The library is quiet and clean.",
+        "grammarIds": [
+          23
+        ]
+      },
+      {
+        "kr": "거기에서 책을 읽거나 숙제를 해요.",
+        "en": "There I read books or do homework.",
+        "grammarIds": [
+          15
+        ]
+      },
+      {
+        "kr": "친구를 만나면 같이 공부해요.",
+        "en": "If I meet a friend, we study together.",
+        "grammarIds": [
+          21
+        ]
+      },
+      {
+        "kr": "집에 오기 전에 책을 반납해요.",
+        "en": "Before coming home, I return the books.",
+        "grammarIds": [
+          31
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "도서관",
+        "meaning": "library"
+      },
+      {
+        "word": "숙제",
+        "meaning": "homework"
+      },
+      {
+        "word": "조용하다",
+        "meaning": "to be quiet"
+      },
+      {
+        "word": "반납하다",
+        "meaning": "to return (a borrowed item)"
+      }
+    ]
   }
 ]
