@@ -1,0 +1,1622 @@
+[
+  {
+    "grammarId": 1,
+    "name": "V/A -(으)ㄴ/는/인 것 같다"
+  },
+  {
+    "grammarId": 2,
+    "name": "N보다"
+  },
+  {
+    "grammarId": 3,
+    "name": "A/V-았/었으면 좋겠다"
+  },
+  {
+    "grammarId": 4,
+    "name": "V-(으)ㄴ 적이 있다"
+  },
+  {
+    "grammarId": 5,
+    "name": "V-면 되다"
+  },
+  {
+    "grammarId": 6,
+    "name": "A/V -(으)ㄹ까요?"
+  },
+  {
+    "grammarId": 7,
+    "name": "A/V -(으)ㄹ 거예요"
+  },
+  {
+    "grammarId": 8,
+    "name": "-아/어도"
+  },
+  {
+    "grammarId": 9,
+    "name": "-(으)ㄴ/는 대신에"
+  },
+  {
+    "grammarId": 10,
+    "name": "-(으)ㄴ/는 덕분에"
+  },
+  {
+    "grammarId": 11,
+    "name": "-고 나서"
+  },
+  {
+    "grammarId": 12,
+    "name": "-(으)ㄴ/는데"
+  },
+  {
+    "grammarId": 13,
+    "name": "-(으)려고"
+  },
+  {
+    "grammarId": 14,
+    "name": "-아/어야"
+  },
+  {
+    "grammarId": 15,
+    "name": "-거나"
+  },
+  {
+    "grammarId": 16,
+    "name": "-(으)ㄹ수록"
+  },
+  {
+    "grammarId": 17,
+    "name": "-아/어서"
+  },
+  {
+    "grammarId": 18,
+    "name": "-아/어서 그런지"
+  },
+  {
+    "grammarId": 19,
+    "name": "-(으)면서"
+  },
+  {
+    "grammarId": 20,
+    "name": "-(으)니까"
+  },
+  {
+    "grammarId": 21,
+    "name": "-(으)면"
+  },
+  {
+    "grammarId": 22,
+    "name": "-게"
+  },
+  {
+    "grammarId": 23,
+    "name": "-고"
+  },
+  {
+    "grammarId": 24,
+    "name": "-아/어 주다"
+  },
+  {
+    "grammarId": 25,
+    "name": "-아/어야 하다"
+  },
+  {
+    "grammarId": 26,
+    "name": "-기 때문에"
+  },
+  {
+    "grammarId": 27,
+    "name": "-(으)ㄹ 수 있다/없다"
+  },
+  {
+    "grammarId": 28,
+    "name": "-(으)러 (가다/오다)"
+  },
+  {
+    "grammarId": 29,
+    "name": "-지 마세요"
+  },
+  {
+    "grammarId": 30,
+    "name": "-아/어 놓다"
+  },
+  {
+    "grammarId": 31,
+    "name": "-(으)ㄴ 후에 / 뒤에"
+  },
+  {
+    "grammarId": 32,
+    "name": "-는 동안"
+  },
+  {
+    "grammarId": 33,
+    "name": "-기 전에"
+  },
+  {
+    "grammarId": 34,
+    "name": "-고 싶다"
+  },
+  {
+    "grammarId": 35,
+    "name": "-아/어 보다"
+  },
+  {
+    "grammarId": 36,
+    "name": "-아/어지다"
+  },
+  {
+    "grammarId": 37,
+    "name": "-기 시작하다"
+  },
+  {
+    "grammarId": 38,
+    "name": "-기 쉽다 / 어렵다"
+  },
+  {
+    "grammarId": 39,
+    "name": "-(으)ㄴ/는 것"
+  },
+  {
+    "grammarId": 40,
+    "name": "-(으)ㄹ 때"
+  },
+  {
+    "grammarId": 41,
+    "name": "-지요? (-죠?)"
+  },
+  {
+    "grammarId": 42,
+    "name": "-고 있다"
+  },
+  {
+    "grammarId": 43,
+    "name": "N이에요/예요"
+  },
+  {
+    "grammarId": 44,
+    "name": "N입니다 / N입니까?"
+  },
+  {
+    "grammarId": 45,
+    "name": "N이/가 아닙니다"
+  },
+  {
+    "grammarId": 46,
+    "name": "N이/가 있어요/없어요"
+  },
+  {
+    "grammarId": 47,
+    "name": "N 주세요"
+  },
+  {
+    "grammarId": 48,
+    "name": "N하고, N과/와"
+  },
+  {
+    "grammarId": 49,
+    "name": "V-아요/어요"
+  },
+  {
+    "grammarId": 50,
+    "name": "N에서"
+  },
+  {
+    "grammarId": 51,
+    "name": "안 V"
+  },
+  {
+    "grammarId": 52,
+    "name": "N에 (Destination)"
+  },
+  {
+    "grammarId": 53,
+    "name": "N 앞, 뒤, 옆, 위, 밑"
+  },
+  {
+    "grammarId": 54,
+    "name": "N에 (Time)"
+  },
+  {
+    "grammarId": 55,
+    "name": "N 개, 번, 명, 권"
+  },
+  {
+    "grammarId": 56,
+    "name": "N도"
+  },
+  {
+    "grammarId": 57,
+    "name": "A/V-습니다 / ㅂ니다"
+  },
+  {
+    "grammarId": 58,
+    "name": "A/V-네요"
+  },
+  {
+    "grammarId": 59,
+    "name": "N(의) N"
+  },
+  {
+    "grammarId": 60,
+    "name": "N을/를 잘하다 / 못하다"
+  },
+  {
+    "grammarId": 61,
+    "name": "A/V-(으)시-"
+  },
+  {
+    "grammarId": 62,
+    "name": "N부터 N까지"
+  },
+  {
+    "grammarId": 63,
+    "name": "N에서 N까지"
+  },
+  {
+    "grammarId": 64,
+    "name": "N(으)로 (Direction / Means)"
+  },
+  {
+    "grammarId": 65,
+    "name": "A-(으)ㄴ N"
+  },
+  {
+    "grammarId": 66,
+    "name": "N한테 / N께 / N에게"
+  },
+  {
+    "grammarId": 67,
+    "name": "V-(으)ㄹ게요"
+  },
+  {
+    "grammarId": 68,
+    "name": "V-는 N"
+  },
+  {
+    "grammarId": 69,
+    "name": "N(이)나 (Or)"
+  },
+  {
+    "grammarId": 70,
+    "name": "V-(으)ㄴ N"
+  },
+  {
+    "grammarId": 71,
+    "name": "V-(으)ㄹ N"
+  },
+  {
+    "grammarId": 72,
+    "name": "N처럼"
+  },
+  {
+    "grammarId": 73,
+    "name": "N마다"
+  },
+  {
+    "grammarId": 74,
+    "name": "V-는 게 어때요?"
+  },
+  {
+    "grammarId": 75,
+    "name": "N 중에(서)"
+  },
+  {
+    "grammarId": 76,
+    "name": "V-(으)ㄹ래(요)"
+  },
+  {
+    "grammarId": 77,
+    "name": "N밖에"
+  },
+  {
+    "grammarId": 78,
+    "name": "N(이)라서"
+  },
+  {
+    "grammarId": 79,
+    "name": "N(이)나 (Emphasis/Quantity)"
+  },
+  {
+    "grammarId": 80,
+    "name": "A/V-았을/었을 때"
+  },
+  {
+    "grammarId": 81,
+    "name": "V-는 셈이다"
+  },
+  {
+    "grammarId": 82,
+    "name": "V-아/어 놓다 / 두다"
+  },
+  {
+    "grammarId": 83,
+    "name": "V-기로 하다"
+  },
+  {
+    "grammarId": 84,
+    "name": "V-게 하다"
+  },
+  {
+    "grammarId": 85,
+    "name": "V-게 되다"
+  },
+  {
+    "grammarId": 86,
+    "name": "V-아/어 있다"
+  },
+  {
+    "grammarId": 87,
+    "name": "V-아/어 가다"
+  },
+  {
+    "grammarId": 88,
+    "name": "V-아/어 오다"
+  },
+  {
+    "grammarId": 89,
+    "name": "V-(으)ㄹ 뻔했다"
+  },
+  {
+    "grammarId": 90,
+    "name": "V/A/N-나 보다"
+  },
+  {
+    "grammarId": 91,
+    "name": "V/A-ㄴ/는 모양이다"
+  },
+  {
+    "grammarId": 92,
+    "name": "V-아/어 버렸다"
+  },
+  {
+    "grammarId": 93,
+    "name": "V-(으)ㄹ 정도로"
+  },
+  {
+    "grammarId": 94,
+    "name": "V-ㄴ/는 척하다"
+  },
+  {
+    "grammarId": 95,
+    "name": "V-(으)ㄹ까 봐(서)"
+  },
+  {
+    "grammarId": 96,
+    "name": "V-(으)ㄹ 리가 없다"
+  },
+  {
+    "grammarId": 97,
+    "name": "V-(으)ㄹ 수밖에 없다"
+  },
+  {
+    "grammarId": 98,
+    "name": "V-자마자"
+  },
+  {
+    "grammarId": 99,
+    "name": "V-는 바람에"
+  },
+  {
+    "grammarId": 100,
+    "name": "V-아/어 봐야"
+  },
+  {
+    "grammarId": 101,
+    "name": "V/A-나 마나"
+  },
+  {
+    "grammarId": 102,
+    "name": "V-는 길에"
+  },
+  {
+    "grammarId": 103,
+    "name": "V/A-(으)ㄹ 뿐만 아니라"
+  },
+  {
+    "grammarId": 104,
+    "name": "V-(으)려던 참이다"
+  },
+  {
+    "grammarId": 105,
+    "name": "V-기 위해서"
+  },
+  {
+    "grammarId": 106,
+    "name": "V-는 대로"
+  },
+  {
+    "grammarId": 107,
+    "name": "N-에 달려 있다"
+  },
+  {
+    "grammarId": 108,
+    "name": "V-(으)ㄹ 만하다"
+  },
+  {
+    "grammarId": 109,
+    "name": "N-는커녕"
+  },
+  {
+    "grammarId": 110,
+    "name": "V-다가 보니까"
+  },
+  {
+    "grammarId": 111,
+    "name": "V/A-듯이"
+  },
+  {
+    "grammarId": 112,
+    "name": "V/A-는 반면에"
+  },
+  {
+    "grammarId": 113,
+    "name": "V/A-면서(도)"
+  },
+  {
+    "grammarId": 114,
+    "name": "V/A-는데(도)"
+  },
+  {
+    "grammarId": 115,
+    "name": "V/A-는가 하면"
+  },
+  {
+    "grammarId": 116,
+    "name": "V/A/N-든지"
+  },
+  {
+    "grammarId": 117,
+    "name": "V/A-도록"
+  },
+  {
+    "grammarId": 118,
+    "name": "V/A-ㄴ/는 다기에"
+  },
+  {
+    "grammarId": 119,
+    "name": "V-ㄴ/는 길래"
+  },
+  {
+    "grammarId": 120,
+    "name": "V-(으)려면"
+  },
+  {
+    "grammarId": 121,
+    "name": "V-기만 하다"
+  },
+  {
+    "grammarId": 122,
+    "name": "V-ㄴ 채(로)"
+  },
+  {
+    "grammarId": 123,
+    "name": "V-고도"
+  },
+  {
+    "grammarId": 124,
+    "name": "V-는 줄 몰랐다"
+  },
+  {
+    "grammarId": 125,
+    "name": "V-ㄴ 나머지"
+  },
+  {
+    "grammarId": 126,
+    "name": "V-ㄹ 뿐이다"
+  },
+  {
+    "grammarId": 127,
+    "name": "V-았/었어야 했는데"
+  },
+  {
+    "grammarId": 128,
+    "name": "V/A-더라고(요)"
+  },
+  {
+    "grammarId": 129,
+    "name": "V/A-다던데"
+  },
+  {
+    "grammarId": 130,
+    "name": "V-자(고) 하다"
+  },
+  {
+    "grammarId": 131,
+    "name": "V-는 통에"
+  },
+  {
+    "grammarId": 132,
+    "name": "N-에 의해서"
+  },
+  {
+    "grammarId": 133,
+    "name": "V/A-아/어서야"
+  },
+  {
+    "grammarId": 134,
+    "name": "V/A-(으)ㅁ (Nominalizer)"
+  },
+  {
+    "grammarId": 135,
+    "name": "V-았/었더라면"
+  },
+  {
+    "grammarId": 136,
+    "name": "V/A-다가는"
+  },
+  {
+    "grammarId": 137,
+    "name": "V-(으)ㄹ 지경이다"
+  },
+  {
+    "grammarId": 138,
+    "name": "V-는 데다가"
+  },
+  {
+    "grammarId": 139,
+    "name": "V/A-ㄴ/는 다는 것이다"
+  },
+  {
+    "grammarId": 140,
+    "name": "V-는 척 / 체하다"
+  },
+  {
+    "grammarId": 141,
+    "name": "V/A-더니"
+  },
+  {
+    "grammarId": 142,
+    "name": "V-(ㄴ/은/는) 거나 마찬가지이다"
+  },
+  {
+    "grammarId": 143,
+    "name": "V/A-(ㄴ/은) 탓에 / 탓이다"
+  },
+  {
+    "grammarId": 144,
+    "name": "V-기 마련이다"
+  },
+  {
+    "grammarId": 145,
+    "name": "V-기 나름이다 / N-나름이다"
+  },
+  {
+    "grammarId": 146,
+    "name": "V-다가"
+  },
+  {
+    "grammarId": 147,
+    "name": "V/A-든지 ... V/A-든지"
+  },
+  {
+    "grammarId": 148,
+    "name": "V/A-(ㄴ/은/는/을) 듯하다"
+  },
+  {
+    "grammarId": 149,
+    "name": "V/A-(을) ㄹ 텐데"
+  },
+  {
+    "grammarId": 150,
+    "name": "A-아/어 보이다"
+  },
+  {
+    "grammarId": 151,
+    "name": "V-(으)ㄴ/는 편이다"
+  },
+  {
+    "grammarId": 152,
+    "name": "V-곤 하다"
+  },
+  {
+    "grammarId": 153,
+    "name": "V-느라고"
+  },
+  {
+    "grammarId": 154,
+    "name": "V/A-(으)ㄹ지도 모르다"
+  },
+  {
+    "grammarId": 155,
+    "name": "V-아/어 보니(까)"
+  },
+  {
+    "grammarId": 156,
+    "name": "V-(으)ㄹ 겸 (해서)"
+  },
+  {
+    "grammarId": 157,
+    "name": "V-(으)ㄴ/는 김에"
+  },
+  {
+    "grammarId": 158,
+    "name": "V-(으)ㄹ까 하다"
+  },
+  {
+    "grammarId": 159,
+    "name": "V-(으)ㄹ 테니까"
+  },
+  {
+    "grammarId": 160,
+    "name": "N-치고(는)"
+  },
+  {
+    "grammarId": 161,
+    "name": "N-만 해도"
+  },
+  {
+    "grammarId": 162,
+    "name": "A/V-기는 하지만"
+  },
+  {
+    "grammarId": 163,
+    "name": "V-(으)ㄹ지 (모르겠다)"
+  },
+  {
+    "grammarId": 164,
+    "name": "-더라도"
+  },
+  {
+    "grammarId": 165,
+    "name": "-다가 보면"
+  },
+  {
+    "grammarId": 166,
+    "name": "-(으)ㄹ 따름이다"
+  },
+  {
+    "grammarId": 167,
+    "name": "-(으)ㄹ 뿐더러"
+  },
+  {
+    "grammarId": 168,
+    "name": "-자니"
+  },
+  {
+    "grammarId": 169,
+    "name": "-느니 차라리"
+  },
+  {
+    "grammarId": 170,
+    "name": "-(으)ㄴ/는 대신에"
+  },
+  {
+    "grammarId": 171,
+    "name": "-(으)므로"
+  },
+  {
+    "grammarId": 172,
+    "name": "-(으)나"
+  },
+  {
+    "grammarId": 173,
+    "name": "-기 일쑤이다"
+  },
+  {
+    "grammarId": 174,
+    "name": "-(으)ㄴ/는 법이다"
+  },
+  {
+    "grammarId": 175,
+    "name": "-(으)ㄹ 바에야"
+  },
+  {
+    "grammarId": 176,
+    "name": "-다 못해"
+  },
+  {
+    "grammarId": 177,
+    "name": "-(으)ㄴ 끝에"
+  },
+  {
+    "grammarId": 178,
+    "name": "-아/어 대다"
+  },
+  {
+    "grammarId": 179,
+    "name": "-기가 무섭게"
+  },
+  {
+    "grammarId": 180,
+    "name": "-아/어 내다"
+  },
+  {
+    "grammarId": 181,
+    "name": "-(으)ㄴ/는 마당에"
+  },
+  {
+    "grammarId": 182,
+    "name": "-다시피"
+  },
+  {
+    "grammarId": 183,
+    "name": "-거들랑"
+  },
+  {
+    "grammarId": 184,
+    "name": "-(으)ㄹ 법하다"
+  },
+  {
+    "grammarId": 185,
+    "name": "-고서"
+  },
+  {
+    "grammarId": 186,
+    "name": "-기까지 하다"
+  },
+  {
+    "grammarId": 187,
+    "name": "-(으)리라고"
+  },
+  {
+    "grammarId": 188,
+    "name": "-는 한"
+  },
+  {
+    "grammarId": 189,
+    "name": "-(으)ㄴ/는 모양이다"
+  },
+  {
+    "grammarId": 190,
+    "name": "-다면서요?"
+  },
+  {
+    "grammarId": 191,
+    "name": "-다니(까)"
+  },
+  {
+    "grammarId": 192,
+    "name": "-(으)ㄹ 줄 알았다/몰랐다"
+  },
+  {
+    "grammarId": 193,
+    "name": "-다가는"
+  },
+  {
+    "grammarId": 194,
+    "name": "-기는커녕"
+  },
+  {
+    "grammarId": 195,
+    "name": "-다더니"
+  },
+  {
+    "grammarId": 196,
+    "name": "-다니까"
+  },
+  {
+    "grammarId": 197,
+    "name": "-고 말다"
+  },
+  {
+    "grammarId": 198,
+    "name": "-자니"
+  },
+  {
+    "grammarId": 199,
+    "name": "-(으)ㄴ 끝에"
+  },
+  {
+    "grammarId": 200,
+    "name": "-아/어 내다"
+  },
+  {
+    "grammarId": 201,
+    "name": "-아/어 대다"
+  },
+  {
+    "grammarId": 202,
+    "name": "-기가 무섭게"
+  },
+  {
+    "grammarId": 203,
+    "name": "-다시피"
+  },
+  {
+    "grammarId": 204,
+    "name": "-(으)ㄴ/는 마당에"
+  },
+  {
+    "grammarId": 205,
+    "name": "-(으)ㄹ 법하다"
+  },
+  {
+    "grammarId": 206,
+    "name": "-거들랑"
+  },
+  {
+    "grammarId": 207,
+    "name": "-(으)ㄹ 따름이다"
+  },
+  {
+    "grammarId": 208,
+    "name": "-(으)ㄹ 뿐더러"
+  },
+  {
+    "grammarId": 209,
+    "name": "-(으)ㄹ락 말락 하다"
+  },
+  {
+    "grammarId": 210,
+    "name": "-(으)ㄴ/는 셈 치다"
+  },
+  {
+    "grammarId": 211,
+    "name": "-(으)ㄹ 겸 (해서)"
+  },
+  {
+    "grammarId": 212,
+    "name": "-(으)ㄴ/는 김에"
+  },
+  {
+    "grammarId": 213,
+    "name": "-(으)ㄹ 테니까"
+  },
+  {
+    "grammarId": 214,
+    "name": "-(으)ㄹ 테지만"
+  },
+  {
+    "grammarId": 215,
+    "name": "-(으)ㄹ지도 모르다"
+  },
+  {
+    "grammarId": 216,
+    "name": "V-다 보면"
+  },
+  {
+    "grammarId": 217,
+    "name": "V-다 보니까"
+  },
+  {
+    "grammarId": 218,
+    "name": "V-(으)ㄴ 지 N(시간)이 되다"
+  },
+  {
+    "grammarId": 219,
+    "name": "하도 A/V-아서/어서"
+  },
+  {
+    "grammarId": 220,
+    "name": "A/V-았던/었던"
+  },
+  {
+    "grammarId": 221,
+    "name": "A-아/어하다"
+  },
+  {
+    "grammarId": 222,
+    "name": "A/V-(으)ㄹ걸(요)"
+  },
+  {
+    "grammarId": 223,
+    "name": "A/V-지 않으면 안 되다"
+  },
+  {
+    "grammarId": 224,
+    "name": "N만 하다"
+  },
+  {
+    "grammarId": 225,
+    "name": "V-(으)ㄹ 생각도 못 하다"
+  },
+  {
+    "grammarId": 226,
+    "name": "A/V-기로 유명하다"
+  },
+  {
+    "grammarId": 227,
+    "name": "A/V-다니(요)? / N-(이)라니(요)?"
+  },
+  {
+    "grammarId": 228,
+    "name": "N(이)라고 (해서) 다 ... 것은 아니다"
+  },
+  {
+    "grammarId": 229,
+    "name": "V-고 말다"
+  },
+  {
+    "grammarId": 230,
+    "name": "A/V-던"
+  },
+  {
+    "grammarId": 231,
+    "name": "A/V-잖아(요)"
+  },
+  {
+    "grammarId": 232,
+    "name": "V-(으)려면 멀었다"
+  },
+  {
+    "grammarId": 233,
+    "name": "얼마나 A-(으)ㄴ지 / V-는지 모르다"
+  },
+  {
+    "grammarId": 234,
+    "name": "A-다고 하다 / V-ㄴ다고 하다"
+  },
+  {
+    "grammarId": 235,
+    "name": "V-아야겠다 / 어야겠다"
+  },
+  {
+    "grammarId": 236,
+    "name": "A/V-대(요) / N-(이)래(요)"
+  },
+  {
+    "grammarId": 237,
+    "name": "V-(으)라고 하다"
+  },
+  {
+    "grammarId": 238,
+    "name": "누구나, 언제나, 어디나"
+  },
+  {
+    "grammarId": 239,
+    "name": "A/V-(으)냐고 하다[묻다]"
+  },
+  {
+    "grammarId": 240,
+    "name": "A/V-던데(요)"
+  },
+  {
+    "grammarId": 241,
+    "name": "V-(으)ㄹ까 말까 (하다)"
+  },
+  {
+    "grammarId": 242,
+    "name": "V-지 그래요?"
+  },
+  {
+    "grammarId": 243,
+    "name": "V-(으)ㄹ걸 (그랬다)"
+  },
+  {
+    "grammarId": 244,
+    "name": "N(이)라도"
+  },
+  {
+    "grammarId": 245,
+    "name": "A/V-거든(요)"
+  },
+  {
+    "grammarId": 246,
+    "name": "아무 N도"
+  },
+  {
+    "grammarId": 247,
+    "name": "V-이/히/리/기-"
+  },
+  {
+    "grammarId": 248,
+    "name": "V-았다가 / 었다가"
+  },
+  {
+    "grammarId": 249,
+    "name": "A/V-아야 할 텐데(요)"
+  },
+  {
+    "grammarId": 250,
+    "name": "A/V-는데도 불구하고"
+  },
+  {
+    "grammarId": 251,
+    "name": "N에 대해(서) / N에 대한 N"
+  },
+  {
+    "grammarId": 252,
+    "name": "어찌나 A/V-(으)ㄴ/는지"
+  },
+  {
+    "grammarId": 253,
+    "name": "N(이)라는 N"
+  },
+  {
+    "grammarId": 254,
+    "name": "N에 비해(서)"
+  },
+  {
+    "grammarId": 255,
+    "name": "A/V-(으)ㄹ 게 뻔하다"
+  },
+  {
+    "grammarId": 256,
+    "name": "A/V-기는(요)"
+  },
+  {
+    "grammarId": 257,
+    "name": "N(이)야말로"
+  },
+  {
+    "grammarId": 258,
+    "name": "여간 A/V-(으)ㄴ/는 것이 아니다"
+  },
+  {
+    "grammarId": 259,
+    "name": "A-다고 보다 / V-ㄴ/는다고 보다"
+  },
+  {
+    "grammarId": 260,
+    "name": "V-아다(가) / 어다(가)"
+  },
+  {
+    "grammarId": 261,
+    "name": "N을/를 비롯해서 [비롯한]"
+  },
+  {
+    "grammarId": 262,
+    "name": "A/V-(으)며"
+  },
+  {
+    "grammarId": 263,
+    "name": "A/V-거든"
+  },
+  {
+    "grammarId": 264,
+    "name": "N(이)라면"
+  },
+  {
+    "grammarId": 265,
+    "name": "A-다고 들었다 / V-ㄴ/는다고 들었다"
+  },
+  {
+    "grammarId": 266,
+    "name": "A/V-고 해서"
+  },
+  {
+    "grammarId": 267,
+    "name": "N 만에"
+  },
+  {
+    "grammarId": 268,
+    "name": "N에 의하면"
+  },
+  {
+    "grammarId": 269,
+    "name": "V-(으)려다(가)"
+  },
+  {
+    "grammarId": 270,
+    "name": "N마저"
+  },
+  {
+    "grammarId": 271,
+    "name": "N과/와 달리"
+  },
+  {
+    "grammarId": 272,
+    "name": "N에 따라(서)"
+  },
+  {
+    "grammarId": 273,
+    "name": "N에 불과하다"
+  },
+  {
+    "grammarId": 274,
+    "name": "N만 못하다"
+  },
+  {
+    "grammarId": 275,
+    "name": "V-(으)ㄹ 게 아니라"
+  },
+  {
+    "grammarId": 276,
+    "name": "N(으)로서"
+  },
+  {
+    "grammarId": 277,
+    "name": "A-다기보다는, V-ㄴ/는 다기보다는"
+  },
+  {
+    "grammarId": 278,
+    "name": "설마 A/V-겠어요?"
+  },
+  {
+    "grammarId": 279,
+    "name": "N(으)로부터"
+  },
+  {
+    "grammarId": 280,
+    "name": "A-다 싶다, V-ㄴ/는 다 싶다"
+  },
+  {
+    "grammarId": 281,
+    "name": "A/V-았었/었었-"
+  },
+  {
+    "grammarId": 282,
+    "name": "V-는 사이(에)"
+  },
+  {
+    "grammarId": 283,
+    "name": "A-다는 N, V-ㄴ/는다는 N"
+  },
+  {
+    "grammarId": 284,
+    "name": "A-(으)ㄴ지 A-(으)ㄴ지, V-는지 V-는지"
+  },
+  {
+    "grammarId": 285,
+    "name": "A-다는 것은 N에서/N(으)로 알 수 있다"
+  },
+  {
+    "grammarId": 286,
+    "name": "A-다고요? / V-ㄴ/는다고요?"
+  },
+  {
+    "grammarId": 287,
+    "name": "V-(으)ㄹ 생각[계획/예정]이다"
+  },
+  {
+    "grammarId": 288,
+    "name": "V-이/히/리/기/우- (사동)"
+  },
+  {
+    "grammarId": 289,
+    "name": "A-다면, V-ㄴ/는다면, N(이)라면"
+  },
+  {
+    "grammarId": 290,
+    "name": "무엇이든(지), 무슨 N(이)든(지)"
+  },
+  {
+    "grammarId": 291,
+    "name": "V-았더니 / 었더니"
+  },
+  {
+    "grammarId": 292,
+    "name": "V-고 보니"
+  },
+  {
+    "grammarId": 293,
+    "name": "A-다니까(요) / V-ㄴ/는다니까(요) / N-(이)라니까(요)"
+  },
+  {
+    "grammarId": 294,
+    "name": "아무리 A/V-아도/어도"
+  },
+  {
+    "grammarId": 295,
+    "name": "N치고"
+  },
+  {
+    "grammarId": 296,
+    "name": "A/V-(으)ㄴ가/는가 (하다/보다)"
+  },
+  {
+    "grammarId": 297,
+    "name": "N(이)면 N"
+  },
+  {
+    "grammarId": 298,
+    "name": "A/V-(으)ㄴ가/는가 하면"
+  },
+  {
+    "grammarId": 299,
+    "name": "(A-(으)ㄴ/V-는) N에 (A-(으)ㄴ/V-는) N"
+  },
+  {
+    "grammarId": 300,
+    "name": "N(까지)는 못 돼도 N은/는 A/V-(으)ㄹ 줄 알았다"
+  },
+  {
+    "grammarId": 301,
+    "name": "V-는 둥 마는 둥"
+  },
+  {
+    "grammarId": 302,
+    "name": "A/V-다는 소리를 듣다"
+  },
+  {
+    "grammarId": 303,
+    "name": "A/V-다는 인상을 주다"
+  },
+  {
+    "grammarId": 304,
+    "name": "V-는 한이 있어도"
+  },
+  {
+    "grammarId": 305,
+    "name": "V-는 등 (N에) 재능을 발휘하다"
+  },
+  {
+    "grammarId": 306,
+    "name": "N을/를 시작으로 N을/를 거쳐 N을/를 맡다"
+  },
+  {
+    "grammarId": 307,
+    "name": "V-(으)ㄴ 바 있다"
+  },
+  {
+    "grammarId": 308,
+    "name": "너나없이 (모두)"
+  },
+  {
+    "grammarId": 309,
+    "name": "N(이)나마"
+  },
+  {
+    "grammarId": 310,
+    "name": "생각다 못해"
+  },
+  {
+    "grammarId": 311,
+    "name": "N(의) 대표적인 예로 N을/를 들다"
+  },
+  {
+    "grammarId": 312,
+    "name": "아래와 같이"
+  },
+  {
+    "grammarId": 313,
+    "name": "V-(으)오니"
+  },
+  {
+    "grammarId": 314,
+    "name": "N에 한하여"
+  },
+  {
+    "grammarId": 315,
+    "name": "N이/가 중요한 역할을 하다"
+  },
+  {
+    "grammarId": 316,
+    "name": "N에서 N의 비중이 높다"
+  },
+  {
+    "grammarId": 317,
+    "name": "A/V-(으)면 그만이다"
+  },
+  {
+    "grammarId": 318,
+    "name": "이래 가지고(서)(야)"
+  },
+  {
+    "grammarId": 319,
+    "name": "V-(으)ㅁ으로써"
+  },
+  {
+    "grammarId": 320,
+    "name": "A-(으)ㄴ/V-는 면이 있다"
+  },
+  {
+    "grammarId": 321,
+    "name": "A-기 그지없다"
+  },
+  {
+    "grammarId": 322,
+    "name": "A/V-(으)ㅁ에 틀림없다"
+  },
+  {
+    "grammarId": 323,
+    "name": "뭐니 뭐니 해도"
+  },
+  {
+    "grammarId": 324,
+    "name": "N을/를 계기로"
+  },
+  {
+    "grammarId": 325,
+    "name": "A/V-지(요), 뭐"
+  },
+  {
+    "grammarId": 326,
+    "name": "A/V-다는 거야"
+  },
+  {
+    "grammarId": 327,
+    "name": "A/V-겠거니 (하다)"
+  },
+  {
+    "grammarId": 328,
+    "name": "따지고 보면"
+  },
+  {
+    "grammarId": 329,
+    "name": "다시 말해서"
+  },
+  {
+    "grammarId": 330,
+    "name": "V-(으)려는지"
+  },
+  {
+    "grammarId": 331,
+    "name": "A/V-거나 하다"
+  },
+  {
+    "grammarId": 332,
+    "name": "N 바람이 불다"
+  },
+  {
+    "grammarId": 333,
+    "name": "N이자 N"
+  },
+  {
+    "grammarId": 334,
+    "name": "한편으로(는)"
+  },
+  {
+    "grammarId": 335,
+    "name": "N(이)니 N(이)니 하다"
+  },
+  {
+    "grammarId": 336,
+    "name": "N 여부"
+  },
+  {
+    "grammarId": 337,
+    "name": "N을/를 바탕으로"
+  },
+  {
+    "grammarId": 338,
+    "name": "이상에서 본 바와 같이"
+  },
+  {
+    "grammarId": 339,
+    "name": "V-(으)ㄴ 후에야 (비로소)"
+  },
+  {
+    "grammarId": 340,
+    "name": "A/V-(으)ㄴ들"
+  },
+  {
+    "grammarId": 341,
+    "name": "A/V-되"
+  },
+  {
+    "grammarId": 342,
+    "name": "V-노라면"
+  },
+  {
+    "grammarId": 343,
+    "name": "N은/는 A/V-(으)ㅁ을 말해 주다"
+  },
+  {
+    "grammarId": 344,
+    "name": "N에 대한 논란이 있다"
+  },
+  {
+    "grammarId": 345,
+    "name": "A/V-다는 지적이 있다"
+  },
+  {
+    "grammarId": 346,
+    "name": "A/V-다는 점을 인정하다"
+  },
+  {
+    "grammarId": 347,
+    "name": "N은/는 물론이려니와"
+  },
+  {
+    "grammarId": 348,
+    "name": "V-는 추세이다"
+  },
+  {
+    "grammarId": 349,
+    "name": "A/V-았으면/었으면 하다"
+  },
+  {
+    "grammarId": 350,
+    "name": "A/V-건 (A/V-건) (간에)"
+  },
+  {
+    "grammarId": 351,
+    "name": "A/V-거니와"
+  },
+  {
+    "grammarId": 352,
+    "name": "A/V-다손 치더라도"
+  },
+  {
+    "grammarId": 353,
+    "name": "N은/는 말할 것도 없다"
+  },
+  {
+    "grammarId": 354,
+    "name": "V-(으)려고 들다"
+  },
+  {
+    "grammarId": 355,
+    "name": "A/V-(으)리라"
+  },
+  {
+    "grammarId": 356,
+    "name": "V-자"
+  },
+  {
+    "grammarId": 357,
+    "name": "N(으)로 보다"
+  },
+  {
+    "grammarId": 358,
+    "name": "A-(으)ㄴ/V-는 가운데"
+  },
+  {
+    "grammarId": 359,
+    "name": "V-(으)ㄹ래야 V-(으)ㄹ 수(가) 없다"
+  },
+  {
+    "grammarId": 360,
+    "name": "어찌나 A/V-던지"
+  },
+  {
+    "grammarId": 361,
+    "name": "A-(으)ㄴ/V-는 데(에) 반해"
+  },
+  {
+    "grammarId": 362,
+    "name": "V-(으)ㅁ에 따라"
+  },
+  {
+    "grammarId": 363,
+    "name": "V-(으)ㄹ 바에는 [바에야] (차라리)"
+  },
+  {
+    "grammarId": 364,
+    "name": "A-(으)ㄴ/V-는 까닭에 [까닭으로]"
+  },
+  {
+    "grammarId": 365,
+    "name": "A/V-다 뿐이지"
+  },
+  {
+    "grammarId": 366,
+    "name": "V-기란"
+  },
+  {
+    "grammarId": 367,
+    "name": "A/V-(으)ㄹ지라도"
+  },
+  {
+    "grammarId": 368,
+    "name": "V-고서는"
+  },
+  {
+    "grammarId": 369,
+    "name": "V-게끔"
+  },
+  {
+    "grammarId": 370,
+    "name": "A-기(가) 이를 데 없다"
+  },
+  {
+    "grammarId": 371,
+    "name": "N더러"
+  },
+  {
+    "grammarId": 372,
+    "name": "N이/가 다 뭐예요?"
+  },
+  {
+    "grammarId": 373,
+    "name": "N은/는 고사하고"
+  },
+  {
+    "grammarId": 374,
+    "name": "A/V-든지 A/V-든지 하다"
+  },
+  {
+    "grammarId": 375,
+    "name": "N와/과 맞먹다"
+  },
+  {
+    "grammarId": 376,
+    "name": "설령 [설사/가령] A/V-다(고) 해도"
+  },
+  {
+    "grammarId": 377,
+    "name": "V-(으)ㄹ라치면"
+  },
+  {
+    "grammarId": 378,
+    "name": "A/V-다고 할 것까지는 [할 것까지야] 없다"
+  },
+  {
+    "grammarId": 379,
+    "name": "A/V-다고 치다"
+  },
+  {
+    "grammarId": 380,
+    "name": "V-(으)ㄹ 리 만무하다"
+  },
+  {
+    "grammarId": 381,
+    "name": "A/V-던 차에 [차이다]"
+  },
+  {
+    "grammarId": 382,
+    "name": "A/V-(으)ㄹ 성싶다"
+  },
+  {
+    "grammarId": 383,
+    "name": "(비록/차라리) A/V-(으)ㄹ지언정"
+  },
+  {
+    "grammarId": 384,
+    "name": "V-ㄴ/는답시고"
+  },
+  {
+    "grammarId": 385,
+    "name": "A/V-(으)ㄹ 턱이 없다"
+  },
+  {
+    "grammarId": 386,
+    "name": "N(으)로 말미암아"
+  },
+  {
+    "grammarId": 387,
+    "name": "N에 지나지 않다"
+  },
+  {
+    "grammarId": 388,
+    "name": "A/V-기로서니"
+  },
+  {
+    "grammarId": 389,
+    "name": "V-아/어 주십사 (하고)"
+  },
+  {
+    "grammarId": 390,
+    "name": "N인지라"
+  },
+  {
+    "grammarId": 391,
+    "name": "어디 N뿐인가(요)?"
+  },
+  {
+    "grammarId": 392,
+    "name": "V-느니만 못하다"
+  },
+  {
+    "grammarId": 393,
+    "name": "V-아/어 봤자 [봤댔자]"
+  },
+  {
+    "grammarId": 394,
+    "name": "V-(으)랴 V-(으)랴"
+  },
+  {
+    "grammarId": 395,
+    "name": "V-(으)ㄹ세라"
+  },
+  {
+    "grammarId": 396,
+    "name": "N을/를 불문하고"
+  },
+  {
+    "grammarId": 397,
+    "name": "V-(으)ㄴ/는 이상"
+  },
+  {
+    "grammarId": 398,
+    "name": "A/V-(으)니/느니 A/V-(으)니/느니 (하다)"
+  },
+  {
+    "grammarId": 399,
+    "name": "A/V-건만"
+  },
+  {
+    "grammarId": 400,
+    "name": "V-는 게 고작이다"
+  },
+  {
+    "grammarId": 401,
+    "name": "N(이)며 N(이)며"
+  },
+  {
+    "grammarId": 402,
+    "name": "A/V-건 A/V-건 간에"
+  },
+  {
+    "grammarId": 403,
+    "name": "N을/를 막론하고"
+  },
+  {
+    "grammarId": 404,
+    "name": "N(이)란 N은/는 모두"
+  },
+  {
+    "grammarId": 405,
+    "name": "A-(으)ㄴ가?, V-는가?"
+  }
+]
