@@ -1,0 +1,124 @@
+{
+  "skills": [
+    {
+      "skill_type_id": "grammar_choice",
+      "title_en": "Grammar Choice",
+      "title_ko": "문법 선택",
+      "description": "Choose the correct grammar pattern or verb ending for the blank.",
+      "exam_range": "1-2",
+      "difficulty_order": 1
+    },
+    {
+      "skill_type_id": "similar_meaning",
+      "title_en": "Similar Meaning",
+      "title_ko": "유사 의미",
+      "description": "Find the expression closest in meaning to the underlined phrase.",
+      "exam_range": "3-4",
+      "difficulty_order": 2
+    },
+    {
+      "skill_type_id": "topic_id",
+      "title_en": "Topic Identification",
+      "title_ko": "주제·대상 파악",
+      "description": "Identify what a short ad, sign, or notice is about.",
+      "exam_range": "5-8",
+      "difficulty_order": 3
+    },
+    {
+      "skill_type_id": "info_match",
+      "title_en": "Information Matching",
+      "title_ko": "실용문·그래프 파악",
+      "description": "Match details from notices, schedules, charts, or graphs.",
+      "exam_range": "9-10",
+      "difficulty_order": 4
+    },
+    {
+      "skill_type_id": "content_match",
+      "title_en": "Detail Matching",
+      "title_ko": "세부 내용 일치",
+      "description": "Select the statement that exactly matches the passage.",
+      "exam_range": "11-12, 20, 24, 32-34, 43, 45, 47, 50",
+      "difficulty_order": 5
+    },
+    {
+      "skill_type_id": "ordering",
+      "title_en": "Sentence Ordering",
+      "title_ko": "문장 순서 배열",
+      "description": "Arrange four sentences in logical order.",
+      "exam_range": "13-15",
+      "difficulty_order": 6
+    },
+    {
+      "skill_type_id": "cloze_passage",
+      "title_en": "Contextual Cloze",
+      "title_ko": "문맥 빈칸 채우기",
+      "description": "Choose the best phrase or sentence to fill a blank in a passage.",
+      "exam_range": "16-18, 28-31, 44, 48, 56",
+      "difficulty_order": 7
+    },
+    {
+      "skill_type_id": "conjunction",
+      "title_en": "Conjunction & Connector",
+      "title_ko": "접속·연결 표현",
+      "description": "Choose the connector that fits the logical flow of the passage.",
+      "exam_range": "19",
+      "difficulty_order": 8
+    },
+    {
+      "skill_type_id": "idiom_phrase",
+      "title_en": "Idiom & Fixed Expression",
+      "title_ko": "관용 표현",
+      "description": "Choose the correct idiomatic or fixed expression for the blank.",
+      "exam_range": "21",
+      "difficulty_order": 9
+    },
+    {
+      "skill_type_id": "main_theme",
+      "title_en": "Main Theme",
+      "title_ko": "중심 생각·주제",
+      "description": "Identify the main idea or theme of an expository passage.",
+      "exam_range": "22, 35-38",
+      "difficulty_order": 10
+    },
+    {
+      "skill_type_id": "emotion",
+      "title_en": "Emotional Inference",
+      "title_ko": "심정·감정 추론",
+      "description": "Infer a character's feelings from underlined context.",
+      "exam_range": "23, 42",
+      "difficulty_order": 11
+    },
+    {
+      "skill_type_id": "headline",
+      "title_en": "Headline Analysis",
+      "title_ko": "신문 제목 이해",
+      "description": "Choose the statement that best explains a news headline.",
+      "exam_range": "25-27",
+      "difficulty_order": 12
+    },
+    {
+      "skill_type_id": "insert_sentence",
+      "title_en": "Sentence Insertion",
+      "title_ko": "문장 삽입",
+      "description": "Find the best location for a given sentence within a passage.",
+      "exam_range": "39-41, 49",
+      "difficulty_order": 13
+    },
+    {
+      "skill_type_id": "author_purpose",
+      "title_en": "Author's Purpose",
+      "title_ko": "글의 목적",
+      "description": "Determine why the author wrote the passage.",
+      "exam_range": "46",
+      "difficulty_order": 14
+    },
+    {
+      "skill_type_id": "author_attitude",
+      "title_en": "Author's Attitude",
+      "title_ko": "필자의 태도",
+      "description": "Identify the writer's stance or attitude toward the topic.",
+      "exam_range": "48",
+      "difficulty_order": 15
+    }
+  ]
+}

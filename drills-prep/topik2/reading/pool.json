@@ -1,0 +1,4170 @@
+[
+  {
+    "id": "ai2_grammar_001",
+    "section": "reading",
+    "topic": "Grammar Choice",
+    "skill_type_id": "grammar_choice",
+    "content_category_id": "transport",
+    "model_q_num": 1,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "버스를 (      ) 정류장 이름을 놓치고 한 정거장 더 갔다.",
+    "options": [
+      "기다리다가",
+      "기다리면",
+      "기다리려고",
+      "기다리고서"
+    ],
+    "answer": 0,
+    "explanation": "'-다가' shows an ongoing action (waiting for the bus) interrupted when the speaker missed the stop."
+  },
+  {
+    "id": "ai2_grammar_002",
+    "section": "reading",
+    "topic": "Grammar Choice",
+    "skill_type_id": "grammar_choice",
+    "content_category_id": "work",
+    "model_q_num": 1,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "외국인 센터 프로그램에 참여하면서 한국 생활 예절을 자연스럽게 (      ).",
+    "options": [
+      "익히게 되었다",
+      "익히도록 했다",
+      "익혀도 된다",
+      "익혀야 한다"
+    ],
+    "answer": 0,
+    "explanation": "'-게 되다' marks a gradual change brought about by participating in the program."
+  },
+  {
+    "id": "ai2_grammar_003",
+    "section": "reading",
+    "topic": "Grammar Choice",
+    "skill_type_id": "grammar_choice",
+    "content_category_id": "daily_life",
+    "model_q_num": 1,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "회의를 (      ) 바로 보고서를 작성했다.",
+    "options": [
+      "끝낸 지",
+      "끝내거든",
+      "끝내려면",
+      "끝내고 나서"
+    ],
+    "answer": 3,
+    "explanation": "'-고 나서' links two actions in sequence: after the meeting ended, the report was written."
+  },
+  {
+    "id": "ai2_grammar_004",
+    "section": "reading",
+    "topic": "Grammar Choice",
+    "skill_type_id": "grammar_choice",
+    "content_category_id": "school",
+    "model_q_num": 1,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "나는 대학 시절에 한 번씩 봉사활동을 (      ).",
+    "options": [
+      "하려고 한다",
+      "해도 된다",
+      "할 것 같다",
+      "한 적이 있다"
+    ],
+    "answer": 3,
+    "explanation": "'-(으)ㄴ 적이 있다' describes a past experience during university."
+  },
+  {
+    "id": "ai2_grammar_005",
+    "section": "reading",
+    "topic": "Grammar Choice",
+    "skill_type_id": "grammar_choice",
+    "content_category_id": "culture",
+    "model_q_num": 1,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "영화를 보는 (      ) 책을 읽었다.",
+    "options": [
+      "대신에",
+      "바람에",
+      "탓에",
+      "덕분에"
+    ],
+    "answer": 0,
+    "explanation": "'-는 대신에' means 'instead of doing X, did Y'."
+  },
+  {
+    "id": "ai2_grammar_006",
+    "section": "reading",
+    "topic": "Grammar Choice",
+    "skill_type_id": "grammar_choice",
+    "content_category_id": "technology",
+    "model_q_num": 2,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "오래 쓴 노트북은 (      ) 수리해도 오래 쓰기 어렵다.",
+    "options": [
+      "수리해 보아야",
+      "수리하는 대로",
+      "수리하는 바람에",
+      "수리한다고 해도"
+    ],
+    "answer": 3,
+    "explanation": "'-아/어 봐야' and '-ㄴ/는다고 해도' both express futility even if attempted."
+  },
+  {
+    "id": "ai2_grammar_007",
+    "section": "reading",
+    "topic": "Grammar Choice",
+    "skill_type_id": "grammar_choice",
+    "content_category_id": "travel",
+    "model_q_num": 2,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "길을 잘못 들어 (      ) 목적지에 늦게 도착했다.",
+    "options": [
+      "버리고",
+      "보면서",
+      "보다가",
+      "보려고"
+    ],
+    "answer": 0,
+    "explanation": "'-아/어 버리다' conveys an unintended or regrettable result."
+  },
+  {
+    "id": "ai2_grammar_008",
+    "section": "reading",
+    "topic": "Grammar Choice",
+    "skill_type_id": "grammar_choice",
+    "content_category_id": "health",
+    "model_q_num": 2,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "규칙적으로 운동을 (      ) 체력이 좋아진다.",
+    "options": [
+      "해야만",
+      "해도",
+      "하더라도",
+      "하든지"
+    ],
+    "answer": 0,
+    "explanation": "'-아/어야만' expresses a necessary condition."
+  },
+  {
+    "id": "ai2_grammar_009",
+    "section": "reading",
+    "topic": "Grammar Choice",
+    "skill_type_id": "grammar_choice",
+    "content_category_id": "economy",
+    "model_q_num": 2,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "최근 조사 (      ) 물가는 지난달보다 소폭 상승했다.",
+    "options": [
+      "에 따르면",
+      "에 비해서",
+      "에 대해서",
+      "에 의해서"
+    ],
+    "answer": 0,
+    "explanation": "'-에 따르면' introduces findings from a source."
+  },
+  {
+    "id": "ai2_grammar_010",
+    "section": "reading",
+    "topic": "Grammar Choice",
+    "skill_type_id": "grammar_choice",
+    "content_category_id": "society",
+    "model_q_num": 2,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "갑작스러운 폭우 (      ) 행사가 취소되었다.",
+    "options": [
+      "의 바람에",
+      "의 탓에",
+      "의 덕분에",
+      "의 대신에"
+    ],
+    "answer": 0,
+    "explanation": "'-는 바람에' indicates an unexpected negative cause."
+  },
+  {
+    "id": "ai2_similar_001",
+    "section": "reading",
+    "topic": "Similar Meaning",
+    "skill_type_id": "similar_meaning",
+    "content_category_id": "transport",
+    "model_q_num": 3,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "동생은 차를 <u>타기만 하면</u> 멀미를 한다.",
+    "options": [
+      "탈 만해서",
+      "타는 탓에",
+      "탈 때마다",
+      "타는 동안"
+    ],
+    "answer": 2,
+    "explanation": "'-기만 하면' means 'whenever/every time,' equivalent to '-(으)ㄹ 때마다'."
+  },
+  {
+    "id": "ai2_similar_002",
+    "section": "reading",
+    "topic": "Similar Meaning",
+    "skill_type_id": "similar_meaning",
+    "content_category_id": "work",
+    "model_q_num": 3,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "어려운 이웃을 <u>돕고자</u> 매년 봉사 활동에 참여한다.",
+    "options": [
+      "돕기 위해서",
+      "돕는 대신에",
+      "돕기 무섭게",
+      "돕는 바람에"
+    ],
+    "answer": 0,
+    "explanation": "'-고자' expresses intention/purpose, similar to '-기 위해서'."
+  },
+  {
+    "id": "ai2_similar_003",
+    "section": "reading",
+    "topic": "Similar Meaning",
+    "skill_type_id": "similar_meaning",
+    "content_category_id": "daily_life",
+    "model_q_num": 3,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "지난 3년 동안 영화를 한 편 봤으니 거의 <u>안 본 셈이다</u>.",
+    "options": [
+      "본 척했다",
+      "보기 나름이다",
+      "볼 수밖에 없었다",
+      "본 거나 마찬가지이다"
+    ],
+    "answer": 3,
+    "explanation": "'-는 셈이다' means practically the same as, matching '-(으)ㄴ 거나 마찬가지이다'."
+  },
+  {
+    "id": "ai2_similar_004",
+    "section": "reading",
+    "topic": "Similar Meaning",
+    "skill_type_id": "similar_meaning",
+    "content_category_id": "school",
+    "model_q_num": 3,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "시험 결과를 <u>알아 주기를</u> 간절히 바랐다.",
+    "options": [
+      "알아 주길",
+      "알아 주면",
+      "알아 주더라도",
+      "알아 주든지"
+    ],
+    "answer": 0,
+    "explanation": "'-기를 바라다' expresses a wish, similar to '-(아/어)주길 바라다' → '-(아/어)주길'."
+  },
+  {
+    "id": "ai2_similar_005",
+    "section": "reading",
+    "topic": "Similar Meaning",
+    "skill_type_id": "similar_meaning",
+    "content_category_id": "food_dining",
+    "model_q_num": 3,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "이 식당은 <u>입소문을 타고</u> 손님이 늘었다.",
+    "options": [
+      "소문이 나서",
+      "광고를 해서",
+      "할인을 해서",
+      "리모델링을 해서"
+    ],
+    "answer": 0,
+    "explanation": "'입소문을 타다' means to become known by word of mouth, similar to '소문이 나다'."
+  },
+  {
+    "id": "ai2_similar_006",
+    "section": "reading",
+    "topic": "Similar Meaning",
+    "skill_type_id": "similar_meaning",
+    "content_category_id": "health",
+    "model_q_num": 4,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "충분히 <u>쉬어야만</u> 회복할 수 있다.",
+    "options": [
+      "쉬지 않으면",
+      "쉬는 대신",
+      "쉬어서",
+      "쉬기만 하면"
+    ],
+    "answer": 0,
+    "explanation": "'-아/어야만' expresses necessity, paralleling 'unless/rest only if' logic of '쉬지 않으면 (회복 못한다)'."
+  },
+  {
+    "id": "ai2_similar_007",
+    "section": "reading",
+    "topic": "Similar Meaning",
+    "skill_type_id": "similar_meaning",
+    "content_category_id": "economy",
+    "model_q_num": 4,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "정부는 물가 안정을 위해 세금을 <u>인하하기로</u> 결정했다.",
+    "options": [
+      "줄이기로",
+      "늘리기로",
+      "유지하기로",
+      "폐지하기로"
+    ],
+    "answer": 0,
+    "explanation": "'인하하다' (to lower/reduce) aligns with '줄이다' (to reduce/cut)."
+  },
+  {
+    "id": "ai2_similar_008",
+    "section": "reading",
+    "topic": "Similar Meaning",
+    "skill_type_id": "similar_meaning",
+    "content_category_id": "technology",
+    "model_q_num": 4,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "앱을 <u>쓰다 보면</u> 점점 편해진다.",
+    "options": [
+      "쓰는 동안",
+      "쓰기 전에",
+      "쓸 때마다",
+      "쓰려고"
+    ],
+    "answer": 0,
+    "explanation": "'-다 보면' means 'as one keeps doing,' similar to 'while continuing to do' ('-는 동안')."
+  },
+  {
+    "id": "ai2_similar_009",
+    "section": "reading",
+    "topic": "Similar Meaning",
+    "skill_type_id": "similar_meaning",
+    "content_category_id": "society",
+    "model_q_num": 4,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "문제 해결을 위해 <u>힘을 쓰기도</u> 한다.",
+    "options": [
+      "애를 쓰기도",
+      "힘을 빼기도",
+      "힘을 쓰기만",
+      "힘을 쓰는 대신"
+    ],
+    "answer": 0,
+    "explanation": "'힘을 쓰다' and '애를 쓰다' both mean to make an effort."
+  },
+  {
+    "id": "ai2_similar_010",
+    "section": "reading",
+    "topic": "Similar Meaning",
+    "skill_type_id": "similar_meaning",
+    "content_category_id": "environment",
+    "model_q_num": 4,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "쓰레기를 <u>없애 버리면</u> 환경이 깨끗해진다.",
+    "options": [
+      "제거해 버리면",
+      "버리기만 하면",
+      "없애려고 하면",
+      "없애는 동안"
+    ],
+    "answer": 0,
+    "explanation": "'없애 버리다' and '제거해 버리다' share the meaning of completely removing something."
+  },
+  {
+    "id": "ai2_topic_001",
+    "section": "reading",
+    "topic": "Topic Identification",
+    "skill_type_id": "topic_id",
+    "content_category_id": "food_dining",
+    "model_q_num": 5,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "몸에 좋은 영양소가 가득~\n매일 아침 신선함을 마셔요!",
+    "options": [
+      "과자",
+      "안경",
+      "우유",
+      "신발"
+    ],
+    "answer": 2,
+    "explanation": "Nutrients and drinking every morning point to milk (우유)."
+  },
+  {
+    "id": "ai2_topic_002",
+    "section": "reading",
+    "topic": "Topic Identification",
+    "skill_type_id": "topic_id",
+    "content_category_id": "shopping",
+    "model_q_num": 5,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "운동화·가방·모자까지\n전문 세탁으로 새 옷처럼!",
+    "options": [
+      "미용실",
+      "세탁 전문점",
+      "서점",
+      "약국"
+    ],
+    "answer": 1,
+    "explanation": "Professional cleaning of shoes, bags, and hats points to a laundry/dry-cleaning shop (세탁 전문점)."
+  },
+  {
+    "id": "ai2_topic_003",
+    "section": "reading",
+    "topic": "Topic Identification",
+    "skill_type_id": "topic_id",
+    "content_category_id": "environment",
+    "model_q_num": 5,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "캠핑장 내에서는 화기 사용을 금합니다.\n모두가 안전하게 즐기는 캠핑 문화를 만들어요.",
+    "options": [
+      "건강 관리",
+      "화재 예방",
+      "전기 절약",
+      "교통 안전"
+    ],
+    "answer": 1,
+    "explanation": "Banning open flames at a campsite is a fire-prevention measure (화재 예방)."
+  },
+  {
+    "id": "ai2_topic_004",
+    "section": "reading",
+    "topic": "Topic Identification",
+    "skill_type_id": "topic_id",
+    "content_category_id": "hospital",
+    "model_q_num": 6,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "● MRI 검사 30분 전부터 금속류를 착용하지 마십시오.\n● 임신 중이거나 가능성이 있으면 접수처에 알려 주십시오.",
+    "options": [
+      "상품 안내",
+      "주의 사항",
+      "사용 순서",
+      "장소 문의"
+    ],
+    "answer": 1,
+    "explanation": "MRI metal restrictions and pregnancy disclosure are medical precautions (주의 사항)."
+  },
+  {
+    "id": "ai2_topic_005",
+    "section": "reading",
+    "topic": "Topic Identification",
+    "skill_type_id": "topic_id",
+    "content_category_id": "culture",
+    "model_q_num": 6,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "☑ 공연장 내에서는 사진 촬영을 금지합니다.\n☑ 휴대 전화는 전원을 끄거나 진동으로 해 주십시오.",
+    "options": [
+      "관람 규칙",
+      "제품 소개",
+      "사용 방법",
+      "예약 문의"
+    ],
+    "answer": 0,
+    "explanation": "Photo ban and phone rules in a performance hall are viewing rules (관람 규칙)."
+  },
+  {
+    "id": "ai2_topic_006",
+    "section": "reading",
+    "topic": "Topic Identification",
+    "skill_type_id": "topic_id",
+    "content_category_id": "school",
+    "model_q_num": 6,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "아이들의 예쁜 꿈과 희망을 키워 주는 곳\n부모의 마음으로 보살핍니다.",
+    "options": [
+      "은행",
+      "서점",
+      "유치원",
+      "우체국"
+    ],
+    "answer": 2,
+    "explanation": "Growing children's dreams with parental care describes a kindergarten (유치원)."
+  },
+  {
+    "id": "ai2_topic_007",
+    "section": "reading",
+    "topic": "Topic Identification",
+    "skill_type_id": "topic_id",
+    "content_category_id": "health",
+    "model_q_num": 7,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "계단으로 다니기! 하루 30분 운동하기!\n우리 몸을 위해 실천하세요.",
+    "options": [
+      "건강 관리",
+      "안전 운전",
+      "전기 절약",
+      "환경 보호"
+    ],
+    "answer": 0,
+    "explanation": "Stairs and daily exercise are health management habits (건강 관리)."
+  },
+  {
+    "id": "ai2_topic_008",
+    "section": "reading",
+    "topic": "Topic Identification",
+    "skill_type_id": "topic_id",
+    "content_category_id": "transport",
+    "model_q_num": 7,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "주차 금지 구역\n위반 시 견인 조치됩니다.",
+    "options": [
+      "주차 안내",
+      "교통 규칙",
+      "도로 공사",
+      "버스 시간표"
+    ],
+    "answer": 1,
+    "explanation": "No-parking zone with towing penalty is a traffic rule (교통 규칙)."
+  },
+  {
+    "id": "ai2_topic_009",
+    "section": "reading",
+    "topic": "Topic Identification",
+    "skill_type_id": "topic_id",
+    "content_category_id": "technology",
+    "model_q_num": 7,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "화면 깨짐·배터리 교체\n당일 수리 가능!",
+    "options": [
+      "서점",
+      "휴대폰 수리점",
+      "미용실",
+      "약국"
+    ],
+    "answer": 1,
+    "explanation": "Screen and battery repair indicates a phone repair shop (휴대폰 수리점)."
+  },
+  {
+    "id": "ai2_topic_010",
+    "section": "reading",
+    "topic": "Topic Identification",
+    "skill_type_id": "topic_id",
+    "content_category_id": "leisure",
+    "model_q_num": 8,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "주말 가족 캠핑 특가\n텐트·매트렌탈 50% 할인",
+    "options": [
+      "캠핑용품",
+      "운동화",
+      "주방용품",
+      "문구류"
+    ],
+    "answer": 0,
+    "explanation": "Family camping with tent rental points to camping supplies (캠핑용품)."
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "topic_id",
+    "model_q_num": 8,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "학생증 재발급\n분실·훼손 시 1층 행정실 방문\n수수료 2,000원",
+    "options": [
+      "행사 안내",
+      "증명서 발급",
+      "시설 이용",
+      "교육 과정"
+    ],
+    "answer": 1,
+    "explanation": "Student ID reissue at the admin office is a certificate/ID service.",
+    "content_category_id": "school",
+    "topic": "Topic Identification",
+    "id": "ai2_topic_011"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "topic_id",
+    "model_q_num": 8,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "도서관 열람실\n조용히 이용해 주세요\n음식물 반입 금지",
+    "options": [
+      "대여 규칙",
+      "이용 수칙",
+      "회원 가입",
+      "행사 일정"
+    ],
+    "answer": 1,
+    "explanation": "Quiet use and no food are usage rules for the reading room.",
+    "content_category_id": "leisure",
+    "topic": "Topic Identification",
+    "id": "ai2_topic_012"
+  },
+  {
+    "id": "ai2_info_001",
+    "section": "reading",
+    "topic": "Information Matching",
+    "skill_type_id": "info_match",
+    "content_category_id": "travel",
+    "model_q_num": 9,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "[인주시 야경 관광버스 안내]\n● 출발: 인주역 광장 18:00\n● 요금: 성인 10,000원 / 학생 5,000원\n● 예약: 출발 하루 전까지 홈페이지 신청",
+    "options": [
+      "성인과 학생 요금이 같다",
+      "별빛공원에서 출발한다",
+      "매일 오전에 운행한다",
+      "미리 신청해야 한다"
+    ],
+    "answer": 3,
+    "explanation": "Application must be made by the day before departure."
+  },
+  {
+    "id": "ai2_info_002",
+    "section": "reading",
+    "topic": "Information Matching",
+    "skill_type_id": "info_match",
+    "content_category_id": "transport",
+    "model_q_num": 9,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "[직장인 출퇴근 수단 변화 2012→2022]\n자가용 31%→39% / 버스 28%→21% / 지하철 24%→27% / 걸어서 11%→5%",
+    "options": [
+      "자가용 이용 비율이 줄었다",
+      "걸어서 출퇴근하는 비율이 줄었다",
+      "2022년 지하철 이용이 최다였다",
+      "2012년 버스 이용이 최다였다"
+    ],
+    "answer": 1,
+    "explanation": "Walking commuters dropped from 11% to 5%."
+  },
+  {
+    "id": "ai2_info_003",
+    "section": "reading",
+    "topic": "Information Matching",
+    "skill_type_id": "info_match",
+    "content_category_id": "public_info",
+    "model_q_num": 9,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "[캠핑장 이용 안내]\n이용 기간: 3~11월\n요금: 평일 30,000원 / 주말 35,000원 (주차 포함)",
+    "options": [
+      "주말 요금이 더 높다",
+      "1년 내내 이용 가능하다",
+      "당일 예약이 가능하다",
+      "주차장은 별도 요금이다"
+    ],
+    "answer": 0,
+    "explanation": "Weekend rate (35,000) exceeds weekday rate (30,000)."
+  },
+  {
+    "id": "ai2_info_004",
+    "section": "reading",
+    "topic": "Information Matching",
+    "skill_type_id": "info_match",
+    "content_category_id": "leisure",
+    "model_q_num": 9,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "[시립 수영장 운영]\n평일 06:00~22:00 / 주말 08:00~20:00\n월요일 정기 휴관",
+    "options": [
+      "주말이 평일보다 일찍 문을 연다",
+      "월요일은 이용할 수 없다",
+      "평일은 8시에 개장한다",
+      "주말은 22시까지 연다"
+    ],
+    "answer": 1,
+    "explanation": "Monday is designated as regular closing day."
+  },
+  {
+    "id": "ai2_info_005",
+    "section": "reading",
+    "topic": "Information Matching",
+    "skill_type_id": "info_match",
+    "content_category_id": "shopping",
+    "model_q_num": 9,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "[백화점 세일]\n기간: 5/1~5/7\n대상: 봄·여름 의류 30% 할인\n회원 추가 5% 적립",
+    "options": [
+      "할인은 일주일간 진행된다",
+      "겨울 의류가 할인 대상이다",
+      "비회원도 추가 적립을 받는다",
+      "할인율은 50%이다"
+    ],
+    "answer": 0,
+    "explanation": "The sale runs from May 1 to May 7 (one week)."
+  },
+  {
+    "id": "ai2_info_006",
+    "section": "reading",
+    "topic": "Information Matching",
+    "skill_type_id": "info_match",
+    "content_category_id": "school",
+    "model_q_num": 10,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "[기말고사 일정]\n1학년: 6/20~6/22\n2학년: 6/23~6/25\n성적 발표: 6/28",
+    "options": [
+      "1학년과 2학년 시험이 동시에 치러진다",
+      "성적은 6월 28일에 발표된다",
+      "2학년 시험이 더 먼저 시작된다",
+      "시험은 5일간 진행된다"
+    ],
+    "answer": 1,
+    "explanation": "Grades are announced on June 28."
+  },
+  {
+    "id": "ai2_info_007",
+    "section": "reading",
+    "topic": "Information Matching",
+    "skill_type_id": "info_match",
+    "content_category_id": "work",
+    "model_q_num": 10,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "[채용 박람회]\n일시: 3/15(토) 10:00~17:00\n장소: 시민회관 3층\n참가: IT·제조·서비스 40개사",
+    "options": [
+      "토요일에 열린다",
+      "일요일에 열린다",
+      "참가 기업이 20개사이다",
+      "시민회관 1층에서 한다"
+    ],
+    "answer": 0,
+    "explanation": "The fair is held on Saturday, March 15."
+  },
+  {
+    "id": "ai2_info_008",
+    "section": "reading",
+    "topic": "Information Matching",
+    "skill_type_id": "info_match",
+    "content_category_id": "hospital",
+    "model_q_num": 10,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "[건강검진 센터]\n평일 08:00~17:00 / 토 08:00~12:00\n일·공휴일 휴무\n당일 예약 불가",
+    "options": [
+      "일요일에도 검진을 받을 수 있다",
+      "당일 예약이 가능하다",
+      "토요일 오후에도 운영한다",
+      "평일 17시까지 운영한다"
+    ],
+    "answer": 3,
+    "explanation": "Weekday hours are until 5 PM (17:00)."
+  },
+  {
+    "id": "ai2_info_009",
+    "section": "reading",
+    "topic": "Information Matching",
+    "skill_type_id": "info_match",
+    "content_category_id": "culture",
+    "model_q_num": 10,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "[미술관 특별전]\n기간: 4/10~6/30\n관람: 10:00~18:00 (입장 마감 17:30)\n휴관: 매월 첫째 월요일",
+    "options": [
+      "입장 마감은 17시 30분이다",
+      "매주 월요일 휴관이다",
+      "전시는 3월에 시작한다",
+      "관람 시간 제한이 없다"
+    ],
+    "answer": 0,
+    "explanation": "Last admission is at 17:30."
+  },
+  {
+    "id": "ai2_info_010",
+    "section": "reading",
+    "topic": "Information Matching",
+    "skill_type_id": "info_match",
+    "content_category_id": "economy",
+    "model_q_num": 10,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "[월별 소비자물가 지수]\n1월 102.1 / 2월 102.5 / 3월 103.0 / 4월 102.8",
+    "options": [
+      "3월에 가장 높았다",
+      "2월에 가장 낮았다",
+      "4월이 3월보다 높았다",
+      "1~4월 계속 상승했다"
+    ],
+    "answer": 0,
+    "explanation": "March index (103.0) is the highest among the four months."
+  },
+  {
+    "id": "ai2_content_001",
+    "section": "reading",
+    "topic": "Detail Matching",
+    "skill_type_id": "content_match",
+    "content_category_id": "school",
+    "model_q_num": 11,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인주시 한 고등학교는 올해부터 여름 교복으로 티셔츠와 반바지를 입고 있다. 기존 정장형 교복은 활동할 때 불편하다는 학생 의견이 많았기 때문이다. 몸이 편해지니 학생들은 다양한 활동에 적극 참여하기 시작했고 공부에도 더 집중할 수 있어 학습 효율이 올라갔다. 새 교복은 기존보다 가격이 저렴해 학부모에게도 인기다.",
+    "options": [
+      "학부모는 정장형 교복을 더 좋아한다",
+      "새 교복은 기존보다 비싸다",
+      "새 교복은 활동할 때 더 불편하다",
+      "학교는 학생 의견을 반영해 교복을 바꿨다"
+    ],
+    "answer": 3,
+    "explanation": "The change followed many student opinions about discomfort."
+  },
+  {
+    "id": "ai2_content_002",
+    "section": "reading",
+    "topic": "Detail Matching",
+    "skill_type_id": "content_match",
+    "content_category_id": "daily_life",
+    "model_q_num": 11,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "최근 한 아파트에서 택배 기사·청소원 등을 위한 무료 카페가 화제다. 언제든 부담 없이 음료를 마시며 쉴 수 있어 이용자들이 만족한다. 주민들은 처음엔 관심이 없었지만 지금은 음료와 간식을 제공하며 많은 도움을 준다.",
+    "options": [
+      "간식을 가져다주는 주민이 생겼다",
+      "개장 때 주민들이 적극 도왔다",
+      "주민들이 돈을 벌려고 카페를 열었다",
+      "택배 기사가 카페 운영에 참여한다"
+    ],
+    "answer": 0,
+    "explanation": "Residents now provide snacks and drinks."
+  },
+  {
+    "id": "ai2_content_003",
+    "section": "reading",
+    "topic": "Detail Matching",
+    "skill_type_id": "content_match",
+    "content_category_id": "work",
+    "model_q_num": 11,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "피자 가게 김민수 씨가 배달 중 빗길에 미끄러져 피자가 망가졌다. 사람은 다치지 않았다. 늦어질 것을 알리는 연락에 고객은 '천천히 오세요. 몸은 괜찮나요?'라고 먼저 걱정해 주었다.",
+    "options": [
+      "고객이 주문을 취소했다",
+      "사고로 배달 중 피자가 망가졌다",
+      "김 씨가 다쳤다",
+      "연락하다가 사고가 났다"
+    ],
+    "answer": 1,
+    "explanation": "The pizza was ruined during the delivery accident."
+  },
+  {
+    "id": "ai2_content_004",
+    "section": "reading",
+    "topic": "Detail Matching",
+    "skill_type_id": "content_match",
+    "content_category_id": "environment",
+    "model_q_num": 12,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인주시는 올해부터 일회용 컵 사용을 줄이기 위해 카페 이용객에게 개인 텀블러 사용 시 500원을 할인해 준다. 시는 1년간 일회용 컵 사용량을 30% 줄이는 것을 목표로 한다. 일부 카페는 텀블러 대여 서비스도 시작했다.",
+    "options": [
+      "할인은 1,000원이다",
+      "목표는 사용량 30% 감축이다",
+      "모든 카페가 대여 서비스를 한다",
+      "정책은 작년부터 시행되었다"
+    ],
+    "answer": 1,
+    "explanation": "The goal is a 30% reduction in disposable cup use."
+  },
+  {
+    "id": "ai2_content_005",
+    "section": "reading",
+    "topic": "Detail Matching",
+    "skill_type_id": "content_match",
+    "content_category_id": "technology",
+    "model_q_num": 12,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인주시는 스마트 횡단보도를 20곳에 설치했다. 보행자가 버튼을 누르면 신호등이 켜지고, 야간에는 LED로 횡단보도를 밝혀 사고를 예방한다. 시민 80% 이상이 교통 안전에 도움이 된다고 응답했다.",
+    "options": [
+      "시민 대다수가 긍정적으로 평가했다",
+      "야간에 LED를 끈다",
+      "버튼 없이 자동으로만 작동한다",
+      "10곳에만 설치되었다"
+    ],
+    "answer": 0,
+    "explanation": "Over 80% of citizens responded positively."
+  },
+  {
+    "id": "ai2_content_006",
+    "section": "reading",
+    "topic": "Detail Matching",
+    "skill_type_id": "content_match",
+    "content_category_id": "health",
+    "model_q_num": 12,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인주시 보건소는 '걷기 챌린지'를 진행한다. 4주간 하루 8,000보 이상 걸으면 참가자 전원에게 건강 검진 할인권을 준다. 작년 참가자 70%가 목표를 달성했고, 참가 후 활동량이 평균 25% 증가했다.",
+    "options": [
+      "작년 참가자 70%가 목표를 달성했다",
+      "할인권은 참가자 절반에게만 준다",
+      "목표는 하루 5,000보이다",
+      "활동량이 줄어들었다"
+    ],
+    "answer": 0,
+    "explanation": "70% of last year's participants met the goal."
+  },
+  {
+    "id": "ai2_content_007",
+    "section": "reading",
+    "topic": "Detail Matching",
+    "skill_type_id": "content_match",
+    "content_category_id": "food_dining",
+    "model_q_num": 20,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인주시 한 식당은 음식 남김을 줄이기 위해 소·중·대 3가지 양을 선택할 수 있게 했다. 남김 없이 주문하면 5% 할인을 제공한다. 도입 후 음식물 쓰레기가 40% 줄었다.",
+    "options": [
+      "음식물 쓰레기가 줄었다",
+      "할인은 10%이다",
+      "양 선택은 2가지뿐이다",
+      "쓰레기가 늘었다"
+    ],
+    "answer": 0,
+    "explanation": "Food waste decreased by 40% after the policy."
+  },
+  {
+    "id": "ai2_content_008",
+    "section": "reading",
+    "topic": "Detail Matching",
+    "skill_type_id": "content_match",
+    "content_category_id": "society",
+    "model_q_num": 20,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인주시는 독거 어르신 500가구에 '안부 문자' 서비스를 제공한다. 매일 아침 문자로 안부를 확인하고, 응답이 없으면 담당 공무원이 방문한다. 6개월 시범 운영 결과 응급 상황 12건을 조기에 발견했다.",
+    "options": [
+      "응답 없으면 방문한다",
+      "서비스 대상이 100가구이다",
+      "응급 상황을 발견하지 못했다",
+      "저녁에만 문자를 보낸다"
+    ],
+    "answer": 0,
+    "explanation": "Staff visit when there is no response."
+  },
+  {
+    "id": "ai2_content_009",
+    "section": "reading",
+    "topic": "Detail Matching",
+    "skill_type_id": "content_match",
+    "content_category_id": "science",
+    "model_q_num": 20,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "하루살이 애벌레는 물속에서 약 1년을 살고 성충은 1~2주 산다. 성충이 되면 입이 퇴화해 애벌레 때 저장한 영양분만 소모한다.",
+    "options": [
+      "성충은 애벌레 때 저장한 영양분으로 산다",
+      "수명은 하루를 넘지 않는다",
+      "성충이 되는 데 1~2주 걸린다",
+      "성충의 입은 더 발달한다"
+    ],
+    "answer": 0,
+    "explanation": "Adult mayflies consume nutrients stored during the larval stage."
+  },
+  {
+    "id": "ai2_content_010",
+    "section": "reading",
+    "topic": "Detail Matching",
+    "skill_type_id": "content_match",
+    "content_category_id": "history",
+    "model_q_num": 24,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "19세기까지 지역마다 시간이 달랐다. 철도 이용이 늘면서 혼란이 커졌고, 캐나다의 한 철도 기사가 경도 기준 표준시를 제안해 현재의 표준시가 되었다.",
+    "options": [
+      "표준시 필요성이 철도 분야에서 제기되었다",
+      "예전에 철도 회사가 지역 시간을 정했다",
+      "캐나다는 19세기 이전부터 표준시를 썼다",
+      "표준시로 승객 불편이 커졌다"
+    ],
+    "answer": 0,
+    "explanation": "Train schedule confusion led a railroad engineer to propose standard time."
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 24,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인주시립박물관은 올해 '전통 공예 체험' 프로그램을 매주 토요일 오후 2시에 진행한다. 참가비는 무료이며 사전 예약이 필수다. 지난달 첫 회차에는 120명이 참여해 호응을 얻었다.",
+    "options": [
+      "참가비는 5,000원이다",
+      "예약 없이 참여할 수 있다",
+      "매주 토요일 오후에 열린다",
+      "첫 회차 참가자는 50명이었다"
+    ],
+    "answer": 2,
+    "explanation": "The program runs every Saturday at 2 PM.",
+    "content_category_id": "culture",
+    "topic": "Detail Matching",
+    "id": "ai2_content_011"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 24,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "해운대 해변에 새로 설치된 야외 공연장은 6월부터 9월까지 매주 금·토요일 저녁 7시에 공연이 열린다. 입장은 무료이나 좌석은 선착순 300석으로 제한된다.",
+    "options": [
+      "공연은 6~9월에만 열린다",
+      "입장료는 10,000원이다",
+      "좌석 예약제이다",
+      "공연은 매일 저녁에 한다"
+    ],
+    "answer": 0,
+    "explanation": "Performances run June through September on Fri/Sat evenings.",
+    "content_category_id": "travel",
+    "topic": "Detail Matching",
+    "id": "ai2_content_012"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 32,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인주시는 소상공인을 위해 올해 상반기 임대료 50%를 지원한다. 신청은 3월 1일부터 3월 31일까지이며, 매출 감소 증빙 서류가 필요하다.",
+    "options": [
+      "지원은 연중 내내 가능하다",
+      "임대료 전액을 지원한다",
+      "3월 한 달간 신청받는다",
+      "증빙 서류는 필요 없다"
+    ],
+    "answer": 2,
+    "explanation": "Applications are accepted during March only.",
+    "content_category_id": "economy",
+    "topic": "Detail Matching",
+    "id": "ai2_content_013"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 32,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "최근 연구에 따르면 수면 시간이 7시간 미만인 성인은 집중력 저하 위험이 1.5배 높아진다. 연구팀은 규칙적인 취침 시간 유지를 권고했다.",
+    "options": [
+      "7시간 이상 자면 집중력이 떨어진다",
+      "수면 부족은 집중력에 영향을 줄 수 있다",
+      "연구는 청소년만 대상으로 했다",
+      "취침 시간은 중요하지 않다"
+    ],
+    "answer": 1,
+    "explanation": "Less than 7 hours sleep raises concentration decline risk.",
+    "content_category_id": "science",
+    "topic": "Detail Matching",
+    "id": "ai2_content_014"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 32,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "조선 후기 실학자들은 토지 제도와 세금 문제를 개혁해야 한다고 주장했다. 그들은 이론만이 아니라 실제 농촌 조사를 통해 현실적 대안을 모색했다.",
+    "options": [
+      "실학자들은 이론만 강조했다",
+      "농촌 조사를 통해 대안을 찾았다",
+      "세금 개혁을 반대했다",
+      "토지 제도는 문제가 없다고 봤다"
+    ],
+    "answer": 1,
+    "explanation": "Silhak scholars sought practical reforms through rural surveys.",
+    "content_category_id": "history",
+    "topic": "Detail Matching",
+    "id": "ai2_content_015"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 33,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "스마트 농업은 센서와 데이터 분석으로 물·비료 사용량을 줄인다. 인주군 A농장은 도입 후 수확량은 유지하면서 비용을 20% 절감했다.",
+    "options": [
+      "수확량이 크게 감소했다",
+      "비용 절감 효과가 있었다",
+      "센서를 사용하지 않는다",
+      "비료 사용량이 늘었다"
+    ],
+    "answer": 1,
+    "explanation": "The farm cut costs 20% while maintaining yield.",
+    "content_category_id": "technology",
+    "topic": "Detail Matching",
+    "id": "ai2_content_016"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 33,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인주시는 2030년까지 재활용률 70% 달성을 목표로 분리수거 체계를 개편한다. 음식물 쓰레기 전용 봉투도 내년부터 무료로 배포할 예정이다.",
+    "options": [
+      "재활용률 목표는 50%이다",
+      "음식물 봉투는 유료로 판매한다",
+      "2030년까지 70% 달성을 목표로 한다",
+      "분리수거는 현행 유지한다"
+    ],
+    "answer": 2,
+    "explanation": "The city aims for 70% recycling by 2030.",
+    "content_category_id": "environment",
+    "topic": "Detail Matching",
+    "id": "ai2_content_017"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 33,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "보건당국은 겨울철 독감 예방접종을 11월부터 시작한다. 65세 이상과 임신부는 무료 접종 대상이며, 일반 성인은 15,000원이다.",
+    "options": [
+      "모든 연령이 무료이다",
+      "11월부터 접종을 시작한다",
+      "임신부는 대상에서 제외된다",
+      "성인 접종비는 5,000원이다"
+    ],
+    "answer": 1,
+    "explanation": "Flu vaccination begins in November.",
+    "content_category_id": "health",
+    "topic": "Detail Matching",
+    "id": "ai2_content_018"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 34,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "A기업은 4일 근무제를 도입한 후 직원 만족도가 15%p 상승했다. 생산성은 소폭 감소했으나 이직률은 절반으로 줄었다.",
+    "options": [
+      "이직률이 증가했다",
+      "만족도가 15%p 올랐다",
+      "생산성이 크게 향상되었다",
+      "5일 근무제를 유지했다"
+    ],
+    "answer": 1,
+    "explanation": "Employee satisfaction rose 15 percentage points.",
+    "content_category_id": "work",
+    "topic": "Detail Matching",
+    "id": "ai2_content_019"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 34,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "저출산 대책으로 정부는 육아휴직 급여 상한을 올리고, 기업에는 육아 지원금을 추가 지급하기로 했다. 다만 중소기업 적용 범위는 아직 협의 중이다.",
+    "options": [
+      "모든 기업에 즉시 적용된다",
+      "육아휴직 급여 상한을 인상한다",
+      "육아 지원금을 폐지한다",
+      "중소기업은 대상이 아니다"
+    ],
+    "answer": 1,
+    "explanation": "Government raises parental leave pay cap.",
+    "content_category_id": "society",
+    "topic": "Detail Matching",
+    "id": "ai2_content_020"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 34,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "K-콘텐츠 수출액이 작년 대비 12% 증가했다. 드라마와 음악이 주를 이뤘으며, 동남아시아 시장 확대가 성장을 이끌었다.",
+    "options": [
+      "수출액이 감소했다",
+      "드라마·음악이 주요 품목이다",
+      "유럽 시장만 성장했다",
+      "12% 감소했다"
+    ],
+    "answer": 1,
+    "explanation": "Drama and music led the 12% export growth.",
+    "content_category_id": "culture",
+    "topic": "Detail Matching",
+    "id": "ai2_content_021"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 43,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인주시 전통시장은 '제로 웨이스트' 캠페인을 시작했다. 상인들은 일회용품 대신 다회용기를 사용하고, 고객에게 에코백 할인을 제공한다.",
+    "options": [
+      "일회용품 사용을 늘렸다",
+      "다회용기를 사용한다",
+      "할인은 제공하지 않는다",
+      "캠페인은 내년에 시작한다"
+    ],
+    "answer": 1,
+    "explanation": "Merchants use reusable containers in the campaign.",
+    "content_category_id": "food_dining",
+    "topic": "Detail Matching",
+    "id": "ai2_content_022"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 43,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인주시는 시내 버스 10대에 전기버스를 도입했다. 1대당 연간 탄소 배출량을 30톤 줄일 수 있으며, 2027년까지 50대로 확대할 계획이다.",
+    "options": [
+      "디젤버스만 운행한다",
+      "전기버스 10대를 도입했다",
+      "탄소 배출 감소 효과가 없다",
+      "2025년에 50대로 확대한다"
+    ],
+    "answer": 1,
+    "explanation": "Ten electric buses were introduced.",
+    "content_category_id": "transport",
+    "topic": "Detail Matching",
+    "id": "ai2_content_023"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 43,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인주대학교는 2025학년도부터 AI 융합 전공을 신설한다. 1학년 공통 과목으로 프로그래밍과 데이터 분석을 필수로 이수해야 한다.",
+    "options": [
+      "전공이 폐지되었다",
+      "2025학년도에 신설한다",
+      "프로그래밍은 선택 과목이다",
+      "대학원 과정만 개설한다"
+    ],
+    "answer": 1,
+    "explanation": "AI convergence major starts in 2025.",
+    "content_category_id": "school",
+    "topic": "Detail Matching",
+    "id": "ai2_content_024"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 45,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인주시청은 시민 제안 공모전 수상작 5건을 정책에 반영했다. 그중 '마을 버스 노선 개선' 제안은 내년 3월부터 시범 운행된다.",
+    "options": [
+      "수상작은 반영되지 않았다",
+      "버스 노선 개선이 시범 운행된다",
+      "공모전은 매년 열리지 않는다",
+      "5건 모두 폐기되었다"
+    ],
+    "answer": 1,
+    "explanation": "Winning bus route proposal starts pilot in March.",
+    "content_category_id": "public_info",
+    "topic": "Detail Matching",
+    "id": "ai2_content_025"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 45,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "한국은행은 기준금리를 0.25%p 인상했다. 물가 안정을 위한 조치이며, 가계 대출 금리에도 영향을 줄 것으로 예상된다.",
+    "options": [
+      "금리를 인하했다",
+      "0.25%p 인상했다",
+      "물가와 무관한 결정이다",
+      "대출 금리에 영향이 없다"
+    ],
+    "answer": 1,
+    "explanation": "The base rate was raised 0.25 percentage points.",
+    "content_category_id": "economy",
+    "topic": "Detail Matching",
+    "id": "ai2_content_026"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 45,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "국내 IT기업 B사는 클라우드 보안 솔루션을 출시했다. 기존 대비 해킹 탐지 속도가 3배 빨라졌으며, 중소기업용 요금제도 마련했다.",
+    "options": [
+      "탐지 속도가 느려졌다",
+      "3배 빠른 탐지가 가능하다",
+      "대기업만 이용할 수 있다",
+      "보안 솔루션을 출시하지 않았다"
+    ],
+    "answer": 1,
+    "explanation": "Detection speed is 3x faster than before.",
+    "content_category_id": "technology",
+    "topic": "Detail Matching",
+    "id": "ai2_content_027"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 47,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인주 해안가에 설치된 해양 쓰레기 수거 장치가 1년간 12톤의 플라스틱을 건져 올렸다. 시는 추가 5대를 내년에 설치할 예정이다.",
+    "options": [
+      "1톤을 수거했다",
+      "12톤의 플라스틱을 수거했다",
+      "장치를 철거한다",
+      "추가 설치 계획이 없다"
+    ],
+    "answer": 1,
+    "explanation": "The device collected 12 tons of plastic in one year.",
+    "content_category_id": "environment",
+    "topic": "Detail Matching",
+    "id": "ai2_content_028"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 47,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "양자컴퓨터 연구팀은 오류율을 0.1% 이하로 낮추는 데 성공했다. 이는 실용화에 한 걸음 다가선 성과로 평가받고 있다.",
+    "options": [
+      "오류율이 10%이다",
+      "오류율을 0.1% 이하로 낮췄다",
+      "실용화에 역행한다",
+      "연구가 중단되었다"
+    ],
+    "answer": 1,
+    "explanation": "Error rate was reduced below 0.1%.",
+    "content_category_id": "science",
+    "topic": "Detail Matching",
+    "id": "ai2_content_029"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 47,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "새로 개발된 원격 진료 앱은 혈압·혈당 데이터를 실시간으로 의사에게 전송한다. 시범 지역 500명 중 85%가 만족한다고 응답했다.",
+    "options": [
+      "데이터 전송이 불가능하다",
+      "85%가 만족한다",
+      "시범 참가자는 50명이다",
+      "앱은 아직 개발 중이다"
+    ],
+    "answer": 1,
+    "explanation": "85% of 500 pilot users reported satisfaction.",
+    "content_category_id": "health",
+    "topic": "Detail Matching",
+    "id": "ai2_content_030"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 50,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인주시는 다문화 가정 자녀를 위한 한국어·문화 교육 프로그램을 확대한다. 주 2회, 3개월 과정으로 운영되며 수료증을 발급한다.",
+    "options": [
+      "주 1회 운영한다",
+      "수료증을 발급한다",
+      "프로그램을 축소한다",
+      "3개월이 아닌 6개월 과정이다"
+    ],
+    "answer": 1,
+    "explanation": "Completion certificates are issued after the 3-month course.",
+    "content_category_id": "society",
+    "topic": "Detail Matching",
+    "id": "ai2_content_031"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 50,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "C사는 직원 역량 강화를 위해 매 분기 스킬 업그레이드 교육을 의무화했다. 교육 이수율 90% 이상 부서에는 인센티브를 지급한다.",
+    "options": [
+      "교육은 선택 사항이다",
+      "분기별 교육을 의무화했다",
+      "인센티브는 없다",
+      "이수율 50% 이상이 조건이다"
+    ],
+    "answer": 1,
+    "explanation": "Quarterly skill upgrade training is mandatory.",
+    "content_category_id": "work",
+    "topic": "Detail Matching",
+    "id": "ai2_content_032"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "content_match",
+    "model_q_num": 50,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "국립극장은 청각 장애인을 위해 수어 통역과 자막을 제공하는 공연을 매월 1회 편성한다. 올해 상반기 관람객은 전년 대비 40% 증가했다.",
+    "options": [
+      "통역·자막을 제공하지 않는다",
+      "매월 1회 편성한다",
+      "관람객이 40% 감소했다",
+      "연 1회만 한다"
+    ],
+    "answer": 1,
+    "explanation": "Accessible performances are scheduled monthly.",
+    "content_category_id": "culture",
+    "topic": "Detail Matching",
+    "id": "ai2_content_033"
+  },
+  {
+    "id": "ai2_order_001",
+    "section": "reading",
+    "topic": "Sentence Ordering",
+    "skill_type_id": "ordering",
+    "content_category_id": "environment",
+    "model_q_num": 13,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "(가) 환경 보호를 위해 포장 없이 내용물만 판매하는 가게가 있다.\n(나) 사람들은 용기에 담을 빈 통을 준비해 가야 한다.\n(다) 빈 통이 없으면 가게에서 대여해 주기도 한다.\n(라) 이 가게에서는 밀가루나 샴푸 등을 큰 용기에 담아 판매한다.",
+    "options": [
+      "(가)-(나)-(라)-(다)",
+      "(가)-(라)-(나)-(다)",
+      "(나)-(가)-(라)-(다)",
+      "(나)-(다)-(가)-(라)"
+    ],
+    "answer": 1,
+    "explanation": "Intro (가) → what/how sold (라) → bring container (나) → rental option (다)."
+  },
+  {
+    "id": "ai2_order_002",
+    "section": "reading",
+    "topic": "Sentence Ordering",
+    "skill_type_id": "ordering",
+    "content_category_id": "transport",
+    "model_q_num": 13,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "(가) 요금을 내려 보니 가방 어디에도 지갑이 없었다.\n(나) 감사 인사에 아주머니는 환하게 웃어 주셨다.\n(다) 회사에 지각할 것 같아 막 출발하는 버스에 뛰어 올랐다.\n(라) 내리려 할 때 뒤에 서 있던 아주머니가 대신 요금을 내 주셨다.",
+    "options": [
+      "(가)-(다)-(나)-(라)",
+      "(가)-(라)-(다)-(나)",
+      "(다)-(가)-(라)-(나)",
+      "(다)-(나)-(라)-(가)"
+    ],
+    "answer": 2,
+    "explanation": "Catch bus (다) → no wallet (가) → woman pays (라) → smile at thanks (나)."
+  },
+  {
+    "id": "ai2_order_003",
+    "section": "reading",
+    "topic": "Sentence Ordering",
+    "skill_type_id": "ordering",
+    "content_category_id": "health",
+    "model_q_num": 13,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "(가) 눈 밑 떨림이 계속되면 마그네슘 부족일 수 있다.\n(나) 눈 밑 떨림의 주된 원인은 피로이므로 쉬면 완화된다.\n(다) 이런 경우 견과류나 바나나처럼 마그네슘이 풍부한 음식을 먹으면 좋다.\n(라) 누구나 한 번쯤 눈 밑이 떨리는 경험을 해 본 적이 있을 것이다.",
+    "options": [
+      "(나)-(다)-(라)-(가)",
+      "(나)-(라)-(다)-(가)",
+      "(라)-(가)-(다)-(나)",
+      "(라)-(나)-(가)-(다)"
+    ],
+    "answer": 3,
+    "explanation": "Intro (라) → fatigue cause (나) → magnesium cause (가) → dietary solution (다)."
+  },
+  {
+    "id": "ai2_order_004",
+    "section": "reading",
+    "topic": "Sentence Ordering",
+    "skill_type_id": "ordering",
+    "content_category_id": "shopping",
+    "model_q_num": 13,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "(가) 짧게는 하루, 길게는 한 달 정도 운영하는 임시 매장이다.\n(나) 붐비는 장소에서 짧은 기간 운영하는 매장이 유행이다.\n(다) 기업은 이 매장으로 특정 제품을 팔거나 홍보한다.\n(라) 또 기업 이미지를 친숙하게 만들기 위해 재미있는 행사를 열기도 한다.",
+    "options": [
+      "(가)-(다)-(라)-(나)",
+      "(나)-(가)-(다)-(라)",
+      "(가)-(라)-(나)-(다)",
+      "(나)-(라)-(다)-(가)"
+    ],
+    "answer": 1,
+    "explanation": "Trend intro (나) → definition (가) → sales/promo (다) → events (라)."
+  },
+  {
+    "id": "ai2_order_005",
+    "section": "reading",
+    "topic": "Sentence Ordering",
+    "skill_type_id": "ordering",
+    "content_category_id": "work",
+    "model_q_num": 14,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "(가) 그런데 전화를 끊고 뒤늦게 미안한 마음이 들었다.\n(나) 친구는 합격 소식을 듣고 자신의 일처럼 기뻐했다.\n(다) 얼마 전 회사 합격 소식을 듣고 친한 친구에게 전화했다.\n(라) 아직 취업 못 한 친구를 배려하지 못했다는 생각 때문이었다.",
+    "options": [
+      "(나)-(다)-(라)-(가)",
+      "(나)-(라)-(가)-(다)",
+      "(다)-(나)-(가)-(라)",
+      "(다)-(나)-(라)-(가)"
+    ],
+    "answer": 2,
+    "explanation": "Call friend (다) → friend happy (나) → feel sorry (가) → reason (라)."
+  },
+  {
+    "id": "ai2_order_006",
+    "section": "reading",
+    "topic": "Sentence Ordering",
+    "skill_type_id": "ordering",
+    "content_category_id": "food_dining",
+    "model_q_num": 14,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "(가) 빵이나 고기를 구울 때 갈색으로 바뀌는 것이 그 예이다.\n(나) 갈색으로 바뀌면 맛도 더 깊어지고 풍부해진다.\n(다) 식품의 당과 단백질이 열을 만나면 색이 바뀐다.\n(라) 열이 너무 가해져 검게 타면 그런 맛을 낼 수 없다.",
+    "options": [
+      "(가)-(나)-(라)-(다)",
+      "(다)-(가)-(나)-(라)",
+      "(가)-(다)-(라)-(나)",
+      "(다)-(라)-(나)-(가)"
+    ],
+    "answer": 1,
+    "explanation": "Science (다) → example (가) → taste (나) → burn contrast (라)."
+  },
+  {
+    "id": "ai2_order_007",
+    "section": "reading",
+    "topic": "Sentence Ordering",
+    "skill_type_id": "ordering",
+    "content_category_id": "school",
+    "model_q_num": 14,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "(가) 그래서 학생들은 자신의 속도에 맞춰 학습할 수 있다.\n(나) 최근 많은 학교가 AI 기반 맞춤형 학습 프로그램을 도입하고 있다.\n(다) 프로그램은 학생별 취약 과목을 분석해 문제를 추천한다.\n(라) 이를 통해 교사는 개별 지도에 더 많은 시간을 쓸 수 있다.",
+    "options": [
+      "(나)-(다)-(라)-(가)",
+      "(다)-(나)-(라)-(가)",
+      "(나)-(라)-(다)-(가)",
+      "(라)-(나)-(다)-(가)"
+    ],
+    "answer": 0,
+    "explanation": "Trend (나) → how it works (다) → teacher benefit (라) → student benefit (가)."
+  },
+  {
+    "id": "ai2_order_008",
+    "section": "reading",
+    "topic": "Sentence Ordering",
+    "skill_type_id": "ordering",
+    "content_category_id": "culture",
+    "model_q_num": 14,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "(가) 관람객은 작품 앞에서 잠시 멈춰 서서 감상한다.\n(나) 최근 미술관에서는 '느린 관람' 프로그램이 인기를 끈다.\n(다) 안내자가 작품의 배경을 설명한 뒤 충분한 감상 시간을 준다.\n(라) 빠르게 훑어보는 관람 대신 깊이 있게 작품을 즐기는 방식이다.",
+    "options": [
+      "(나)-(라)-(다)-(가)",
+      "(라)-(나)-(다)-(가)",
+      "(다)-(나)-(라)-(가)",
+      "(나)-(다)-(가)-(라)"
+    ],
+    "answer": 0,
+    "explanation": "Program intro (나) → definition (라) → process (다) → visitor action (가)."
+  },
+  {
+    "id": "ai2_order_009",
+    "section": "reading",
+    "topic": "Sentence Ordering",
+    "skill_type_id": "ordering",
+    "content_category_id": "technology",
+    "model_q_num": 15,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "(가) 따라서 기업들은 사용자 데이터 보호에 더 많은 투자를 하고 있다.\n(나) 최근 개인정보 유출 사고가 잇따르면서 이용자들의 불안이 커지고 있다.\n(다) 정부도 관련 법규를 강화하고 위반 기업에 과태료를 부과하기로 했다.\n(라) 특히 금융·의료 분야에서 민감 정보 관리가 중요해지고 있다.",
+    "options": [
+      "(나)-(라)-(다)-(가)",
+      "(라)-(나)-(다)-(가)",
+      "(나)-(다)-(라)-(가)",
+      "(다)-(라)-(나)-(가)"
+    ],
+    "answer": 0,
+    "explanation": "Problem (나) → specific fields (라) → government action (다) → corporate response (가)."
+  },
+  {
+    "id": "ai2_order_010",
+    "section": "reading",
+    "topic": "Sentence Ordering",
+    "skill_type_id": "ordering",
+    "content_category_id": "society",
+    "model_q_num": 15,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "(가) 이에 따라 지역 사회는 다양한 지원 프로그램을 마련하고 있다.\n(나) 최근 1인 가구가 빠르게 늘고 있다.\n(다) 혼자 사는 어르신과 청년을 위한 안부 확인·급식 서비스가 대표적이다.\n(라) 특히 독거 노인의 고립 문제가 사회적 이슈로 부각되고 있다.",
+    "options": [
+      "(나)-(라)-(다)-(가)",
+      "(라)-(나)-(다)-(가)",
+      "(나)-(다)-(라)-(가)",
+      "(다)-(라)-(나)-(가)"
+    ],
+    "answer": 0,
+    "explanation": "Trend (나) → issue (라) → programs (다) → community response (가)."
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "ordering",
+    "model_q_num": 15,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "(가) 그 결과 관객들은 공연에 더 몰입할 수 있게 되었다.\n(나) 최근 일부 연극 무대에서는 관객과 배우의 거리를 좁히는 실험이 이루어지고 있다.\n(다) 배우들이 관객석 가까이에서 대사를 하거나 관객을 참여시키기도 한다.\n(라) 무대 조명과 음향도 관객 경험에 맞게 조절된다.",
+    "options": [
+      "(나)-(다)-(라)-(가)",
+      "(나)-(라)-(다)-(가)",
+      "(다)-(나)-(가)-(라)",
+      "(라)-(나)-(다)-(가)"
+    ],
+    "answer": 0,
+    "explanation": "Trend (나) → method (다) → tech (라) → result (가).",
+    "content_category_id": "culture",
+    "topic": "Sentence Ordering",
+    "id": "ai2_order_011"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "ordering",
+    "model_q_num": 15,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "(가) 이때 식물은 이산화탄소를 흡수하고 산소를 내뿜는다.\n(나) 광합성은 식물이 빛 에너지를 이용해 양분을 만드는 과정이다.\n(다) 따라서 식물은 지구 대기의 산소 공급에 중요한 역할을 한다.\n(라) 이 과정은 주로 낮에 잎의 엽록체에서 일어난다.",
+    "options": [
+      "(나)-(라)-(가)-(다)",
+      "(나)-(가)-(라)-(다)",
+      "(라)-(나)-(다)-(가)",
+      "(가)-(나)-(라)-(다)"
+    ],
+    "answer": 0,
+    "explanation": "Definition (나) → where/when (라) → process (가) → significance (다).",
+    "content_category_id": "science",
+    "topic": "Sentence Ordering",
+    "id": "ai2_order_012"
+  },
+  {
+    "id": "ai2_cloze_001",
+    "section": "reading",
+    "topic": "Contextual Cloze",
+    "skill_type_id": "cloze_passage",
+    "content_category_id": "history",
+    "model_q_num": 16,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "원래 악수는 상대를 안심시키기 위한 행동이었다. 중세 기사들은 무기를 지니고 다니다가 (      ) 때 악수로 손에 무기가 없음을 보여 주었다.",
+    "options": [
+      "싸울 생각이 없을",
+      "상대의 도움을 받았을",
+      "자신의 잘못을 사과할",
+      "무기를 새로 구해야 할"
+    ],
+    "answer": 0,
+    "explanation": "Handshake showed no weapons when there was no intent to fight."
+  },
+  {
+    "id": "ai2_cloze_002",
+    "section": "reading",
+    "topic": "Contextual Cloze",
+    "skill_type_id": "cloze_passage",
+    "content_category_id": "culture",
+    "model_q_num": 16,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "특별한 사건 없이 주인공의 반복적 일상을 다룬 영화가 인기다. 관객은 잊고 있던 일상의 기쁨을 깨닫고, 행복은 (      ) 일에서도 찾을 수 있음을 발견한다.",
+    "options": [
+      "스스로 인정하지 않는",
+      "현실 속의 작고 소소한",
+      "평소 자주 하지 못하는",
+      "일상에서 하기 쉽지 않은"
+    ],
+    "answer": 1,
+    "explanation": "The film celebrates small, ordinary moments in daily life."
+  },
+  {
+    "id": "ai2_cloze_003",
+    "section": "reading",
+    "topic": "Contextual Cloze",
+    "skill_type_id": "cloze_passage",
+    "content_category_id": "environment",
+    "model_q_num": 16,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "씨앗 저장고 연구원들은 보관 씨앗을 연구할 뿐 아니라 (      ) 활동도 한다. 직접 현장에 가야 보관할 가치가 있는 씨앗인지 알 수 있기 때문이다.",
+    "options": [
+      "자원을 홍보하는",
+      "사람을 교육하는",
+      "씨앗을 수집하는",
+      "저장고를 관리하는"
+    ],
+    "answer": 2,
+    "explanation": "Researchers travel nationwide to collect seeds worth preserving."
+  },
+  {
+    "id": "ai2_cloze_004",
+    "section": "reading",
+    "topic": "Contextual Cloze",
+    "skill_type_id": "cloze_passage",
+    "content_category_id": "school",
+    "model_q_num": 17,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "수업에 게임 방식을 도입하면 학생 참여가 늘고, 즉각적 점수 부여로 (      ) 수 있다.",
+    "options": [
+      "교실 환경을 살필",
+      "수업에 보다 집중할",
+      "게임에 흥미를 느낄",
+      "친구들과 더 소통할"
+    ],
+    "answer": 1,
+    "explanation": "Quizzes and scoring help students concentrate more on lessons."
+  },
+  {
+    "id": "ai2_cloze_005",
+    "section": "reading",
+    "topic": "Contextual Cloze",
+    "skill_type_id": "cloze_passage",
+    "content_category_id": "society",
+    "model_q_num": 17,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "환경 메시지가 새겨진 티셔츠·가방을 구매하는 사람이 늘고 있다. 사람들은 그 상품이 (      ) 때문에 구매하며, 일상에서 자신의 가치관을 표현한다.",
+    "options": [
+      "세련되게 디자인되었기",
+      "천연 소재로 만들어졌기",
+      "본인의 체형을 보완해 주기",
+      "자신의 가치관을 드러낼 수 있기"
+    ],
+    "answer": 3,
+    "explanation": "Consumers buy to express their values on social issues."
+  },
+  {
+    "id": "ai2_cloze_006",
+    "section": "reading",
+    "topic": "Contextual Cloze",
+    "skill_type_id": "cloze_passage",
+    "content_category_id": "technology",
+    "model_q_num": 17,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "안전유리는 실험실에서 떨어진 유리병에서 영감을 받아 발명되었다. 용액이 마르며 생긴 막이 파편을 붙잡았고, 이를 응용해 (      ) 안전유리를 만들었다.",
+    "options": [
+      "파편 조각을 붙인",
+      "유리에 막을 입힌",
+      "유리를 여러 장 겹친",
+      "깨지지 않는 재료를 사용한"
+    ],
+    "answer": 1,
+    "explanation": "A coating/film on glass holds fragments together."
+  },
+  {
+    "id": "ai2_cloze_007",
+    "section": "reading",
+    "topic": "Contextual Cloze",
+    "skill_type_id": "cloze_passage",
+    "content_category_id": "science",
+    "model_q_num": 18,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "보통 수학에서는 개념이 먼저 정립되고 기호가 등장한다. 그러나 무한대는 (      ) 후에도 한동안 개념이 정립되지 못했다.",
+    "options": [
+      "기호가 만들어진",
+      "의미가 여러 번 바뀐",
+      "학계에서 활발히 연구된",
+      "반대 이론이 등장한"
+    ],
+    "answer": 0,
+    "explanation": "For infinity, the symbol came before the concept was defined."
+  },
+  {
+    "id": "ai2_cloze_008",
+    "section": "reading",
+    "topic": "Contextual Cloze",
+    "skill_type_id": "cloze_passage",
+    "content_category_id": "economy",
+    "model_q_num": 18,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "스타트업은 빠른 성장을 위해 외부 투자를 받지만, 지나친 확장은 (      ) 위험을 키울 수 있다. 따라서 재무 건전성을 유지하는 것이 중요하다.",
+    "options": [
+      "수익성 악화",
+      "시장 점유율 감소",
+      "브랜드 인지도 하락",
+      "고객 만족도 상승"
+    ],
+    "answer": 0,
+    "explanation": "Over-expansion can worsen profitability."
+  },
+  {
+    "id": "ai2_cloze_009",
+    "section": "reading",
+    "topic": "Contextual Cloze",
+    "skill_type_id": "cloze_passage",
+    "content_category_id": "health",
+    "model_q_num": 18,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "충분한 수면은 기억력과 면역력에 도움이 된다. 반면 수면 부족은 (      ) 민감해지게 만들어 스트레스 대처 능력을 떨어뜨린다.",
+    "options": [
+      "감정적으로",
+      "논리적으로",
+      "육체적으로",
+      "사회적으로"
+    ],
+    "answer": 0,
+    "explanation": "Sleep deprivation makes people emotionally sensitive."
+  },
+  {
+    "id": "ai2_cloze_010",
+    "section": "reading",
+    "topic": "Contextual Cloze",
+    "skill_type_id": "cloze_passage",
+    "content_category_id": "work",
+    "model_q_num": 28,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "재택근무가 보편화되면서 출퇴근 시간은 줄었지만, 업무와 휴식의 경계가 (      ) 문제가 새로 대두되고 있다.",
+    "options": [
+      "뚜렷하지 않아",
+      "너무 명확해",
+      "완전히 사라져",
+      "오히려 강화되어"
+    ],
+    "answer": 0,
+    "explanation": "Blurred boundaries between work and rest is a new issue."
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 28,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "디지털 전환은 기업 경쟁력의 핵심이 되었다. 그러나 노년층 직원에게는 새로운 시스템이 (      ) 장벽이 될 수 있다.",
+    "options": [
+      "학습",
+      "적응",
+      "이해",
+      "수용"
+    ],
+    "answer": 1,
+    "explanation": "'적응' fits as a barrier to adapting to new systems.",
+    "content_category_id": "economy",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_011"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 28,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "토론 수업은 학생들의 비판적 사고를 키운다. 서로 다른 의견을 (      ) 들으며 논리적으로 반박하는 연습을 한다.",
+    "options": [
+      "무시하고",
+      "경청하며",
+      "회피하며",
+      "비웃으며"
+    ],
+    "answer": 1,
+    "explanation": "Debate requires listening to different opinions.",
+    "content_category_id": "school",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_012"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 29,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "스트레스가 지속되면 면역력이 약해질 수 있다. 적절한 휴식과 (      ) 활동이 회복에 도움이 된다.",
+    "options": [
+      "과로",
+      "명상",
+      "경쟁",
+      "야근"
+    ],
+    "answer": 1,
+    "explanation": "Meditation aids recovery from stress.",
+    "content_category_id": "health",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_013"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 29,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인공지능은 반복 업무를 자동화하지만, 창의적 판단이 필요한 분야에서는 인간의 (      ) 역할이 여전히 중요하다.",
+    "options": [
+      "대체",
+      "보조",
+      "방해",
+      "제거"
+    ],
+    "answer": 1,
+    "explanation": "Human supplementary role remains important.",
+    "content_category_id": "technology",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_014"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 29,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "기후 변화 대응은 개인의 실천만으로는 한계가 있다. 국가 차원의 정책과 (      ) 협력이 함께 이루어져야 한다.",
+    "options": [
+      "국제적",
+      "개인적",
+      "일시적",
+      "지역적"
+    ],
+    "answer": 0,
+    "explanation": "International cooperation is needed with national policy.",
+    "content_category_id": "environment",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_015"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 30,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "전통 공예품은 기능성뿐 아니라 미적 가치도 지닌다. 후대에 (      ) 하기 위해 보존·전승 노력이 필요하다.",
+    "options": [
+      "유통",
+      "전달",
+      "판매",
+      "폐기"
+    ],
+    "answer": 1,
+    "explanation": "Efforts needed to pass crafts to future generations.",
+    "content_category_id": "culture",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_016"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 30,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "고령화 사회에서는 돌봄 서비스 수요가 급증한다. 이를 (      ) 공공과 민간의 역할 분담이 재정비되어야 한다.",
+    "options": [
+      "대응하기 위해",
+      "무시하기 위해",
+      "지연시키기 위해",
+      "축소하기 위해"
+    ],
+    "answer": 0,
+    "explanation": "Public-private roles must be reorganized to respond.",
+    "content_category_id": "society",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_017"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 30,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "재택근무 확산으로 출퇴근 시간은 줄었지만, 업무와 사생활의 (      ) 모호해지는 부작용도 나타났다.",
+    "options": [
+      "경계가",
+      "균형이",
+      "차이가",
+      "연결이"
+    ],
+    "answer": 0,
+    "explanation": "Work-life boundaries became blurred.",
+    "content_category_id": "work",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_018"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 31,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "우주 탐사는 막대한 비용이 들지만, 새로운 과학 지식과 (      ) 기술을 얻을 수 있는 기회이기도 하다.",
+    "options": [
+      "낡은",
+      "첨단",
+      "불필요한",
+      "일반적인"
+    ],
+    "answer": 1,
+    "explanation": "Space exploration yields advanced technology.",
+    "content_category_id": "science",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_019"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 31,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "공유 경제는 자원 낭비를 줄이는 장점이 있다. 그러나 규제 공백으로 인한 (      ) 문제도 제기되고 있다.",
+    "options": [
+      "고용",
+      "안전",
+      "성장",
+      "혁신"
+    ],
+    "answer": 1,
+    "explanation": "Safety issues arise from regulatory gaps.",
+    "content_category_id": "economy",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_020"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 31,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "온라인 쇼핑은 편리하지만, 실물을 (      ) 보지 못해 기대와 다른 경우가 있다.",
+    "options": [
+      "직접",
+      "자주",
+      "오래",
+      "꼼꼼히"
+    ],
+    "answer": 0,
+    "explanation": "Cannot see products directly before buying online.",
+    "content_category_id": "daily_life",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_021"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 44,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "발효 식품은 유익균이 풍부하다. 적정량 섭취는 장 건강에 (      ) 영향을 줄 수 있다.",
+    "options": [
+      "부정적",
+      "긍정적",
+      "중립적",
+      "일시적"
+    ],
+    "answer": 1,
+    "explanation": "Fermented foods positively affect gut health.",
+    "content_category_id": "food_dining",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_022"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 44,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "역사 기록은 당대의 시각을 반영한다. 따라서 여러 자료를 (      ) 검토해야 객관에 가까운 이해가 가능하다.",
+    "options": [
+      "편향적으로",
+      "비교·대조하여",
+      "무시하고",
+      "단편적으로"
+    ],
+    "answer": 1,
+    "explanation": "Compare and contrast sources for objectivity.",
+    "content_category_id": "history",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_023"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 44,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "전기차 보급 확대에는 충전 인프라가 (      ). 충전소 부족은 구매를 망설이는 주요 이유다.",
+    "options": [
+      "불필요하다",
+      "선행되어야 한다",
+      "축소되어야 한다",
+      "무관하다"
+    ],
+    "answer": 1,
+    "explanation": "Charging infrastructure must come first.",
+    "content_category_id": "transport",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_024"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 48,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "캠핑 인구가 늘면서 자연 훼손 문제도 심각해졌다. 캠핑족의 (      ) 의식 개선이 시급하다.",
+    "options": [
+      "소비",
+      "환경",
+      "경쟁",
+      "편의"
+    ],
+    "answer": 1,
+    "explanation": "Environmental awareness among campers is urgent.",
+    "content_category_id": "leisure",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_025"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 48,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "정부는 공공 데이터 개방을 확대하고 있다. 이는 민간의 (      ) 서비스 창출을 촉진할 것으로 기대된다.",
+    "options": [
+      "창의적",
+      "독점적",
+      "폐쇄적",
+      "일시적"
+    ],
+    "answer": 0,
+    "explanation": "Open data is expected to spur creative services.",
+    "content_category_id": "public_info",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_026"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 48,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "원격 의료는 거리·시간 제약을 (      ) 장점이 있다. 다만 대면 진료를 완전히 대체할 수는 없다.",
+    "options": [
+      "늘리는",
+      "줄이는",
+      "무시하는",
+      "강화하는"
+    ],
+    "answer": 1,
+    "explanation": "Telemedicine reduces distance/time constraints.",
+    "content_category_id": "hospital",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_027"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 56,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "친환경 포장은 비용이 다소 높지만, 브랜드 이미지 (      ) 효과도 기대할 수 있다.",
+    "options": [
+      "악화",
+      "제고",
+      "손상",
+      "축소"
+    ],
+    "answer": 1,
+    "explanation": "Eco packaging can enhance brand image.",
+    "content_category_id": "shopping",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_028"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 56,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "다양성 존중 교육은 편견을 줄이는 데 기여한다. 학교는 이를 정규 교육과정에 (      ) 포함시킬 필요가 있다.",
+    "options": [
+      "체계적으로",
+      "드물게",
+      "형식적으로",
+      "일시적으로"
+    ],
+    "answer": 0,
+    "explanation": "Diversity education should be systematically included.",
+    "content_category_id": "society",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_029"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "cloze_passage",
+    "model_q_num": 56,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "메타버스는 새로운 소통·교육 플랫폼으로 주목받지만, (      ) 문제와 현실과의 괴리도 논의된다.",
+    "options": [
+      "개인정보",
+      "날씨",
+      "교통",
+      "식품"
+    ],
+    "answer": 0,
+    "explanation": "Privacy issues are debated regarding metaverse.",
+    "content_category_id": "technology",
+    "topic": "Contextual Cloze",
+    "id": "ai2_cloze_030"
+  },
+  {
+    "id": "ai2_conj_001",
+    "section": "reading",
+    "topic": "Conjunction & Connector",
+    "skill_type_id": "conjunction",
+    "content_category_id": "daily_life",
+    "model_q_num": 19,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "시각 장애인의 안내견은 주인과 있을 때 행인에게 관심을 두지 않는다. (      ) 안내견이 주인을 남기고 행인에게 다가가면 주인이 위험에 처했다는 뜻이다.",
+    "options": [
+      "비록",
+      "물론",
+      "만약",
+      "과연"
+    ],
+    "answer": 2,
+    "explanation": "'만약' introduces the hypothetical case of a guide dog approaching a stranger."
+  },
+  {
+    "id": "ai2_conj_002",
+    "section": "reading",
+    "topic": "Conjunction & Connector",
+    "skill_type_id": "conjunction",
+    "content_category_id": "science",
+    "model_q_num": 19,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "식물은 광합성을 통해 양분을 만든다. (      ) 햇빛이 부족하면 성장 속도가 현저히 느려진다.",
+    "options": [
+      "그러나",
+      "따라서",
+      "게다가",
+      "한편"
+    ],
+    "answer": 0,
+    "explanation": "'그러나' contrasts normal photosynthesis with insufficient sunlight."
+  },
+  {
+    "id": "ai2_conj_003",
+    "section": "reading",
+    "topic": "Conjunction & Connector",
+    "skill_type_id": "conjunction",
+    "content_category_id": "school",
+    "model_q_num": 19,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "학생들의 자기주도 학습 능력을 키우려면 교사의 역할도 달라져야 한다. (      ) 교사는 지식 전달자에서 학습 촉진자로 전환되어야 한다.",
+    "options": [
+      "즉",
+      "반면",
+      "설령",
+      "아울러"
+    ],
+    "answer": 0,
+    "explanation": "'즉' restates/clarifies the needed change in the teacher's role."
+  },
+  {
+    "id": "ai2_conj_004",
+    "section": "reading",
+    "topic": "Conjunction & Connector",
+    "skill_type_id": "conjunction",
+    "content_category_id": "transport",
+    "model_q_num": 19,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "대중교통 이용을 늘리려면 배차 간격을 줄여야 한다. (      ) 이용객이 많은 시간대에 버스·지하철을 더 자주 운행해야 한다.",
+    "options": [
+      "따라서",
+      "그럼에도",
+      "오히려",
+      "비록"
+    ],
+    "answer": 0,
+    "explanation": "'따라서' draws a logical conclusion from the premise."
+  },
+  {
+    "id": "ai2_conj_005",
+    "section": "reading",
+    "topic": "Conjunction & Connector",
+    "skill_type_id": "conjunction",
+    "content_category_id": "economy",
+    "model_q_num": 19,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "수출이 감소하면 국내 기업의 실적에 부정적 영향을 미친다. (      ) 고용 시장도 위축될 수 있다.",
+    "options": [
+      "게다가",
+      "반대로",
+      "설령",
+      "비록"
+    ],
+    "answer": 0,
+    "explanation": "'게다가' adds another negative consequence."
+  },
+  {
+    "id": "ai2_conj_006",
+    "section": "reading",
+    "topic": "Conjunction & Connector",
+    "skill_type_id": "conjunction",
+    "content_category_id": "culture",
+    "model_q_num": 19,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "전통 공연을 현대적으로 재해석한 작품이 호응을 얻고 있다. (      ) 젊은 관객층의 문화 향유 기회도 늘고 있다.",
+    "options": [
+      "한편",
+      "그러나",
+      "설령",
+      "비록"
+    ],
+    "answer": 0,
+    "explanation": "'한편' adds a parallel positive aspect."
+  },
+  {
+    "id": "ai2_conj_007",
+    "section": "reading",
+    "topic": "Conjunction & Connector",
+    "skill_type_id": "conjunction",
+    "content_category_id": "environment",
+    "model_q_num": 19,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "기후 변화 대응에는 개인의 노력만으로는 한계가 있다. (      ) 국가 차원의 정책적 대응이 병행되어야 한다.",
+    "options": [
+      "따라서",
+      "그럼에도",
+      "오히려",
+      "설령"
+    ],
+    "answer": 0,
+    "explanation": "'따라서' concludes that national policy is also needed."
+  },
+  {
+    "id": "ai2_conj_008",
+    "section": "reading",
+    "topic": "Conjunction & Connector",
+    "skill_type_id": "conjunction",
+    "content_category_id": "technology",
+    "model_q_num": 19,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인공지능 기술은 많은 분야에서 활용되고 있다. (      ) 의료 분야에서 진단 보조 도구로도 쓰이고 있다.",
+    "options": [
+      "또한",
+      "반면",
+      "설령",
+      "비록"
+    ],
+    "answer": 0,
+    "explanation": "'또한' adds another application area."
+  },
+  {
+    "id": "ai2_conj_009",
+    "section": "reading",
+    "topic": "Conjunction & Connector",
+    "skill_type_id": "conjunction",
+    "content_category_id": "hospital",
+    "model_q_num": 19,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "건강 검진은 질병을 조기에 발견하는 데 도움이 된다. (      ) 정기적으로 받는 것이 권장된다.",
+    "options": [
+      "따라서",
+      "그러나",
+      "설령",
+      "비록"
+    ],
+    "answer": 0,
+    "explanation": "'따라서' recommends regular checkups as a logical follow-up."
+  },
+  {
+    "id": "ai2_conj_010",
+    "section": "reading",
+    "topic": "Conjunction & Connector",
+    "skill_type_id": "conjunction",
+    "content_category_id": "society",
+    "model_q_num": 19,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "저출산·고령화는 사회 전반에 영향을 미친다. (      ) 노동력 부족과 복지 비용 증가가 예상된다.",
+    "options": [
+      "특히",
+      "반면",
+      "설령",
+      "비록"
+    ],
+    "answer": 0,
+    "explanation": "'특히' highlights specific expected impacts."
+  },
+  {
+    "id": "ai2_idiom_001",
+    "section": "reading",
+    "topic": "Idiom & Fixed Expression",
+    "skill_type_id": "idiom_phrase",
+    "content_category_id": "school",
+    "model_q_num": 21,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "문자 교육을 빠를수록 좋다고 믿는 부모들이 있다. 이들은 아이가 또래보다 빨리 글자를 깨치기를 바라며 문자 교육에 (      ).",
+    "options": [
+      "손을 뗀다",
+      "이를 간다",
+      "담을 쌓는다",
+      "열을 올린다"
+    ],
+    "answer": 3,
+    "explanation": "'열을 올리다' means to put in extra effort/passion."
+  },
+  {
+    "id": "ai2_idiom_002",
+    "section": "reading",
+    "topic": "Idiom & Fixed Expression",
+    "skill_type_id": "idiom_phrase",
+    "content_category_id": "work",
+    "model_q_num": 21,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "프로젝트 마감이 코앞인데 아직 준비가 부족하다. 팀원들 모두 (      ) 밤을 새워 작업하고 있다.",
+    "options": [
+      "눈코 뜰 새 없이",
+      "발벗고 나서",
+      "손에 땀을 쥐고",
+      "머리를 맞대고"
+    ],
+    "answer": 1,
+    "explanation": "'발벗고 나서다' means to pitch in wholeheartedly."
+  },
+  {
+    "id": "ai2_idiom_003",
+    "section": "reading",
+    "topic": "Idiom & Fixed Expression",
+    "skill_type_id": "idiom_phrase",
+    "content_category_id": "daily_life",
+    "model_q_num": 21,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "이사 후 새 동네에 적응하려고 이웃과 (      ) 인사부터 시작했다.",
+    "options": [
+      "눈인사",
+      "코인사",
+      "손인사",
+      "발인사"
+    ],
+    "answer": 0,
+    "explanation": "'눈인사' means greeting with a nod/eye contact."
+  },
+  {
+    "id": "ai2_idiom_004",
+    "section": "reading",
+    "topic": "Idiom & Fixed Expression",
+    "skill_type_id": "idiom_phrase",
+    "content_category_id": "economy",
+    "model_q_num": 21,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "경기 침체로 많은 기업이 (      ) 생존에만 급급하다.",
+    "options": [
+      "간신히",
+      "사사건건",
+      "좌우간",
+      "어깨를 으쓱"
+    ],
+    "answer": 0,
+    "explanation": "'간신히' means barely/scarcely managing to survive."
+  },
+  {
+    "id": "ai2_idiom_005",
+    "section": "reading",
+    "topic": "Idiom & Fixed Expression",
+    "skill_type_id": "idiom_phrase",
+    "content_category_id": "culture",
+    "model_q_num": 21,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "그 배우는 연기력이 뛰어나 관객의 (      ) 을/를 사로잡았다.",
+    "options": [
+      "마음",
+      "눈길",
+      "귀",
+      "손"
+    ],
+    "answer": 1,
+    "explanation": "'눈길을 사로잡다' means to catch people's attention."
+  },
+  {
+    "id": "ai2_idiom_006",
+    "section": "reading",
+    "topic": "Idiom & Fixed Expression",
+    "skill_type_id": "idiom_phrase",
+    "content_category_id": "society",
+    "model_q_num": 21,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "정부의 새 정책에 대해 찬반 (      ) 이/가 팽팽하다.",
+    "options": [
+      "논쟁",
+      "갈등",
+      "대립",
+      "견해"
+    ],
+    "answer": 0,
+    "explanation": "'찬반 논쟁' is a common collocation for pro/con debate."
+  },
+  {
+    "id": "ai2_idiom_007",
+    "section": "reading",
+    "topic": "Idiom & Fixed Expression",
+    "skill_type_id": "idiom_phrase",
+    "content_category_id": "health",
+    "model_q_num": 21,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "운동을 시작한 지 한 달, 몸이 (      ) 가벼워진 것 같다.",
+    "options": [
+      "한결",
+      "무척",
+      "대단히",
+      "상당히"
+    ],
+    "answer": 0,
+    "explanation": "'한결' means noticeably/comparatively (lighter)."
+  },
+  {
+    "id": "ai2_idiom_008",
+    "section": "reading",
+    "topic": "Idiom & Fixed Expression",
+    "skill_type_id": "idiom_phrase",
+    "content_category_id": "technology",
+    "model_q_num": 21,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "신제품 출시 전까지 세부 사항은 (      ) 비밀에 부치고 있다.",
+    "options": [
+      "철저히",
+      "대강",
+      "대충",
+      "함부로"
+    ],
+    "answer": 0,
+    "explanation": "'철저히 비밀에 부치다' means keeping something strictly secret."
+  },
+  {
+    "id": "ai2_idiom_009",
+    "section": "reading",
+    "topic": "Idiom & Fixed Expression",
+    "skill_type_id": "idiom_phrase",
+    "content_category_id": "food_dining",
+    "model_q_num": 21,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "할머니의 손맛은 (      ) 따라올 수 없다.",
+    "options": [
+      "결코",
+      "가끔",
+      "종종",
+      "때때로"
+    ],
+    "answer": 0,
+    "explanation": "'결코 ~할 수 없다' means can never/no way to."
+  },
+  {
+    "id": "ai2_idiom_010",
+    "section": "reading",
+    "topic": "Idiom & Fixed Expression",
+    "skill_type_id": "idiom_phrase",
+    "content_category_id": "environment",
+    "model_q_num": 21,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "환경 단체는 오염 문제를 (      ) 해결하라고 촉구했다.",
+    "options": [
+      "근본적으로",
+      "잠깐",
+      "잠시",
+      "대충"
+    ],
+    "answer": 0,
+    "explanation": "'근본적으로' means fundamentally/root cause level."
+  },
+  {
+    "id": "ai2_theme_001",
+    "section": "reading",
+    "topic": "Main Idea (Short Passage)",
+    "skill_type_id": "main_theme",
+    "content_category_id": "technology",
+    "model_q_num": 22,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "초소형 카메라는 의료·산업용으로 유용하지만, 몰래 촬영에 악용되는 사례가 늘고 있다. 신상 정보 등록 후에만 판매·유통이 가능하도록 법적 규제를 강화할 필요가 있다.",
+    "options": [
+      "사용처를 확대해야 한다",
+      "더 유용하게 개발해야 한다",
+      "악용을 막을 대책이 필요하다",
+      "등록 과정을 간소화해야 한다"
+    ],
+    "answer": 2,
+    "explanation": "The passage argues for legal measures against misuse."
+  },
+  {
+    "id": "ai2_theme_002",
+    "section": "reading",
+    "topic": "Main Idea (Short Passage)",
+    "skill_type_id": "main_theme",
+    "content_category_id": "society",
+    "model_q_num": 22,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "정보가 폭발적으로 늘면서 요약형 정보를 찾는 사람이 많아졌다. 그러나 짧은 지식만 취하면 관찰·분석·비판적 사고 능력이 무뎌질 수 있다.",
+    "options": [
+      "요약형 정보가 가장 효율적이다",
+      "요약형 정보가 사고력 저하를 초래할 수 있다",
+      "습득할 지식의 양이 증가하고 있다",
+      "정보 처리 시간을 줄일 수 있다"
+    ],
+    "answer": 1,
+    "explanation": "The author warns about weakened analytical skills."
+  },
+  {
+    "id": "ai2_theme_003",
+    "section": "reading",
+    "topic": "Main Idea (Short Passage)",
+    "skill_type_id": "main_theme",
+    "content_category_id": "culture",
+    "model_q_num": 22,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "유명 드라마가 소설로 출간되는 경우가 많아졌다. 영상 중심으로 창작·출판이 이루어지면 순수 문학의 고유한 특성이 사라질지도 모른다.",
+    "options": [
+      "창작 보상 체계가 시급하다",
+      "영상물 홍보가 필요하다",
+      "출판 시장 활성화에 영상 출간이 필요하다",
+      "영상물 영향력 확대가 순수 문학 위기를 초래할 수 있다"
+    ],
+    "answer": 3,
+    "explanation": "The author worries about pure literature losing its qualities."
+  },
+  {
+    "id": "ai2_theme_004",
+    "section": "reading",
+    "topic": "Main Idea (Short Passage)",
+    "skill_type_id": "main_theme",
+    "content_category_id": "food_dining",
+    "model_q_num": 22,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "분자 요리는 과학을 응용해 새로운 형태와 식감의 음식을 만든다. 식재료 고유의 맛과 향을 유지하면서 새로운 요리 문화를 이끌 것으로 기대된다.",
+    "options": [
+      "과학 연구 영역을 넓힌다",
+      "독특한 음식 요구가 늘고 있다",
+      "요리법 개발이 정체되고 있다",
+      "새 요리 문화를 이끌 요리법으로 주목받고 있다"
+    ],
+    "answer": 3,
+    "explanation": "Molecular cooking is highlighted as leading a new food culture."
+  },
+  {
+    "id": "ai2_theme_005",
+    "section": "reading",
+    "topic": "Main Idea (Short Passage)",
+    "skill_type_id": "main_theme",
+    "content_category_id": "environment",
+    "model_q_num": 22,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "플라스틱 분해에는 수백 년이 걸린다. 일회용품 사용을 줄이고 재활용을 확대해야 하며, 기업과 정부·시민 모두의 참여가 필요하다.",
+    "options": [
+      "플라스틱 생산을 늘려야 한다",
+      "재활용만으로 충분하다",
+      "플라스틱 문제 해결에 다각적 노력이 필요하다",
+      "기업 책임만 강화하면 된다"
+    ],
+    "answer": 2,
+    "explanation": "The passage calls for multi-stakeholder efforts."
+  },
+  {
+    "id": "ai2_theme_006",
+    "section": "reading",
+    "topic": "Main Theme (Expository)",
+    "skill_type_id": "main_theme",
+    "content_category_id": "science",
+    "model_q_num": 35,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "눈물 성분은 상황에 따라 다르다. 슬플 때 흘리는 눈물에는 스트레스 물질이 포함되어 울고 나면 기분이 나아지는 것처럼 느껴진다.",
+    "options": [
+      "눈물의 과학적 성분 차이",
+      "눈물이 기분에 미치는 영향",
+      "스트레스 해소 방법",
+      "눈 건강 관리법"
+    ],
+    "answer": 1,
+    "explanation": "The main focus is how tear composition affects mood."
+  },
+  {
+    "id": "ai2_theme_007",
+    "section": "reading",
+    "topic": "Main Theme (Expository)",
+    "skill_type_id": "main_theme",
+    "content_category_id": "history",
+    "model_q_num": 35,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "표준시는 철도 시대의 혼란을 해결하기 위해 도입되었다. 지역마다 다른 시간 체계에서 경도 기준의 통일된 시간으로 전환한 것이다.",
+    "options": [
+      "철도 발달과 표준시 도입",
+      "캐나다의 역사",
+      "19세기 교통수단",
+      "시간 측정 기술"
+    ],
+    "answer": 0,
+    "explanation": "The passage explains how railroads led to standard time."
+  },
+  {
+    "id": "ai2_theme_008",
+    "section": "reading",
+    "topic": "Main Theme (Expository)",
+    "skill_type_id": "main_theme",
+    "content_category_id": "work",
+    "model_q_num": 35,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "시간에 쫓기면 집중력은 높아지지만 시야가 좁아져 다른 중요한 것을 놓칠 수 있다. 시간 부족만 믿고 일하는 것은 위험할 수 있다.",
+    "options": [
+      "시간 제약이 집중력을 높인다",
+      "시간 부족이 효율의 원동력이다",
+      "단시간에도 성공적으로 마칠 수 있다",
+      "시간 부족이 시야를 좁혀 부정적 영향을 미칠 수 있다"
+    ],
+    "answer": 3,
+    "explanation": "The author warns that time pressure narrows perspective."
+  },
+  {
+    "id": "ai2_theme_009",
+    "section": "reading",
+    "topic": "Main Theme (Expository)",
+    "skill_type_id": "main_theme",
+    "content_category_id": "school",
+    "model_q_num": 35,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "온라인 강의는 시간·장소 제약을 줄여 학습 접근성을 높였다. 그러나 대면 수업만큼 즉각적 상호작용과 집중력 유지에는 한계가 있다.",
+    "options": [
+      "온라인 강의의 장단점",
+      "대면 수업의 우월성",
+      "교육 정책 변화",
+      "학습 기술 발전"
+    ],
+    "answer": 0,
+    "explanation": "The passage discusses both benefits and limits of online lectures."
+  },
+  {
+    "id": "ai2_theme_010",
+    "section": "reading",
+    "topic": "Main Theme (Expository)",
+    "skill_type_id": "main_theme",
+    "content_category_id": "health",
+    "model_q_num": 36,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "명상은 스트레스 호르몬을 줄이고 집중력을 높이는 데 도움이 된다. 규칙적으로 실천하면 수면의 질도 개선된다.",
+    "options": [
+      "명상의 건강상 이점",
+      "수면 장애 치료법",
+      "호르몬의 종류",
+      "운동과 명상 비교"
+    ],
+    "answer": 0,
+    "explanation": "The passage presents meditation's health benefits."
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "main_theme",
+    "model_q_num": 36,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "디지털 플랫폼 경제가 확대되면서 기존 유통·서비스 산업의 구조가 빠르게 변하고 있다. 소비자는 더 많은 선택지와 편의를 누리지만, 중소 상인과 자영업자는 플랫폼 수수료와 가격 경쟁 압박에 직면한다. 정부는 공정거래 규제와 플랫폼 노동자 보호를 동시에 검토해야 하는 복잡한 과제에 직면해 있다. 균형 잡힌 정책 없이는 혁신만 강조하거나 규제만 강화하는 어느 한쪽으로 치우칠 위험이 있다.",
+    "options": [
+      "플랫폼 경제의 균형 잡힌 정책 필요성",
+      "플랫폼 수수료 인상의 불가피성",
+      "중소 상인의 디지털 전환 거부",
+      "소비자 선택권 축소"
+    ],
+    "answer": 0,
+    "explanation": "Passage argues for balanced policy on platform economy.",
+    "content_category_id": "economy",
+    "topic": "Main Theme (Expository)",
+    "id": "ai2_theme_011"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "main_theme",
+    "model_q_num": 36,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "기후 변화 대응에서 탄소 배출 감축과 경제 성장을 동시에 달성하는 것은 쉽지 않다. 일부 산업은 구조 조정 압력을 받고, 에너지 전환에는 막대한 투자가 필요하다. 그러나 기후 위기를 외면할 경우 장기적으로 더 큰 경제·사회적 비용이 발생한다. 따라서 단기적 고통을 감수하더라도 지속 가능한 성장 모델로 전환해야 한다는 주장이 설득력을 얻고 있다.",
+    "options": [
+      "경제 성장만 우선해야 한다",
+      "지속 가능한 성장 전환의 필요성",
+      "에너지 전환은 불필요하다",
+      "산업 구조 조정을 반대해야 한다"
+    ],
+    "answer": 1,
+    "explanation": "Author argues for transition to sustainable growth.",
+    "content_category_id": "environment",
+    "topic": "Main Theme (Expository)",
+    "id": "ai2_theme_012"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "main_theme",
+    "model_q_num": 36,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "초고령 사회 진입으로 돌봄·의료·연금 부담이 급증하고 있다. 가족 중심 돌봄 체계만으로는 한계가 명확하며, 지역사회와 공공이 함께하는 돌봄 네트워크 구축이 시급하다. 이를 위해서는 재정 투입뿐 아니라 돌봄 노동의 사회적 가치를 재인식하고, 관련 일자리를 매력적으로 만드는 종합적 접근이 필요하다.",
+    "options": [
+      "가족 돌봄만으로 충분하다",
+      "돌봄 네트워크 구축의 종합적 필요성",
+      "연금 제도 폐지",
+      "돌봄 일자리 축소"
+    ],
+    "answer": 1,
+    "explanation": "Comprehensive approach to care network is needed.",
+    "content_category_id": "society",
+    "topic": "Main Theme (Expository)",
+    "id": "ai2_theme_013"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "main_theme",
+    "model_q_num": 37,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "인공지능의 발전은 의료 진단·교육·행정 등 다양한 분야에서 효율을 높이고 있다. 그러나 알고리즘 편향, 일자리 대체, 개인정보 침해 등 부작용도 우려된다. 기술 도입을 막기보다, 투명한 개발·운영 원칙과 인간 감독 체계를 마련해 기술이 사회적 합의를 바탕으로 활용되도록 해야 한다는 것이 필자의 견해이다.",
+    "options": [
+      "AI 도입을 전면 금지해야 한다",
+      "AI의 사회적 합의 기반 활용",
+      "알고리즘 편향은 문제가 아니다",
+      "인간 감독은 불필요하다"
+    ],
+    "answer": 1,
+    "explanation": "AI should be used with social consensus and oversight.",
+    "content_category_id": "technology",
+    "topic": "Main Theme (Expository)",
+    "id": "ai2_theme_014"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "main_theme",
+    "model_q_num": 37,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "문화 다양성은 사회적 풍요로움의 원천이지만, 급격한 인구 이동과 글로벌화로 문화 충돌도 빈번해졌다. 상호 존중과 대화를 통해 차이를 인정하는 '다문화 시민성' 함양이 중요하다. 교육·미디어·지역 공동체가 협력해 편견을 줄이고 공존의 문화를 만들어가야 한다.",
+    "options": [
+      "문화 동질화가 필요하다",
+      "다문화 시민성 함양의 중요성",
+      "문화 충돌은 무시해야 한다",
+      "교육은 다문화와 무관하다"
+    ],
+    "answer": 1,
+    "explanation": "Cultivating multicultural citizenship is key.",
+    "content_category_id": "culture",
+    "topic": "Main Theme (Expository)",
+    "id": "ai2_theme_015"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "main_theme",
+    "model_q_num": 37,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "대학 입시는 학생·학부모·교육계의 관심사이지만, 입시 위주 교육은 창의성과 인성 교육을 위축시킨다는 비판이 꾸준하다. 입시 제도 개편만으로는 한계가 있으며, 고등학교 교육과정과 대학 수업·평가 방식의 연계 개선이 함께 이루어져야 근본적 변화가 가능하다.",
+    "options": [
+      "입시 제도만 바꾸면 된다",
+      "교육 전반의 연계 개선 필요",
+      "창의성 교육은 불필요하다",
+      "대학 수업은 현행 유지"
+    ],
+    "answer": 1,
+    "explanation": "Systemic education reform beyond admission alone.",
+    "content_category_id": "school",
+    "topic": "Main Theme (Expository)",
+    "id": "ai2_theme_016"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "main_theme",
+    "model_q_num": 37,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "일과 삶의 균형(워라밸)에 대한 사회적 요구가 높아지고 있다. 장시간 노동은 건강·가족 관계에 부정적 영향을 미치며, 장기적으로는 생산성 저하로 이어질 수 있다. 기업은 유연 근무·휴가 제도 개선 등을 통해 직원 복지와 조직 성과를 동시에 추구할 필요가 있다.",
+    "options": [
+      "장시간 노동이 생산성을 높인다",
+      "워라밸과 조직 성과의 균형",
+      "휴가 제도는 폐지해야 한다",
+      "유연 근무는 비효율적이다"
+    ],
+    "answer": 1,
+    "explanation": "Balance work-life and organizational performance.",
+    "content_category_id": "work",
+    "topic": "Main Theme (Expository)",
+    "id": "ai2_theme_017"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "main_theme",
+    "model_q_num": 38,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "만성 질환 증가와 의료비 부담 확대는 공공 보건 시스템에 도전이 되고 있다. 치료 중심에서 예방·건강 증진 중심으로 패러다임을 전환해야 한다. 개인의 생활 습관 개선, 직장·학교·지역사회의 건강 프로그램, 정부의 예방 정책이 유기적으로 연결되어야 지속 가능한 보건 체계를 유지할 수 있다.",
+    "options": [
+      "치료만 강화하면 된다",
+      "예방 중심 보건 패러다임 전환",
+      "개인 책임만 강조",
+      "건강 프로그램 폐지"
+    ],
+    "answer": 1,
+    "explanation": "Shift to prevention-centered public health.",
+    "content_category_id": "health",
+    "topic": "Main Theme (Expository)",
+    "id": "ai2_theme_018"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "main_theme",
+    "model_q_num": 38,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "가짜 뉴스와 정보 조작은 민주주의와 사회 신뢰를 훼손한다. 플랫폼 기업의 자율 규제만으로는 한계가 있으며, 미디어 리터러시 교육과 법적·기술적 대응을 병행해야 한다. 표현의 자유를 침해하지 않으면서도 허위 정보 확산을 막는 균형점을 찾는 것이 현대 정보 사회의 과제이다.",
+    "options": [
+      "가짜 뉴스는 문제가 아니다",
+      "허위 정보 대응의 균형적 접근",
+      "표현의 자유 전면 제한",
+      "미디어 리터러시는 불필요"
+    ],
+    "answer": 1,
+    "explanation": "Balanced approach to misinformation.",
+    "content_category_id": "public_info",
+    "topic": "Main Theme (Expository)",
+    "id": "ai2_theme_019"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "main_theme",
+    "model_q_num": 38,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "과학 기술 발전은 인류에게 혜택을 주지만, 그 속도와 영향 범위는 윤리적·사회적 논의를 따라가지 못하는 경우가 많다. 유전자 편집, 자율 무기, 딥페이크 등은 기술 가능성과 인간 가치 사이의 긴장을 드러낸다. 과학자·정책 입안자·시민이 함께 참여하는 거버넌스 체계가 필요하다.",
+    "options": [
+      "기술 발전만 추구하면 된다",
+      "과학 기술 거버넌스의 필요성",
+      "윤리 논의는 지연해도 된다",
+      "시민 참여는 불필요"
+    ],
+    "answer": 1,
+    "explanation": "Governance needed for science-tech ethics.",
+    "content_category_id": "science",
+    "topic": "Main Theme (Expository)",
+    "id": "ai2_theme_020"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "main_theme",
+    "model_q_num": 38,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "역사 교육은 과거 사실 암기를 넘어 비판적 사고와 시민 의식 함양의 도구여야 한다. 단일한 서술에 매몰되면 편견을 강화할 수 있으며, 다양한 관점과 자료를 통해 역사적 사건의 복합성을 이해하도록 가르쳐야 한다. 이는 과거와 현재를 연결해 미래를 성찰하는 능력을 기르는 데 기여한다.",
+    "options": [
+      "역사는 암기만 하면 된다",
+      "비판적 역사 교육의 가치",
+      "단일 서술이 최선이다",
+      "시민 의식과 무관하다"
+    ],
+    "answer": 1,
+    "explanation": "Critical history education cultivates citizenship.",
+    "content_category_id": "history",
+    "topic": "Main Theme (Expository)",
+    "id": "ai2_theme_021"
+  },
+  {
+    "id": "ai2_emotion_001",
+    "section": "reading",
+    "topic": "Emotional Inference",
+    "skill_type_id": "emotion",
+    "content_category_id": "daily_life",
+    "model_q_num": 23,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "고향에 사는 아버지가 오랜만에 우리 집에 오셨다. 남편이 영화관에 가자고 하자 나는 '아버지는 어둡고 갑갑해서 영화관 가는 거 안 좋아하셔'라고 말했다. 그런데 아버지는 가만히 계셨고, 영화관 갈 준비를 하며 미소를 지으셨다. <u>지금껏 내 기준에서 판단한 일들이 얼마나 많을까 생각하니 마음이 무거워졌다.</u>",
+    "options": [
+      "부담스럽다",
+      "불만스럽다",
+      "짜증스럽다",
+      "죄송스럽다"
+    ],
+    "answer": 3,
+    "explanation": "Realizing she judged by her own criteria, the narrator feels apologetic."
+  },
+  {
+    "id": "ai2_emotion_002",
+    "section": "reading",
+    "topic": "Emotional Inference",
+    "skill_type_id": "emotion",
+    "content_category_id": "work",
+    "model_q_num": 23,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "어머니와 아버지가 프랜차이즈 빵집을 열었다. 개장 당일 부모님이 '네가 우리 가족 맞냐?'라고 전화하며 끊으셨다. <u>나는 그 말이 가슴에 박혔다.</u>",
+    "options": [
+      "억울하다",
+      "서운하다",
+      "걱정스럽다",
+      "혼란스럽다"
+    ],
+    "answer": 1,
+    "explanation": "The mother's words express hurt/disappointment that the daughter didn't come help."
+  },
+  {
+    "id": "ai2_emotion_003",
+    "section": "reading",
+    "topic": "Emotional Inference",
+    "skill_type_id": "emotion",
+    "content_category_id": "school",
+    "model_q_num": 23,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "발표 순서가 나에게 다가왔다. 준비는 했지만 갑자기 목이 메어 말이 나오지 않았다. 교실이 조용해지자 <u>얼굴이 화끈거렸다.</u>",
+    "options": [
+      "당황스럽다",
+      "기쁘다",
+      "안도하다",
+      "무관심하다"
+    ],
+    "answer": 0,
+    "explanation": "Flushing face and inability to speak indicate embarrassment/fluster."
+  },
+  {
+    "id": "ai2_emotion_004",
+    "section": "reading",
+    "topic": "Emotional Inference",
+    "skill_type_id": "emotion",
+    "content_category_id": "food_dining",
+    "model_q_num": 23,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "오랜만에 만난 친구가 예전보다 많이 성장했다. 키도 크고 자신감도 넘쳤다. <u>왠지 모르게 내가 한 수 아래인 것 같아 기분이 이상했다.</u>",
+    "options": [
+      "부럽다",
+      "질투하다",
+      "열등감을 느낀다",
+      "무시한다"
+    ],
+    "answer": 2,
+    "explanation": "Feeling 'one step below' suggests inferiority complex."
+  },
+  {
+    "id": "ai2_emotion_005",
+    "section": "reading",
+    "topic": "Emotional Inference",
+    "skill_type_id": "emotion",
+    "content_category_id": "travel",
+    "model_q_num": 23,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "기대했던 여행지에 도착했는데 비가 내리고 관광지가 문을 닫았다. <u>하루 종일 계획했던 일정이 물거품이 되었다.</u>",
+    "options": [
+      "실망스럽다",
+      "기대된다",
+      "만족스럽다",
+      "신난다"
+    ],
+    "answer": 0,
+    "explanation": "Ruined plans lead to disappointment."
+  },
+  {
+    "id": "ai2_emotion_006",
+    "section": "reading",
+    "topic": "Emotional Inference",
+    "skill_type_id": "emotion",
+    "content_category_id": "culture",
+    "model_q_num": 42,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "지수는 오랜만에 읽은 소설의 결말이 너무 슬펐다. <u>책을 덮고도 한동안 가슴이 먹먹했다.</u>",
+    "options": [
+      "감동받았다",
+      "슬프다",
+      "화가 난다",
+      "지루하다"
+    ],
+    "answer": 1,
+    "explanation": "Jisu's heavy heart after a sad ending indicates sadness."
+  },
+  {
+    "id": "ai2_emotion_007",
+    "section": "reading",
+    "topic": "Emotional Inference",
+    "skill_type_id": "emotion",
+    "content_category_id": "health",
+    "model_q_num": 42,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "민호는 건강 검진 결과 이상 소견이 나왔다. 다행히 심각한 병은 아니지만 <u>앞으로 건강 관리를 소홀히 해서는 안 되겠다는 생각이 들었다.</u>",
+    "options": [
+      "안심한다",
+      "경각심을 느낀다",
+      "무관심하다",
+      "분노한다"
+    ],
+    "answer": 1,
+    "explanation": "Minho feels alert about health care after the result."
+  },
+  {
+    "id": "ai2_emotion_008",
+    "section": "reading",
+    "topic": "Emotional Inference",
+    "skill_type_id": "emotion",
+    "content_category_id": "society",
+    "model_q_num": 42,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "수진은 뉴스에서 고향 마을이 홍수 피해를 입었다는 소식을 들었다. <u>멀리 떨어져 있어 직접 도울 수 없다는 것이 답답했다.</u>",
+    "options": [
+      "안도하다",
+      "답답하다",
+      "기쁘다",
+      "무심하다"
+    ],
+    "answer": 1,
+    "explanation": "Sujin feels frustrated being unable to help from afar."
+  },
+  {
+    "id": "ai2_emotion_009",
+    "section": "reading",
+    "topic": "Emotional Inference",
+    "skill_type_id": "emotion",
+    "content_category_id": "economy",
+    "model_q_num": 42,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "준영은 오랜만에 연락한 친구가 창업에 성공했다는 소식을 전했다. <u>진심으로 축하하면서도 왠지 마음 한구석이 허전했다.</u>",
+    "options": [
+      "순수하게 기쁘다",
+      "질투와 아쉬움이 섞인다",
+      "전혀 관심 없다",
+      "화가 난다"
+    ],
+    "answer": 1,
+    "explanation": "Junyung feels mixed jealousy and regret while congratulating."
+  },
+  {
+    "id": "ai2_emotion_010",
+    "section": "reading",
+    "topic": "Emotional Inference",
+    "skill_type_id": "emotion",
+    "content_category_id": "environment",
+    "model_q_num": 42,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "할머니는 손주가 멀리 유학 가는 날, <u>웃으면서도 눈시울이 붉어졌다.</u> 손주를 붙잡고 한참을 말없이 안아 주셨다.",
+    "options": [
+      "기쁨과 서운함이 교차한다",
+      "화가 난다",
+      "무관심하다",
+      "안도한다"
+    ],
+    "answer": 0,
+    "explanation": "Grandmother shows mixed joy and sorrow at parting."
+  },
+  {
+    "id": "ai2_headline_001",
+    "section": "reading",
+    "topic": "Headline Analysis",
+    "skill_type_id": "headline",
+    "content_category_id": "society",
+    "model_q_num": 25,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "출산율 또 하락, 정부 대책 효과 없어",
+    "options": [
+      "정부가 노력했으나 출산율은 다시 떨어졌다",
+      "정부가 효과적인 정책을 마련했다",
+      "출산 정책이 시급히 개선되어야 한다",
+      "출산 지원 축소로 출산율이 낮아졌다"
+    ],
+    "answer": 0,
+    "explanation": "Birth rate fell again despite government measures."
+  },
+  {
+    "id": "ai2_headline_002",
+    "section": "reading",
+    "topic": "Headline Analysis",
+    "skill_type_id": "headline",
+    "content_category_id": "society",
+    "model_q_num": 25,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "놀이공원, 수익에만 치중 이용객 안전은 뒷전",
+    "options": [
+      "이용객이 안전시설 점검을 요구했다",
+      "안전 중시 후 수익이 증가했다",
+      "수익만 중시하고 안전은 소홀하다",
+      "수익 감소로 안전 투자가 어렵다"
+    ],
+    "answer": 2,
+    "explanation": "Park prioritizes profit over safety."
+  },
+  {
+    "id": "ai2_headline_003",
+    "section": "reading",
+    "topic": "Headline Analysis",
+    "skill_type_id": "headline",
+    "content_category_id": "economy",
+    "model_q_num": 25,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "제2공장 정상 가동, 반도체 공급 안정은 미지수",
+    "options": [
+      "공장 가동으로 공급이 안정되었다",
+      "공장은 가동 중이나 공급 안정은 불확실하다",
+      "공급 안정을 위해 공장 가동이 필수이다",
+      "공급 안정으로 공장도 가동되었다"
+    ],
+    "answer": 1,
+    "explanation": "'미지수' means supply stability is uncertain."
+  },
+  {
+    "id": "ai2_headline_004",
+    "section": "reading",
+    "topic": "Headline Analysis",
+    "skill_type_id": "headline",
+    "content_category_id": "technology",
+    "model_q_num": 25,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "AI 번역 정확도 95% 돌파, 전문 통역 시장 위협",
+    "options": [
+      "AI 번역이 전문 통역 시장에 위협이 될 수 있다",
+      "AI 번역 정확도가 오히려 하락했다",
+      "전문 통역 시장이 AI보다 정확하다",
+      "AI 번역은 아직 상용화되지 않았다"
+    ],
+    "answer": 0,
+    "explanation": "95% accuracy threatens the professional interpretation market."
+  },
+  {
+    "id": "ai2_headline_005",
+    "section": "reading",
+    "topic": "Headline Analysis",
+    "skill_type_id": "headline",
+    "content_category_id": "environment",
+    "model_q_num": 26,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "미세먼지 '나쁨' 3일 연속, 마스크 착용 권고",
+    "options": [
+      "미세먼지가 3일 연속 나쁨 수준이어서 마스크 착용이 권고된다",
+      "미세먼지가 개선되어 마스크가 필요 없다",
+      "3일간 마스크 착용이 의무화되었다",
+      "미세먼지와 무관한 권고이다"
+    ],
+    "answer": 0,
+    "explanation": "Three consecutive bad air days led to mask recommendation."
+  },
+  {
+    "id": "ai2_headline_006",
+    "section": "reading",
+    "topic": "Headline Analysis",
+    "skill_type_id": "headline",
+    "content_category_id": "health",
+    "model_q_num": 26,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "독감 백신 접종률 40% 미만, 보건 당국 '조속히 접종'",
+    "options": [
+      "접종률이 낮아 당국이 조속한 접종을 당부했다",
+      "접종률이 40%를 넘었다",
+      "백신 접종이 중단되었다",
+      "독감이 더 이상 유행하지 않는다"
+    ],
+    "answer": 0,
+    "explanation": "Low vaccination rate prompts health authorities' urging."
+  },
+  {
+    "id": "ai2_headline_007",
+    "section": "reading",
+    "topic": "Headline Analysis",
+    "skill_type_id": "headline",
+    "content_category_id": "culture",
+    "model_q_num": 26,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "K-드rama, 넷플릭스 글로벌 TOP10 3작 동시 진입",
+    "options": [
+      "K-드라마 3작이 넷플릭스 글로벌 TOP10에 동시 진입했다",
+      "K-드라마가 TOP10에서 모두 하락했다",
+      "넷flix에서 한국 드라마 방영이 중단되었다",
+      "TOP10에 진입한 작품이 1개뿐이다"
+    ],
+    "answer": 0,
+    "explanation": "Three K-dramas simultaneously entered Netflix global TOP10."
+  },
+  {
+    "id": "ai2_headline_008",
+    "section": "reading",
+    "topic": "Headline Analysis",
+    "skill_type_id": "headline",
+    "content_category_id": "transport",
+    "model_q_num": 26,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "전기차 보조금 50% 삭감, 구매 문의 급감",
+    "options": [
+      "보조금 삭감 후 전기차 구매 문의가 급감했다",
+      "보조금이 늘어 구매 문의가 증가했다",
+      "전기차 보조금이 폐지되지 않았다",
+      "구매 문의와 보조금은 무관하다"
+    ],
+    "answer": 0,
+    "explanation": "50% subsidy cut led to sharp drop in purchase inquiries."
+  },
+  {
+    "id": "ai2_headline_009",
+    "section": "reading",
+    "topic": "Headline Analysis",
+    "skill_type_id": "headline",
+    "content_category_id": "science",
+    "model_q_num": 27,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "화성 탐사 로버, 지하수 흔적 최초 확인",
+    "options": [
+      "화성 탐사 로버가 지하수 흔적을 처음 확인했다",
+      "화성에 지하수가 없다는 것이 확인되었다",
+      "로버가 지구에서 지하수를 발견했다",
+      "이전에도 같은 발견이 있었다"
+    ],
+    "answer": 0,
+    "explanation": "Rover first confirmed traces of underground water on Mars."
+  },
+  {
+    "id": "ai2_headline_010",
+    "section": "reading",
+    "topic": "Headline Analysis",
+    "skill_type_id": "headline",
+    "content_category_id": "history",
+    "model_q_num": 27,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "세계문화유산 등재 10주년, 관광객 3배 증가",
+    "options": [
+      "유산 등재 10년 만에 관광객이 3배 늘었다",
+      "등재 후 관광객이 줄었다",
+      "등재된 지 5년밖에 되지 않았다",
+      "관광객 증가와 유산 등재는 무관하다"
+    ],
+    "answer": 0,
+    "explanation": "Tourist numbers tripled in 10 years since UNESCO listing."
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "headline",
+    "model_q_num": 27,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "청년 실업률 3년 연속 상승, 구조적 대책 시급",
+    "options": [
+      "청년 실업률이 3년째 올랐다",
+      "실업률이 3년 만에 최저",
+      "구조적 대책은 불필요하다",
+      "청년 고용이 크게 증가했다"
+    ],
+    "answer": 0,
+    "explanation": "Youth unemployment rose for 3 consecutive years.",
+    "content_category_id": "society",
+    "topic": "Headline Analysis",
+    "id": "ai2_headline_011"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "headline",
+    "model_q_num": 27,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "미세먼지 '나쁨' 5일 연속, 마스크 착용 권고",
+    "options": [
+      "미세먼지가 5일 연속 나쁨 수준",
+      "미세먼지가 사라졌다",
+      "마스크 착용을 금지한다",
+      "5일 만에 좋음으로 전환"
+    ],
+    "answer": 0,
+    "explanation": "Fine dust at bad level for 5 days; mask recommended.",
+    "content_category_id": "environment",
+    "topic": "Headline Analysis",
+    "id": "ai2_headline_012"
+  },
+  {
+    "id": "ai2_insert_001",
+    "section": "reading",
+    "topic": "Sentence Insertion",
+    "skill_type_id": "insert_sentence",
+    "content_category_id": "daily_life",
+    "model_q_num": 39,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "도시의 거리는 온통 상점으로 가득하다. ( ㉠ ) 하지만 상점은 거리에 활력을 불어넣어 걷고 싶은 거리를 만드는 데 중요한 역할을 한다. ( ㉡ ) 상점은 물건을 파는 공간이 아니라 보행자에게 볼거리와 잔재미를 제공하는 미술관이 되어 준다. ( ㉢ ) 또 밤거리를 밝히는 가로등이며 보안과 청결을 지키는 파수꾼이 되기도 한다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "Negative view of commercial streets fits before '하지만'.",
+    "insert_sentence": "상업적 공간으로 채워진 거리를 보며 눈살을 찌푸리는 이들도 많다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[상업적 공간으로 채워진 거리를 보며 눈살을 찌푸리는 이들도 많다.]",
+    "passage_group_id": "ai2_grp_street_01",
+    "passage_group_index": 0
+  },
+  {
+    "id": "ai2_insert_002",
+    "section": "reading",
+    "topic": "Sentence Insertion",
+    "skill_type_id": "insert_sentence",
+    "content_category_id": "culture",
+    "model_q_num": 39,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "『인주의 거주 문화사』는 건축학자가 거주 문화를 소개한 책이다. ( ㉠ ) 아파트가 중산층의 표준 욕망이 된 과정, 장독이 사라진 이유 등을 도면과 기사로 풀어낸다. ( ㉡ ) 이웃과 정을 나누지 않고 각박하게 살아온 세태를 지적하기도 한다. ( ㉢ ) 이웃과 정답게 사는 미래 건축학도에게 추천하고 싶다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "Q&A format description fits before listing specific questions.",
+    "insert_sentence": "독자들이 더 흥미롭게 읽도록 문답 형식으로 구성된 것이 돋보인다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[독자들이 더 흥미롭게 읽도록 문답 형식으로 구성된 것이 돋보인다.]",
+    "passage_group_id": "ai2_grp_housing_01",
+    "passage_group_index": 0
+  },
+  {
+    "id": "ai2_insert_003",
+    "section": "reading",
+    "topic": "Sentence Insertion",
+    "skill_type_id": "insert_sentence",
+    "content_category_id": "history",
+    "model_q_num": 39,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "최초의 동전은 값비싼 금·은으로 만들어졌다. ( ㉠ ) 가치가 높아 주화를 깎아 이득을 보려는 사람이 많았다. ( ㉡ ) 시장에서 성한 금화·은화를 찾기 어려웠고 국가도 손실이 컸다. ( ㉢ ) 대안으로 테두리에 톱니 모양을 새겨 훼손 여부가 드러나게 하였다. ( ㉣ ) 톱니가 훼손된 주화는 받지 않았기 때문이다.",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 2,
+    "explanation": "Quick effect follows implementation of serrated edges at ㉢.",
+    "insert_sentence": "그 효과는 기대 이상으로 빠르게 나타났다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[그 효과는 기대 이상으로 빠르게 나타났다.]",
+    "passage_group_id": "ai2_grp_coin_01",
+    "passage_group_index": 0
+  },
+  {
+    "id": "ai2_insert_004",
+    "section": "reading",
+    "topic": "Sentence Insertion",
+    "skill_type_id": "insert_sentence",
+    "content_category_id": "technology",
+    "model_q_num": 39,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "우주에서는 지구와 환경이 달라 물리적 힘으로 쓰레기를 찍는 방법이 거론되었다. ( ㉠ ) 접착력 있는 도구 사용 제안도 나왔다. ( ㉡ ) 테이프는 극심한 온도 변화를 견디지 못했고 빨판은 진공에서 소용없었다. ( ㉢ ) 최근 연구진이 도마뱀 발바닥에서 영감을 받아 접착 도구 개발에 성공했다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "Risk of pushing debris wrongly follows harpoon method at ㉠.",
+    "insert_sentence": "그러나 이 방법은 쓰레기를 엉뚱한 곳으로 밀어낼 위험이 있었다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[그러나 이 방법은 쓰레기를 엉뚱한 곳으로 밀어낼 위험이 있었다.]",
+    "passage_group_id": "ai2_grp_space_01",
+    "passage_group_index": 0
+  },
+  {
+    "id": "ai2_insert_005",
+    "section": "reading",
+    "topic": "Sentence Insertion",
+    "skill_type_id": "insert_sentence",
+    "content_category_id": "environment",
+    "model_q_num": 40,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "플라스틱 분해에는 수백 년이 걸린다. ( ㉠ ) 많은 국가가 일회용품 사용 규제를 강화하고 있다. ( ㉡ ) 기업도 친환경 포장재 개발에 투자하고 있다. ( ㉢ ) 시민 단체는 해양 플라스틱 수거 캠페인을 벌이고 있다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "Problem statement needs transition to solutions at ㉠.",
+    "insert_sentence": "이 문제를 해결하기 위한 다양한 노력이 전 세계적으로 이루어지고 있다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[이 문제를 해결하기 위한 다양한 노력이 전 세계적으로 이루어지고 있다.]",
+    "passage_group_id": "ai2_grp_plastic_01",
+    "passage_group_index": 0
+  },
+  {
+    "id": "ai2_insert_006",
+    "section": "reading",
+    "topic": "Sentence Insertion",
+    "skill_type_id": "insert_sentence",
+    "content_category_id": "school",
+    "model_q_num": 40,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "맞춤형 학습은 학생 개개인의 수준에 맞춰 진도를 조절한다. ( ㉠ ) AI가 취약 영역을 분석해 문제를 추천한다. ( ㉡ ) 교사는 반복 학습이 필요한 학생에게 집중 지도할 수 있다. ( ㉢ ) 학부모도 자녀의 학습 현황을 실시간으로 확인할 수 있다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "General concept needs concrete mechanism explanation at ㉠.",
+    "insert_sentence": "이를 위해 인공지능 기반 학습 분석 시스템이 활용된다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[이를 위해 인공지능 기반 학습 분석 시스템이 활용된다.]",
+    "passage_group_id": "ai2_grp_edu_01",
+    "passage_group_index": 0
+  },
+  {
+    "id": "ai2_insert_007",
+    "section": "reading",
+    "topic": "Sentence Insertion",
+    "skill_type_id": "insert_sentence",
+    "content_category_id": "work",
+    "model_q_num": 40,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "재택근무가 확산되면서 업무 효율이 높아졌다는 보고가 많다. ( ㉠ ) 그러나 업무와 휴식의 경계가 모호해져 번아웃을 겪는 직장인도 늘고 있다. ( ㉡ ) 일부 기업은 '코어 타임'을 정해 협업 시간을 확보하고 있다. ( ㉢ ) 직원 웰빙 프로그램을 도입하는 곳도 늘어나고 있다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "Positive reports need contrast with downsides at ㉠.",
+    "insert_sentence": "하지만 모든 직장인에게 긍정적인 결과만 있는 것은 아니다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[하지만 모든 직장인에게 긍정적인 결과만 있는 것은 아니다.]",
+    "passage_group_id": "ai2_grp_remote_01",
+    "passage_group_index": 0
+  },
+  {
+    "id": "ai2_insert_008",
+    "section": "reading",
+    "topic": "Sentence Insertion",
+    "skill_type_id": "insert_sentence",
+    "content_category_id": "health",
+    "model_q_num": 40,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "규칙적인 운동은 심혈관 질환 예방에 도움이 된다. ( ㉠ ) WHO는 성인에게 주당 150분 이상 중등도 운동을 권장한다. ( ㉡ ) 걷기·수영·자전거 등 일상에서 실천하기 쉬운 운동이 효과적이다. ( ㉢ ) 운동 전후 스트레칭으로 부상을 예방해야 한다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "General benefit needs authoritative recommendation at ㉠.",
+    "insert_sentence": "국제보건기구도 성인의 건강을 위해 꾸준한 신체 활동을 강조하고 있다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[국제보건기구도 성인의 건강을 위해 꾸준한 신체 활동을 강조하고 있다.]",
+    "passage_group_id": "ai2_grp_exercise_01",
+    "passage_group_index": 0
+  },
+  {
+    "id": "ai2_insert_009",
+    "section": "reading",
+    "topic": "Sentence Insertion",
+    "skill_type_id": "insert_sentence",
+    "content_category_id": "economy",
+    "model_q_num": 41,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "디지털 화폐 연구가 각국 중앙은행에서 활발히 진행되고 있다. ( ㉠ ) 거래 투명성과 효율성을 높일 수 있다는 기대가 크다. ( ㉡ ) 그러나 사이버 보안과 개인정보 보호 문제도 함께 검토해야 한다. ( ㉢ ) 시범 발행을 통해 실효성을 검증하는 국가도 늘고 있다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "Research trend needs explanation of expected benefits at ㉠.",
+    "insert_sentence": "현금 없는 사회로의 전환과 결제 시스템 혁신에 기여할 것으로 보인다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[현금 없는 사회로의 전환과 결제 시스템 혁신에 기여할 것으로 보인다.]",
+    "passage_group_id": "ai2_grp_digital_01",
+    "passage_group_index": 0
+  },
+  {
+    "id": "ai2_insert_010",
+    "section": "reading",
+    "topic": "Sentence Insertion",
+    "skill_type_id": "insert_sentence",
+    "content_category_id": "science",
+    "model_q_num": 41,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "광합성은 식물이 빛 에너지로 양분을 만드는 과정이다. ( ㉠ ) 엽록체에서 이산화탄소와 물이 포도당으로 전환된다. ( ㉡ ) 이 과정에서 산소가 부산물로 방출된다. ( ㉢ ) 지구 대기의 산소 대부분은 식물의 광합성 덕분이다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "Definition needs detail on where/how it occurs at ㉠.",
+    "insert_sentence": "이 반응은 주로 잎의 엽록체에서 일어난다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[이 반응은 주로 잎의 엽록체에서 일어난다.]",
+    "passage_group_id": "ai2_grp_photosyn_01",
+    "passage_group_index": 0
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "insert_sentence",
+    "model_q_num": 41,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "재활용 분리배출은 환경 보호의 기본이다. ( ㉠ ) 플라스틱·종이·캔 등을 올바르게 분류하면 재활용률이 높아진다. ( ㉡ ) 오염된 플라스틱은 재활용이 어렵다. ( ㉢ ) 시민들의 작은 실천이 모여 큰 변화를 만든다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "General statement needs classification detail at ㉠.",
+    "content_category_id": "environment",
+    "topic": "Sentence Insertion",
+    "insert_sentence": "특히 음식물이 묻은 용기는 깨끗이 씻어 배출해야 한다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[특히 음식물이 묻은 용기는 깨끗이 씻어 배출해야 한다.]",
+    "passage_group_id": "ai2_grp_recycle_01",
+    "passage_group_index": 0,
+    "id": "ai2_insert_011"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "insert_sentence",
+    "model_q_num": 41,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "한국 전통 음악 '판소리'는 하나의 이야기를 노래와 몸짓으로 표현한다. ( ㉠ ) 창·고수·춤꾼이 협력해 공연을 완성한다. ( ㉡ ) 관객은 '추임새'로 흥을 돋운다. ( ㉢ ) 유네스코 무형문화유산으로도 지정되었다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "Definition needs performance structure at ㉠.",
+    "content_category_id": "culture",
+    "topic": "Sentence Insertion",
+    "insert_sentence": "공연에는 보통 한 명의 소리꾼과 고수가 함께한다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[공연에는 보통 한 명의 소리꾼과 고수가 함께한다.]",
+    "passage_group_id": "ai2_grp_pansori_01",
+    "passage_group_index": 0,
+    "id": "ai2_insert_012"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "insert_sentence",
+    "model_q_num": 49,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "스타트업 생태계는 혁신의 핵심 동력이다. ( ㉠ ) 벤처 캐피털과 액셀러레이터가 성장을 지원한다. ( ㉡ ) 그러나 초기 자금 조달과 인력 확보는 여전히 어렵다. ( ㉢ ) 정부의 규제 완화와 세제 혜택이 논의되고 있다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "Ecosystem intro needs support mechanism at ㉠.",
+    "content_category_id": "economy",
+    "topic": "Sentence Insertion",
+    "insert_sentence": "이를 위해 다양한 투자·멘토링 프로그램이 운영되고 있다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[이를 위해 다양한 투자·멘토링 프로그램이 운영되고 있다.]",
+    "passage_group_id": "ai2_grp_startup_01",
+    "passage_group_index": 0,
+    "id": "ai2_insert_013"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "insert_sentence",
+    "model_q_num": 49,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "KTX는 고속철도로 전국 주요 도시를 연결한다. ( ㉠ ) 서울에서 부산까지 약 2시간 30분이 소요된다. ( ㉡ ) 정시 운행률이 높아 출장객에게 인기가 많다. ( ㉢ ) 최근에는 좌석·와이파이 서비스도 개선되었다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "Connection claim needs travel time example at ㉠.",
+    "content_category_id": "transport",
+    "topic": "Sentence Insertion",
+    "insert_sentence": "예를 들어 수도권과 영남권을 반나절 이내에 이동할 수 있다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[예를 들어 수도권과 영남권을 반나절 이내에 이동할 수 있다.]",
+    "passage_group_id": "ai2_grp_ktx_01",
+    "passage_group_index": 0,
+    "id": "ai2_insert_014"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "insert_sentence",
+    "model_q_num": 49,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "블랙홀은 중력이 매우 강한 천체이다. ( ㉠ ) 빛조차 빠져나올 수 없어 직접 관측이 어렵다. ( ㉡ ) 주변 물질의 움직임이나 중력파를 통해 존재를 추론한다. ( ㉢ ) 2019년 인류 최초로 블랙홀 사진이 공개되었다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "Definition needs observational difficulty at ㉠.",
+    "content_category_id": "science",
+    "topic": "Sentence Insertion",
+    "insert_sentence": "그래서 망원경으로는 모습을 볼 수 없다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[그래서 망원경으로는 모습을 볼 수 없다.]",
+    "passage_group_id": "ai2_grp_blackhole_01",
+    "passage_group_index": 0,
+    "id": "ai2_insert_015"
+  },
+  {
+    "section": "reading",
+    "skill_type_id": "insert_sentence",
+    "model_q_num": 49,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "지역 공동체는 주민 상호 협력의 기반이다. ( ㉠ ) 마을 축제·자원봉사·돌봄 네트워크 등이 활성화되고 있다. ( ㉡ ) 코로나19 이후 온라인 모임도 늘었다. ( ㉢ ) 공동체 의식이 강할수록 지역 문제 해결력도 커진다. ( ㉣ )",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "Community basis needs activity examples at ㉠.",
+    "content_category_id": "society",
+    "topic": "Sentence Insertion",
+    "insert_sentence": "이를 위해 주민들이 스스로 모임을 만들어 운영하기도 한다.",
+    "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[이를 위해 주민들이 스스로 모임을 만들어 운영하기도 한다.]",
+    "passage_group_id": "ai2_grp_community_01",
+    "passage_group_index": 0,
+    "id": "ai2_insert_016"
+  },
+  {
+    "id": "ai2_purpose_001",
+    "section": "reading",
+    "topic": "Author's Purpose",
+    "skill_type_id": "author_purpose",
+    "content_category_id": "economy",
+    "model_q_num": 46,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "4차 산업 분야는 다양하지만 R&D가 핵심이라는 점에서 공통점이 있다. 정부는 신성장 산업 세제 지원을 확대하기로 했다. 그러나 현재 조건은 대기업에만 유리할 수 있다. 전담 연구 부서와 국내 원천 기술 보유가 조건이기 때문이다. 정부 입장은 이해하나, 연구 개발을 유도·독려하려면 조건 완화나 단계적 적용이 필요하다.",
+    "options": [
+      "투자 정책 혼란을 경고하려고",
+      "세제 지원 조건의 문제점을 지적하려고",
+      "연구 개발 분야를 소개하려고",
+      "신성장 산업의 중요성을 강조하려고"
+    ],
+    "answer": 1,
+    "explanation": "Author critiques conditions favoring only large firms."
+  },
+  {
+    "id": "ai2_purpose_002",
+    "section": "reading",
+    "topic": "Author's Purpose",
+    "skill_type_id": "author_purpose",
+    "content_category_id": "environment",
+    "model_q_num": 46,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "일회용품 사용 규제가 강화되고 있지만, 소비자들은 여전히 편의성을 우선시한다. 규제만으로는 한계가 있으며, 기업의 친환경 대안 개발과 소비자 인식 변화가 함께 이루어져야 한다.",
+    "options": [
+      "일회용품 규제를 폐지하려고",
+      "다각적 접근의 필요성을 주장하려고",
+      "소비자 비난을 하려고",
+      "친환경 제품을 광고하려고"
+    ],
+    "answer": 1,
+    "explanation": "Author argues regulation alone is insufficient."
+  },
+  {
+    "id": "ai2_purpose_003",
+    "section": "reading",
+    "topic": "Author's Purpose",
+    "skill_type_id": "author_purpose",
+    "content_category_id": "technology",
+    "model_q_num": 46,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "SNS 알고리즘은 사용자에게 맞춤 콘텐츠를 제공하지만, 동시에 정보 편향을 강화할 수 있다. 플랫폼 기업과 정부 모두 알고리즘 투명성 확보에 나서야 한다.",
+    "options": [
+      "SNS 사용을 금지하려고",
+      "알고리즘 투명성 확보 필요성을 주장하려고",
+      "알고리즘 기술을 설명하려고",
+      "플랫폼 기업을 옹호하려고"
+    ],
+    "answer": 1,
+    "explanation": "Author calls for transparency from platforms and government."
+  },
+  {
+    "id": "ai2_purpose_004",
+    "section": "reading",
+    "topic": "Author's Purpose",
+    "skill_type_id": "author_purpose",
+    "content_category_id": "school",
+    "model_q_num": 46,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "대입 전형이 다양해졌지만, 여전히 사교육비 부담이 크다. 전형의 형식적 다양화만으로는 한계가 있으며, 고등학교 교육과정과의 연계 개선이 필요하다.",
+    "options": [
+      "사교육 확대를 주장하려고",
+      "대입 전형과 교육과정 연계 개선 필요성을 주장하려고",
+      "대입 전형을 폐지하려고",
+      "고등학교 교육을 비판만 하려고"
+    ],
+    "answer": 1,
+    "explanation": "Author argues for linking admission types with curriculum reform."
+  },
+  {
+    "id": "ai2_purpose_005",
+    "section": "reading",
+    "topic": "Author's Purpose",
+    "skill_type_id": "author_purpose",
+    "content_category_id": "health",
+    "model_q_num": 46,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "건강기능식품 시장이 커지고 있지만, 효능에 대한 과장 광고가 문제다. 소비자는 과학적 근거를 확인하고, 정부는 허위·과대 광고 단속을 강화해야 한다.",
+    "options": [
+      "건강기능식품 복용을 권장하려고",
+      "과장 광고 문제와 대응 필요성을 지적하려고",
+      "건강기능식품 시장을 소개하려고",
+      "정부 정책을 옹호하려고"
+    ],
+    "answer": 1,
+    "explanation": "Author points out exaggerated advertising and need for oversight."
+  },
+  {
+    "id": "ai2_purpose_006",
+    "section": "reading",
+    "topic": "Author's Purpose",
+    "skill_type_id": "author_purpose",
+    "content_category_id": "society",
+    "model_q_num": 46,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "1인 가구 증가는 주거·돌봄·고립 등 새로운 사회 문제를 낳고 있다. 개인의 책임만 강조하기보다 지역사회와 정부의 체계적 지원이 필요하다.",
+    "options": [
+      "1인 가구 증가를 긍정하려고",
+      "체계적 지원 필요성을 주장하려고",
+      "1인 가구를 비판하려고",
+      "주거 문제만 다루려고"
+    ],
+    "answer": 1,
+    "explanation": "Author argues for systematic community and government support."
+  },
+  {
+    "id": "ai2_purpose_007",
+    "section": "reading",
+    "topic": "Author's Purpose",
+    "skill_type_id": "author_purpose",
+    "content_category_id": "culture",
+    "model_q_num": 46,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "OTT 플랫폼 확산으로 영화관 관람객이 줄었다. 영화관은 단순 상영을 넘어 immersive 경험과 커뮤니티 공간으로 변모해야 생존할 수 있다.",
+    "options": [
+      "영화관 폐쇄를 주장하려고",
+      "영화관의 변화·혁신 필요성을 제안하려고",
+      "OTT를 비판하려고",
+      "영화 산업 역사를 소개하려고"
+    ],
+    "answer": 1,
+    "explanation": "Author suggests cinemas must evolve beyond simple screening."
+  },
+  {
+    "id": "ai2_purpose_008",
+    "section": "reading",
+    "topic": "Author's Purpose",
+    "skill_type_id": "author_purpose",
+    "content_category_id": "transport",
+    "model_q_num": 46,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "전기차 보급을 늘리려면 충전 인프라 확대가 필수적이다. 민간 투자만으로는 한계가 있어 정부의 적극적 지원과 표준화가 필요하다.",
+    "options": [
+      "전기차 보급을 반대하려고",
+      "충전 인프ra 정부 지원 필요성을 주장하려고",
+      "전기차 기술을 설명하려고",
+      "민간 기업을 비판하려고"
+    ],
+    "answer": 1,
+    "explanation": "Author argues government support is needed for charging infrastructure."
+  },
+  {
+    "id": "ai2_purpose_009",
+    "section": "reading",
+    "topic": "Author's Purpose",
+    "skill_type_id": "author_purpose",
+    "content_category_id": "work",
+    "model_q_num": 46,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "직장 내 세대 간 갈등이 늘고 있다. 상호 이해를 위해서는 일방적 비난보다 세대별 가치관 차이를 인정하고 소통하는 문화를 만들어야 한다.",
+    "options": [
+      "세대 갈등을 부정하려고",
+      "상호 이해와 소통 문화 필요성을 주장하려고",
+      "특정 세대를 비난하려고",
+      "직장 문화 역사를 소개하려고"
+    ],
+    "answer": 1,
+    "explanation": "Author advocates communication culture over one-sided blame."
+  },
+  {
+    "id": "ai2_purpose_010",
+    "section": "reading",
+    "topic": "Author's Purpose",
+    "skill_type_id": "author_purpose",
+    "content_category_id": "science",
+    "model_q_num": 46,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "기후 변화 연구에서 불확실성이 언급되곤 하지만, 이는 연구가 무의미하다는 뜻이 아니다. 불확실성을 인정하면서도 예방적 정책의 필요성은 여전히 크다.",
+    "options": [
+      "기후 연구를 중단하려고",
+      "불확실성에도 예방 정책 필요성을 강조하려고",
+      "기후 변화를 부정하려고",
+      "과학 연구 방법을 설명하려고"
+    ],
+    "answer": 1,
+    "explanation": "Author emphasizes preventive policy despite uncertainty."
+  },
+  {
+    "id": "ai2_attitude_001",
+    "section": "reading",
+    "topic": "Author's Attitude",
+    "skill_type_id": "author_attitude",
+    "content_category_id": "economy",
+    "model_q_num": 48,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "정부의 신성장 산업 세제 지원 확대는 고무적이다. 미래형 자동차·바이오 등 연구 시 세금을 대폭 낮춰 준다. 다만 현재 조건으로는 대기업에만 유리할 수 있어, 조건 완화가 필요하다.",
+    "options": [
+      "정책을 전면 부정하고 있다",
+      "정책 방향은 긍정하되 조건 개선을 요구하고 있다",
+      "정책과 무관한 태도이다",
+      "대기업만을 옹호하고 있다"
+    ],
+    "answer": 1,
+    "explanation": "Author finds the policy encouraging but calls for condition relaxation."
+  },
+  {
+    "id": "ai2_attitude_002",
+    "section": "reading",
+    "topic": "Author's Attitude",
+    "skill_type_id": "author_attitude",
+    "content_category_id": "environment",
+    "model_q_num": 48,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "재활용 분리배출 캠페인은 10년째 진행 중이다. 참여율은 높아졌지만, 여전히 혼합 배출이 많아 재활용 효율이 낮다. 캠페인만으로는 한계가 명확하다.",
+    "options": [
+      "캠페인 성과를 전면 긍정하고 있다",
+      "참여율 증가는 인정하나 근본적 한계를 지적하고 있다",
+      "재활용을 반대하고 있다",
+      "무관심한 태도이다"
+    ],
+    "answer": 1,
+    "explanation": "Author acknowledges progress but points out clear limits."
+  },
+  {
+    "id": "ai2_attitude_003",
+    "section": "reading",
+    "topic": "Author's Attitude",
+    "skill_type_id": "author_attitude",
+    "content_category_id": "technology",
+    "model_q_num": 48,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "AI 챗봇 기술은 놀랍게 발전했다. 고객 응대·번역 등에서 활용도가 높아지고 있다. 그러나 환각(hallucination) 문제와 일자리 대체 우려를 간과해서는 안 된다.",
+    "options": [
+      "AI를 무조건 긍정하고 있다",
+      "발전은 인정하나 부작용 우려를 함께 제기하고 있다",
+      "AI 발전을 부정하고 있다",
+      "일자리 문제에만 관심이 있다"
+    ],
+    "answer": 1,
+    "explanation": "Author recognizes progress but raises concerns about hallucination and jobs."
+  },
+  {
+    "id": "ai2_attitude_004",
+    "section": "reading",
+    "topic": "Author's Attitude",
+    "skill_type_id": "author_attitude",
+    "content_category_id": "school",
+    "model_q_num": 48,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "자기주도 학습 교육이 확산되고 있다. 학생 주도성을 키우는 데는 효과적이다. 그러나 기초 학력이 부족한 학생에게는 오히려 학습 격차를 키울 수 있다.",
+    "options": [
+      "자기주도 학습을 전면 옹호하고 있다",
+      "효과는 인정하나 학습 격차 우려를 제기하고 있다",
+      "자기주도 학습을 반대하고 있다",
+      "교사 역할만 강조하고 있다"
+    ],
+    "answer": 1,
+    "explanation": "Author sees benefits but warns about widening gaps for weak students."
+  },
+  {
+    "id": "ai2_attitude_005",
+    "section": "reading",
+    "topic": "Author's Attitude",
+    "skill_type_id": "author_attitude",
+    "content_category_id": "health",
+    "model_q_num": 48,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "간헐적 단식이 건강에 도움이 된다는 연구가 많다. 체중 관리와 대사 개선에 효과적이다. 하지만 모든 사람에게 적합한 것은 아니며, 만성 질환자는 전문가 상담이 필요하다.",
+    "options": [
+      "간헐적 단식을 무조건 권장하고 있다",
+      "효과는 인정하나 개인차와 주의점을 강조하고 있다",
+      "간헐적 단식을 반대하고 있다",
+      "연구 결과를 부정하고 있다"
+    ],
+    "answer": 1,
+    "explanation": "Author recommends with caveats about individual differences."
+  },
+  {
+    "id": "ai2_attitude_006",
+    "section": "reading",
+    "topic": "Author's Attitude",
+    "skill_type_id": "author_attitude",
+    "content_category_id": "society",
+    "model_q_num": 48,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "기본소득 실험 결과 일부 지역에서 긍정적 효과가 보고되었다. 생활 안정과 재취업 지원에 도움이 되었다. 그러나 재원 마련과 보편 적용 여부는 여전히 논쟁 중이다.",
+    "options": [
+      "기본소득을 전면 지지하고 있다",
+      "실험 성과는 인정하나 보편 적용은 신중한 태도이다",
+      "기본소득을 전면 반대하고 있다",
+      "실험 결과를 무시하고 있다"
+    ],
+    "answer": 1,
+    "explanation": "Author acknowledges positive results but remains cautious about universal adoption."
+  },
+  {
+    "id": "ai2_attitude_007",
+    "section": "reading",
+    "topic": "Author's Attitude",
+    "skill_type_id": "author_attitude",
+    "content_category_id": "culture",
+    "model_q_num": 48,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "한국 영화가 국제 영화제에서 연속 수상하며 위상이 높아졌다. 세계가 한국 영화의 스토리텔링과 미장센에 주목하고 있다. 다만 상업적 성공만을 좇으면 예술성이 훼손될 수 있다.",
+    "options": [
+      "한국 영화의 국제적 성공을 긍정하되 예술성 훼손을 우려하고 있다",
+      "한국 영화를 전면 비판하고 있다",
+      "상업적 성공만을 옹호하고 있다",
+      "국제 영화제를 비판하고 있다"
+    ],
+    "answer": 0,
+    "explanation": "Author celebrates success but warns against sacrificing artistry for commerce."
+  },
+  {
+    "id": "ai2_attitude_008",
+    "section": "reading",
+    "topic": "Author's Attitude",
+    "skill_type_id": "author_attitude",
+    "content_category_id": "transport",
+    "model_q_num": 48,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "KTX 노선 확대로 지방 접근성이 개선되었다. 수도권과 지방 간 이동 시간이 크게 줄었다. 그러나 지방 역 주변 개발과 연계되지 않으면 지역 균형 발전 효과는 제한적이다.",
+    "options": [
+      "KTX 확대를 전면 부정하고 있다",
+      "접근성 개선은 인정하나 연계 개발 필요성을 지적하고 있다",
+      "지방 발전을 낙관만 하고 있다",
+      "KTX와 무관한 태도이다"
+    ],
+    "answer": 1,
+    "explanation": "Author sees accessibility gains but notes limited regional development without linked planning."
+  },
+  {
+    "id": "ai2_attitude_009",
+    "section": "reading",
+    "topic": "Author's Attitude",
+    "skill_type_id": "author_attitude",
+    "content_category_id": "work",
+    "model_q_num": 48,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "주 4일제 도입을 논의하는 기업이 늘고 있다. 직원 만족도와 생산성 향상 사례가 보고된다. 하지만 업종·직종에 따라 적용 가능성이 다르며, 무리한 도입은 오히려 역효과를 낼 수 있다.",
+    "options": [
+      "주 4일제를 무조건 도입해야 한다고 주장하고 있다",
+      "긍정 사례는 인정하나 업종별 차이를 고려해야 한다고 보고 있다",
+      "주 4일제를 전면 반대하고 있다",
+      "생산성 향상을 부정하고 있다"
+    ],
+    "answer": 1,
+    "explanation": "Author recognizes benefits but cautions about industry-specific applicability."
+  },
+  {
+    "id": "ai2_attitude_010",
+    "section": "reading",
+    "topic": "Author's Attitude",
+    "skill_type_id": "author_attitude",
+    "content_category_id": "science",
+    "model_q_num": 48,
+    "source": "hanuri_ai",
+    "level": "topik2",
+    "passage": "CRISPR 유전자 가위 기술은 질병 치료에 혁명적 잠재력을 갖는다. 난치병 치료에 큰 기대가 걸려 있다. 그러나 윤리적 논쟁과 오남용 가능성에 대한 사회적 합의가 선행되어야 한다.",
+    "options": [
+      "유전자 편집을 무조건 허용해야 한다고 주장하고 있다",
+      "잠재력은 인정하나 윤리적 합의 필요성을 강조하고 있다",
+      "CRISPR 기술을 반대하고 있다",
+      "윤리 문제를 무시하고 있다"
+    ],
+    "answer": 1,
+    "explanation": "Author sees therapeutic potential but stresses need for ethical consensus."
+  }
+]
