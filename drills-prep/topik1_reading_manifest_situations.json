@@ -1,60 +1,95 @@
 {
-    "situations": [
-      {
-        "content_category_id": "daily_life",
-        "title_en": "Daily Life & Hobbies",
-        "title_ko": "일상생활 및 취미",
-        "description": "Family, home, leisure, and daily routines.",
-        "eps_priority": false
-      },
-      {
-        "content_category_id": "shopping",
-        "title_en": "Shopping & Services",
-        "title_ko": "쇼핑 및 서비스",
-        "description": "Buying goods, markets, and repair services.",
-        "eps_priority": true
-      },
-      {
-        "content_category_id": "transport",
-        "title_en": "Transportation",
-        "title_ko": "교통 및 이동",
-        "description": "Buses, subways, tickets, and directions.",
-        "eps_priority": true
-      },
-      {
-        "content_category_id": "hospital",
-        "title_en": "Health & Pharmacy",
-        "title_ko": "건강 및 병원",
-        "description": "Symptoms, medicine, and clinical appointments.",
-        "eps_priority": true
-      },
-      {
-        "content_category_id": "work",
-        "title_en": "Workplace",
-        "title_ko": "직장 생활",
-        "description": "Office tasks, projects, and meetings.",
-        "eps_priority": true
-      },
-      {
-        "content_category_id": "school",
-        "title_en": "School & Education",
-        "title_ko": "학교 및 교육",
-        "description": "University, library, clubs, and studying.",
-        "eps_priority": false
-      },
-      {
-        "content_category_id": "public_info",
-        "title_en": "Public Information",
-        "title_ko": "공공 정보",
-        "description": "Weather, news, posters, and community events.",
-        "eps_priority": true
-      },
-      {
-        "content_category_id": "food_dining",
-        "title_en": "Food & Dining",
-        "title_ko": "식사 및 요리",
-        "description": "Restaurants, recipes, and ordering food.",
-        "eps_priority": false
-      }
-    ]
-  }
+  "situations": [
+    {
+      "content_category_id": "daily_life",
+      "title_en": "Daily Life",
+      "title_ko": "일상생활",
+      "description": "Family, home, weather, rest, messages, and everyday routines.",
+      "eps_priority": false
+    },
+    {
+      "content_category_id": "leisure",
+      "title_en": "Leisure & Sports",
+      "title_ko": "여가 및 스포츠",
+      "description": "Sports, hobbies, festivals, and free-time activities.",
+      "eps_priority": false
+    },
+    {
+      "content_category_id": "food_dining",
+      "title_en": "Food & Dining",
+      "title_ko": "식사 및 요리",
+      "description": "Restaurants, recipes, ingredients, and ordering food.",
+      "eps_priority": false
+    },
+    {
+      "content_category_id": "shopping",
+      "title_en": "Shopping & Services",
+      "title_ko": "쇼핑 및 서비스",
+      "description": "Buying goods, markets, online orders, and product information.",
+      "eps_priority": true
+    },
+    {
+      "content_category_id": "bank",
+      "title_en": "Banking & Finance",
+      "title_ko": "은행 및 금융",
+      "description": "Bank accounts, transfers, cards, and financial services.",
+      "eps_priority": true
+    },
+    {
+      "content_category_id": "transport",
+      "title_en": "Transportation",
+      "title_ko": "교통 및 이동",
+      "description": "Buses, subways, tickets, and directions.",
+      "eps_priority": true
+    },
+    {
+      "content_category_id": "travel",
+      "title_en": "Travel & Tourism",
+      "title_ko": "여행 및 관광",
+      "description": "Trips, sightseeing, souvenirs, and travel plans.",
+      "eps_priority": true
+    },
+    {
+      "content_category_id": "hospital",
+      "title_en": "Health & Pharmacy",
+      "title_ko": "건강 및 병원",
+      "description": "Symptoms, medicine, hospitals, and clinical appointments.",
+      "eps_priority": true
+    },
+    {
+      "content_category_id": "health",
+      "title_en": "Wellness & Self-Care",
+      "title_ko": "건강 관리",
+      "description": "Mild illness, wellness teas, rest, and everyday body care.",
+      "eps_priority": true
+    },
+    {
+      "content_category_id": "work",
+      "title_en": "Workplace",
+      "title_ko": "직장 생활",
+      "description": "Office tasks, projects, meetings, and job situations.",
+      "eps_priority": true
+    },
+    {
+      "content_category_id": "school",
+      "title_en": "School & Education",
+      "title_ko": "학교 및 교육",
+      "description": "University, teachers, campus services, and studying.",
+      "eps_priority": false
+    },
+    {
+      "content_category_id": "culture",
+      "title_en": "Culture & Events",
+      "title_ko": "문화 및 행사",
+      "description": "Museums, books, hanbok, exhibitions, and cultural activities.",
+      "eps_priority": false
+    },
+    {
+      "content_category_id": "public_info",
+      "title_en": "Public Information",
+      "title_ko": "공공 정보",
+      "description": "Signs, maps, labels, notices, and factual info matching.",
+      "eps_priority": true
+    }
+  ]
+}
