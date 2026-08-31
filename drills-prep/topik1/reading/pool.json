@@ -1,0 +1,1199 @@
+[
+    {
+      "id": "ai_topic_id_001",
+      "section": "reading",
+      "topic": "Topic Identification - Objects",
+      "skill_type_id": "topic_id",
+      "content_category_id": "school",
+      "model_q_num": 31,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "공책이 있습니다. 연필은 없습니다.",
+      "options": [
+        "공부",
+        "이름",
+        "문구",
+        "나라"
+      ],
+      "answer": 2,
+      "explanation": "The text mentions a notebook (공책) and a pencil (연필), which are categorized as stationery/office supplies (문구)."
+    },
+    {
+      "id": "ai_topic_id_002",
+      "section": "reading",
+      "topic": "Topic Identification - Time",
+      "skill_type_id": "topic_id",
+      "content_category_id": "daily_life",
+      "model_q_num": 32,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "지금은 오후 한 시입니다. 점심 시간입니다.",
+      "options": [
+        "시간",
+        "날짜",
+        "요일",
+        "나이"
+      ],
+      "answer": 0,
+      "explanation": "The text mentions '1 PM' and 'lunch time,' which refers to time (시간)."
+    },
+    {
+      "id": "ai_topic_id_003",
+      "section": "reading",
+      "topic": "Topic Identification - Hobbies",
+      "skill_type_id": "topic_id",
+      "content_category_id": "daily_life",
+      "model_q_num": 33,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "저는 영화를 좋아합니다. 극장에 자주 갑니다.",
+      "options": [
+        "직업",
+        "취미",
+        "운동",
+        "여행"
+      ],
+      "answer": 1,
+      "explanation": "Watching movies and going to the theater describes a hobby (취미)."
+    },
+    {
+      "id": "ai_topic_id_004",
+      "section": "reading",
+      "topic": "Topic Identification - Food",
+      "skill_type_id": "topic_id",
+      "content_category_id": "shopping",
+      "model_q_num": 31,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "불고기가 맛있습니다. 비빔밥도 맛있습니다.",
+      "options": [
+        "과일",
+        "음식",
+        "날씨",
+        "옷"
+      ],
+      "answer": 1,
+      "explanation": "Bulgogi and Bibimbap are types of Korean food (음식)."
+    },
+    {
+      "id": "ai_topic_id_005",
+      "section": "reading",
+      "topic": "Topic Identification - Dates",
+      "skill_type_id": "topic_id",
+      "content_category_id": "daily_life",
+      "model_q_num": 32,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "오늘은 월요일입니다. 내일은 화요일입니다.",
+      "options": [
+        "시간",
+        "요일",
+        "날짜",
+        "나이"
+      ],
+      "answer": 1,
+      "explanation": "Monday and Tuesday are days of the week (요일)."
+    },
+    {
+      "id": "ai_topic_id_006",
+      "section": "reading",
+      "topic": "Topic Identification - Locations",
+      "skill_type_id": "topic_id",
+      "content_category_id": "daily_life",
+      "model_q_num": 31,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "산이 높습니다. 바다가 파랗습니다.",
+      "options": [
+        "계절",
+        "나라",
+        "자연",
+        "날씨"
+      ],
+      "answer": 2,
+      "explanation": "High mountains and blue seas are parts of nature (자연)."
+    },
+    {
+      "id": "ai_topic_id_007",
+      "section": "reading",
+      "topic": "Topic Identification - Family",
+      "skill_type_id": "topic_id",
+      "content_category_id": "daily_life",
+      "model_q_num": 31,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "이분은 어머니입니다. 이분은 아버지입니다.",
+      "options": [
+        "가족",
+        "친구",
+        "이름",
+        "직업"
+      ],
+      "answer": 0,
+      "explanation": "Mother and father describe the speaker's family (가족)."
+    },
+    {
+      "id": "ai_topic_id_008",
+      "section": "reading",
+      "topic": "Topic Identification - Prices",
+      "skill_type_id": "topic_id",
+      "content_category_id": "shopping",
+      "model_q_num": 32,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "빵은 천 원입니다. 우유는 이천 원입니다.",
+      "options": [
+        "무게",
+        "날짜",
+        "가격",
+        "크기"
+      ],
+      "answer": 2,
+      "explanation": "The text lists the amounts in 'Won,' which refers to price (가격)."
+    },
+    {
+      "id": "ai_topic_id_009",
+      "section": "reading",
+      "topic": "Topic Identification - Health",
+      "skill_type_id": "topic_id",
+      "content_category_id": "hospital",
+      "model_q_num": 33,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "머리가 아픕니다. 약국에 갑니다.",
+      "options": [
+        "운동",
+        "건강",
+        "취미",
+        "날씨"
+      ],
+      "answer": 1,
+      "explanation": "Having a headache and going to a pharmacy are related to health (건강)."
+    },
+    {
+      "id": "ai_topic_id_010",
+      "section": "reading",
+      "topic": "Topic Identification - Public Places",
+      "skill_type_id": "topic_id",
+      "content_category_id": "daily_life",
+      "model_q_num": 31,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "여기는 우체국입니다. 편지를 보냅니다.",
+      "options": [
+        "장소",
+        "물건",
+        "사람",
+        "음식"
+      ],
+      "answer": 0,
+      "explanation": "The text identifies a post office, which is a location/place (장소)."
+    },
+    {
+      "id": "ai_cloze_vocab_001",
+      "section": "reading",
+      "topic": "Vocabulary - Verbs",
+      "skill_type_id": "cloze_vocab",
+      "content_category_id": "transport",
+      "model_q_num": 34,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "지하철역에 갑니다. 표를 ( ).",
+      "options": [
+        "팝니다",
+        "삽니다",
+        "입습니다",
+        "읽습니다"
+      ],
+      "answer": 1,
+      "explanation": "At a subway station, the logical action regarding a ticket (표) is to buy (삽니다) it."
+    },
+    {
+      "id": "ai_cloze_vocab_002",
+      "section": "reading",
+      "topic": "Vocabulary - Adjectives",
+      "skill_type_id": "cloze_vocab",
+      "content_category_id": "daily_life",
+      "model_q_num": 35,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "오늘 바람이 많이 붑니다. 날씨가 ( ).",
+      "options": [
+        "멉니다",
+        "작습니다",
+        "춥습니다",
+        "좋습니다"
+      ],
+      "answer": 2,
+      "explanation": "If the wind is blowing hard (바람이 많이 붑니다), it implies the weather is cold (춥습니다)."
+    },
+    {
+      "id": "ai_cloze_vocab_003",
+      "section": "reading",
+      "topic": "Vocabulary - Verbs",
+      "skill_type_id": "cloze_vocab",
+      "content_category_id": "daily_life",
+      "model_q_num": "36",
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "저는 매일 공원에서 ( ). 몸이 건강해집니다.",
+      "options": [
+        "운동합니다",
+        "노래합니다",
+        "전화합니다",
+        "공부합니다"
+      ],
+      "answer": 0,
+      "explanation": "The result of 'becoming healthy' (몸이 건강해집니다) points to the action of exercising (운동합니다)."
+    },
+    {
+      "id": "ai_cloze_vocab_004",
+      "section": "reading",
+      "topic": "Vocabulary - Adverbs",
+      "skill_type_id": "cloze_vocab",
+      "content_category_id": "daily_life",
+      "model_q_num": 37,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "숙제가 ( ) 어렵습니다. 그래서 친구에게 물어봅니다.",
+      "options": [
+        "가장",
+        "아주",
+        "아까",
+        "먼저"
+      ],
+      "answer": 1,
+      "explanation": "The adverb '아주' (very/extremely) is used here to emphasize the difficulty of the homework."
+    },
+    {
+      "id": "ai_cloze_vocab_005",
+      "section": "reading",
+      "topic": "Vocabulary - Verbs",
+      "skill_type_id": "cloze_vocab",
+      "content_category_id": "school",
+      "model_q_num": 38,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "도서관이 조용합니다. 책을 ( ).",
+      "options": [
+        "찾습니다",
+        "읽습니다",
+        "바꿉니다",
+        "찍습니다"
+      ],
+      "answer": 1,
+      "explanation": "The most natural activity in a quiet library involving a book is reading (읽습니다)."
+    },
+    {
+      "id": "ai_cloze_vocab_006",
+      "section": "reading",
+      "topic": "Vocabulary - Adjectives",
+      "skill_type_id": "cloze_vocab",
+      "content_category_id": "shopping",
+      "model_q_num": 39,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "레몬이 ( ). 그래서 설탕을 넣습니다.",
+      "options": [
+        "맵습니다",
+        "씁니다",
+        "십니다",
+        "짭니다"
+      ],
+      "answer": 2,
+      "explanation": "Lemons are sour (십니다). Adding sugar (설탕) helps balance the sour taste."
+    },
+    {
+      "id": "ai_cloze_vocab_007",
+      "section": "reading",
+      "topic": "Grammar - Particles",
+      "skill_type_id": "cloze_vocab",
+      "content_category_id": "daily_life",
+      "model_q_num": 35,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "학교( ) 친구를 만납니다. 같이 점심을 먹습니다.",
+      "options": [
+        "에서",
+        "에게",
+        "하고",
+        "까지"
+      ],
+      "answer": 0,
+      "explanation": "The particle '에서' is used to indicate the location (at school) where an action occurs."
+    },
+    {
+      "id": "ai_cloze_vocab_008",
+      "section": "reading",
+      "topic": "Vocabulary - Verbs",
+      "skill_type_id": "cloze_vocab",
+      "content_category_id": "daily_life",
+      "model_q_num": 36,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "어머니께 편지를 ( ). 답장을 기다립니다.",
+      "options": [
+        "봅니다",
+        "씁니다",
+        "듣습니다",
+        "만듭니다"
+      ],
+      "answer": 1,
+      "explanation": "Since the speaker is waiting for a reply (답장), they must have written (씁니다) a letter."
+    },
+    {
+      "id": "ai_cloze_vocab_009",
+      "section": "reading",
+      "topic": "Vocabulary - Adjectives",
+      "skill_type_id": "cloze_vocab",
+      "content_category_id": "daily_life",
+      "model_q_num": 39,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "동생이 선물을 받았습니다. 기분이 아주 ( ).",
+      "options": [
+        "좋습니다",
+        "어렵습니다",
+        "다릅니다",
+        "적습니다"
+      ],
+      "answer": 0,
+      "explanation": "Receiving a gift makes one feel good/happy (좋습니다)."
+    },
+    {
+      "id": "ai_cloze_vocab_010",
+      "section": "reading",
+      "topic": "Vocabulary - Verbs",
+      "skill_type_id": "cloze_vocab",
+      "content_category_id": "transport",
+      "model_q_num": 38,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "버스가 왔습니다. 버스에 ( ).",
+      "options": [
+        "내립니다",
+        "탑니다",
+        "넣습니다",
+        "닦습니다"
+      ],
+      "answer": 1,
+      "explanation": "When the bus arrives (버스가 왔습니다), you get on or ride (탑니다) it."
+    },
+    {
+      "id": "ai_info_match_001",
+      "section": "reading",
+      "topic": "Information Matching - Sale Notice",
+      "skill_type_id": "info_match",
+      "content_category_id": "shopping",
+      "model_q_num": 40,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "[인주마트 1+1 행사]\n기간: 2024년 5월 1일 ~ 5월 7일\n내용: 우유 또는 주스를 하나 사면 하나 더 드립니다.\n※ 주말에도 행사를 합니다.",
+      "options": [
+        "일주일 동안 합니다.",
+        "주말에는 하지 않습니다.",
+        "우유를 싸게 살 수 있습니다.",
+        "주스를 사면 하나 더 받습니다."
+      ],
+      "answer": 1,
+      "image": "ai_info_match_001.png",
+      "explanation": "The notice says '주말에도 행사를 합니다' (We have the event on weekends too). Option 2 says they don't, which is incorrect."
+    },
+    {
+      "id": "ai_info_match_002",
+      "section": "reading",
+      "topic": "Information Matching - Movie Ticket",
+      "skill_type_id": "info_match",
+      "content_category_id": "daily_life",
+      "model_q_num": 41,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "[영화 승차권]\n영화: 서울 이야기\n일시: 2024년 6월 15일(토) 14:30\n장소: 인주극장 5관\n좌석: 7층 H열 10번",
+      "options": [
+        "토요일에 영화를 봅니다.",
+        "영화 이름은 '서울 이야기'입니다.",
+        "오전 두 시 반에 영화가 시작합니다.",
+        "인주극장 5관에서 영화를 봅니다."
+      ],
+      "answer": 2,
+      "image": "ai_info_match_002.png",
+      "explanation": "The time is 14:30, which is 2:30 PM (오후). Option 3 says it is 2:30 AM (오전), which is incorrect."
+    },
+    {
+      "id": "ai_info_match_003",
+      "section": "reading",
+      "topic": "Information Matching - Text Chat",
+      "skill_type_id": "info_match",
+      "content_category_id": "daily_life",
+      "model_q_num": 42,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "수미: 민수 씨, 내일 같이 등산 갈까요?\n민수: 좋아요. 몇 시에 만날까요?\n수미: 아침 8시에 만나요. 제가 김밥을 준비할게요.\n민수: 고마워요. 그럼 제가 과일을 가져갈게요.",
+      "options": [
+        "두 사람은 내일 만날 겁니다.",
+        "민수 씨는 김밥을 만들 겁니다.",
+        "수미 씨는 내일 등산을 갈 겁니다.",
+        "민수 씨는 과일을 준비할 겁니다."
+      ],
+      "answer": 1,
+      "image": "ai_info_match_003.png",
+      "explanation": "Sumi says she will prepare the Gimbap (제가 김밥을 준비할게요). Option 2 says Minsu will make it, which is incorrect."
+    },
+    {
+      "id": "ai_content_match_001",
+      "section": "reading",
+      "topic": "Content Matching - Roommate",
+      "skill_type_id": "content_match",
+      "content_category_id": "school",
+      "model_q_num": 43,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "저는 기숙사에서 친구와 같이 삽니다. 제 친구는 요리를 아주 잘합니다. 그래서 우리는 주말마다 맛있는 음식을 만들어 먹습니다.",
+      "options": [
+        "저는 혼자 삽니다.",
+        "저는 요리를 잘합니다.",
+        "우리는 주말에 같이 요리합니다.",
+        "저는 기숙사에서 살고 싶습니다."
+      ],
+      "answer": 2,
+      "explanation": "The text states they make and eat food together every weekend (주말마다... 만들어 먹습니다), matching Option 3."
+    },
+    {
+      "id": "ai_content_match_002",
+      "section": "reading",
+      "topic": "Content Matching - Cafe",
+      "skill_type_id": "content_match",
+      "content_category_id": "daily_life",
+      "model_q_num": 44,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "회사 근처에 예쁜 카페가 있습니다. 커피는 조금 비싸지만 빵이 아주 맛있습니다. 저는 퇴근하고 자주 그 카페에 갑니다.",
+      "options": [
+        "커피가 아주 쌉니다.",
+        "이 카페는 빵이 맛있습니다.",
+        "카페가 회사에서 아주 멉니다.",
+        "저는 아침에 이 카페에 갑니다."
+      ],
+      "answer": 1,
+      "explanation": "The text explicitly says 'the bread is very delicious' (빵이 아주 맛있습니다), matching Option 2."
+    },
+    {
+      "id": "ai_content_match_003",
+      "section": "reading",
+      "topic": "Content Matching - Nature",
+      "skill_type_id": "content_match",
+      "content_category_id": "daily_life",
+      "model_q_num": 45,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "가을이 되어서 산에 단풍이 예쁩니다. 저는 지난주에 친구들과 설악산에 갔습니다. 산에서 사진을 많이 찍고 즐거운 시간을 보냈습니다.",
+      "options": [
+        "저는 산에 혼자 갔습니다.",
+        "산에는 아직 단풍이 없습니다.",
+        "저는 지난주에 산에 갔습니다.",
+        "저는 산에서 사진을 못 찍었습니다."
+      ],
+      "answer": 2,
+      "explanation": "The text states the speaker went to Seoraksan last week (지난주에... 갔습니다), matching Option 3."
+    },
+    {
+      "id": "ai_info_match_004",
+      "section": "reading",
+      "topic": "Information Matching - Health Checkup",
+      "skill_type_id": "info_match",
+      "content_category_id": "hospital",
+      "model_q_num": 40,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "[인주병원 건강검진 안내]\n대상: 20세 이상\n시간: 평일 오전 9시 ~ 12시\n예약: 홈페이지 또는 전화 가능\n※ 검사 전날 저녁 9시부터 음식을 드시지 마십시오.",
+      "options": [
+        "전화로 예약할 수 있습니다.",
+        "오후에 건강검진을 받습니다.",
+        "스무 살부터 받을 수 있습니다.",
+        "검사 전날 밤에는 먹으면 안 됩니다."
+      ],
+      "answer": 1,
+      "image": "ai_info_match_004.png",
+      "explanation": "The notice says time is 9 AM to 12 PM (오전). Option 2 says you take the checkup in the afternoon (오후), which is incorrect."
+    },
+    {
+      "id": "ai_info_match_005",
+      "section": "reading",
+      "topic": "Information Matching - Bus Ticket",
+      "skill_type_id": "info_match",
+      "content_category_id": "transport",
+      "model_q_num": 41,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "[고속버스 승차권]\n서울 -> 부산\n출발: 2024년 7월 20일 08:30\n도착: 2024년 7월 20일 12:30\n요금: 25,000원",
+      "options": [
+        "부산으로 갑니다.",
+        "요금은 이만 오천 원입니다.",
+        "오전 여덟 시 반에 출발합니다.",
+        "부산에 오후 한 시에 도착합니다."
+      ],
+      "answer": 3,
+      "image": "ai_info_match_005.png",
+      "explanation": "The arrival time is 12:30. Option 4 says it arrives at 1:00 PM (오후 한 시), which is incorrect."
+    },
+    {
+      "id": "ai_content_match_004",
+      "section": "reading",
+      "topic": "Content Matching - Weekend",
+      "skill_type_id": "content_match",
+      "content_category_id": "daily_life",
+      "model_q_num": 43,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "저는 보통 주말에 집에서 쉽니다. 하지만 이번 주말에는 동생과 공원에 갔습니다. 공원에서 자전거도 타고 산책도 했습니다.",
+      "options": [
+        "저는 이번 주말에 쉬었습니다.",
+        "저는 혼자 공원에 갔습니다.",
+        "저는 공원에서 자전거를 탔습니다.",
+        "저는 주말마다 공원에 갑니다."
+      ],
+      "answer": 2,
+      "explanation": "The text mentions riding a bicycle at the park (공원에서 자전거도 타고), matching Option 3."
+    },
+    {
+      "id": "ai_content_match_005",
+      "section": "reading",
+      "topic": "Content Matching - Learning Korean",
+      "skill_type_id": "content_match",
+      "content_category_id": "school",
+      "model_q_num": 44,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "한국어 공부가 처음에는 힘들었습니다. 하지만 지금은 한국 친구가 많아서 재미있습니다. 친구들과 한국어로 이야기하면 정말 즐겁습니다.",
+      "options": [
+        "저는 한국 친구가 없습니다.",
+        "저는 지금 한국어가 재미없습니다.",
+        "친구들과 한국어로 말하는 것이 좋습니다.",
+        "저는 한국어 공부가 지금도 아주 힘듭니다."
+      ],
+      "answer": 2,
+      "explanation": "The text says talking in Korean with friends is enjoyable (정말 즐겁습니다), matching Option 3."
+    },
+    {
+      "id": "ai_main_idea_001",
+      "section": "reading",
+      "topic": "Identifying Main Idea - Laptop",
+      "skill_type_id": "main_idea",
+      "content_category_id": "shopping",
+      "model_q_num": 46,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "저는 어제 새 노트북을 샀습니다. 디자인이 예쁘고 아주 가볍습니다. 이 노트북으로 공부를 하면 기분이 정말 좋습니다.",
+      "options": [
+        "저는 새 노트북이 필요합니다.",
+        "저는 새 노트북이 마음에 듭니다.",
+        "저는 가벼운 노트북을 사고 싶습니다.",
+        "저는 노트북으로 공부하는 것이 힘듭니다."
+      ],
+      "answer": 1,
+      "explanation": "The speaker says the laptop is pretty, light, and makes them feel good, implying they like it (마음에 듭니다)."
+    },
+    {
+      "id": "ai_main_idea_002",
+      "section": "reading",
+      "topic": "Identifying Main Idea - Cooking",
+      "skill_type_id": "main_idea",
+      "content_category_id": "daily_life",
+      "model_q_num": 47,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "저는 요리하는 것을 좋아합니다. 그래서 주말마다 맛있는 음식을 만들어서 친구들을 초대합니다. 친구들이 제가 만든 음식을 맛있게 먹으면 정말 행복합니다.",
+      "options": [
+        "저는 친구와 요리를 하고 싶습니다.",
+        "저는 주말마다 친구 집에 가고 싶습니다.",
+        "저는 요리를 해서 대접하는 것이 즐겁습니다.",
+        "저는 친구들에게 요리를 배우는 것이 좋습니다."
+      ],
+      "answer": 2,
+      "explanation": "The speaker mentions loving to cook and feeling happy when friends enjoy the food, summarizing that they enjoy serving food they cooked."
+    },
+    {
+      "id": "ai_main_idea_003",
+      "section": "reading",
+      "topic": "Identifying Main Idea - Working out",
+      "skill_type_id": "main_idea",
+      "content_category_id": "daily_life",
+      "model_q_num": 48,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "요즘 건강을 위해서 아침마다 수영을 합니다. 아침 일찍 일어나는 것은 힘들지만 수영을 하면 몸이 가벼워집니다. 그래서 앞으로도 계속 수영을 하려고 합니다.",
+      "options": [
+        "저는 아침에 일찍 일어나고 싶습니다.",
+        "저는 수영을 꾸준히 하고 싶습니다.",
+        "저는 수영을 배우는 것이 어렵습니다.",
+        "저는 건강을 위해서 수영을 시작했습니다."
+      ],
+      "answer": 1,
+      "explanation": "The key phrase is 'I plan to continue swimming in the future' (앞으로도 계속 수영을 하려고 합니다), showing their main intent."
+    },
+    {
+      "id": "ai_main_idea_004",
+      "section": "reading",
+      "topic": "Identifying Main Idea - Moving",
+      "skill_type_id": "main_idea",
+      "content_category_id": "daily_life",
+      "model_q_num": 46,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "지난주에 회사 근처로 이사를 했습니다. 전에는 회사까지 한 시간이 걸렸는데 지금은 십 분밖에 안 걸립니다. 아침에 더 잘 수 있어서 정말 좋습니다.",
+      "options": [
+        "저는 이사하는 것이 힘듭니다.",
+        "저는 잠을 많이 자면 좋겠습니다.",
+        "저는 지금 집의 위치가 좋습니다.",
+        "저는 회사 근처로 이사하고 싶습니다."
+      ],
+      "answer": 2,
+      "explanation": "The speaker moved closer to work and is very happy with the shorter commute, meaning they like the location of the new house."
+    },
+    {
+      "id": "ai_cloze_passage_001",
+      "section": "reading",
+      "topic": "Passage Cloze - Library",
+      "skill_type_id": "cloze_passage",
+      "content_category_id": "school",
+      "model_q_num": 49,
+      "passage_group_id": "ai_grp_library_01",
+      "passage_group_index": 0,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "우리 동네에는 큰 도서관이 있습니다. 저는 주말에 도서관에 ( ㉠ ) 책을 읽습니다. 도서관은 아주 조용해서 공부하기에 좋습니다. 빌리고 싶은 책이 있으면 홈페이지에서 미리 예약할 수도 있습니다.",
+      "options": [
+        "가서",
+        "가지만",
+        "가려고",
+        "가니까"
+      ],
+      "answer": 0,
+      "explanation": "The sentence describes sequential actions: 'I go to the library AND (then) read.' '-가서' is the correct sequential connector."
+    },
+    {
+      "id": "ai_content_match_006",
+      "section": "reading",
+      "topic": "Content Matching - Library",
+      "skill_type_id": "content_match",
+      "content_category_id": "school",
+      "model_q_num": 50,
+      "passage_group_id": "ai_grp_library_01",
+      "passage_group_index": 1,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "우리 동네에는 큰 도서관이 있습니다. 저는 주말에 도서관에 가서 책을 읽습니다. 도서관은 아주 조용해서 공부하기에 좋습니다. 빌리고 싶은 책이 있으면 홈페이지에서 미리 예약할 수도 있습니다.",
+      "options": [
+        "저는 평일에 도서관에 갑니다.",
+        "도서관은 우리 동네에 없습니다.",
+        "책은 도서관에서만 예약할 수 있습니다.",
+        "도서관은 조용해서 공부하기에 좋습니다."
+      ],
+      "answer": 3,
+      "explanation": "The third sentence explicitly says the library is quiet and good for studying, matching Option 4."
+    },
+    {
+      "id": "ai_cloze_passage_002",
+      "section": "reading",
+      "topic": "Passage Cloze - Birthday Present",
+      "skill_type_id": "cloze_passage",
+      "content_category_id": "shopping",
+      "model_q_num": 51,
+      "passage_group_id": "ai_grp_present_01",
+      "passage_group_index": 0,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "다음 주는 어머니의 생신입니다. 그래서 저는 백화점에 선물을 사러 갔습니다. 예쁜 가방을 사고 싶었습니다. ( ㉠ ), 가방이 너무 비싸서 사지 못했습니다. 내일은 시장에 가 보려고 합니다.",
+      "options": [
+        "그리고",
+        "그래서",
+        "하지만",
+        "그러면"
+      ],
+      "answer": 2,
+      "explanation": "There is a contrast between wanting to buy the bag and not being able to due to price. '하지만' (but) is the correct conjunction."
+    },
+    {
+      "id": "ai_content_match_007",
+      "section": "reading",
+      "topic": "Content Matching - Birthday Present",
+      "skill_type_id": "content_match",
+      "content_category_id": "shopping",
+      "model_q_num": 52,
+      "source": "hanuri_ai",
+      "passage_group_id": "ai_grp_present_01",
+      "passage_group_index": 1,
+      "level": "topik1",
+      "passage": "다음 주는 어머니의 생신입니다. 그래서 저는 백화점에 선물을 사러 갔습니다. 예쁜 가방을 사고 싶었습니다. 하지만 가방이 너무 비싸서 사지 못했습니다. 내일은 시장에 가 보려고 합니다.",
+      "options": [
+        "저는 백화점에서 가방을 샀습니다.",
+        "저는 내일 시장에 갈 겁니다.",
+        "어머니의 생신은 오늘입니다.",
+        "저는 백화점에 가 본 적이 없습니다."
+      ],
+      "answer": 1,
+      "explanation": "The last sentence says 'I plan to go to the market tomorrow,' which matches Option 2."
+    },
+    {
+      "id": "ai_cloze_passage_003",
+      "section": "reading",
+      "topic": "Passage Cloze - Robot Vacuum",
+      "skill_type_id": "cloze_passage",
+      "content_category_id": "daily_life",
+      "model_q_num": 53,
+      "passage_group_id": "ai_grp_vacuum_01",
+      "passage_group_index": 0,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "저는 최근에 로봇 청소기를 샀습니다. 제가 회사에서 ( ㉠ ) 로봇 청소기가 집을 청소합니다. 퇴근하고 집에 오면 바닥이 아주 깨끗합니다. 혼자 사는 저에게 정말 편리합니다.",
+      "options": [
+        "일하는 동안",
+        "일한 후에",
+        "일하기 전에",
+        "일하러 가서"
+      ],
+      "answer": 0,
+      "explanation": "The cleaner works while the speaker is away at work. '일하는 동안' (while working) is the correct temporal expression."
+    },
+    {
+      "id": "ai_content_match_008",
+      "section": "reading",
+      "topic": "Content Matching - Robot Vacuum",
+      "skill_type_id": "content_match",
+      "content_category_id": "daily_life",
+      "model_q_num": 54,
+      "passage_group_id": "ai_grp_vacuum_01",
+      "passage_group_index": 1,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "저는 최근에 로봇 청소기를 샀습니다. 제가 회사에서 일하는 동안 로봇 청소기가 집을 청소합니다. 퇴근하고 집에 오면 바닥이 아주 깨끗합니다. 혼자 사는 저에게 정말 편리합니다.",
+      "options": [
+        "저는 지금 친구와 같이 삽니다.",
+        "로봇 청소기는 사용하기 불편합니다.",
+        "저는 퇴근 후에 집을 청소합니다.",
+        "저는 최근에 로봇 청소기를 샀습니다."
+      ],
+      "answer": 3,
+      "explanation": "The first sentence explicitly states they recently bought a robot vacuum, matching Option 4."
+    },
+    {
+      "id": "ai_ordering_001",
+      "section": "reading",
+      "topic": "Sentence Ordering - Making Tea",
+      "skill_type_id": "ordering",
+      "content_category_id": "daily_life",
+      "model_q_num": 57,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "(가) 그 다음에 뜨거운 물을 컵에 붓습니다.\n(나) 저는 매일 아침 따뜻한 녹차를 마시는 것을 좋아합니다.\n(다) 잠시 기다린 후에 차가 우러나면 맛있게 마십니다.\n(라) 먼저 깨끗한 컵에 녹차 티백을 하나 넣습니다.",
+      "options": [
+        "(나)-(라)-(가)-(다)",
+        "(나)-(가)-(라)-(다)",
+        "(라)-(가)-(나)-(다)",
+        "(라)-(나)-(다)-(가)"
+      ],
+      "answer": 0,
+      "explanation": "The logical flow: General habit (나) -> First step (라) -> Next step (가) -> Final step/result (다)."
+    },
+    {
+      "id": "ai_ordering_002",
+      "section": "reading",
+      "topic": "Sentence Ordering - Guitar Hobby",
+      "skill_type_id": "ordering",
+      "content_category_id": "daily_life",
+      "model_q_num": 58,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "(가) 이제는 제가 좋아하는 노래를 직접 연주할 수 있습니다.\n(나) 저는 세 달 전부터 기타를 배우기 시작했습니다.\n(다) 처음에는 손가락이 아프고 배우는 것이 힘들었습니다.\n(라) 하지만 퇴근 후에 매일 한 시간씩 연습했습니다.",
+      "options": [
+        "(나)-(가)-(다)-(라)",
+        "(나)-(다)-(라)-(가)",
+        "(다)-(나)-(라)-(가)",
+        "(다)-(라)-(가)-(나)"
+      ],
+      "answer": 1,
+      "explanation": "The logical flow: Starting point (나) -> Difficulty (다) -> Effort/Process (라) -> Successful result (가)."
+    },
+    {
+      "id": "ai_insert_sentence_001",
+      "section": "reading",
+      "topic": "Sentence Insertion - New Bakery",
+      "skill_type_id": "insert_sentence",
+      "content_category_id": "shopping",
+      "model_q_num": 59,
+      "passage_group_id": "ai_grp_bakery_01",
+      "passage_group_index": 0,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "우리 집 근처에 새로운 빵집이 생겼습니다. 거기에는 여러 가지 종류의 빵이 아주 많습니다. ( ㉠ ) 저는 어제 그 빵집에 처음 가 봤습니다. ( ㉡ ) 친구 생일 파티를 위해서 크고 예쁜 케이크를 샀습니다. ( ㉢ ) 빵집 주인아주머니가 아주 친절하셨습니다. ( ㉣ ) 케이크를 살 때 맛있는 쿠키도 서비스로 주셨습니다.",
+      "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[그곳의 빵은 맛있기로 동네에서 아주 유명합니다.]",
+      "options": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "answer": 0,
+      "explanation": "The target sentence explains why the bakery is well-known. It fits best right after describing the types of bread (㉠) and before describing the specific visit."
+    },
+    {
+      "id": "ai_content_match_009",
+      "section": "reading",
+      "topic": "Content Matching - New Bakery",
+      "skill_type_id": "content_match",
+      "content_category_id": "shopping",
+      "model_q_num": 60,
+      "passage_group_id": "ai_grp_bakery_01",
+      "passage_group_index": 1,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "우리 집 근처에 새로운 빵집이 생겼습니다. 거기에는 여러 가지 종류의 빵이 아주 많습니다. 그곳의 빵은 맛있기로 동네에서 아주 유명합니다. 저는 어제 그 빵집에 처음 가 봤습니다. 친구 생일 파티를 위해서 크고 예쁜 케이크를 샀습니다. 빵집 주인아주머니가 아주 친절하셨습니다. 케이크를 살 때 맛있는 쿠키도 서비스로 주셨습니다.",
+      "options": [
+        "빵집 주인은 불친절했습니다.",
+        "저는 어제 빵집에서 케이크를 샀습니다.",
+        "저는 이 빵집에 여러 번 갔습니다.",
+        "저는 쿠키를 사러 빵집에 갔습니다."
+      ],
+      "answer": 1,
+      "explanation": "The text states the speaker bought a cake yesterday (어제... 케이크를 샀습니다), matching Option 2."
+    },
+    {
+      "id": "ai_insert_sentence_002",
+      "section": "reading",
+      "topic": "Sentence Insertion - Meeting",
+      "skill_type_id": "insert_sentence",
+      "content_category_id": "work",
+      "model_q_num": 61,
+      "passage_group_id": "ai_grp_meeting_01",
+      "passage_group_index": 0,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "오늘 아침 열 시에 회의실에서 회의가 있었습니다. 이번에 시작하는 새로운 프로젝트에 대해서 이야기했습니다. ( ㉠ ) 직원들이 모두 좋은 아이디어를 많이 냈습니다. ( ㉡ ) 그런데 한 가지 문제가 생겼습니다. ( ㉢ ) 회의실에 있는 컴퓨터 화면이 켜지지 않았습니다. ( ㉣ ) 그래서 우리는 칠판을 사용해서 프로젝트를 설명했습니다.",
+      "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[직원이 와서 컴퓨터를 확인했지만 고칠 수 없었습니다.]",
+      "options": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "answer": 3,
+      "explanation": "The computer issue is mentioned at (㉢). The attempt to fix it and the failure to do so logically leads to the alternative solution of using a blackboard (㉣)."
+    },
+    {
+      "id": "ai_content_match_010",
+      "section": "reading",
+      "topic": "Content Matching - Meeting",
+      "skill_type_id": "content_match",
+      "content_category_id": "work",
+      "model_q_num": 62,
+      "passage_group_id": "ai_grp_meeting_01",
+      "passage_group_index": 1,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "오늘 아침 열 시에 회의실에서 회의가 있었습니다. 이번에 시작하는 새로운 프로젝트에 대해서 이야기했습니다. 직원들이 모두 좋은 아이디어를 많이 냈습니다. 그런데 한 가지 문제가 생겼습니다. 회의실에 있는 컴퓨터 화면이 켜지지 않았습니다. 직원이 와서 컴퓨터를 확인했지만 고칠 수 없었습니다. 그래서 우리는 칠판을 사용해서 프로젝트를 설명했습니다.",
+      "options": [
+        "회의는 오후에 열렸습니다.",
+        "회의실의 컴퓨터는 잘 작동했습니다.",
+        "아이디어를 낸 직원이 한 명도 없었습니다.",
+        "우리는 칠판을 보면서 회의를 했습니다."
+      ],
+      "answer": 3,
+      "explanation": "Since the computer broke, they used the blackboard (칠판을 사용해서), matching Option 4."
+    },
+    {
+      "id": "ai_insert_sentence_003",
+      "section": "reading",
+      "topic": "Sentence Insertion - Smart Farm",
+      "skill_type_id": "insert_sentence",
+      "content_category_id": "daily_life",
+      "model_q_num": 63,
+      "passage_group_id": "ai_grp_smartfarm_01",
+      "passage_group_index": 0,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "요즘 집에서 식물을 키우는 스마트 팜이 인기가 많습니다. ( ㉠ ) 스마트폰을 사용하면 물을 주는 시간과 온도를 조절할 수 있습니다. ( ㉡ ) 집을 오래 비울 때도 식물을 걱정하지 않아도 됩니다. ( ㉢ ) 바쁜 직장인들에게 아주 편리합니다. ( ㉣ ) 이 기술을 사용하면 채소가 더 건강하게 잘 자랍니다.",
+      "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[저도 지난달에 베란다에 작은 스마트 팜을 하나 만들었습니다.]",
+      "options": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "answer": 0,
+      "explanation": "The target sentence introduces the speaker's personal experience. It fits best at (㉠) after the general introduction of the trend."
+    },
+    {
+      "id": "ai_content_match_011",
+      "section": "reading",
+      "topic": "Content Matching - Smart Farm",
+      "skill_type_id": "content_match",
+      "content_category_id": "daily_life",
+      "model_q_num": 64,
+      "passage_group_id": "ai_grp_smartfarm_01",
+      "passage_group_index": 1,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "요즘 집에서 식물을 키우는 스마트 팜이 인기가 많습니다. 저도 지난달에 베란다에 작은 스마트 팜을 하나 만들었습니다. 스마트폰을 사용하면 물을 주는 시간과 온도를 조절할 수 있습니다. 집을 오래 비울 때도 식물을 걱정하지 않아도 됩니다. 바쁜 직장인들에게 아주 편리합니다. 이 기술을 사용하면 채소가 더 건강하게 잘 자랍니다.",
+      "options": [
+        "스마트 팜은 관리가 아주 어렵습니다.",
+        "스마트 팜을 이용하면 채소가 잘 자랍니다.",
+        "스마트폰으로 온도를 조절할 수 없습니다.",
+        "집에 사람이 없으면 스마트 팜을 쓸 수 없습니다."
+      ],
+      "answer": 1,
+      "explanation": "The last sentence says vegetables grow better with this technology, matching Option 2."
+    },
+    {
+      "id": "ai_insert_sentence_004",
+      "section": "reading",
+      "topic": "Sentence Insertion - Lost Wallet",
+      "skill_type_id": "insert_sentence",
+      "content_category_id": "daily_life",
+      "model_q_num": 65,
+      "passage_group_id": "ai_grp_wallet_01",
+      "passage_group_index": 0,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "저는 어제 지하철에서 지갑을 잃어버렸습니다. ( ㉠ ) 지갑 안에는 돈과 신분증이 들어 있었습니다. ( ㉡ ) 너무 걱정이 되어서 지하철 유실물 센터에 가 보았습니다. ( ㉢ ) 다행히 친절한 사람이 제 지갑을 찾아서 거기에 맡겨 주었습니다. ( ㉣ ) 저는 지갑을 찾고 너무 기뻐서 눈물이 날 것 같았습니다.",
+      "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[가방 안을 다시 찾아봤지만 지갑은 없었습니다.]",
+      "options": [
+        "㉠",
+        "㉡",
+        "㉢",
+        "㉣"
+      ],
+      "answer": 0,
+      "explanation": "The speaker realizes they lost the wallet. Checking the bag again to confirm the loss fits naturally at (㉠) before describing the contents."
+    },
+    {
+      "id": "ai_content_match_012",
+      "section": "reading",
+      "topic": "Content Matching - Lost Wallet",
+      "skill_type_id": "content_match",
+      "content_category_id": "daily_life",
+      "model_q_num": 66,
+      "passage_group_id": "ai_grp_wallet_01",
+      "passage_group_index": 1,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "저는 어제 지하철에서 지갑을 잃어버렸습니다. 가방 안을 다시 찾아봤지만 지갑은 없었습니다. 지갑 안에는 돈과 신분증이 들어 있었습니다. 너무 걱정이 되어서 지하철 유실물 센터에 가 보았습니다. 다행히 친절한 사람이 제 지갑을 찾아서 거기에 맡겨 주었습니다. 저는 지갑을 찾고 너무 기뻐서 눈물이 날 것 같았습니다.",
+      "options": [
+        "저는 가방에서 지갑을 찾았습니다.",
+        "지갑 안에는 신분증이 없었습니다.",
+        "저는 유실물 센터에서 지갑을 찾았습니다.",
+        "지갑을 찾아준 사람은 돈을 가져갔습니다."
+      ],
+      "answer": 2,
+      "explanation": "The text states the speaker went to the lost and found center (유실물 센터) and found the wallet there, matching Option 3."
+    },
+    {
+      "id": "ai_reading_smart_shoes_001",
+      "section": "reading",
+      "topic": "Contextual Fill-in-the-blank - Smart Shoes",
+      "skill_type_id": "cloze_passage",
+      "content_category_id": "shopping",
+      "model_q_num": 67,
+      "passage_group_id": "ai_grp_smartshoes_01",
+      "passage_group_index": 0,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "최근 길을 잃기 쉬운 노인들을 위한 특별한 신발이 나왔습니다. 이 신발에는 위치 추적기가 들어 있어서 가족들이 스마트폰으로 노인의 위치를 확인할 수 있습니다. 신발을 ( ㉠ ) 밖으로 나가면 가족의 휴대폰에 알림이 옵니다. 이 신발 덕분에 노인들이 혼자 산책을 나갈 때 가족들이 더 안심할 수 있게 되었습니다.",
+      "options": [
+        "사고",
+        "신고",
+        "씻고",
+        "닦고"
+      ],
+      "answer": 1,
+      "explanation": "The context is about shoes (신발). The verb used for wearing shoes is '신다'. Therefore, '신고' (wearing and then...) is the correct choice."
+    },
+    {
+      "id": "ai_reading_smart_shoes_002",
+      "section": "reading",
+      "topic": "Content Matching - Smart Shoes",
+      "skill_type_id": "content_match",
+      "content_category_id": "shopping",
+      "model_q_num": 68,
+      "passage_group_id": "ai_grp_smartshoes_01",
+      "passage_group_index": 1,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "최근 길을 잃기 쉬운 노인들을 위한 특별한 신발이 나왔습니다. 이 신발에는 위치 추적기가 들어 있어서 가족들이 스마트폰으로 노인의 위치를 확인할 수 있습니다. 신발을 신고 밖으로 나가면 가족의 휴대폰에 알림이 옵니다. 이 신발 덕분에 노인들이 혼자 산책을 나갈 때 가족들이 더 안심할 수 있게 되었습니다.",
+      "options": [
+        "이 신발은 아이들을 위해 만들어졌습니다.",
+        "가족들은 노인의 위치를 알 수 없습니다.",
+        "노인이 밖으로 나가면 가족에게 연락이 갑니다.",
+        "이 신발은 디자인 때문에 인기가 많습니다."
+      ],
+      "answer": 2,
+      "explanation": "The text states that when the elderly person goes out wearing the shoes, a notification is sent to the family's phone, matching Option 3."
+    },
+    {
+      "id": "ai_reading_volunteer_001",
+      "section": "reading",
+      "topic": "Contextual Fill-in-the-blank - Volunteering",
+      "skill_type_id": "cloze_passage",
+      "content_category_id": "daily_life",
+      "model_q_num": 67,
+      "passage_group_id": "ai_grp_volunteer_01",
+      "passage_group_index": 0,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "인주동 주민센터에서는 매주 토요일마다 ‘반찬 나눔’ 봉사를 합니다. 요리를 잘하는 주민들이 모여서 맛있는 반찬을 만듭니다. 만든 반찬은 동네에 혼자 사시는 할머니와 할아버지께 ( ㉠ ). 처음에는 요리가 힘들었지만, 어르신들이 고맙다고 말씀해 주실 때 보람을 느낍니다.",
+      "options": [
+        "배워 드립니다",
+        "배달해 드립니다",
+        "팔아 드립니다",
+        "구경해 드립니다"
+      ],
+      "answer": 1,
+      "explanation": "The context is sharing/donating side dishes to the elderly. '배달해 드립니다' (delivering for them) is the most logical action for a sharing service."
+    },
+    {
+      "id": "ai_reading_volunteer_002",
+      "section": "reading",
+      "topic": "Content Matching - Volunteering",
+      "skill_type_id": "content_match",
+      "content_category_id": "daily_life",
+      "model_q_num": 68,
+      "passage_group_id": "ai_grp_volunteer_01",
+      "passage_group_index": 1,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "인주동 주민센터에서는 매주 토요일마다 ‘반찬 나눔’ 봉사를 합니다. 요리를 잘하는 주민들이 모여서 맛있는 반찬을 만듭니다. 만든 반찬은 동네에 혼자 사시는 할머니와 할아버지께 배달해 드립니다. 처음에는 요리가 힘들었지만, 어르신들이 고맙다고 말씀해 주실 때 보람을 느낍니다.",
+      "options": [
+        "이 봉사는 평일에만 진행됩니다.",
+        "요리를 못하는 사람만 이 봉사를 합니다.",
+        "어르신들은 반찬을 받고 기뻐하십니다.",
+        "주민들은 반찬을 시장에 가서 팝니다."
+      ],
+      "answer": 2,
+      "explanation": "The text mentions the elderly say 'thank you' and the volunteers feel a sense of worth, implying the recipients are happy (Option 3)."
+    },
+    {
+      "id": "ai_reading_workplace_001",
+      "section": "reading",
+      "topic": "Contextual Fill-in-the-blank - Workplace Coffee",
+      "skill_type_id": "cloze_passage",
+      "content_category_id": "work",
+      "model_q_num": 69,
+      "passage_group_id": "ai_grp_work_01",
+      "passage_group_index": 0,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "우리 회사는 직원들을 위해서 사무실에 작은 카페를 만들었습니다. 예전에는 커피를 마시러 밖으로 나가야 해서 ( ㉠ ). 하지만 이제는 사무실 안에서 편하게 커피를 마시며 쉴 수 있습니다. 직원들이 함께 모여서 이야기하는 시간도 많아졌습니다. 이 카페 덕분에 회사 분위기가 더 밝아졌습니다.",
+      "options": [
+        "시간이 부족했습니다",
+        "가격이 저렴했습니다",
+        "맛이 아주 좋았습니다",
+        "기분이 상쾌했습니다"
+      ],
+      "answer": 0,
+      "explanation": "The text contrasts the new convenience with the old situation where employees had to go outside. Going out to buy coffee is time-consuming, so '시간이 부족했습니다' (time was insufficient) is the best fit."
+    },
+    {
+      "id": "ai_reading_workplace_002",
+      "section": "reading",
+      "topic": "Content Matching - Workplace Coffee",
+      "skill_type_id": "content_match",
+      "content_category_id": "work",
+      "model_q_num": 70,
+      "passage_group_id": "ai_grp_work_01",
+      "passage_group_index": 1,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "우리 회사는 직원들을 위해서 사무실에 작은 카페를 만들었습니다. 예전에는 커피를 마시러 밖으로 나가야 해서 시간이 부족했습니다. 하지만 이제는 사무실 안에서 편하게 커피를 마시며 쉴 수 있습니다. 직원들이 함께 모여서 이야기하는 시간도 많아졌습니다. 이 카페 덕분에 회사 분위기가 더 밝아졌습니다.",
+      "options": [
+        "직원들은 회사 밖에서 대화를 많이 합니다.",
+        "이제 회사 안에서 커피를 마실 수 있습니다.",
+        "회사 분위기가 예전보다 조용해졌습니다.",
+        "직원들은 이 카페를 별로 좋아하지 않습니다."
+      ],
+      "answer": 1,
+      "explanation": "The text states that employees can now conveniently drink coffee and rest inside the office, matching Option 2."
+    },
+    {
+      "id": "ai_reading_rural_life_001",
+      "section": "reading",
+      "topic": "Contextual Fill-in-the-blank - Rural Transition",
+      "skill_type_id": "cloze_passage",
+      "content_category_id": "daily_life",
+      "model_q_num": 69,
+      "passage_group_id": "ai_grp_rural_01",
+      "passage_group_index": 0,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "저는 서울에서 오랫동안 살았습니다. 하지만 작년에 조용한 시골로 이사를 왔습니다. 처음에는 친구들이 없어서 조금 ( ㉠ ). 하지만 지금은 이웃 사람들과 친해져서 매일 같이 밭에서 채소를 키웁니다. 공기도 맑고 조용해서 서울보다 지금의 생활이 더 만족스럽습니다.",
+      "options": [
+        "외로웠습니다",
+        "즐거웠습니다",
+        "바빴습니다",
+        "시끄러웠습니다"
+      ],
+      "answer": 0,
+      "explanation": "The speaker mentions not having friends in the beginning, which logically leads to feeling '외로웠습니다' (lonely)."
+    },
+    {
+      "id": "ai_reading_rural_life_002",
+      "section": "reading",
+      "topic": "Content Matching - Rural Transition",
+      "skill_type_id": "content_match",
+      "content_category_id": "daily_life",
+      "model_q_num": 70,
+      "passage_group_id": "ai_grp_rural_01",
+      "passage_group_index": 1,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "저는 서울에서 오랫동안 살았습니다. 하지만 작년에 조용한 시골로 이사를 왔습니다. 처음에는 친구들이 없어서 조금 외로웠습니다. 하지만 지금은 이웃 사람들과 친해져서 매일 같이 밭에서 채소를 키웁니다. 공기도 맑고 조용해서 서울보다 지금의 생활이 더 만족스럽습니다.",
+      "options": [
+        "저는 지금 도시에서 살고 있습니다.",
+        "저는 이웃 사람들을 한 명도 모릅니다.",
+        "저는 시골 생활이 아주 마음에 듭니다.",
+        "저는 밭에서 일하는 것을 싫어합니다."
+      ],
+      "answer": 2,
+      "explanation": "The speaker states they are more satisfied with their current life than in Seoul, matching Option 3 (마음에 듭니다)."
+    },
+    {
+      "id": "ai_reading_smart_trash_001",
+      "section": "reading",
+      "topic": "Contextual Fill-in-the-blank - Smart Trash Cans",
+      "skill_type_id": "cloze_passage",
+      "content_category_id": "public_info",
+      "model_q_num": 67,
+      "passage_group_id": "ai_grp_trash_01",
+      "passage_group_index": 0,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "요즘 길거리에는 똑똑한 쓰레기통이 설치되고 있습니다. 이 쓰레기통은 쓰레기가 꽉 차면 자동으로 ( ㉠ ). 그래서 쓰레기가 밖으로 넘치지 않습니다. 또한 태양 에너지를 사용해서 스스로 작동하기 때문에 전기도 아낄 수 있습니다. 이 쓰레기통 덕분에 거리가 더 깨끗해질 것으로 기대됩니다.",
+      "options": [
+        "열어 줍니다",
+        "눌러 줍니다",
+        "빌려 줍니다",
+        "옮겨 줍니다"
+      ],
+      "answer": 1,
+      "explanation": "The text explains how the bin prevents overflowing. Smart bins usually 'compress' or 'press down' (눌러 줍니다) the trash to make more room."
+    },
+    {
+      "id": "ai_reading_smart_trash_002",
+      "section": "reading",
+      "topic": "Content Matching - Smart Trash Cans",
+      "skill_type_id": "content_match",
+      "content_category_id": "public_info",
+      "model_q_num": 68,
+      "passage_group_id": "ai_grp_trash_01",
+      "passage_group_index": 1,
+      "source": "hanuri_ai",
+      "level": "topik1",
+      "passage": "요즘 길거리에는 똑똑한 쓰레기통이 설치되고 있습니다. 이 쓰레기통은 쓰레기가 꽉 차면 자동으로 눌러 줍니다. 그래서 쓰레기가 밖으로 넘치지 않습니다. 또한 태양 에너지를 사용해서 스스로 작동하기 때문에 전기도 아낄 수 있습니다. 이 쓰레기통 덕분에 거리가 더 깨끗해질 것으로 기대됩니다.",
+      "options": [
+        "이 쓰레기통은 전기를 많이 사용합니다.",
+        "쓰레기가 꽉 차면 밖으로 그냥 나옵니다.",
+        "태양 에너지를 이용해서 움직이는 쓰레기통입니다.",
+        "사람들이 직접 쓰레기를 눌러야 합니다."
+      ],
+      "answer": 2,
+      "explanation": "The text states the trash can uses solar energy (태양 에너지) to operate itself, matching Option 3."
+    }
+  ]

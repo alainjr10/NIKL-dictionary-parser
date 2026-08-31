@@ -1,0 +1,68 @@
+{
+    "skills": [
+      {
+        "skill_type_id": "topic_id",
+        "title_en": "Topic Identification",
+        "title_ko": "주제 고르기",
+        "description": "Identify the main subject (Noun) of short sentences.",
+        "exam_range": "31-33",
+        "difficulty_order": 1
+      },
+      {
+        "skill_type_id": "cloze_vocab",
+        "title_en": "Vocabulary & Grammar",
+        "title_ko": "빈칸 채우기 (단어/문법)",
+        "description": "Choose the correct verb, adjective, or particle for a sentence.",
+        "exam_range": "34-39",
+        "difficulty_order": 2
+      },
+      {
+        "skill_type_id": "info_match",
+        "title_en": "Information Matching",
+        "title_ko": "실용문 파악",
+        "description": "Extract details from posters, schedules, and signs.",
+        "exam_range": "40-42",
+        "difficulty_order": 3
+      },
+      {
+        "skill_type_id": "content_match",
+        "title_en": "Detail Matching",
+        "title_ko": "세부 내용 파악",
+        "description": "Find the statement that exactly matches the passage content.",
+        "exam_range": "43-45, 50, 52, 54, 56, 60, 62, 64, 66, 68, 70",
+        "difficulty_order": 4
+      },
+      {
+        "skill_type_id": "main_idea",
+        "title_en": "Main Idea",
+        "title_ko": "중심 생각 파악",
+        "description": "Identify the core intent or feeling of the speaker.",
+        "exam_range": "46-48",
+        "difficulty_order": 5
+      },
+      {
+        "skill_type_id": "cloze_passage",
+        "title_en": "Contextual Cloze",
+        "title_ko": "문맥 빈칸 채우기",
+        "description": "Choose the correct expression to fill a blank within a full passage.",
+        "exam_range": "49, 51, 53, 55, 67, 69",
+        "difficulty_order": 6
+      },
+      {
+        "skill_type_id": "ordering",
+        "title_en": "Sentence Ordering",
+        "title_ko": "문장 순서 배열",
+        "description": "Arrange four sentences in a logical sequential order.",
+        "exam_range": "57-58",
+        "difficulty_order": 7
+      },
+      {
+        "skill_type_id": "insert_sentence",
+        "title_en": "Sentence Insertion",
+        "title_ko": "문장 삽입",
+        "description": "Find the correct location for a specific target sentence.",
+        "exam_range": "59, 61, 63, 65",
+        "difficulty_order": 8
+      }
+    ]
+  }
