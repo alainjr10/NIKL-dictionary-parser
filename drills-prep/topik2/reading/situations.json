@@ -1,0 +1,130 @@
+{
+  "situations": [
+    {
+      "content_category_id": "daily_life",
+      "title_en": "Daily Life",
+      "title_ko": "일상생활",
+      "description": "Family, home, etiquette, parenting, and everyday routines.",
+      "eps_priority": false
+    },
+    {
+      "content_category_id": "leisure",
+      "title_en": "Leisure & Sports",
+      "title_ko": "여가 및 스포츠",
+      "description": "Sports, hobbies, camping, concerts, and free-time activities.",
+      "eps_priority": false
+    },
+    {
+      "content_category_id": "food_dining",
+      "title_en": "Food & Dining",
+      "title_ko": "식사 및 요리",
+      "description": "Restaurants, recipes, cooking science, and food products.",
+      "eps_priority": false
+    },
+    {
+      "content_category_id": "shopping",
+      "title_en": "Shopping & Consumption",
+      "title_ko": "쇼핑 및 소비",
+      "description": "Buying goods, pop-up stores, delivery trends, and consumer behavior.",
+      "eps_priority": true
+    },
+    {
+      "content_category_id": "transport",
+      "title_en": "Transportation",
+      "title_ko": "교통 및 이동",
+      "description": "Commuting, traffic policy, subways, buses, and driving.",
+      "eps_priority": true
+    },
+    {
+      "content_category_id": "travel",
+      "title_en": "Travel & Tourism",
+      "title_ko": "여행 및 관광",
+      "description": "Trips, sightseeing, tour buses, and travel headlines.",
+      "eps_priority": true
+    },
+    {
+      "content_category_id": "hospital",
+      "title_en": "Health & Pharmacy",
+      "title_ko": "건강 및 병원",
+      "description": "Clinical care, medical exams, emergencies, and hospital settings.",
+      "eps_priority": true
+    },
+    {
+      "content_category_id": "health",
+      "title_en": "Wellness & Self-Care",
+      "title_ko": "건강 관리",
+      "description": "Preventive care, body care, wellness policy, and mild illness.",
+      "eps_priority": true
+    },
+    {
+      "content_category_id": "work",
+      "title_en": "Workplace",
+      "title_ko": "직장 생활",
+      "description": "Jobs, startups, office life, and career decisions.",
+      "eps_priority": true
+    },
+    {
+      "content_category_id": "school",
+      "title_en": "School & Education",
+      "title_ko": "학교 및 교육",
+      "description": "Schools, universities, learning methods, and education policy.",
+      "eps_priority": false
+    },
+    {
+      "content_category_id": "culture",
+      "title_en": "Culture & Arts",
+      "title_ko": "문화 및 예술",
+      "description": "Books, film, music, exhibitions, heritage, and the arts.",
+      "eps_priority": false
+    },
+    {
+      "content_category_id": "public_info",
+      "title_en": "Public Information",
+      "title_ko": "공공 정보",
+      "description": "Notices, signs, charts, headlines, and factual info matching.",
+      "eps_priority": true
+    },
+    {
+      "content_category_id": "environment",
+      "title_en": "Environment & Ecology",
+      "title_ko": "환경 및 생태",
+      "description": "Recycling, pollution, conservation, climate, and natural resources.",
+      "eps_priority": false
+    },
+    {
+      "content_category_id": "technology",
+      "title_en": "Technology & Innovation",
+      "title_ko": "기술 및 혁신",
+      "description": "Digital life, inventions, space tech, and new devices.",
+      "eps_priority": false
+    },
+    {
+      "content_category_id": "science",
+      "title_en": "Science & Nature",
+      "title_ko": "과학 및 자연",
+      "description": "Biology, physics, research findings, and natural phenomena.",
+      "eps_priority": false
+    },
+    {
+      "content_category_id": "society",
+      "title_en": "Society & Social Issues",
+      "title_ko": "사회 및 사회 문제",
+      "description": "Welfare, demographics, public safety, politics, and community life.",
+      "eps_priority": false
+    },
+    {
+      "content_category_id": "economy",
+      "title_en": "Economy & Business",
+      "title_ko": "경제 및 비즈니스",
+      "description": "Markets, trade, corporate news, tax policy, and financial headlines.",
+      "eps_priority": true
+    },
+    {
+      "content_category_id": "history",
+      "title_en": "History & Heritage",
+      "title_ko": "역사 및 전통",
+      "description": "Historical events, traditions, myths, and cultural heritage origins.",
+      "eps_priority": false
+    }
+  ]
+}
