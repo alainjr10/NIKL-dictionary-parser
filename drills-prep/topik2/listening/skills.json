@@ -1,0 +1,132 @@
+{
+  "skills": [
+    {
+      "skill_type_id": "visual_match",
+      "title_en": "Picture & Graph Selection",
+      "title_ko": "그림·그래프 고르기",
+      "description": "Choose the picture or chart that matches the spoken description.",
+      "exam_range": "1-3",
+      "difficulty_order": 1
+    },
+    {
+      "skill_type_id": "dialogue_continuation",
+      "title_en": "Dialogue Continuation",
+      "title_ko": "대화 이어 말하기",
+      "description": "Select the most natural next line in a two-person conversation.",
+      "exam_range": "4-8",
+      "difficulty_order": 2
+    },
+    {
+      "skill_type_id": "next_action",
+      "title_en": "Next Action",
+      "title_ko": "이어질 행동",
+      "description": "Predict what the speaker will do next based on the dialogue.",
+      "exam_range": "9-12",
+      "difficulty_order": 3
+    },
+    {
+      "skill_type_id": "content_match",
+      "title_en": "Detail Matching",
+      "title_ko": "들은 내용 일치",
+      "description": "Choose the statement that exactly matches what was heard.",
+      "exam_range": "13-16, 22, 24, 26, 28, 30, 34, 36, 38, 40, 42, 45, 47, 49",
+      "difficulty_order": 4
+    },
+    {
+      "skill_type_id": "main_idea",
+      "title_en": "Speaker's Main Idea",
+      "title_ko": "화자의 중심 생각",
+      "description": "Identify the speaker's central opinion or point in a dialogue or talk.",
+      "exam_range": "17-21, 25, 37",
+      "difficulty_order": 5
+    },
+    {
+      "skill_type_id": "activity_id",
+      "title_en": "Activity Identification",
+      "title_ko": "행위·상황 파악",
+      "description": "Determine what the speaker is doing or inquiring about.",
+      "exam_range": "23, 35",
+      "difficulty_order": 6
+    },
+    {
+      "skill_type_id": "speaker_intent",
+      "title_en": "Speaker's Intent",
+      "title_ko": "화자의 의도",
+      "description": "Infer why the speaker is saying something to the other person.",
+      "exam_range": "27",
+      "difficulty_order": 7
+    },
+    {
+      "skill_type_id": "speaker_role",
+      "title_en": "Speaker's Role",
+      "title_ko": "화자의 신분·역할",
+      "description": "Identify who the speaker is or what their job/role is.",
+      "exam_range": "29",
+      "difficulty_order": 8
+    },
+    {
+      "skill_type_id": "speaker_opinion",
+      "title_en": "Speaker's Opinion",
+      "title_ko": "화자의 견해",
+      "description": "Identify the speaker's view on a debated or discussed topic.",
+      "exam_range": "31",
+      "difficulty_order": 9
+    },
+    {
+      "skill_type_id": "speaker_attitude",
+      "title_en": "Speaker's Attitude",
+      "title_ko": "화자의 태도",
+      "description": "Identify the speaker's stance or attitude toward the topic.",
+      "exam_range": "32, 48, 50",
+      "difficulty_order": 10
+    },
+    {
+      "skill_type_id": "topic_id",
+      "title_en": "Topic Identification",
+      "title_ko": "담화 주제",
+      "description": "Determine what the talk or segment is about.",
+      "exam_range": "33",
+      "difficulty_order": 11
+    },
+    {
+      "skill_type_id": "context_before",
+      "title_en": "Prior Context",
+      "title_ko": "담화 앞 내용",
+      "description": "Infer what happened or was said immediately before this segment.",
+      "exam_range": "39",
+      "difficulty_order": 12
+    },
+    {
+      "skill_type_id": "lecture_main",
+      "title_en": "Lecture Main Idea",
+      "title_ko": "강연 중심 내용",
+      "description": "Identify the central point of a lecture or presentation.",
+      "exam_range": "41",
+      "difficulty_order": 13
+    },
+    {
+      "skill_type_id": "documentary_main",
+      "title_en": "Documentary Main Idea",
+      "title_ko": "다큐 중심 내용",
+      "description": "Identify the main focus of a documentary or narrative segment.",
+      "exam_range": "43",
+      "difficulty_order": 14
+    },
+    {
+      "skill_type_id": "documentary_detail",
+      "title_en": "Documentary Detail",
+      "title_ko": "다큐 세부 정보",
+      "description": "Answer a specific detail question from a documentary segment.",
+      "exam_range": "44",
+      "difficulty_order": 15
+    },
+    {
+      "skill_type_id": "speaking_style",
+      "title_en": "Speaking Style",
+      "title_ko": "화자의 말하는 방식",
+      "description": "Identify how the speaker is presenting information (explaining, criticizing, etc.).",
+      "exam_range": "46",
+      "difficulty_order": 16
+    }
+  ]
+}
