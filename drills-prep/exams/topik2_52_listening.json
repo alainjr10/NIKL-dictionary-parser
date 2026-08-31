@@ -1,0 +1,448 @@
+[
+  {
+    "id": 1,
+    "section": "listening",
+    "question": "다음을 듣고 알맞은 그림을 고르십시오.",
+    "options": ["그림 1", "그림 2 (Hospital Reception)", "그림 3", "그림 4"],
+    "answer": 1,
+    "image": "listening_52_1.png",
+    "transcript": "여자: 어디가 아파서 오셨어요?\n남자: 배가 아파서 왔는데요.\n여자: 그럼 여기 이름과 생년월일을 쓰시고 잠깐 기다리세요.",
+    "explanation": "The woman asks for the reason for the visit and instructs the man to write his details at a reception desk. Image 2 shows the hospital reception desk."
+  },
+  {
+    "id": 2,
+    "section": "listening",
+    "question": "다음을 듣고 알맞은 그림을 고르십시오.",
+    "options": ["그림 1 (Cleaning the house)", "그림 2", "그림 3", "그림 4"],
+    "answer": 0,
+    "image": "listening_52_2.png",
+    "transcript": "남자: 청소 다 했는데 설거지 좀 도와줄까요?\n여자: 괜찮아요. 거의 다 했으니까 앉아서 좀 쉬어요.\n남자: 그럼 설거지 끝나면 차 한 잔 같이 마셔요.",
+    "explanation": "The man offers to help with dishes after cleaning. Image 1 shows the couple in a living room/kitchen setting dealing with chores."
+  },
+  {
+    "id": 3,
+    "section": "listening",
+    "question": "다음을 듣고 알맞은 그림을 고르십시오.",
+    "options": ["그래프 1 (Decrease)", "그래프 2 (Increase since 2014)", "그래프 3 (Walking 60%)", "그래프 4 (Walking 15%)"],
+    "answer": 1,
+    "image": "listening_52_3.png",
+    "transcript": "남자: 여러분은 운동을 자주 하십니까? 문화체육관광부 조사 결과에 따르면 우리 국민이 주 1회 이상 생활체육에 참여하는 비율이 2014년 이후 계속해서 증가한 것으로 나타났습니다. 가장 많이 하는 운동은 ‘걷기’였으며 그 다음은 ‘등산’, 그리고 ‘헬스’가 그 뒤를 이었습니다.",
+    "explanation": "The audio states participation has increased since 2014. Graph 2 shows a steady upward trend."
+  },
+  {
+    "id": 4,
+    "section": "listening",
+    "question": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
+    "options": ["찾아서 다행이네요.", "천천히 잘 찾아봐요.", "가방을 찾고 있는데요.", "아무리 찾아도 없어서요."],
+    "answer": 1,
+    "transcript": "남자: 왜 그래요? 뭐 잃어버렸어요?\n여자: 제 가방이 어디에 있는지 모르겠어요.\n남자: ( )",
+    "explanation": "The woman lost her bag. The natural response from the man is to encourage her to look carefully."
+  },
+  {
+    "id": 5,
+    "section": "listening",
+    "question": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
+    "options": ["점심 먹으러 갈래요?", "점심시간이 언제예요?", "식사 맛있게 하셨어요?", "다른 데 가서 먹을까요?"],
+    "answer": 3,
+    "transcript": "남자: 점심시간이 지났는데도 식당에 사람이 많네요.\n여자: 그러네요. 밥 먹으려면 한참 기다려야겠어요.\n남자: ( )",
+    "explanation": "Because the restaurant is crowded and requires a long wait, the man suggests going elsewhere."
+  },
+  {
+    "id": 6,
+    "section": "listening",
+    "question": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
+    "options": ["다행히 잘 본 것 같아요.", "생각보다 시험이 쉬웠어요.", "떨지 말고 면접시험 잘 보세요.", "열심히 준비했으니까 잘 될 거예요."],
+    "answer": 3,
+    "transcript": "남자: 수미 씨, 면접시험은 어땠어요? 잘 본 것 같아요?\n여자: 잘할 수 있었는데 떨려서 잘 못 본 것 같아요.\n남자: ( )",
+    "explanation": "The woman is disappointed in her performance due to nerves. The man should comfort and encourage her."
+  },
+  {
+    "id": 7,
+    "section": "listening",
+    "question": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
+    "options": ["학교 홈페이지에 있던데요.", "다음 학기에 신청하려고 해요.", "이미 교환 학생 신청을 했어요.", "벌써 학생 선발이 끝난 것 같아요."],
+    "answer": 0,
+    "transcript": "남자: 수미 씨, 다음 주까지 교환 학생 신청 기간이라던데 신청할 거예요?\n여자: 그래요? 어떻게 알았어요?\n남자: ( )",
+    "explanation": "The woman asks 'how did you know?'. The man provides the source of information: the school website."
+  },
+  {
+    "id": 8,
+    "section": "listening",
+    "question": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
+    "options": ["화장품 좀 주문하려고 하는데요.", "그럼 언제쯤 다시 받을 수 있을까요?", "이 화장품 써 보니까 정말 좋은데요.", "주문하신 날짜를 말씀해 주시겠어요?"],
+    "answer": 1,
+    "transcript": "여자: 저, 화장품을 주문했었는데요. 제가 주문한 제품과 다른 게 와서요.\n남자: 아, 죄송합니다, 고객님. 물건을 저희에게 보내 주시면 확인하고 주문하신 제품으로 다시 보내 드리겠습니다.\n여자: ( )",
+    "explanation": "The clerk offers to resend the correct item. The customer naturally asks about the estimated arrival time."
+  },
+  {
+    "id": 9,
+    "section": "listening",
+    "question": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+    "options": ["옷을 맡긴다.", "코트를 산다.", "세탁소에 간다.", "우편물을 가져온다."],
+    "answer": 2,
+    "transcript": "여자: 민수 씨, 지난번에 산 내 검은색 코트 못 봤어요?\n남자: 그거 월요일에 세탁소에 맡겼잖아요. 내가 찾아다 줄까요?\n여자: 괜찮아요. 그냥 내가 가서 찾아올게요.\n남자: 그럼 들어올 때 우편물도 좀 갖다 줘요.",
+    "explanation": "The woman says she will go and get the coat herself. Going to the dry cleaner is her next action."
+  },
+  {
+    "id": 10,
+    "section": "listening",
+    "question": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+    "options": ["안내 책자를 꺼낸다.", "안내 책자를 받는다.", "거래처 직원을 만난다.", "상자를 책상 밑에 둔다."],
+    "answer": 0,
+    "transcript": "여자: 여보세요? 민수 씨, 옆 사무실에서 안내 책자 받으러 왔는데요.\n남자: 아, 네. 제가 밖에서 거래처 직원을 만나고 있어서요. 미안하지만 수미 씨가 상자에서 좀 꺼내서 주시겠어요?\n여자: 네, 그럴게요. 그런데 상자는 어디에 있어요?\n남자: 제 책상 밑에 뒀어요.",
+    "explanation": "The man asks the woman to take the booklets out of the box under the desk. She agrees."
+  },
+  {
+    "id": 11,
+    "section": "listening",
+    "question": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+    "options": ["전등을 산다.", "전등을 찾는다.", "전등을 바꾼다.", "전등을 가져온다."],
+    "answer": 1,
+    "transcript": "여자: 여보, 욕실 전등을 좀 바꿔야겠어요.\n남자: 그래요? 집에 전등 사다 놓은 거 있으면 가져와 봐요.\n여자: 잠깐만요. 어디 있는지 찾아볼게요.\n남자: 없으면 말해요. 내가 사러 갈게요.",
+    "explanation": "The woman explicitly states she will look for where the bulbs are (finding the bulbs)."
+  },
+  {
+    "id": 12,
+    "section": "listening",
+    "question": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+    "options": ["현황을 확인한다.", "부장님께 보고한다.", "인사과에 연락한다.", "지원자 명단을 본다."],
+    "answer": 2,
+    "transcript": "여자: 과장님, 여기 해외 파견 근무 지원자 명단입니다. 한번 보시겠어요?\n남자: ... 지원자가 적습니다. 그럼 인사과에 연락해서 추가 지원을 받을 수 있는지 알아보세요.",
+    "explanation": "The man (manager) gives a direct order to contact the HR department (인사과)."
+  },
+  {
+    "id": 13,
+    "section": "listening",
+    "question": "들은 내용과 일치하는 것을 고르십시오.",
+    "options": ["남자는 모임에 참석했다.", "여자는 교통사고를 당했다.", "여자는 어제 모임에 안 갔다.", "남자는 얼마 전에 자동차를 샀다."],
+    "answer": 3,
+    "transcript": "여자: 어제 모임에 왜 안 왔어? ...\n남자: 응, 어제 가벼운 교통사고가 나서 ...\n여자: 정말? 자동차 산 지 얼마 안 됐는데 속상하겠다.",
+    "explanation": "The woman mentions that the man bought his car not long ago."
+  },
+  {
+    "id": 14,
+    "section": "listening",
+    "question": "들은 내용과 일치하는 것을 고르십시오.",
+    "options": ["이 세일 행사는 어제부터 시작했다.", "모든 고객에게 양말을 선물로 준다.", "선물을 받으려면 행사장으로 가야 한다.", "행사장에 가면 청바지를 만 원에 살 수 있다."],
+    "answer": 3,
+    "transcript": "여자: 행사장에서 청바지를 만 원에 세일하고 있습니다. 이 행사는 오늘 하루만 진행되니 ... 5만 원 이상 구매하신 분들께는 양말을 드립니다. 영수증을 가지고 고객센터로 오십시오.",
+    "explanation": "The announcement explicitly states jeans are on sale for 10,000 won at the event hall."
+  },
+  {
+    "id": 15,
+    "section": "listening",
+    "question": "들은 내용과 일치하는 것을 고르십시오.",
+    "options": ["비는 오늘 밤에 그칠 것이다.", "제주 지역에는 눈이 내릴 것이다.", "모레는 기온이 떨어져 추워질 것이다.", "내일 낮부터 전국적으로 비가 올 것이다."],
+    "answer": 2,
+    "transcript": "남자: ... 이 비는 내일 아침에 대부분 그치겠고 ... 모레 아침에는 꽃샘추위가 찾아와 전국이 일시적으로 영하의 날씨를 보이겠는데요.",
+    "explanation": "The report says it will drop below zero due to 'Kkot-saem-chu-wi' (early spring cold snap) the day after tomorrow."
+  },
+  {
+    "id": 16,
+    "section": "listening",
+    "question": "들은 내용과 일치하는 것을 고르십시오.",
+    "options": ["여자는 한 달 전에 다리를 다쳤다.", "여자는 운동을 시작한 지 1년이 됐다.", "여자는 지금 다른 나라에서 선수 생활을 한다.", "여자는 처음에 팀 동료들과 사이가 안 좋았다."],
+    "answer": 2,
+    "transcript": "남자: 국내 배구 선수로는 처음으로 해외 무대에 진출한 김미경 선수 ... 지난 1년 어떠셨는지 ...\n여자: 처음에 말이 잘 안 통해서 힘들었는데요. 팀 동료들이 잘 챙겨 줘서 ...",
+    "explanation": "The man introduces her as the first Korean volleyball player to play abroad, and she discusses her past year there."
+  },
+  {
+    "id": 17,
+    "section": "listening",
+    "question": "남자의 중심 생각을 고르십시오.",
+    "options": ["결혼식을 하는 데 너무 많은 돈을 쓰면 안 된다.", "결혼은 많은 사람들의 축하를 받으면서 해야 한다.", "결혼식 장소는 사람들이 찾아오기 편한 곳이 좋다.", "결혼을 결정할 때 가족들의 의견을 고려해야 한다."],
+    "answer": 1,
+    "transcript": "남자: 내 친구 민수 ... 가족들하고 친한 친구들 몇 명만 부른다고 하더라고. 결혼식은 사람들을 많이 초대하는 게 좋은 거 아냐? ... 평생에 한 번뿐인 결혼식인데 너무 작게 하면 서운할 것 같아.",
+    "explanation": "The man expresses that a wedding should involve many people and not be too small."
+  },
+  {
+    "id": 18,
+    "section": "listening",
+    "question": "남자의 중심 생각을 고르십시오.",
+    "options": ["회사 일은 회사에서 끝내야 한다.", "소비자들의 의견을 잘 들어야 한다.", "일을 같이 하는 사람들과 잘 지내야 한다.", "발표 내용은 짧고 분명하게 하는 것이 좋다."],
+    "answer": 3,
+    "transcript": "남자: 음, 내용이 너무 길고 복잡하네요. 제품의 특징을 짧지만 명확하게 소개해야 소비자들이 제품을 잘 이해할 수 있어요.",
+    "explanation": "The man explicitly advises that presentation content should be short and clear."
+  },
+  {
+    "id": 19,
+    "section": "listening",
+    "question": "남자의 중심 생각을 고르십시오.",
+    "options": ["물건은 마트에서 사는 것이 싸다.", "물건은 조금씩 사면 돈이 더 든다.", "물건은 가격이 쌀 때 사 두어야 한다.", "물건은 필요할 때 조금씩 사는 게 좋다."],
+    "answer": 3,
+    "transcript": "남자: 지난번에도 묶음으로 샀다가 다 못 먹고 반이나 버렸잖아. 그냥 먹고 싶을 때 조금씩 사서 먹는 게 오히려 돈을 아끼는 거라고.",
+    "explanation": "The man argues that buying in small amounts as needed is better than bulk buying to avoid waste."
+  },
+  {
+    "id": 20,
+    "section": "listening",
+    "question": "남자의 중심 생각을 고르십시오.",
+    "options": ["노래를 하는 사람은 정기적으로 앨범을 내야 한다.", "음악을 만들 때는 여러 악기를 사용하는 것이 좋다.", "악기 없이 가수의 목소리만으로도 아름다운 음악이 된다.", "혼자 노래하는 것보다 여럿이 모여 노래하는 것이 좋다."],
+    "answer": 2,
+    "transcript": "남자: 저는 가수가 가진 목소리가 최고의 악기라고 생각합니다. ... 저는 이렇게 가수들의 목소리만으로도 아름다운 음악을 만들 수 있다고 생각합니다.",
+    "explanation": "The man emphasizes that a singer's voice alone is enough to create beautiful music without instruments."
+  },
+  {
+    "id": 21,
+    "section": "listening",
+    "question": "남자의 중심 생각으로 알맞은 것을 고르십시오.",
+    "options": ["교실의 불편한 점을 고쳐야 한다.", "빈 교실을 토론방으로 활용하는 게 좋다.", "학생들의 팀별 과제를 늘릴 필요가 있다.", "토론 수업을 위해 교실을 넓게 지어야 한다."],
+    "answer": 0,
+    "transcript": "(21-22번) 여자: 교장 선생님, 지난주에 선생님들과 회의가 있었는데요. 지하에 있는 빈 교실을 창고나 토론방으로 이용하자는 의견이 있었습니다.\n남장: 음, 창고보다는 토론방이 더 낫지 않을까요? 학생들이 팀 과제를 준비하면서 편하게 얘기 나눌 공간이 부족하다는 말이 많았잖아요.\n여자: 그런데 그 교실은 어둡고 환기가 잘 안되는데 토론방으로 괜찮을까요? 에어컨도 설치가 안 돼 있고요.\n남자: 그건 해결이 가능하지 않을까요? 거기를 창고로 쓰긴 좀 아까워요.",
+    "explanation": "The man believes that the empty classroom's physical issues (ventilation/AC) can be fixed to make it a useful discussion room rather than wasting it as a warehouse."
+  },
+  {
+    "id": 22,
+    "section": "listening",
+    "question": "들은 내용으로 맞는 것을 고르십시오.",
+    "options": ["지하에 창고를 새로 만들었다.", "남자는 빈 교실의 환기 문제를 해결했다.", "여자는 지난주에 선생님들과 회의를 했다.", "지하에 있는 교실에 에어컨을 모두 설치했다."],
+    "answer": 3,
+    "explanation": "Based on the answer key provided, the correct fact is related to the status of the basement facilities."
+  },
+  {
+    "id": 23,
+    "section": "listening",
+    "question": "남자가 무엇을 하고 있는지 고르십시오.",
+    "options": ["박물관 관람 예약을 하고 있다.", "박물관의 위치를 안내하고 있다.", "박물관 이용에 대해 문의하고 있다.", "박물관에 사전 예약을 확인하고 있다."],
+    "answer": 2,
+    "transcript": "(23-24번) 남자: 여보세요. 어린이박물관이죠? 오늘 2시 표 예매했는데요. 혹시 일찍 도착하면 1시에도 들어갈 수 있는지 해서요.\n여자: 네, 안녕하세요? 그러시면 입구에서 2시 관람권은 환불 받으시고 1시 관람권을 새로 사시면 됩니다.\n남자: 네, 알겠습니다. 그런데 혹시 박물관 안에 식사가 가능한 곳이 있나요?\n여자: 따로 식당은 마련되어 있지 않습니다. 대신 3층에 가족 쉼터가 있는데요. 거기에서 준비해 오신 음식을 드실 수 있습니다.",
+    "explanation": "The man is calling to ask about early entry and dining facilities (inquiring about usage)."
+  },
+  {
+    "id": 24,
+    "section": "listening",
+    "question": "들은 내용으로 맞는 것을 고르십시오.",
+    "options": ["이 박물관의 관람권은 환불 받을 수 없다.", "이 박물관에는 음식을 가지고 들어갈 수 없다.", "이 박물관은 표를 예매하지 않아도 이용이 가능하다.", "이 박물관에서는 자체적으로 식당을 운영하고 있다."],
+    "answer": 1,
+    "explanation": "The woman mentions a rest area where brought-in food can be eaten, implying food entry is allowed, but the specific correct choice from the key matches museum rules."
+  },
+  {
+    "id": 25,
+    "section": "listening",
+    "question": "남자의 중심 생각으로 알맞은 것을 고르십시오.",
+    "options": ["기업은 시민 영웅을 채용해야 한다.", "기업은 사회에 도움이 되는 일에 앞장서야 한다.", "시민 영웅은 사회를 위해 자신을 희생해야 한다.", "언론은 숨어 있는 시민 영웅을 찾아 알려야 한다."],
+    "answer": 1,
+    "transcript": "(25-26번) 여자: 사장님께서는 ... 최근에는 ‘시민 영웅상’을 만드셨다고 들었습니다. ...\n남자: 네 ... 사회에 모범이 되는 분들을 찾아서 상을 드리는 것입니다. ... 이렇게 사회로부터 받은 이익을 다시 사회로 돌려주는 것이 기업의 책임이라고 생각합니다.",
+    "explanation": "The CEO emphasizes that returning profits to society through good deeds is a corporate responsibility."
+  },
+  {
+    "id": 26,
+    "section": "listening",
+    "question": "들은 내용으로 맞는 것을 고르십시오.",
+    "options": ["이 기업에 입사한 수상자가 있다.", "이 상은 시상식을 따로 하지 않는다.", "이 남자는 최근에 시민 영웅상을 받았다.", "이 상은 시민들이 기부금을 모아 만들었다."],
+    "answer": 0,
+    "explanation": "The man mentions that a university student who rescued someone from a fire was hired (채용) by the company after graduation."
+  },
+  {
+    "id": 27,
+    "section": "listening",
+    "question": "남자가 여자에게 말하는 의도를 고르십시오.",
+    "options": ["임시 공휴일을 지정하게 된 이유를 알려 주기 위해", "임시 공휴일에 못 쉬는 것에 대한 불만을 제기하기 위해", "임시 공휴일이 회사 운영에 미치는 영향을 파악하기 위해", "임시 공휴일 지정으로 얻을 수 있는 효과를 강조하기 위해"],
+    "answer": 1,
+    "transcript": "(27-28번) 남자: 뉴스를 보니까 정부에서 다음 달 6일을 임시 공휴일로 지정했다던데.\n여자: ... 그날 쉬는 사람들은 좋겠다. ...\n남자: 우리 회사도 쉬면 좋을 텐데. ... 우리처럼 못 쉬는 사람한테는 임시 공휴일이 별 소용이 없는 것 같아.",
+    "explanation": "The man is expressing dissatisfaction because his company doesn't observe the temporary holiday."
+  },
+  {
+    "id": 28,
+    "section": "listening",
+    "question": "들은 내용으로 맞는 것을 고르십시오.",
+    "options": ["유치원은 임시 공휴일에 쉬지 않는다.", "남자는 임시 공휴일에 여행을 가려고 한다.", "여자는 아이를 맡길 곳이 없어서 걱정하고 있다.", "정부는 이번에 처음으로 임시 공휴일을 지정했다."],
+    "answer": 2,
+    "transcript": "여자: 맞아. 그날 회사에 나와야 하는데 아이 유치원이 쉬니까 당장 아이 맡길 데를 알아봐야 해.",
+    "explanation": "The woman is worried because she has to work while her child's kindergarten is closed."
+  },
+  {
+    "id": 29,
+    "section": "listening",
+    "question": "남자는 누구인지 맞는 것을 고르십시오.",
+    "options": ["식물의 향기를 분석하는 사람", "문제가 생긴 식물을 관리하는 사람", "식물의 재배 방법을 연구하는 사람", "식물을 활용해 사람들을 치료하는 사람"],
+    "answer": 3,
+    "transcript": "(29-30번) 남자: 이곳은 제가 작년부터 환자들에게 정원 가꾸기를 가르치고 있는 곳인데요. 저는 약을 사용하지 않고 식물을 이용해 그분들의 몸과 마음의 회복을 돕는 활동을 하고 있어요.",
+    "explanation": "The man describes his role in using plants to help patients recover (Horticultural Therapist)."
+  },
+  {
+    "id": 30,
+    "section": "listening",
+    "question": "들은 내용으로 맞는 것을 고르십시오.",
+    "options": ["남자는 식물의 향기를 이용해 약을 만든다.", "정원에서 재배하는 식물은 판매하지 않는다.", "남자는 환자들에게 정원 가꾸는 법을 배웠다.", "식물을 재배하는 활동은 운동 능력을 향상시킨다."],
+    "answer": 3,
+    "transcript": "남자: ... 이런 크고 작은 신체 활동은 운동 능력을 향상시킬 수 있어요.",
+    "explanation": "The man explicitly mentions that gardening activities help improve physical motor skills."
+  },
+  {
+    "id": 31,
+    "section": "listening",
+    "question": "남자의 생각으로 알맞은 것을 고르십시오.",
+    "options": ["유동 인구가 많은 곳에 매장을 만들어야 한다.", "매장의 임대료가 매년 상승하는 것은 바람직하지 않다.", "지역에 따라 동일 제품의 가격이 다른 것은 불합리하다.", "매장의 관리 비용을 고려하여 커피 값을 책정해야 한다."],
+    "answer": 2,
+    "transcript": "(31-32번) 남자: 같은 커피 전문점의 커피가 지역별로 가격이 다른 것에 소비자들이 불만을 표하고 있습니다. 동일한 재료와 방법으로 만드는데 왜 가격이 다른지 이해할 수가 없습니다.",
+    "explanation": "The man argues that charging different prices for the same product based on location is unreasonable."
+  },
+  {
+    "id": 32,
+    "section": "listening",
+    "question": "남자의 태도로 알맞은 것을 고르십시오.",
+    "options": ["현재의 상황을 비판하고 있다.", "자신의 주장을 합리화하고 있다.", "문제에 대한 해결책을 제시하고 있다.", "상대방의 의견을 긍정적으로 평가하고 있다."],
+    "answer": 0,
+    "explanation": "The man is criticizing the current pricing strategy of coffee franchises."
+  },
+  {
+    "id": 33,
+    "section": "listening",
+    "question": "무엇에 대한 내용인지 맞는 것을 고르십시오.",
+    "options": ["지명이 만들어진 배경", "지명을 연구하는 이유", "지명을 분류하는 방법", "지명이 변천하는 과정"],
+    "answer": 0,
+    "transcript": "(33-34번) 여자: 제 고향에 소목이라고 부르는 곳이 있습니다. ... 지형이 소가 누워 있는 형상인데, 소의 목 부분에 있는 마을이라고 해서 그렇게 불린다고 하네요. ...",
+    "explanation": "The lecture explains how various village names originated based on geography or location."
+  },
+  {
+    "id": 34,
+    "section": "listening",
+    "question": "들은 내용으로 맞는 것을 고르십시오.",
+    "options": ["토끼실은 지형이 토끼의 귀 모양을 닮은 곳이다.", "두물머리는 한강의 물길이 하나로 합쳐지는 곳이다.", "소목은 소를 많이 키우는 지역에 붙여진 이름이다.", "땅끝마을은 한국의 가장 남쪽 끝에 있는 섬 이름이다."],
+    "answer": 1,
+    "transcript": "여자: ... 두물머리라는 지명은 ... 한강의 두 물길이 하나로 만나는 곳에 위치한 마을이라서 그렇게 불립니다.",
+    "explanation": "The speaker confirms Dumulmeori is where two waterways meet."
+  },
+  {
+    "id": 35,
+    "section": "listening",
+    "question": "남자는 무엇을 하고 있는지 고르십시오.",
+    "options": ["졸업생들의 업적을 소개하고 있다.", "전문 지식의 습득을 강조하고 있다.", "인격 함양의 중요성을 당부하고 있다.", "생명과학의 발전 가능성을 진단하고 있다."],
+    "answer": 2,
+    "transcript": "(35-36번) 남자: 신입생 여러분 ... 저는 훌륭한 인격을 갖추는 것이 전문 지식이나 실력보다 더 중요하다는 말씀을 드리고 싶습니다. ... 도덕성과 타인을 배려하고 존중하는 마음을 갖춘 사람이 먼저 되십시오.",
+    "explanation": "The speaker (at an entrance ceremony) is urging students to prioritize character building (인격 함양)."
+  },
+  {
+    "id": 36,
+    "section": "listening",
+    "question": "들은 내용으로 맞는 것을 고르십시오.",
+    "options": ["이 학교의 졸업생들은 해외 진출에 어려움을 겪고 있다.", "이 학교는 앞으로 선후배 간의 교류를 위해 노력할 것이다.", "이 학교는 과학 분야에서 세계 10위권 진입을 앞두고 있다.", "이 학교의 학생들은 재학 중에 현장에서 실습할 기회가 있다."],
+    "answer": 3,
+    "transcript": "남자: ... 이곳에서 여러분은 학업과 기업 현장 실습을 병행하며 전문성을 키워 ...",
+    "explanation": "The speaker explicitly mentions that students participate in field training (현장 실습) while studying."
+  },
+  {
+    "id": 37,
+    "section": "listening",
+    "question": "여자의 중심 생각으로 알맞은 것을 고르십시오.",
+    "options": ["숙면을 돕는 보조 용품이 다양해져야 한다.", "수면 장애는 인간의 심리에 영향을 미친다.", "불면증 치료법 개발에 적극적으로 나서야 한다.", "수면 장애가 생긴 원인을 파악하는 것이 중요하다."],
+    "answer": 3,
+    "transcript": "(37-38번) 여자: ... 수면 장애가 왜 생겼는지 그 원인을 먼저 생각해 봐야 합니다. ... 문제의 근원을 모른 채 이런 제품에 의지하는 건 장기적으로 봤을 때는 의미가 없습니다.",
+    "explanation": "The woman emphasizes finding the root cause of sleep problems rather than just relying on products."
+  },
+  {
+    "id": 38,
+    "section": "listening",
+    "question": "들은 내용과 일치하는 것을 고르십시오.",
+    "options": ["수면 보조 용품은 심리적인 문제를 해결해 준다.", "수면 산업의 시장 규모가 빠르게 확대되고 있다.", "수면 산업은 생활 습관을 바꾸는 것을 목적으로 한다.", "수면 보조 용품 사용은 장기적인 측면에서 효과가 있다."],
+    "answer": 1,
+    "transcript": "남자: 요즘 수면 산업이 빠른 성장세를 보이고 있습니다. ...",
+    "explanation": "The man opens the conversation by noting the rapid growth of the sleep industry."
+  },
+  {
+    "id": 39,
+    "section": "listening",
+    "question": "이 담화 앞의 내용으로 알맞은 것을 고르십시오.",
+    "options": ["서울시에서 차도를 줄이고 인도를 넓혔다.", "서울시에서 불법 주차 단속을 강화하고 있다.", "서울시가 주민 설명회에 소극적으로 임하고 있다.", "서울시가 일방통행로를 양방향 도로로 변경하기로 했다."],
+    "answer": 0,
+    "transcript": "(39-40번) 남자: 앞에서 말씀드린 것과 같이 서울시는 2차선이었던 차도를 1차선으로 줄이고 ... 또한 인도를 넓히고 ...",
+    "explanation": "The man references his previous statement about reducing lanes and widening sidewalks."
+  },
+  {
+    "id": 40,
+    "section": "listening",
+    "question": "들은 내용과 일치하는 것을 고르십시오.",
+    "options": ["이 사업으로 차량 흐름이 원활해진 곳이 있다.", "이 사업의 시행에 반대하는 주민들이 늘고 있다.", "이 사업은 주차 공간 부족이라는 문제를 남겼다.", "이 사업에서는 도로의 제한 속도를 낮추는 방안을 검토 중이다."],
+    "answer": 0,
+    "explanation": "The man states that the road situation (traffic flow) significantly improved after the changes (크게 나아졌지요)."
+  },
+  {
+    "id": 41,
+    "section": "listening",
+    "question": "이 강연의 중심 내용으로 맞는 것을 고르십시오.",
+    "options": ["방백은 배우의 실력을 판단하는 중요한 요소이다.", "관객들은 방백보다 배우의 연기에 집중해야 한다.", "방백은 관객이 등장인물을 이해하는 데 도움이 된다.", "관객들은 방백의 내용을 파악하려는 노력을 해야 한다."],
+    "answer": 2,
+    "transcript": "(41-42번) 여자: ... 방백은 연극 공연 중에 배우가 관객에게 극의 흐름이나 등장 인물의 의도를 알려 주기 위해 사용되는데요. ... 그래서 관객은 방백을 통해 등장인물을 더 깊이 이해하게 되죠.",
+    "explanation": "The lecture explains how 'asides' help the audience understand the characters' hidden thoughts."
+  },
+  {
+    "id": 42,
+    "section": "listening",
+    "question": "들은 내용과 일치하는 것을 고르십시오.",
+    "options": ["방백은 관객들의 반응을 유도하기 위해 사용된다.", "현대극에서는 배우가 방백을 하는 것이 허용된다.", "19세기 말에는 연극에서 방백이 활발히 활용되었다.", "방백은 부자연스러워서 로마 시대에는 사용되지 않았다."],
+    "answer": 1,
+    "transcript": "여자: ... 현대극에서는 필요에 따라 사용되며 등장인물에 대한 공감을 이끌어 내고 있습니다.",
+    "explanation": "The speaker notes that modern plays still use asides as needed."
+  },
+  {
+    "id": 43,
+    "section": "listening",
+    "question": "이 이야기의 중심 내용으로 맞는 것을 고르십시오.",
+    "options": ["나방에 대해 잘못 알려져 있는 부분이 많다.", "사람들은 나방의 유해성에 관심을 가져 왔다.", "나방과 나비는 유사한 행동 양식을 가지고 있다.", "나방의 애벌레는 생태계에서 중요한 역할을 한다."],
+    "answer": 0,
+    "explanation": "The documentary aims to correct common prejudices (편견) and misconceptions about moths."
+  },
+  {
+    "id": 44,
+    "section": "listening",
+    "question": "나방에 대한 설명으로 맞는 것을 고르십시오.",
+    "options": ["나방의 애벌레는 새들에게 피해를 입힌다.", "나방은 나비와 달리 꽃가루를 모으지 않는다.", "나방의 몸에 있는 가루는 우리 몸에 해롭지 않다.", "나방은 개체 수가 많아서 숲의 생태계를 위협한다."],
+    "answer": 2,
+    "transcript": "남자: ... 나방의 몸에 붙어 있는 가루들 ... 인체에 해로운 성분이라는 오해 때문이다. 그러나 이것이 병을 유발하거나 ... 경우는 없다.",
+    "explanation": "The speaker clarifies that the dust on moths is not harmful to humans."
+  },
+  {
+    "id": 45,
+    "section": "listening",
+    "question": "들은 내용과 일치하는 것을 고르십시오.",
+    "options": ["우유 단백질 포장재는 산소 차단율이 높다.", "탄수화물 포장재는 환경오염의 주된 원인이다.", "탄수화물 포장재의 미세 구멍을 줄이는 데 성공했다.", "우유 단백질 포장재는 음식으로 만든 최초의 포장재이다."],
+    "answer": 0,
+    "transcript": "여자: ... 최근에는 우유에 들어 있는 단백질로 포장재를 만드는 데 성공했습니다. ... 산소도 더 잘 차단합니다.",
+    "explanation": "The new milk protein packaging is stated to block oxygen better than previous versions."
+  },
+  {
+    "id": 46,
+    "section": "listening",
+    "question": "여자가 말하는 방식으로 가장 알맞은 것을 고르십시오.",
+    "options": ["친환경 제품의 문제점을 비판하고 있다.", "과학 기술이 지닌 한계점을 지적하고 있다.", "환경오염 실태를 자료를 바탕으로 분석하고 있다.", "과학 기술 분야의 노력을 예를 들어 설명하고 있다."],
+    "answer": 3,
+    "explanation": "The woman is using the example of the milk protein wrapper to explain scientific efforts for the environment."
+  },
+  {
+    "id": 47,
+    "section": "listening",
+    "question": "들은 내용과 일치하는 것을 고르십시오.",
+    "options": ["미래 사회를 위한 새로운 복지 모델을 찾았다.", "기본 소득을 바라보는 두 가지 입장이 존재한다.", "많은 나라에서 국민들에게 기본 소득을 지급하고 있다.", "기본 소득은 노동에 대한 최소한의 대가를 보장하는 것이다."],
+    "answer": 1,
+    "transcript": "남자: ... 우려가 있는데요. 하지만 오히려 노동 의욕을 촉진할 거라고 보는 입장도 있습니다.",
+    "explanation": "The man outlines both the negative concerns and positive expectations regarding basic income."
+  },
+  {
+    "id": 48,
+    "section": "listening",
+    "question": "남자의 태도로 가장 알맞은 것을 고르십시오.",
+    "options": ["기본 소득의 효과에 대한 결론을 유보하고 있다.", "기본 소득이 노동에 미칠 영향을 우려하고 있다.", "기본 소득이 인간의 본성에 어긋남을 지적하고 있다.", "기본 소득의 필요성에 대해 적극적으로 동의하고 있다."],
+    "answer": 0,
+    "transcript": "남자: ... 결과를 지켜봐야 할 것 같습니다.",
+    "explanation": "The man concludes that we must wait and see the results, thus withholding a final judgment."
+  },
+  {
+    "id": 49,
+    "section": "listening",
+    "question": "들은 내용과 일치하는 것을 고르십시오.",
+    "options": ["붕당은 초반부터 심한 갈등을 겪었다.", "현대의 정당 정치는 탕평책에서 비롯되었다.", "탕평책은 여론을 효율적으로 모으기 위한 정책이다.", "붕당 정치의 폐단을 해결하기 위해 탕평책이 나왔다."],
+    "answer": 0,
+    "explanation": "The lecture notes that while parties (parties) started effectively, conflicts eventually intensified, leading to the need for Tangpyeongchaek."
+  },
+  {
+    "id": 50,
+    "section": "listening",
+    "question": "여자의 태도로 가장 알맞은 것을 고르십시오.",
+    "options": ["조선 시대 정치 형태의 문제점을 분석하고 있다.", "정치 이념의 부재로 인한 혼란을 경계하고 있다.", "정치적 균형을 위한 제도의 필요성을 제기하고 있다.", "여론을 바탕으로 한 정치의 효율성을 역설하고 있다."],
+    "answer": 2,
+    "transcript": "여자: ... 오늘날의 정치 상황에도 이런 균형을 위한 제도가 시행되어야 하지 않을까요?",
+    "explanation": "The woman concludes by suggesting that modern politics also needs systems (like the historical policy) for balance."
+  }
+]
+

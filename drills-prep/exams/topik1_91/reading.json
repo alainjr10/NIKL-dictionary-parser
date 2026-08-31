@@ -1,0 +1,625 @@
+[
+    {
+      "id": 31,
+      "section": "reading",
+      "topic": "Topic Identification",
+      "question": "무엇에 대한 내용입니까? 알맞은 것을 고르십시오.",
+      "passage": "사과가 있습니다. 수박은 없습니다.",
+      "options": [
+        "시간",
+        "과일",
+        "운동",
+        "가족"
+      ],
+      "answer": 1,
+      "explanation": "Apples (사과) and watermelons (수박) are types of fruit (과일).",
+      "image": null
+    },
+    {
+      "id": 32,
+      "section": "reading",
+      "topic": "Topic Identification",
+      "question": "무엇에 대한 내용입니까? 알맞은 것을 고르십시오.",
+      "passage": "저는 열다섯 살입니다. 언니는 열일곱 살입니다.",
+      "options": [
+        "나이",
+        "날짜",
+        "이름",
+        "나라"
+      ],
+      "answer": 0,
+      "explanation": "The text mentions being 15 and 17 years old, which refers to age (나이).",
+      "image": null
+    },
+    {
+      "id": 33,
+      "section": "reading",
+      "topic": "Topic Identification",
+      "question": "무엇에 대한 내용입니까? 알맞은 것을 고르십시오.",
+      "passage": "수미 씨는 회사원입니다. 컴퓨터 회사에 다닙니다.",
+      "options": [
+        "취미",
+        "직업",
+        "약속",
+        "쇼핑"
+      ],
+      "answer": 1,
+      "explanation": "Being an office worker (회사원) and working at a company refers to a profession (직업).",
+      "image": null
+    },
+    {
+      "id": 34,
+      "section": "reading",
+      "topic": "Vocabulary - Places",
+      "question": "빈칸에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "친구를 만납니다. ( )에서 야구를 합니다.",
+      "options": [
+        "약국",
+        "공항",
+        "도서관",
+        "운동장"
+      ],
+      "answer": 3,
+      "explanation": "Baseball is played at a sports field (운동장).",
+      "image": null
+    },
+    {
+      "id": 35,
+      "section": "reading",
+      "topic": "Grammar - Particles",
+      "question": "빈칸에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "백화점에 갑니다. 바지( ) 치마를 삽니다.",
+      "options": [
+        "도",
+        "는",
+        "하고",
+        "에게"
+      ],
+      "answer": 2,
+      "explanation": "'하고' is the particle for 'and' used to connect two nouns.",
+      "image": null
+    },
+    {
+      "id": 36,
+      "section": "reading",
+      "topic": "Vocabulary - Adjectives",
+      "question": "빈칸에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "병원이 집에서 ( ). 걸어서 갑니다.",
+      "options": [
+        "큽니다",
+        "쌉니다",
+        "가깝습니다",
+        "조용합니다"
+      ],
+      "answer": 2,
+      "explanation": "If you can walk there, it means the location is close (가깝습니다).",
+      "image": null
+    },
+    {
+      "id": 37,
+      "section": "reading",
+      "topic": "Vocabulary - Adverbs",
+      "question": "빈칸에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "저는 케이크를 ( ) 좋아합니다. 매일 먹습니다.",
+      "options": [
+        "아주",
+        "아까",
+        "먼저",
+        "어서"
+      ],
+      "answer": 0,
+      "explanation": "'아주' (very) is used to emphasize how much the speaker likes cake.",
+      "image": null
+    },
+    {
+      "id": 38,
+      "section": "reading",
+      "topic": "Vocabulary - Verbs",
+      "question": "빈칸에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "비가 옵니다. 그래서 창문을 ( ).",
+      "options": [
+        "삽니다",
+        "줍니다",
+        "닫습니다",
+        "읽습니다"
+      ],
+      "answer": 2,
+      "explanation": "Because it is raining, you close (닫습니다) the window.",
+      "image": null
+    },
+    {
+      "id": 39,
+      "section": "reading",
+      "topic": "Vocabulary - Verbs",
+      "question": "빈칸에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "오늘 많이 피곤합니다. 집에서 ( ).",
+      "options": [
+        "쉽니다",
+        "됩니다",
+        "자릅니다",
+        "찾습니다"
+      ],
+      "answer": 0,
+      "explanation": "When tired, the natural action is to rest (쉽니다).",
+      "image": null
+    },
+    {
+      "id": 40,
+      "section": "reading",
+      "topic": "Information Matching - Product",
+      "question": "다음 중 내용과 맞지 않는 것을 고르십시오.",
+      "passage": "불고기 김밥\n2023년 11월 30일까지\n1,500원",
+      "options": [
+        "김밥입니다.",
+        "천오백 원입니다.",
+        "불고기 맛입니다.",
+        "십이월까지 팝니다."
+      ],
+      "answer": 3,
+      "explanation": "The label says it is valid until Nov 30th (11월), so saying it is sold until December (12월) is incorrect.",
+      "image": "reading_91_40.png"
+    },
+    {
+      "id": 41,
+      "section": "reading",
+      "topic": "Information Matching - Map",
+      "question": "다음 중 내용과 맞지 않는 것을 고르십시오.",
+      "passage": "인주공원: 카페, 화장실, 입구, 주차장, 농구장",
+      "options": [
+        "주차장은 공원 안에 있습니다.",
+        "카페 옆에 화장실이 있습니다.",
+        "공원에 입구가 한 개 있습니다.",
+        "이곳에서 농구를 할 수 있습니다."
+      ],
+      "answer": 0,
+      "explanation": "On the map, the parking lot (주차장) is located outside the park boundary/entrance.",
+      "image": "reading_91_41.png"
+    },
+    {
+      "id": 42,
+      "section": "reading",
+      "topic": "Information Matching - Message",
+      "question": "다음 중 내용과 맞지 않는 것을 고르십시오.",
+      "passage": "지은 씨, 저는 오늘 일이 많아서 아직 회사에 있어요. 5분 후에 출발할 거예요. 조금 늦을 거예요. 미안해요. 수미",
+      "options": [
+        "수미 씨는 오늘 바빴습니다.",
+        "수미 씨는 메시지를 보냈습니다.",
+        "수미 씨는 지금 회사에 있습니다.",
+        "수미 씨는 십 분 후에 출발할 겁니다."
+      ],
+      "answer": 3,
+      "explanation": "Sumi says she will leave in 5 minutes, not 10 minutes.",
+      "image": "reading_91_42.png"
+    },
+    {
+      "id": 43,
+      "section": "reading",
+      "topic": "Content Matching",
+      "question": "다음 글의 내용과 같은 것을 고르십시오.",
+      "passage": "저는 친구와 함께 삽니다. 우리는 집에서 한국 가수의 노래를 매일 듣습니다. 금요일에는 수업이 끝나고 같이 노래방에 갑니다.",
+      "options": [
+        "친구는 저와 같이 삽니다.",
+        "저는 금요일에 수업이 없습니다.",
+        "우리는 한국 노래를 가끔 듣습니다.",
+        "친구는 금요일에 혼자 노래방에 갑니다."
+      ],
+      "answer": 0,
+      "explanation": "The text begins by saying 'I live with a friend' (친구와 함께 삽니다).",
+      "image": null
+    },
+    {
+      "id": 44,
+      "section": "reading",
+      "topic": "Content Matching",
+      "question": "다음 글의 내용과 같은 것을 고르십시오.",
+      "passage": "매년 여름에 한강에서 축제를 합니다. 저는 올해 한강 축제에 처음 갔습니다. 축제에서 춤 공연도 구경하고 맛있는 치킨도 먹었습니다.",
+      "options": [
+        "이 축제는 가을에 합니다.",
+        "이 축제에서 춤 공연을 봤습니다.",
+        "저는 작년에 이 축제에 갔습니다.",
+        "저는 이 축제에서 치킨을 못 먹었습니다."
+      ],
+      "answer": 1,
+      "explanation": "The text says they watched a dance performance (춤 공연도 구경하고).",
+      "image": null
+    },
+    {
+      "id": 45,
+      "section": "reading",
+      "topic": "Content Matching",
+      "question": "다음 글의 내용과 같은 것을 고르십시오.",
+      "passage": "저는 자전거가 있지만 잘 못 탑니다. 그래서 저는 주말마다 민수 씨를 만나서 자전거를 배웁니다. 나중에 민수 씨와 자전거 여행을 하고 싶습니다.",
+      "options": [
+        "저는 자전거가 없습니다.",
+        "저는 지금 자전거를 잘 탑니다.",
+        "저는 주말에 민수 씨를 만납니다.",
+        "저는 요즘 민수 씨와 자전거 여행을 합니다."
+      ],
+      "answer": 2,
+      "explanation": "The text says 'Every weekend I meet Minsu' (주말마다 민수 씨를 만나서).",
+      "image": null
+    },
+    {
+      "id": 46,
+      "section": "reading",
+      "topic": "Main Idea",
+      "question": "다음을 읽고 중심 내용을 고르십시오.",
+      "passage": "저는 등산을 하러 제주도에 왔습니다. 그런데 오늘 비가 와서 등산을 못 했습니다. 내일은 꼭 산에 가고 싶습니다.",
+      "options": [
+        "저는 제주도에서 등산할 겁니다.",
+        "저는 등산을 하는 것이 힘듭니다.",
+        "저는 비가 오는 날을 좋아합니다.",
+        "저는 제주도에 가서 살려고 합니다."
+      ],
+      "answer": 0,
+      "explanation": "The main point is the speaker's intention to go hiking in Jeju.",
+      "image": null
+    },
+    {
+      "id": 47,
+      "section": "reading",
+      "topic": "Main Idea",
+      "question": "다음을 읽고 중심 내용을 고르십시오.",
+      "passage": "저는 백화점에서 모자를 하나 샀습니다. 그 모자는 가볍고 예쁩니다. 저는 요즘 밖에 나갈 때 그 모자를 자주 씁니다.",
+      "options": [
+        "저는 모자가 마음에 듭니다.",
+        "저는 예쁜 모자가 필요합니다.",
+        "저는 친구에게 모자를 줄 겁니다.",
+        "저는 백화점에서 일하면 좋겠습니다."
+      ],
+      "answer": 0,
+      "explanation": "Since the hat is pretty and the speaker wears it often, they clearly like it (마음에 듭니다).",
+      "image": null
+    },
+    {
+      "id": 48,
+      "section": "reading",
+      "topic": "Main Idea",
+      "question": "다음을 읽고 중심 내용을 고르십시오.",
+      "passage": "저는 고등학교 졸업 후에 김 선생님을 못 만났습니다. 저는 이번 주말에 김 선생님을 만나러 갈 겁니다. 빨리 주말이 오면 좋겠습니다.",
+      "options": [
+        "저는 선생님이 될 겁니다.",
+        "저는 김 선생님이 보고 싶습니다.",
+        "저는 고등학교를 졸업해야 합니다.",
+        "저는 학교에 다니는 것이 즐겁습니다."
+      ],
+      "answer": 1,
+      "explanation": "The speaker wants to see the teacher they haven't met in a long time.",
+      "image": null
+    },
+    {
+      "id": 49,
+      "section": "reading",
+      "topic": "Fill-in-the-blank",
+      "question": "㉠에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+      "passage": "지영 씨는 제 친한 친구인데 지난달에 결혼했습니다. 저와 제 남편은 지영 씨의 결혼식에 갔습니다. 그래서 오늘 지영 씨 부부가 저희 집으로 초대했습니다. 우리는 지영 씨네 집을 ( ㉠ ) 지영 씨 부부가 만든 음식을 맛있게 먹었습니다. 그리고 결혼식 사진도 함께 봤습니다.",
+      "options": [
+        "구경하고",
+        "구경하러",
+        "구경하는",
+        "구경해도"
+      ],
+      "answer": 0,
+      "explanation": "The grammar '-고' is used to connect sequential actions (looking at the house and then eating).",
+      "image": null
+    },
+    {
+      "id": 50,
+      "section": "reading",
+      "topic": "Content Matching",
+      "question": "윗글의 내용과 같은 것을 고르십시오.",
+      "passage": "지영 씨는 제 친한 친구인데 지난달에 결혼했습니다. 저와 제 남편은 지영 씨의 결혼식에 갔습니다. 그래서 오늘 지영 씨 부부가 저희 집으로 초대했습니다. 우리는 지영 씨네 집을 구경하고 지영 씨 부부가 만든 음식을 맛있게 먹었습니다. 그리고 결혼식 사진도 함께 봤습니다.",
+      "options": [
+        "저는 오늘 지영 씨를 집에 초대했습니다.",
+        "지영 씨는 오늘 제 남편을 못 만났습니다.",
+        "저는 오늘 지영 씨의 결혼식 사진을 봤습니다.",
+        "지영 씨는 오늘 저와 식당에서 밥을 먹었습니다."
+      ],
+      "answer": 2,
+      "explanation": "The last sentence of the passage states they looked at wedding photos (결혼식 사진도 함께 봤습니다).",
+      "image": null
+    },
+    
+        {
+          "id": 51,
+          "section": "reading",
+          "topic": "Contextual Fill-in-the-blank",
+          "question": "㉠에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+          "passage": "한국대학교에서는 외국인 학생들에게 한복을 빌려주는 서비스를 시작했습니다. 요즘 외국인 학생들은 명절이나 학교에서 행사가 있을 때 한복을 자주 입기 때문입니다. 한복은 1층에 있는 사무실에서 빌릴 수 있습니다. 마음에 드는 한복을 고르고 이름과 전화번호를 써서 냅니다. ( ㉠ ) 3일 동안 무료로 한복을 빌릴 수 있습니다.",
+          "options": [
+            "그러면",
+            "그래도",
+            "그러나",
+            "그렇지만"
+          ],
+          "answer": 0,
+          "explanation": "The text explains a step-by-step process. '그러면' (then/if so) connects the action of submitting personal info to the resulting benefit of borrowing the clothes."
+        },
+        {
+          "id": 52,
+          "section": "reading",
+          "topic": "Identifying Main Topic",
+          "question": "무엇에 대한 내용인지 맞는 것을 고르십시오.",
+          "passage": "한국대학교에서는 외국인 학생들에게 한복을 빌려주는 서비스를 시작했습니다. 요즘 외국인 학생들은 명절이나 학교에서 행사가 있을 때 한복을 자주 입기 때문입니다. 한복은 1층에 있는 사무실에서 빌릴 수 있습니다. 마음에 드는 한복을 고르고 이름과 전화번호를 써서 냅니다. 그러면 3일 동안 무료로 한복을 빌릴 수 있습니다.",
+          "options": [
+            "한복을 사는 이유",
+            "한복을 빌리는 방법",
+            "한복을 입으면 좋은 점",
+            "한복을 싸게 살 수 있는 장소"
+          ],
+          "answer": 1,
+          "explanation": "The passage details the location and procedure required to rent a Hanbok, which describes 'How to borrow/rent Hanbok' (한복을 빌리는 방법)."
+        },
+        {
+          "id": 53,
+          "section": "reading",
+          "topic": "Contextual Fill-in-the-blank",
+          "question": "㉠에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+          "passage": "저는 퇴근 후에 친구들과 매일 배드민턴 모임을 합니다. 우리는 오후 8시에 모여서 배드민턴을 칩니다. 일 끝나고 매일 모이는 것이 ( ㉠ ) 친구들과 같이 하니까 재미있습니다. 처음에는 다음 날 아침에 너무 피곤했는데 지금은 괜찮습니다. 몸도 더 건강해지는 것 같습니다.",
+          "options": [
+            "힘들면",
+            "힘들게",
+            "힘들거나",
+            "힘들지만"
+          ],
+          "answer": 3,
+          "explanation": "The sentence contrasts the difficulty of meeting daily with the enjoyment of playing with friends. '-지만' (but/although) is the correct contrastive connector."
+        },
+        {
+          "id": 54,
+          "section": "reading",
+          "topic": "Content Matching",
+          "question": "윗글의 내용과 같은 것을 고르십시오.",
+          "passage": "저는 퇴근 후에 친구들과 매일 배드민턴 모임을 합니다. 우리는 오후 8시에 모여서 배드민턴을 칩니다. 일 끝나고 매일 모이는 것이 힘들지만 친구들과 같이 하니까 재미있습니다. 처음에는 다음 날 아침에 너무 피곤했는데 지금은 괜찮습니다. 몸도 더 건강해지는 것 같습니다.",
+          "options": [
+            "저는 퇴근하고 혼자 운동을 합니다.",
+            "저는 요즘 아침에 계속 피곤합니다.",
+            "배드민턴 모임은 오후 여덟 시에 합니다.",
+            "배드민턴 모임은 일주일에 한 번 있습니다."
+          ],
+          "answer": 2,
+          "explanation": "The text states: '오후 8시에 모여서' (Gathering at 8 PM), which matches Option 3."
+        },
+        {
+          "id": 55,
+          "section": "reading",
+          "topic": "Contextual Fill-in-the-blank",
+          "question": "㉠에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+          "passage": "사람들은 여러 종류의 차를 마십니다. 그중에서 ( ㉠ ) 때 마시면 좋은 차가 있습니다. ‘인삼차’는 배가 아플 때 마시면 도움이 됩니다. 또 잠을 못 잘 때는 ‘장미차’를 마시면 좋습니다. 감기에는 ‘유자차’가 좋습니다. 이런 차들은 맛도 좋고 가게에서 쉽게 사 먹을 수 있어서 편합니다.",
+          "options": [
+            "일이 바쁠",
+            "가게에 갈",
+            "음식을 만들",
+            "몸이 안 좋을"
+          ],
+          "answer": 3,
+          "explanation": "The passage discusses teas that help with stomachaches, insomnia, and colds, all of which occur 'when the body is not well' (몸이 안 좋을 때)."
+        },
+        {
+          "id": 56,
+          "section": "reading",
+          "topic": "Content Matching",
+          "question": "윗글의 내용과 같은 것을 고르십시오.",
+          "passage": "사람들은 여러 종류의 차를 마십니다. 그중에서 몸이 안 좋을 때 마시면 좋은 차가 있습니다. ‘인삼차’는 배가 아플 때 마시면 도움이 됩니다. 또 잠을 못 잘 때는 ‘장미차’를 마시면 좋습니다. 감기에는 ‘유자차’가 좋습니다. 이런 차들은 맛도 좋고 가게에서 쉽게 사 먹을 수 있어서 편합니다.",
+          "options": [
+            "유자차는 맛이 안 좋아서 먹기 불편합니다.",
+            "잠을 자지 못할 때 장미차가 도움이 됩니다.",
+            "배가 아플 때 인삼차를 마시면 좋지 않습니다.",
+            "장미차는 팔지 않기 때문에 만들어 먹어야 합니다."
+          ],
+          "answer": 1,
+          "explanation": "The text says '잠을 못 잘 때는 장미차를 마시면 좋습니다', which directly supports Option 2."
+        },
+        {
+          "id": 57,
+          "section": "reading",
+          "topic": "Sentence Ordering",
+          "question": "다음을 순서에 맞게 배열한 것을 고르십시오.",
+          "passage": "(가) 저는 여행을 가면 기념품을 꼭 삽니다.\n(나) 다음에는 산이나 바다 그림이 있는 컵을 사고 싶습니다.\n(다) 지금까지는 유명한 건물 그림이 있는 컵을 많이 샀습니다.\n(라) 기념품 중에서 여행한 장소의 그림이 있는 컵을 주로 삽니다.",
+          "options": [
+            "(가)-(나)-(다)-(라)",
+            "(가)-(라)-(다)-(나)",
+            "(라)-(가)-(나)-(다)",
+            "(라)-(나)-(다)-(가)"
+          ],
+          "answer": 1,
+          "explanation": "The flow is: General habit (가) -> Specific type of item (라) -> Past behavior (다) -> Future goal (나)."
+        },
+        {
+          "id": 58,
+          "section": "reading",
+          "topic": "Sentence Ordering",
+          "question": "다음을 순서에 맞게 배열한 것을 고르십시오.",
+          "passage": "(가) 그렇게 하면 실수를 줄일 수 있습니다.\n(나) 미리 할 일을 써 보는 것도 좋은 방법입니다.\n(다) 계획을 세우지 않고 일을 하면 좋지 않습니다.\n(라) 일을 할 때 실수를 자주 할 수 있기 때문입니다.",
+          "options": [
+            "(나)-(다)-(가)-(라)",
+            "(나)-(라)-(다)-(가)",
+            "(다)-(가)-(나)-(라)",
+            "(다)-(라)-(나)-(가)"
+          ],
+          "answer": 3,
+          "explanation": "The flow is: Stating the problem (다) -> Giving the reason (라) -> Providing a solution (나) -> Explaining the result (가)."
+        },
+        {
+          "id": 59,
+          "section": "reading",
+          "topic": "Contextual Sentence Insertion",
+          "question": "다음 문장이 들어갈 곳으로 가장 알맞은 것을 고르십시오.\n[잠시 후에 태국 사람이 와서 태국어로 역사를 설명해 줬습니다.]",
+          "passage": "저는 태국 친구하고 인주 역사 박물관에 갔습니다. ( ㉠ ) 친구는 한국어를 잘 못합니다. ( ㉡ ) 그런데 그 박물관에는 외국어로 설명해 주는 서비스가 있었습니다. ( ㉢ ) 친구는 태국어 설명 서비스를 신청했습니다. ( ㉣ ) 설명이 쉽고 재미있어서 친구가 정말 좋아했습니다.",
+          "options": [
+            "㉠",
+            "㉡",
+            "㉢",
+            "㉣"
+          ],
+          "answer": 3,
+          "explanation": "The sentence describes the actual arrival of the explainer, which must follow the application for service (㉢) and precede the positive feedback (㉣)."
+        },
+        {
+          "id": 60,
+          "section": "reading",
+          "topic": "Content Matching",
+          "question": "윗글의 내용과 같은 것을 고르십시오.",
+          "passage": "저는 태국 친구하고 인주 역사 박물관에 갔습니다. 친구는 한국어를 잘 못합니다. 그런데 그 박물관에는 외국어로 설명해 주는 서비스가 있었습니다. 친구는 태국어 설명 서비스를 신청했습니다. 잠시 후에 태국 사람이 와서 태국어로 역사를 설명해 줬습니다. 설명이 쉽고 재미있어서 친구가 정말 좋아했습니다.",
+          "options": [
+            "제 친구는 한국어를 잘합니다.",
+            "태국어 설명은 조금 어려웠습니다.",
+            "제 친구는 태국어로 설명을 들었습니다.",
+            "저는 외국어 설명 서비스를 신청했습니다."
+          ],
+          "answer": 2,
+          "explanation": "The text states a person came and explained in Thai, meaning the friend listened to the explanation in Thai (Option 3)."
+        },
+        {
+          "id": 61,
+          "section": "reading",
+          "topic": "Contextual Fill-in-the-blank",
+          "question": "㉠에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+          "passage": "지난주에 새 식당이 문을 열었습니다. 이 식당에는 여러 모양의 멋있는 가구들이 있습니다. 이 가구들은 모두 사장님이 만든 것인데 손님이 살 수도 있습니다. 저는 어제 동생과 그 식당에 처음 갔습니다. 우리는 꽃 모양 테이블에 앉아서 음식을 먹었습니다. 분위기도 좋고 음식도 맛있어서 우리는 다음에 또 ( ㉠ ).",
+          "options": [
+            "간 것 같습니다",
+            "갈 수 없습니다",
+            "가면 안 됩니다",
+            "가기로 했습니다"
+          ],
+          "answer": 3,
+          "explanation": "Since the experience was good, the most natural conclusion is a decision or promise to return: '가기로 했습니다' (decided to go)."
+        },
+        {
+          "id": 62,
+          "section": "reading",
+          "topic": "Content Matching",
+          "question": "윗글의 내용과 같은 것을 고르십시오.",
+          "passage": "지난주에 새 식당이 문을 열었습니다. 이 식당에는 여러 모양의 멋있는 가구들이 있습니다. 이 가구들은 모두 사장님이 만든 것인데 손님이 살 수도 있습니다. 저는 어제 동생과 그 식당에 처음 갔습니다. 우리는 꽃 모양 테이블에 앉아서 음식을 먹었습니다. 분위기도 좋고 음식도 맛있어서 우리는 다음에 또 가기로 했습니다.",
+          "options": [
+            "저는 이 식당에 오랜만에 갔습니다.",
+            "저는 이 식당의 가구를 만들었습니다.",
+            "이 식당에서는 테이블을 살 수 있습니다.",
+            "이 식당의 가구는 모두 같은 모양입니다."
+          ],
+          "answer": 2,
+          "explanation": "The passage says customers can buy the furniture (사장님이 만든 것인데 손님이 살 수도 있습니다), making Option 3 correct."
+        },
+        {
+          "id": 63,
+          "section": "reading",
+          "topic": "Identifying Purpose",
+          "question": "왜 윗글을 썼는지 맞는 것을 고르십시오.",
+          "passage": "게시판 제목: 청바지를 주문했어요.\n안녕하세요? 이틀 전에 이 인터넷 쇼핑몰에서 청바지를 주문했습니다. 제가 주말에 여행을 가는데 그 옷을 입으면 좋겠습니다. 주문한 옷을 언제쯤 받을 수 있을까요? 서비스 센터에 전화했는데 안 받아서 여기에 글을 씁니다. 답 부탁드립니다.",
+          "options": [
+            "다른 청바지로 바꾸려고",
+            "청바지 주문을 취소하려고",
+            "청바지의 값을 확인하려고",
+            "청바지 도착 날짜를 물어보려고"
+          ],
+          "answer": 3,
+          "image": "reading_91_63.png",
+          "explanation": "The writer specifically asks '언제쯤 받을 수 있을까요?' (When can I receive them?), which is asking about the delivery/arrival date."
+        },
+        {
+          "id": 64,
+          "section": "reading",
+          "topic": "Content Matching",
+          "question": "윗글의 내용과 같은 것을 고르십시오.",
+          "passage": "게시판 제목: 청바지를 주문했어요.\n안녕하세요? 이틀 전에 이 인터넷 쇼핑몰에서 청바지를 주문했습니다. 제가 주말에 여행을 가는데 그 옷을 입으면 좋겠습니다. 주문한 옷을 언제쯤 받을 수 있을까요? 서비스 센터에 전화했는데 안 받아서 여기에 글을 씁니다. 답 부탁드립니다.",
+          "options": [
+            "저는 목요일에 여행을 갑니다.",
+            "저는 오늘 이 청바지를 샀습니다.",
+            "저는 인터넷 쇼핑몰에서 이 옷을 샀습니다.",
+            "저는 서비스 센터에 전화한 적이 없습니다."
+          ],
+          "answer": 2,
+          "image": "reading_91_63.png",
+          "explanation": "The text begins by mentioning they ordered from the internet shopping mall (이 인터넷 쇼핑몰에서 청바지를 주문했습니다)."
+        },
+        {
+          "id": 65,
+          "section": "reading",
+          "topic": "Contextual Fill-in-the-blank",
+          "question": "㉠에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+          "passage": "매월 마지막 주 수요일에 인주시청 앞에서는 ‘책을 읽읍시다!’라는 행사를 합니다. 이 행사는 ( ㉠ ) 사람들에게 인기가 많습니다. 새로 나온 책을 구경할 수도 있고 자기가 읽은 책을 다른 사람에게 싸게 팔 수도 있습니다. 유명한 작가와 인사를 나누는 프로그램도 있습니다. 행사에 다녀와서 느낀 것을 홈페이지에 쓰면 선물도 받을 수 있습니다.",
+          "options": [
+            "참가비가 싸서",
+            "프로그램이 다양해서",
+            "집에서 할 수 있어서",
+            "주말에 갈 수 있어서"
+          ],
+          "answer": 1,
+          "explanation": "The passage describes several different activities (browsing, selling, meeting authors, writing reviews), proving that the 'program is diverse' (프로그램이 다양해서)."
+        },
+        {
+          "id": 66,
+          "section": "reading",
+          "topic": "Content Matching",
+          "question": "윗글의 내용과 같은 것을 고르십시오.",
+          "passage": "매월 마지막 주 수요일에 인주시청 앞에서는 ‘책을 읽읍시다!’라는 행사를 합니다. 이 행사는 프로그램이 다양해서 사람들에게 인기가 많습니다. 새로 나온 책을 구경할 수도 있고 자기가 읽은 책을 다른 사람에게 싸게 팔 수도 있습니다. 유명한 작가와 인사를 나누는 프로그램도 있습니다. 행사에 다녀와서 느낀 것을 홈페이지에 쓰면 선물도 받을 수 있습니다.",
+          "options": [
+            "이 행사에 있는 책은 모두 오래된 책입니다.",
+            "이 행사는 인주시청에서 한 달 동안 합니다.",
+            "이 행사에서는 유명한 작가를 만날 수 있습니다.",
+            "이 행사에 참가한 모든 사람에게는 선물을 줍니다."
+          ],
+          "answer": 2,
+          "explanation": "The text specifically mentions a program where one can interact with famous writers (유명한 작가와 인사를 나누는 프로그램), supporting Option 3."
+        },
+        {
+          "id": 67,
+          "section": "reading",
+          "topic": "Contextual Fill-in-the-blank",
+          "question": "㉠에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+          "passage": "최근 특별한 어린이 우산이 나왔습니다. 이 우산을 펴면 위쪽에서 빛이 납니다. 그리고 손잡이의 버튼을 누르면 노랫소리가 나옵니다. 이렇게 ( ㉠ ) 아이들이 좋아합니다. 보통 우산을 쓰면 아이가 어디에 있는지 쉽게 알 수 없는데 이 우산을 쓰면 아이가 어디에 있는지 쉽게 알 수 있습니다. 또 튼튼해서 오래 쓸 수 있습니다. 그래서 다른 우산보다 좀 비싸지만 인기가 있습니다.",
+          "options": [
+            "빛과 소리가 나니까",
+            "여러 색깔로 변하니까",
+            "예쁜 그림이 있으니까",
+            "크기와 무게가 적당하니까"
+          ],
+          "answer": 0,
+          "explanation": "The text describes the umbrella emitting light (빛) and music (노랫소리) as the reasons for its popularity among children."
+        },
+        {
+          "id": 68,
+          "section": "reading",
+          "topic": "Content Matching",
+          "question": "윗글의 내용과 같은 것을 고르십시오.",
+          "passage": "최근 특별한 어린이 우산이 나왔습니다. 이 우산을 펴면 위쪽에서 빛이 납니다. 그리고 손잡이의 버튼을 누르면 노랫소리가 나옵니다. 이렇게 빛과 소리가 나니까 아이들이 좋아합니다. 보통 우산을 쓰면 아이가 어디에 있는지 쉽게 알 수 없는데 이 우산을 쓰면 아이가 어디에 있는지 쉽게 알 수 있습니다. 또 튼튼해서 오래 쓸 수 있습니다. 그래서 다른 우산보다 좀 비싸지만 인기가 있습니다.",
+          "options": [
+            "이 우산은 약해서 고장이 잘 납니다.",
+            "이 우산은 손잡이 쪽에서 빛이 납니다.",
+            "이 우산의 가격은 다른 우산과 비슷합니다.",
+            "이 우산을 쓰면 아이의 위치를 확인하기 쉽습니다."
+          ],
+          "answer": 3,
+          "explanation": "The passage highlights that this umbrella allows one to easily see where the child is located (Option 4)."
+        },
+        {
+          "id": 69,
+          "section": "reading",
+          "topic": "Contextual Fill-in-the-blank",
+          "question": "㉠에 들어갈 말로 가장 알맞은 것을 고르십시오.",
+          "passage": "우리 가족은 일 년 전에 한국에 왔습니다. 저와 아내는 회사에 다니면서 아이를 돌보는 것이 힘들었습니다. 이것을 알고 옆집에 사는 할머니가 아이를 자주 돌봐 주셨습니다. 아이는 할머니를 좋아했습니다. 그런데 할머니가 갑자기 ( ㉠ ). 아이는 많이 울었습니다. 할머니와 헤어지는 날에 아이는 “제가 생각날 때 보세요.”라고 하면서 직접 그린 그림을 선물했습니다. 그 그림에는 할머니와 아이가 있었습니다. 할머니는 눈물을 흘리셨습니다.",
+          "options": [
+            "선물을 받아 보셨습니다",
+            "이사를 가시게 되었습니다",
+            "아이를 데리러 오셨습니다",
+            "저를 도와주려고 하셨습니다"
+          ],
+          "answer": 1,
+          "explanation": "The child cried and they had a 'day of parting' (헤어지는 날), which indicates the grandmother was 'moving away' (이사를 가시게 되었습니다)."
+        },
+        {
+          "id": 70,
+          "section": "reading",
+          "topic": "Content Matching",
+          "question": "윗글의 내용으로 알 수 있는 것을 고르십시오.",
+          "passage": "우리 가족은 일 년 전에 한국에 왔습니다. 저와 아내는 회사에 다니면서 아이를 돌보는 것이 힘들었습니다. 이것을 알고 옆집에 사는 할머니가 아이를 자주 돌봐 주셨습니다. 아이는 할머니를 좋아했습니다. 그런데 할머니가 갑자기 이사를 가시게 되었습니다. 아이는 많이 울었습니다. 할머니와 헤어지는 날에 아이는 “제가 생각날 때 보세요.”라고 하면서 직접 그린 그림을 선물했습니다. 그 그림에는 할머니와 아이가 있었습니다. 할머니는 눈물을 흘리셨습니다.",
+          "options": [
+            "아이는 우리 부부와 헤어져서 슬펐습니다.",
+            "아이는 할머니와 함께 있는 것이 좋았습니다.",
+            "할머니는 아이와 같은 집에 살아서 편했습니다.",
+            "할머니는 아이의 선물을 받고 기분이 나빴습니다."
+          ],
+          "answer": 1,
+          "explanation": "The passage states that 'the child liked the grandmother' (아이는 할머니를 좋아했습니다), meaning the child was happy being with her (Option 2)."
+        }
+      ]

@@ -1,0 +1,687 @@
+[
+  {
+    "id": 1,
+    "section": "listening",
+    "question": "다음을 듣고 가장 알맞은 그림 또는 그래프를 고르십시오.",
+    "options": ["그림 1", "그림 2 (Information Counter)", "그림 3", "그림 4"],
+    "answer": 1,
+    "image": "listening_83_1.png",
+    "transcript": "여자: 지금 전시장에 들어갈 수 있어요?\n남자: 잠시만 기다려 주세요. 곧 입장 시작합니다.\n여자: 네. 알겠습니다.",
+    "explanation": "The woman is asking if she can enter the exhibition hall. The man (staff) asks her to wait as entry is starting soon. This interaction typically happens at an information or ticket counter. Image 2 depicts this scene."
+  },
+  {
+    "id": 2,
+    "section": "listening",
+    "question": "다음을 듣고 가장 알맞은 그림 또는 그래프를 고르십시오.",
+    "options": ["그림 1", "그림 2 (Placing pot by window)", "그림 3", "그림 4"],
+    "answer": 1,
+    "image": "listening_83_2.png",
+    "transcript": "남자: 아, 무거워. 이 화분은 어디에 놓을까?\n여자: 여기 창문 앞은 어때?\n남자: 그래. 거기가 좋겠다.",
+    "explanation": "The man says the pot is heavy and asks where to put it. The woman suggests 'in front of the window,' and he agrees. Image 2 shows them placing the pot by the window."
+  },
+  {
+    "id": 3,
+    "section": "listening",
+    "question": "다음을 듣고 가장 알맞은 그림 또는 그래프를 고르십시오.",
+    "options": [
+      "그래프 1 (Visit Purpose: Business 1st)",
+      "그래프 2 (Visit Purpose: Holiday 1st)",
+      "그래프 3 (Companion: Family/Friend 54%, Alone 33%)",
+      "그래프 4 (Companion: Family/Friend 54%, Colleague 33%)"
+    ],
+    "answer": 2,
+    "image": "listening_83_3.png",
+    "transcript": "남자: 외국인 관광객들이 한국을 방문하는 목적은 ‘휴가’가 가장 많았습니다. 다음으로 ‘사업’과 ‘친척 방문’이 뒤를 이었는데요. 그렇다면 외국인 관광객들은 누구와 함께 한국에 올까요? ‘가족이나 친구’가 54%로 가장 많았고, ‘혼자’가 33%, ‘동료’가 10%로 나타났습니다.",
+    "explanation": "The speaker provides two sets of stats. For 'Who they come with' (함께 방문하는 사람), the results are: Family/Friends 54%, Alone (혼자) 33%, and Colleague (동료) 10%. Graph 3 matches these percentages perfectly."
+  },
+  {
+    "id": 4,
+    "section": "listening",
+    "question": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "어제 다 읽었어.",
+      "천천히 읽고 돌려줘.",
+      "책 읽을 시간이 없었어.",
+      "재미있는 책 좀 추천해 줘."
+    ],
+    "answer": 1,
+    "transcript": "여자: 민수야, 내가 빌려 준 책 읽고 있어? 재미있지?\n남자: 응. 재미있어. 근데 언제까지 돌려주면 돼?\n여자: (      )",
+    "explanation": "The man asks when he should return the book. The most natural response from the owner of the book is to give a deadline or tell him to take his time. 'Read it slowly and give it back' is the correct answer."
+  },
+  {
+    "id": 5,
+    "section": "listening",
+    "question": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "그래요? 한번 가 봐야겠어요.",
+      "그럼요. 내일부터 일하기로 했어요.",
+      "정말요? 힘들면 언제든지 그만두세요.",
+      "맞아요. 좋은 곳을 구해서 기분이 좋아요."
+    ],
+    "answer": 0,
+    "transcript": "남자: 아직 아르바이트를 못 구했어요.\n여자: 학교 앞 식당에서 일할 사람을 찾던데요.\n남자: (      )",
+    "explanation": "The man says he hasn't found a part-time job. The woman gives him information about a place looking for workers. The man's natural reaction is to show interest in checking it out: 'Really? I should go see.'"
+  },
+  {
+    "id": 6,
+    "section": "listening",
+    "question": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "그럼 하얀색으로 바꾸러 가자.",
+      "나는 다른 운동화도 신어 볼래.",
+      "새로 산 운동화가 마음에 들어.",
+      "파란색이 너한테 더 잘 어울려."
+    ],
+    "answer": 3,
+    "transcript": "여자: 나는 이 운동화로 할래. 너는 뭐 살 거야?\n남자: 난 파란색하고 하얀색 둘 다 마음에 드는데, 뭐가 더 괜찮아?\n여자: (      )",
+    "explanation": "The man is asking for the woman's opinion between two colors. She should provide her preference or advice. 'The blue one suits you better' is the only logical answer."
+  },
+  {
+    "id": 7,
+    "section": "listening",
+    "question": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "비가 곧 그칠 거래요.",
+      "일기 예보를 볼 걸 그랬어요.",
+      "장마가 끝나니까 진짜 더워요.",
+      "작년하고 거의 비슷할 거래요."
+    ],
+    "answer": 3,
+    "transcript": "여자: 뉴스에서 봤는데 주말부터 장마가 시작된대요.\n남자: 그래요? 올해도 작년만큼 비가 많이 올까요?\n여자: (      )",
+    "explanation": "The man asks if it will rain as much as last year. The woman should answer based on what she saw in the news regarding the amount of rain: 'They say it will be almost similar to last year.'"
+  },
+  {
+    "id": 8,
+    "section": "listening",
+    "question": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "곧 배송된다니 다행이에요.",
+      "제품에 문제가 있는 것 같아요.",
+      "언제쯤 배송될지 확인해 주시겠어요?",
+      "고객 센터 전화번호 좀 알려 주실래요?"
+    ],
+    "answer": 2,
+    "transcript": "남자: 고객 센터죠? 일주일 전에 의자를 주문했는데 아직 안 와서요.\n여자: 죄송합니다. 주문량이 많아서 배송이 늦어지고 있습니다.\n남자: (      )",
+    "explanation": "The man is inquiring about a late delivery. After the staff explains the delay, the customer's next logical step is to ask for a specific timeframe: 'Could you check roughly when it will be delivered?'"
+  },
+  {
+    "id": 9,
+    "section": "listening",
+    "question": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "사과를 씻는다.",
+      "과일을 자른다.",
+      "설탕을 가져온다.",
+      "냄비를 찾아온다."
+    ],
+    "answer": 2,
+    "transcript": "여자: 사과는 다 씻었고. 이제 자르면 되겠다.\n남자: 자르는 건 내가 할 테니까 거기 있는 냄비 좀 줄래?\n여자: 여기 있어. 근데 잼 만들려면 설탕이 더 필요하겠네. 내가 찾아올까?\n남자: 응. 좀 갖다 줘.",
+    "explanation": "The woman asks if she should find the sugar (내가 찾아올까?), and the man agrees (응. 좀 갖다 줘). Therefore, her next action is to go get the sugar."
+  },
+  {
+    "id": 10,
+    "section": "listening",
+    "question": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "모자를 벗는다.",
+      "놀이 기구에 탄다.",
+      "떨어진 물건을 줍는다.",
+      "남자에게 가방을 받는다."
+    ],
+    "answer": 0,
+    "transcript": "남자: 손님, 놀이 기구 타실 거죠? 그러면 가방은 여기에 보관하시겠어요?\n여자: 네. 여기요. 모자는 쓰고 타도 돼요?\n남자: 그것도 날아갈 수 있으니까 같이 보관해 드릴게요.\n여자: 알겠습니다.",
+    "explanation": "The man tells the woman she should also store her hat because it might fly away. She agrees ('알겠습니다'). Her immediate next action is to take off the hat to hand it over."
+  },
+  {
+    "id": 11,
+    "section": "listening",
+    "question": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "세탁물을 넣는다.",
+      "안내문을 읽는다.",
+      "동전을 바꾸러 간다.",
+      "세탁 코스를 선택한다."
+    ],
+    "answer": 2,
+    "transcript": "여자: 빨래방은 처음인데 먼저 코스 선택하고 세탁물 넣으면 되나?\n남자: 여기 안내문 있다. 세탁물 넣은 후에 코스 선택하고, 동전 넣으래.\n여자: 나 동전은 없는데. 아, 저기 동전 교환기 있네. 바꿔 올게.\n남자: 응. 난 또 뭘 해야 되는지 읽어 볼게.",
+    "explanation": "The woman notices she doesn't have coins, sees a change machine, and says 'I'll go change [the money].' Her next action is going to the machine to get coins."
+  },
+  {
+    "id": 12,
+    "section": "listening",
+    "question": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "거울을 치운다.",
+      "카메라를 설치한다.",
+      "카메라 화면을 본다.",
+      "촬영할 물건을 가져온다."
+    ],
+    "answer": 0,
+    "transcript": "여자: 감독님, 촬영 준비 끝났습니다. 물건들도 제자리에 놓았고요.\n남자: 그럼 카메라 화면에서 어떻게 보이는지 확인해 봅시다. 음, 저 거울이 꼭 필요할까요?\n여자: 거울이 커서 그런지 사무실처럼 보이지가 않네요. 치울까요?\n남자: 네. 그렇게 해 주세요.",
+    "explanation": "The woman asks if she should remove the mirror (치울까요?), and the man confirms (네. 그렇게 해 주세요). Her next action is removing the mirror."
+  },
+  {
+    "id": 13,
+    "section": "listening",
+    "question": "다음을 듣고 들은 내용과 같은 것을 고르십시오.",
+    "options": [
+      "두 사람은 모형 배를 만드는 중이다.",
+      "이 모형 배는 가죽으로 만들어졌다.",
+      "여자는 남자가 준 사진을 보고 있다.",
+      "남자는 이 모형 배를 직접 본 적이 있다."
+    ],
+    "answer": 1,
+    "transcript": "여자: 이 사진 좀 볼래? 이게 모형이래. 실제 배하고 똑같지?\n남자: 와, 정말 잘 만들었다. 근데 뭐로 만든 거야? 나무인가?\n여자: 아니. 가죽으로 만든 거래.\n남자: 신기하다. 가죽을 이용해서 배 모형을 만들다니. 직접 한번 보고 싶다.",
+    "explanation": "The woman shows a photo of a model ship and mentions it is made of leather (가죽으로 만든 거래). The man expresses surprise and says he wants to see it in person, implying he hasn't seen it yet. Therefore, option 2 is the correct match."
+  },
+  {
+    "id": 14,
+    "section": "listening",
+    "question": "다음을 듣고 들은 내용과 같은 것을 고르십시오.",
+    "options": [
+      "개회식은 대회장에서 열린다.",
+      "대회의 장면을 찍을 수 있다.",
+      "예선 경기는 두 시에 시작된다.",
+      "개회식 후에 대기실로 가야 한다."
+    ],
+    "answer": 0,
+    "transcript": "여자: (딩동댕) 댄스 대회에 오신 여러분께 안내 드립니다. 잠시 후 두 시부터 개회식이 열립니다. 대기실에 계신 참가자들은 대회장으로 오시기 바랍니다. 개회식이 끝나는 대로 예선 경기가 시작되오니 그 자리에서 기다려 주십시오. 대회 중에는 촬영을 할 수 없으니 협조 부탁드립니다. (딩동댕)",
+    "explanation": "The announcement states the opening ceremony (개회식) starts at 2 PM and participants should come to the venue (대회장). Preliminaries start immediately after the ceremony. Filming is prohibited. Thus, option 1 is correct."
+  },
+  {
+    "id": 15,
+    "section": "listening",
+    "question": "다음을 듣고 들은 내용과 같은 것을 고르십시오.",
+    "options": [
+      "이 사고는 오전에 발생했다.",
+      "등산객들은 모두 구조되었다.",
+      "사고 발생 원인을 조사할 예정이다.",
+      "산 정상에 오르다가 사고가 발생했다."
+    ],
+    "answer": 1,
+    "transcript": "남자: 어젯밤 열 시, 인주산에서 길을 잃은 등산객 네 명이 구조됐습니다. 등산객의 구조 요청을 받은 구조대원들은 곧바로 수색 작업을 시작해 두 시간 만에 등산객 모두를 발견했습니다. 등산객들은 산 정상에서 내려오던 중 날이 어두워져 길을 잃은 것으로 확인됐습니다.",
+    "explanation": "The report says searchers found 'all of the hikers' (등산객 모두를 발견했습니다) within two hours of starting. The accident happened at night, not morning, and occurred while descending, not ascending. Thus, option 2 is correct."
+  },
+  {
+    "id": 16,
+    "section": "listening",
+    "question": "다음을 듣고 들은 내용과 같은 것을 고르십시오.",
+    "options": [
+      "여자는 전문적으로 그림을 배웠다.",
+      "여자의 그림은 화려한 느낌을 준다.",
+      "여자는 화가가 된 지 70년이 넘었다.",
+      "여자는 평범한 것을 그림의 소재로 삼는다."
+    ],
+    "answer": 3,
+    "transcript": "남자: 작가님의 그림이 인기를 얻고 있는 이유는 뭐라고 생각하십니까?\n여자: 우리 주변의 흔하고 평범한 소재를 따뜻하게 그리기 때문이 아닐까요? 저는 행복했던 어린 시절을 기억하고 싶어서 70세가 넘어서야 그림을 그리기 시작했어요. 물론 배운 적도 없고요. 꾸미지 않은 그런 느낌을 사람들이 좋아해 주는 것 같아요.",
+    "explanation": "The artist mentions she draws 'common and ordinary subjects' (흔하고 평범한 소재) and that she never formally learned to draw. She started drawing *after* she turned 70, she hasn't been a painter for 70 years. Option 4 is the correct match."
+  },
+  {
+    "id": 17,
+    "section": "listening",
+    "question": "다음을 듣고 남자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "메일을 자주 확인해야 한다.",
+      "답장이 올 때까지 기다리는 게 낫다.",
+      "메일을 받은 사실을 알려 줘야 한다.",
+      "답장을 보내기 전에 확인하는 게 좋다."
+    ],
+    "answer": 2,
+    "transcript": "남자: 수미야, 내가 보낸 메일 못 받았어?\n여자: 아니. 받았어. 어떻게 쓸까 생각하느라고 아직 답장을 못 보냈어.\n남자: 난 메일이 안 갔나 걱정했어. 기다렸는데 받았다는 말이라도 해 주지.",
+    "explanation": "The man was worried because he didn't know if the email arrived. He tells the woman she should have at least told him she received it (받았다는 말이라도 해 주지). His main point is the importance of acknowledging receipt."
+  },
+  {
+    "id": 18,
+    "section": "listening",
+    "question": "다음을 듣고 남자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "공부는 매일 하는 것이 중요하다.",
+      "공부하는 장소를 바꿀 필요가 있다.",
+      "새벽에 일어나서 공부하는 게 좋다.",
+      "피곤할 때는 적당한 휴식도 필요하다."
+    ],
+    "answer": 2,
+    "transcript": "남자: 요즘 새벽에 일어나서 공부하는데 집중이 잘되더라.\n여자: 그래? 난 새벽에 일어나면 많이 피곤할 것 같은데.\n남자: 처음엔 나도 좀 피곤했는데 이제는 공부가 잘돼서 좋아.",
+    "explanation": "The man expresses that studying in the early morning works well for him and he likes it because he can concentrate better, despite the initial fatigue. His main idea is recommending or supporting early morning study."
+  },
+  {
+    "id": 19,
+    "section": "listening",
+    "question": "다음을 듣고 남자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "다양한 분야의 사람을 만나야 한다.",
+      "직업을 자주 바꾸는 것은 좋지 않다.",
+      "같이 일하는 사람과 잘 지내야 한다.",
+      "진로에 대해 충분히 고민할 필요가 있다."
+    ],
+    "answer": 0,
+    "transcript": "여자: 지난번에 갔던 직업인들과의 만남 프로그램, 진짜 좋았지?\n남자: 응. 다양한 직업을 가진 사람들의 이야기를 들으니까 참 좋았어.\n여자: 맞아. 진로를 결정하는 데에도 꽤 도움이 됐어.\n남자: 여러 분야의 사람들을 만나면 배울 것도 많은 것 같아.",
+    "explanation": "The man emphasizes that listening to people from various occupations was good and concludes that 'you can learn a lot by meeting people from many fields.' This matches option 1."
+  },
+  {
+    "id": 20,
+    "section": "listening",
+    "question": "다음을 듣고 남자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "오래된 지명을 새롭게 바꿀 필요가 있다.",
+      "지명은 많은 사람이 알기 쉽게 만들어야 한다.",
+      "지명에 쓰인 아름다운 옛말이 사용되면 좋겠다.",
+      "지명을 만들 때는 마을의 문화를 반영해야 한다."
+    ],
+    "answer": 2,
+    "transcript": "여자: 선생님, 마을 이름에 대한 책을 내신 특별한 계기가 있으신가요?\n남자: 네. 지명에는 지금은 안 쓰는 옛날 말이 많이 남아 있습니다. 특히 마을의 문화나 자연을 가리키는 말들 중에 무척 아름다운 표현들이 많은데요. 그런 표현들이 다시 우리의 일상으로 들어와 삶의 곳곳에서 사용됐으면 하는 마음으로 책을 쓰게 됐어요.",
+    "explanation": "The author explains he wrote the book because he wants the beautiful old expressions found in village names to be used in daily life again (일상으로 들어와... 사용됐으면 하는 마음)."
+  },
+  {
+    "id": 21,
+    "section": "listening",
+    "question": "남자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "설문 조사의 주제를 바꿔야 한다.",
+      "설문 조사는 결과 분석이 중요하다.",
+      "설문 조사의 계획을 잘 세워야 한다.",
+      "설문 조사는 응답자 수가 많을수록 좋다."
+    ],
+    "answer": 2,
+    "transcript": "여자: 교수님, 제 연구 계획서인데요. 한번 봐 주시겠어요?\n남자: ‘성격과 여행지’라, 성격이 여행지 결정에 미치는 영향을 알아보겠다는 거군요? 주제가 아주 새롭고 좋아요. 연구 방법으로는 설문 조사를 선택했는데 계획이 거의 없네요. 설문 조사는 조사하려는 내용이 분명해야 하니까 조사 대상과 내용을 잘 계획할 필요가 있어요.\n여자: 네. 그런데 무엇부터 시작을 해야 할지 모르겠어요.\n남자: 그럼 성격과 여행지의 유형을 나누는 것부터 시작해 보세요.",
+    "explanation": "The professor praises the topic but criticizes the lack of a plan for the survey method. He emphasizes that she 'needs to plan the target and content well' (조사 대상과 내용을 잘 계획할 필요가 있어요)."
+  },
+  {
+    "id": 22,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 21",
+    "options": [
+      "남자는 연구 계획서를 작성하고 있다.",
+      "남자는 성격에 대한 연구를 하려고 한다.",
+      "남자는 연구 방법을 아직 결정하지 못했다.",
+      "남자는 여자의 연구 주제가 새롭다고 생각한다."
+    ],
+    "answer": 3,
+    "explanation": "In the beginning of the dialogue, the man (professor) says the topic is 'very new and good' (주제가 아주 새롭고 좋아요), which directly matches option 4."
+  },
+  {
+    "id": 23,
+    "section": "listening",
+    "question": "남자가 무엇을 하고 있는지 고르십시오.",
+    "options": [
+      "취업에 성공한 방법을 소개하고 있다.",
+      "신입 사원 연수 일정을 변경하고 있다.",
+      "신입 사원 채용 절차를 설명하고 있다.",
+      "입사 전에 해야 할 일을 안내하고 있다."
+    ],
+    "answer": 3,
+    "transcript": "남자: 안녕하십니까, 인주 상사입니다. 합격자 분들에게 건강 검진과 신입 사원 연수 일정을 문자로 보내 드렸는데 확인하셨나요?\n여자: 네. 확인했습니다. 그런데 건강 검진은 정해진 병원에서만 해야 하나요?\n남자: 아닙니다. 집 근처 보건소나 병원에 가서 받으셔도 됩니다. 검진 결과는 연수 끝나고 출근 전까지 내시면 되고요. 신입 사원 연수 때는 문자로 안내 드린 증명서만 제출하시면 됩니다.\n여자: 감사합니다. 그럼 연수 때 뵙겠습니다.",
+    "explanation": "The man identifies himself as being from 'Inju Corp' and is checking if the new hires received information about their health check-ups and training schedule. He provides specific instructions on where to get the exam and what to bring. Thus, he is guiding them on tasks to do before starting work."
+  },
+  {
+    "id": 24,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 23",
+    "options": [
+      "이 회사의 신입 사원 연수가 끝났다.",
+      "신입 사원 연수 일정을 문자로 공지했다.",
+      "건강 검진은 정해진 병원에서만 받아야 한다.",
+      "건강 검진 결과는 출근 후에 제출하면 된다."
+    ],
+    "answer": 1,
+    "explanation": "The man explicitly states, 'I sent the health check-up and orientation schedule via text message' (신입 사원 연수 일정을 문자로 보내 드렸는데). This directly supports option 2."
+  },
+  {
+    "id": 25,
+    "section": "listening",
+    "question": "남자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "타이어를 설계할 때는 환경을 생각해야 한다.",
+      "생산된 타이어의 저장 공간을 마련해야 한다.",
+      "운전자의 의견을 타이어 디자인에 반영해야 한다.",
+      "타이어의 재료로 쓸 새로운 소재를 연구해야 한다."
+    ],
+    "answer": 0,
+    "transcript": "여자: 이번에 설계하신 타이어의 판매를 곧 시작한다고 들었는데요. 기존의 타이어와는 어떤 점에서 다른 건가요?\n남자: 저는 환경 보호를 위해서는 성능만 강조하는 기존의 타이어 설계에 변화가 필요하다고 생각했습니다. 타이어에서 생기는 작은 플라스틱들이 대기 오염의 가장 큰 원인이 되고 있거든요. 이걸 해결하기 위해 미세 플라스틱 조각이 공기 중으로 날아가지 않고 타이어 안쪽의 캡슐 장치에 모여 저장되도록 설계했습니다. 캡슐이 가득 차면 타이어 옆면의 색이 바뀌어서 운전자가 알 수 있게 했고요.",
+    "explanation": "The man states that tire design needs to change for 'environmental protection' (환경 보호를 위해서는... 변화가 필요하다고 생각했습니다) because tires are a major source of air pollution. His primary focus is designing tires with the environment in mind."
+  },
+  {
+    "id": 26,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 25",
+    "options": [
+      "이 타이어는 많은 판매량을 기록했다.",
+      "이 타이어의 안쪽에는 특수한 장치가 있다.",
+      "이 타이어는 성능 향상에 중점을 두고 개발되었다.",
+      "이 타이어는 대기 오염의 정도를 색깔로 알려 준다."
+    ],
+    "answer": 1,
+    "explanation": "The man explains he designed a 'capsule device inside the tire' (타이어 안쪽의 캡슐 장치) to collect microplastics. This confirms option 2. Option 4 is incorrect because the color changes when the capsule is full, not to indicate the degree of ambient air pollution."
+  },
+  {
+    "id": 27,
+    "section": "listening",
+    "question": "남자가 말하는 의도로 알맞은 것을 고르십시오.",
+    "options": [
+      "공간 대여 사업의 결과를 알려 주려고",
+      "공간 대여에 필요한 서류를 문의하려고",
+      "공간 대여를 위한 신청서의 작성을 부탁하려고",
+      "공간 대여 사업에 함께 신청할 것을 제안하려고"
+    ],
+    "answer": 3,
+    "transcript": "남자: 수미야, 너 그거 들었어? 학교에서 남는 공간을 창업 동아리에 무료로 대여해 준대. 우리도 한번 지원해 보자.\n여자: 아, 그거 학교 안의 빈 공간을 빌려 주는 사업 맞지? 나도 들었어. 근데 지금 신청할 수 있대?\n남자: 금요일까지 학교 홈페이지에 몇 가지 정보만 입력하면 신청할 수 있나 봐. 다른 서류는 다음 주까지 홈페이지에 올리면 되고.\n여자: 그렇구나. 그런데 서류는 뭐가 필요한 거야?\n남자: 글쎄. 나도 그건 정확히 모르겠어. 사무실에 가서 한번 물어보자.",
+    "explanation": "The man starts the conversation by mentioning the free space rental and explicitly says, 'Let's try applying together' (우리도 한번 지원해 보자). This is a proposal to the woman."
+  },
+  {
+    "id": 28,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 27",
+    "options": [
+      "이 사업은 다음 주까지 신청할 수 있다.",
+      "이 사업에서는 비어 있는 공간을 활용한다.",
+      "이 사업을 통해 적은 비용으로 공간을 빌릴 수 있다.",
+      "이 사업에 지원하려면 사무실에 서류를 제출해야 한다."
+    ],
+    "answer": 1,
+    "explanation": "The woman clarifies that it's a project 'renting out empty spaces inside the school' (학교 안의 빈 공간을 빌려 주는 사업), and the man agrees. Option 1 is wrong (deadline is Friday), option 3 is wrong (it's free/무료), and option 4 is wrong (apply via the homepage)."
+  },
+  {
+    "id": 29,
+    "section": "listening",
+    "question": "남자가 누구인지 고르십시오.",
+    "options": [
+      "게임의 오류를 찾아내는 사람",
+      "새로운 게임을 기획하는 사람",
+      "게임에 음향 효과를 넣는 사람",
+      "새로 개발한 게임을 홍보하는 사람"
+    ],
+    "answer": 0,
+    "transcript": "여자: 팀장님께서는 게임을 출시하기 전에, 게임에서 발생하는 여러 문제점들을 찾아내는 일을 맡고 계시다고 들었습니다.\n남자: 네. 개발팀이 완성한 게임을 일정 기간 동안 직접 해 보면서 기술적인 오류를 찾아내고 있습니다. 또 캐릭터의 디자인이나 음향 효과 등 사용자의 흥미와 관련된 것들의 문제점도 찾아내고요.\n여자: 게임의 완성도를 높이기 위해서는 이 일이 굉장히 중요하겠네요.\n남자: 네. 출시 후에 이런 문제가 발생하면 게임 판매에 부정적인 영향을 주게 되거든요. 그래서 저희는 출시 전까지 책임감을 갖고 일합니다.",
+    "explanation": "The woman introduces the man as someone responsible for finding problems before a game's release, and the man confirms he 'finds technical errors' (기술적인 오류를 찾아내고 있습니다)."
+  },
+  {
+    "id": 30,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 29",
+    "options": [
+      "이 일은 개발팀에서 담당하고 있다.",
+      "이 일은 게임의 판매에 영향을 미친다.",
+      "남자는 게임 출시 후에 일을 시작한다.",
+      "남자는 게임 캐릭터도 직접 디자인한다."
+    ],
+    "answer": 1,
+    "explanation": "The man states that if problems occur after release, it has a 'negative impact on game sales' (게임 판매에 부정적인 영향을 주게 되거든요), which implies the importance of his work on sales. Option 1 is wrong (he checks the development team's work, but isn't on it), option 3 is wrong (he works before release), and option 4 is wrong (he checks designs, doesn't make them)."
+  },
+  {
+    "id": 31,
+    "section": "listening",
+    "question": "남자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "업무 관리 프로그램의 도입이 필요하다.",
+      "업무 방식의 개선을 신중히 결정해야 한다.",
+      "직원 교육을 통해 업무의 효율을 높여야 한다.",
+      "일의 속도를 강조하는 분위기를 바꿀 필요가 있다."
+    ],
+    "answer": 0,
+    "transcript": "남자: 현재 검토 중인 업무 관리 프로그램요. 업무의 진행 상황과 자료를 실시간으로 공유할 수 있어서 일의 속도와 효율성을 향상시킬 것으로 보입니다.\n여자: 새로운 프로그램에 직원들이 적응하는 게 쉽지는 않을 것 같은데요.\n남자: 초기에는 어려움이 있겠지만 장기적으로는 업무를 관리하는 데 큰 도움이 될 겁니다. 지속적으로 교육하면 직원들도 프로그램을 잘 활용할 수 있게 될 거고요.\n여자: 직원 교육 문제는 여전히 부담스럽긴 해요. 더 신중히 생각해 보죠.",
+    "explanation": "The man argues that the task management program being reviewed will improve speed and efficiency. Even when the woman expresses concern about staff adaptation, he insists it will be a 'great help in the long run' (장기적으로는... 큰 도움이 될 겁니다), advocating for its adoption."
+  },
+  {
+    "id": 32,
+    "section": "listening",
+    "question": "남자의 태도로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "예상되는 문제점을 우려하고 있다.",
+      "문제의 해결 방안을 요구하고 있다.",
+      "자신의 의견을 일관되게 주장하고 있다.",
+      "상대방의 의견에 적극적으로 동의하고 있다."
+    ],
+    "answer": 2,
+    "explanation": "Throughout the dialogue, the man consistently highlights the benefits of the new program and provides solutions for the potential problems raised by the woman (e.g., training), showing he is 'consistently asserting his opinion' (자신의 의견을 일관되게 주장하고 있다)."
+  },
+  {
+    "id": 33,
+    "section": "listening",
+    "question": "무엇에 대한 내용인지 알맞은 것을 고르십시오.",
+    "options": [
+      "기능에 따른 지퍼의 형태",
+      "지퍼를 활용한 상품의 종류",
+      "초기의 지퍼가 가진 문제점",
+      "지퍼가 널리 쓰이게 된 과정"
+    ],
+    "answer": 3,
+    "transcript": "여자: 이것은 옷이나 가방에서 볼 수 있는 지퍼가 처음 만들어졌을 때의 모습입니다. 지금과 달리 모양이 복잡했고 고장도 잦았죠. 그래서 처음 발명된 19세기 후반에는 시장의 주목을 받지 못했습니다. 그러다가 20세기 초에 오늘날과 같이 형태가 바뀌고 기능도 개선됐는데요. 지퍼를 단 지갑이 선원들에게 인기를 끌면서 지퍼가 알려지기 시작했습니다. 흔들리는 배에서도 동전을 잘 보관할 수 있었기 때문이죠. 이후 지퍼 달린 장화가 깔끔한 디자인과 편리함을 앞세워 큰 성공을 거두면서 전 세계로 지퍼가 퍼지게 되었습니다.",
+    "explanation": "The speaker explains the history of the zipper, starting from its failed debut in the 19th century to its functional improvements and eventual global success through specialized products like sailor wallets and boots. This describes the 'process' of it becoming widely used."
+  },
+  {
+    "id": 34,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 33",
+    "options": [
+      "지퍼는 20세기 초반에 발명되었다.",
+      "지퍼는 선원들을 통해 알려지기 시작했다.",
+      "지퍼는 신발 제작에 가장 먼저 활용되었다.",
+      "지퍼는 초기부터 깔끔한 모양으로 주목을 받았다."
+    ],
+    "answer": 1,
+    "explanation": "The text states that zippers became well-known because zipper wallets were popular among 'sailors' (선원들에게 인기를 끌면서 지퍼가 알려지기 시작했습니다). Option 1 is wrong (invented late 19th century), option 3 is wrong (wallets came before boots), and option 4 is wrong (initial shapes were complex and ignored)."
+  },
+  {
+    "id": 35,
+    "section": "listening",
+    "question": "남자가 무엇을 하고 있는지 고르십시오.",
+    "options": [
+      "연극인들을 위한 극장 건축을 다짐하고 있다.",
+      "재개관한 극장의 모습과 시설을 소개하고 있다.",
+      "연극인들에 대한 관심과 지원을 부탁하고 있다.",
+      "극장 재개관에 따른 소감과 기대를 밝히고 있다."
+    ],
+    "answer": 3,
+    "transcript": "남자: 오늘은 인주 극장이 시민과 연극인 곁으로 다시 돌아오게 된 뜻 깊은 날입니다. 몇 년 전 인주 극장의 폐관 소식을 듣고 우리 연극인들이 이곳을 지켜내지 못했구나 싶어 마음이 아팠습니다. 인주 극장은 주인이 수차례 바뀌는 와중에도 400여 편의 연극을 올리고 수많은 연극인을 배출하는 등 한국 연극사의 발전을 이끌어 왔습니다. 이번 재개관이 더욱 기쁜 것은 이런 역사를 이어 가는 데에 공감한 연극인들이 마음을 모아 이뤄 낸 결과이기 때문입니다. 다시 문을 연 이곳이 시민과 연극인의 소중한 보금자리가 되어 주리라 생각합니다.",
+    "explanation": "The man is giving a speech at the reopening of the Inju Theater. He reflects on its history, expresses his joy about its return, and shares his hope/expectation that it will be a home for citizens and actors."
+  },
+  {
+    "id": 36,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 35",
+    "options": [
+      "이 극장은 작년에 문을 닫았다.",
+      "이 극장은 주인이 여러 번 바뀌었다.",
+      "오늘 이 극장에서는 400번째 연극을 올린다.",
+      "일반 시민이 뜻을 모아 이 극장을 다시 열었다."
+    ],
+    "answer": 1,
+    "explanation": "The man mentions that the theater 'changed owners several times' (주인이 수차례 바뀌는 와중에도). Option 3 is wrong because 400 is the total historical count, not a specific performance today. Option 4 is wrong because the 'theater people' (연극인들) pooled their hearts to reopen it."
+  },
+  {
+    "id": 37,
+    "section": "listening",
+    "question": "여자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "사진을 찍을 때는 정성을 들이는 게 중요하다.",
+      "필름 사진을 잘 찍으려면 많이 찍어 봐야 한다.",
+      "사진을 여러 장 인화하면 원본의 가치가 떨어진다.",
+      "필름 사진에는 감성을 자극하는 특별한 매력이 있다."
+    ],
+    "answer": 3,
+    "transcript": "남자: 부모 세대가 사용했던 필름 카메라가 디지털에 익숙한 젊은 세대들의 마음을 사로잡고 있습니다.\n여자: 네. 필름 사진만이 갖는 독특한 감성 때문입니다. 필름을 현상하기 위해 약품 처리를 하는 과정에서 묘한 색감과 분위기가 나는데 그것이 아주 매력적이죠. 또 필름 카메라는 필름을 구하기도 어렵고 필름마다 찍을 수 있는 사진 수가 제한적이에요. 인화 과정을 거쳐야만 사진을 받아볼 수 있고요. 이런 번거로움이 오히려 젊은 세대들이 사진 한 장 한 장을 소중하고 특별하게 느끼는 이유가 됩니다.",
+    "explanation": "The woman highlights the 'unique sensibility' (독특한 감성) and the 'charm' (매력) of the color and the process of film photography as the reason it attracts the younger generation."
+  },
+  {
+    "id": 38,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 37",
+    "options": [
+      "필름 사진은 인화하기 전에 미리 볼 수 있다.",
+      "필름 사진을 얻을 때까지의 과정이 수월해졌다.",
+      "필름 사진의 색감은 약품 처리를 할 때 생긴다.",
+      "필름 카메라가 부모 세대들에게 재유행하고 있다."
+    ],
+    "answer": 2,
+    "explanation": "The woman explains that the unique colors and atmosphere are created during the 'chemical treatment process' (약품 처리를 하는 과정에서). Option 1 is wrong (must be printed to see), option 4 is wrong (it's trending among the 'younger generation')."
+  },
+  {
+    "id": 39,
+    "section": "listening",
+    "question": "이 대화 전의 내용으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "바다 생태계 환경을 평가하는 지표가 개발됐다.",
+      "정부는 해양 생태계 개선 사업을 긍정적으로 평가했다.",
+      "어업인의 소득을 늘리기 위한 새로운 정책안이 발표됐다.",
+      "사업의 실효성에 대해 의문을 제기하는 언론 보도가 있었다."
+    ],
+    "answer": 1,
+    "explanation": "The woman starts by saying, 'So the government judged the project to be successful...' (정부는... 사업이 성공적이었다고 판단한 거군요). This implies the previous part of the conversation was about the government's positive evaluation."
+  },
+  {
+    "id": 40,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 39",
+    "options": [
+      "어업인들은 이 사업의 확대 시행을 주장하고 있다.",
+      "정부가 경제적인 이유로 사업 중단을 검토 중이다.",
+      "이 사업은 이번에 시작해 향후 10년 동안 진행된다.",
+      "어업인들은 이 사업을 통해 소득이 늘 것으로 기대했다."
+    ],
+    "answer": 3,
+    "explanation": "The man mentions that some fishermen oppose the expansion because 'they expected their income to increase' (소득이 증대할 것이라 기대했으나) but it didn't happen as much as hoped. This confirms option 4."
+  },
+  {
+    "id": 41,
+    "section": "listening",
+    "question": "이 강연의 중심 내용으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "탐사선의 기능에 따라 바퀴를 접는 방식이 달라진다.",
+      "화성 탐사선에 종이 접기 기술이 유용하게 활용된다.",
+      "지구 밖을 탐사하기 위한 인간의 노력이 이어지고 있다.",
+      "작은 부품이 기계를 구동하는 데에 결정적인 역할을 한다."
+    ],
+    "answer": 1,
+    "explanation": "The speaker focuses entirely on how 'origami technology' (종이 접기 기술) is applied to the wheels of the Mars rover to allow them to adapt to rough terrain effectively without complex machinery."
+  },
+  {
+    "id": 42,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 41",
+    "options": [
+      "이 바퀴에는 많은 부품이 들어간다.",
+      "이 바퀴는 평면의 얇은 판을 접어서 만든다.",
+      "이 바퀴가 접히는 부분에는 종이가 부착된다.",
+      "이 바퀴는 양쪽이 같은 크기로 고정되어 있다."
+    ],
+    "answer": 1,
+    "explanation": "The speaker states that the wheel is made of 'a single thin plate with fold lines' (접는 선이 새겨진 얇은 판 한 장). Option 4 is wrong because the whole point is that the size changes to balance."
+  },
+  {
+    "id": 43,
+    "section": "listening",
+    "question": "무엇에 대한 내용인지 알맞은 것을 고르십시오.",
+    "options": [
+      "뇌에 의한 착각 현상",
+      "시간을 인식하는 뇌의 부위",
+      "생존을 위한 뇌의 작동 방식",
+      "손상된 뇌로 인한 특이 반응"
+    ],
+    "answer": 2,
+    "transcript": "남자: 지금 흥미로운 실험이 진행 중이다. 참가자들은 1분 동안 수백 장의 사진을 본다. 꽃, 책상, 사슴 등의 사진이 빠르게 지나간다. 그 사이로 인상을 쓴 얼굴 사진 하나가 스쳐 간다. 순간, 참가자들의 뇌에서 편도체가 활성화된다. 실험이 끝난 뒤, 참가자들은 수많은 사진 중 인상 쓴 얼굴을 또렷이 기억했다. 편도체가 그것을 생존을 위협하는 요소로 인식해 재빨리 기억하도록 했기 때문이다. 특정 장면에 대한 공포는 생존을 위한 뇌의 학습 결과인 것이다. 동물도 마찬가지다. 쥐는 고양이를 만나면 공포를 느끼고 도망친다. 하지만 편도체가 손상된 쥐는 천적에 대한 기억이 없어 위험에 그대로 노출된다.",
+    "explanation": "The speaker explains how the brain's amygdala (편도체) prioritizes threatening images (like an angry face) to ensure survival. It describes the 'brain's operation method for survival' (생존을 위한 뇌의 작동 방식)."
+  },
+  {
+    "id": 44,
+    "section": "listening",
+    "question": "참가자들이 얼굴 사진을 기억한 이유로 맞는 것을 고르십시오.",
+    "passage": "same as question 43",
+    "options": [
+      "익숙함을 느꼈기 때문에",
+      "반복적으로 노출되었기 때문에",
+      "위험한 요소로 받아들였기 때문에",
+      "다른 사진과 공통점을 발견했기 때문에"
+    ],
+    "answer": 2,
+    "explanation": "The transcript states that the amygdala recognized the angry face as a 'factor threatening survival' (생존을 위협하는 요소) and made the brain remember it quickly."
+  },
+  {
+    "id": 45,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "options": [
+      "장악원의 운영 방식은 법으로 규정되어 있었다.",
+      "장악원은 소수의 전문 음악인들로 이루어졌다.",
+      "장악원에 소속된 음악인을 교육하는 외부 기관이 존재했다.",
+      "장악원의 음악은 행사에 관계없이 일정한 형식을 갖추었다."
+    ],
+    "answer": 0,
+    "transcript": "여자: 조선 시대, 왕실의 행사에는 늘 장악원의 음악인들이 있었습니다. 장악원은 조선의 국가 음악 기관으로서 궁중 음악에 관한 모든 일을 관장했는데요. 각종 행사에 맞는 다양한 연주 방법과 횟수는 물론, 천여 명에 달하는 소속 음악인들의 연습 일정까지 법으로 정해 놓을 만큼 철저하게 운영되었습니다. 또 내부 교육 기관을 두어 전문 음악인을 양성하고, 연주에 필요한 악기를 직접 제작하는 것도 장악원에서 담당했습니다. 당시 장악원의 음악적 완성도는 상당한 수준이었는데요. 그들의 음악은 궁중 의례에 경건함을 더하고 왕실에 권위를 부여해 주는 핵심 요소였습니다.",
+    "explanation": "The speaker mentions that play styles, frequency, and schedules were 'set by law' (법으로 정해 놓을 만큼). This confirms option 1. Option 2 is wrong because there were nearly 1,000 musicians (not a small number), and option 3 is wrong because the training was 'internal' (내부 교육 기관)."
+  },
+  {
+    "id": 46,
+    "section": "listening",
+    "question": "여자가 말하는 방식으로 알맞은 것을 고르십시오.",
+    "options": [
+      "장악원의 연주 장면을 묘사하고 있다.",
+      "장악원을 다른 기관과 비교하고 있다.",
+      "장악원의 변천 과정을 요약하고 있다.",
+      "장악원이 담당한 역할을 설명하고 있다."
+    ],
+    "answer": 3,
+    "explanation": "The woman describes the various functions of the Jangakwon: managing court music, training musicians, making instruments, and adding authority to the royal family. She is 'explaining the roles' (역할을 설명) it fulfilled."
+  },
+  {
+    "id": 47,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "options": [
+      "경제학에서는 사회적 자본에 대한 연구가 미비하다.",
+      "경제학에서는 물질 자본을 더 중요한 지표로 삼는다.",
+      "사회적 자본은 구성원들의 신뢰 정도를 측정한 것이다.",
+      "사회적 자본은 높은 거래 비용을 요구하는 경우가 많다."
+    ],
+    "answer": 2,
+    "explanation": "The man defines social capital as 'a value measuring the trust between members [of a group]' (구성원들 간의 신뢰를 측정한 값). This matches option 3."
+  },
+  {
+    "id": 48,
+    "section": "listening",
+    "question": "남자의 태도로 알맞은 것을 고르십시오.",
+    "options": [
+      "사회적 자본의 가치를 높이 평가하고 있다.",
+      "사회적 자본의 활용 방안을 검토하고 있다.",
+      "사회적 자본에 대한 맹신을 경계하고 있다.",
+      "사회적 자본이 미칠 영향을 우려하고 있다."
+    ],
+    "answer": 0,
+    "explanation": "The man concludes that social capital is 'very important' (매우 중요합니다) as a driving force for economic growth, which shows he is 'evaluating its value highly' (가치를 높이 평가)."
+  },
+  {
+    "id": 49,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "options": [
+      "이 제도는 재판의 신속성을 목적으로 한다.",
+      "이 제도는 많은 국가에서 시행을 앞두고 있다.",
+      "이 제도는 특정 사건에 한해 제한적으로 적용된다.",
+      "이 제도는 상급 법원에 재판을 청구할 권리를 보장한다."
+    ],
+    "answer": 3,
+    "explanation": "The text explains that the three-tier system allows for appeals to a 'court of a different level' (서로 다른 급의 법원) to guarantee a fair trial, which corresponds to the 'right to request a trial in a higher court' (상급 법원에 재판을 청구할 권리)."
+  },
+  {
+    "id": 50,
+    "section": "listening",
+    "question": "남자의 태도로 알맞은 것을 고르십시오.",
+    "options": [
+      "제도의 새로운 변화를 기대하고 있다.",
+      "제도의 필요성과 의의를 강조하고 있다.",
+      "제도의 개선 방향에 적극 동의하고 있다.",
+      "제도의 확대 적용을 강력하게 주장하고 있다."
+    ],
+    "answer": 1,
+    "explanation": "Despite some calls for simplification/speed, the speaker argues that the three-tier system is 'absolutely necessary' (반드시 필요한 제도) to realize the principle of fairness. He is 'emphasizing the necessity and significance' (필요성과 의의를 강조)."
+  }
+]

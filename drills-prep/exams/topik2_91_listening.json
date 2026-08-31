@@ -1,0 +1,705 @@
+[
+  {
+    "id": 1,
+    "section": "listening",
+    "question": "다음을 듣고 가장 알맞은 그림 또는 그래프를 고르십시오.",
+    "options": ["그림 1", "그림 2", "그림 3", "그림 4"],
+    "answer": 1,
+    "image": "listening_91_1.png",
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "Based on the answer key (②) and the visual context, the dialogue likely involves a man and a woman looking at or selecting items (ties/accessories) at a store counter. Image 2 depicts this specific interaction."
+  },
+  {
+    "id": 2,
+    "section": "listening",
+    "question": "다음을 듣고 가장 알맞은 그림 또는 그래프를 고르십시오.",
+    "options": ["그림 1", "그림 2", "그림 3", "그림 4"],
+    "answer": 0,
+    "image": "listening_91_2.png",
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "Based on the answer key (①), the dialogue likely involves a woman offering or serving food/fruit to a man at a dining table. Image 1 shows this scene."
+  },
+  {
+    "id": 3,
+    "section": "listening",
+    "question": "다음을 듣고 가장 알맞은 그림 또는 그래프를 고르십시오.",
+    "options": ["그래프 1", "그래프 2", "그래프 3", "그래프 4"],
+    "answer": 2,
+    "image": "listening_91_3.png",
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "Based on the answer key (③), this question involves statistical data about reasons for not reading (독서를 하지 않는 이유). Graph 3 correctly ranks 'No time due to work' as 1st, followed by 'Using other media' as 2nd."
+  },
+  {
+    "id": 4,
+    "section": "listening",
+    "question": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "그래? 안 나와서 걱정했어.",
+      "무슨 학원에 다니고 있어?",
+      "그래? 할머니 댁에 언제 가?",
+      "부모님과 함께 가기로 했거든."
+    ],
+    "answer": 0,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "The correct response (Option ①) suggests that the previous speaker mentioned someone finally appearing or a result coming out after a period of worry."
+  },
+  {
+    "id": 5,
+    "section": "listening",
+    "question": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "그럼 거기로 다시 가 볼까요?",
+      "아직 한 곳밖에 안 가 봤는데요.",
+      "그럼 이 소파를 사는 게 어때요?",
+      "집 근처에 있는 소파 가게에서 샀어요."
+    ],
+    "answer": 0,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "The correct response (Option ①) indicates a suggestion to revisit a place previously mentioned in the dialogue."
+  },
+  {
+    "id": 6,
+    "section": "listening",
+    "question": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "면접 날짜를 다시 확인하고 알려 줘.",
+      "준비 많이 했으니까 잘할 수 있을 거야.",
+      "면접 보기 전인데 안 떨린다니 대단하다.",
+      "생각하지 못한 질문을 받아서 정말 놀랐겠네."
+    ],
+    "answer": 1,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "The correct response (Option ②) is a phrase of encouragement provided before an upcoming event, such as a job interview."
+  },
+  {
+    "id": 7,
+    "section": "listening",
+    "question": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "맞아요. 이전 작품은 내용이 별로였어요.",
+      "그래요? 이 드라마 다 보면 다른 작품도 봐야겠어요.",
+      "맞아요. 이 드라마는 몇 번을 다시 봐도 재미있네요.",
+      "그래요? 이 작가가 처음으로 쓴 작품인 줄 몰랐어요."
+    ],
+    "answer": 1,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "The correct response (Option ②) indicates the speaker is reacting to information about a drama and expressing interest in the writer's or director's future works."
+  },
+  {
+    "id": 8,
+    "section": "listening",
+    "question": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "얼룩이 잘 지워진 것 같아요.",
+      "운동화를 깨끗하게 신으셨네요.",
+      "해 봐야 알겠지만 최대한 없애 볼게요.",
+      "집에 돌아가서 다시 한번 지워 보려고요."
+    ],
+    "answer": 2,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "The correct response (Option ③) implies that someone has asked to have a stain removed or something fixed, and the speaker is promising to do their best."
+  },
+  {
+    "id": 9,
+    "section": "listening",
+    "question": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "김밥을 산다.",
+      "기차를 탄다.",
+      "자리에 앉는다.",
+      "카페로 들어간다."
+    ],
+    "answer": 0,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "Based on the answer key (①), the dialogue likely concludes with a decision to buy food (Kimbap) before boarding a train or heading to a destination."
+  },
+  {
+    "id": 10,
+    "section": "listening",
+    "question": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "고객 대기실로 간다.",
+      "남자에게 열쇠를 준다.",
+      "차의 상태를 확인한다.",
+      "차를 수리하려고 예약한다."
+    ],
+    "answer": 0,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "Based on the answer key (①), the scene likely takes place at a car repair shop. After handing over the vehicle, the woman is expected to move to the waiting area."
+  },
+  {
+    "id": 11,
+    "section": "listening",
+    "question": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "물감을 찾아본다.",
+      "미술 연필을 고른다.",
+      "직원에게 물어본다.",
+      "남자에게 제품 이름을 말한다."
+    ],
+    "answer": 2,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "Based on the answer key (③), the woman is likely having trouble finding a specific art supply and decides to ask a store employee for help."
+  },
+  {
+    "id": 12,
+    "section": "listening",
+    "question": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "촬영팀에게 연락한다.",
+      "진행 순서를 설명한다.",
+      "공연 무대를 점검한다.",
+      "공연팀을 데리러 간다."
+    ],
+    "answer": 3,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "Based on the answer key (④), the woman is in a coordination role and her next task is to go pick up or bring the performing team to the stage."
+  },
+  {
+    "id": 13,
+    "section": "listening",
+    "question": "다음을 듣고 들은 내용과 같은 것을 고르십시오.",
+    "options": [
+      "길이 예전에 비해 좁아졌다.",
+      "여자는 이곳에 처음 와 봤다.",
+      "남자는 인주서점에 간 적이 없다.",
+      "인주서점은 지금까지 같은 자리에 있다."
+    ],
+    "answer": 1,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (②), the dialogue likely involves a woman visiting a specific location for the first time."
+  },
+  {
+    "id": 14,
+    "section": "listening",
+    "question": "다음을 듣고 들은 내용과 같은 것을 고르십시오.",
+    "options": [
+      "분실물은 구두 매장에 있었다.",
+      "오후 8 시에 지갑이 발견되었다.",
+      "고객 센터는 구두 매장 옆에 있다.",
+      "지갑을 잃어버린 사람은 1 층으로 가면 된다."
+    ],
+    "answer": 2,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (③), the announcement or dialogue specifies that the customer service center is located next to the shoe store."
+  },
+  {
+    "id": 15,
+    "section": "listening",
+    "question": "다음을 듣고 들은 내용과 같은 것을 고르십시오.",
+    "options": [
+      "이 사고는 어젯밤에 발생했다.",
+      "이 사고로 인해 사람들이 크게 다쳤다.",
+      "경찰은 사고 원인에 대해 조사하고 있다.",
+      "낚싯배가 다른 배와 충돌하는 사고가 났다."
+    ],
+    "answer": 2,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (③), this news report concludes with the fact that police are currently investigating the cause of the accident."
+  },
+  {
+    "id": 16,
+    "section": "listening",
+    "question": "다음을 듣고 들은 내용과 같은 것을 고르십시오.",
+    "options": [
+      "여자는 수술 과정에 참여한다.",
+      "여자는 보호자의 집에서 동물을 돌본다.",
+      "여자의 직업은 사람들에게 잘 알려져 있다.",
+      "동물의 상태를 관찰하는 일은 여자의 업무가 아니다."
+    ],
+    "answer": 0,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (①), the woman describes her professional duties, which include participating in surgical processes for animals."
+  },
+  {
+    "id": 17,
+    "section": "listening",
+    "question": "다음을 듣고 남자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "저녁 식사를 미리 준비해 두어야 한다.",
+      "음식을 한꺼번에 많이 먹지 않는 것이 좋다.",
+      "건강을 위해서 식사를 규칙적으로 해야 한다.",
+      "피곤할 때는 저녁을 밖에서 사 먹는 것이 좋다."
+    ],
+    "answer": 2,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (③), the male speaker emphasizes the importance of maintaining a regular meal schedule for health reasons."
+  },
+  {
+    "id": 18,
+    "section": "listening",
+    "question": "다음을 듣고 남자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "친구가 힘들 때는 옆에 있어 줘야 한다.",
+      "여러 사람과 잘 지내기 위해 노력할 필요가 있다.",
+      "다른 사람과 함께 있을 때는 말을 조심해야 한다.",
+      "친구와 문제가 생겼을 때는 빨리 해결하는 것이 좋다."
+    ],
+    "answer": 0,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (①), the man expresses that the core value of friendship is being present and supportive when a friend is going through a hard time."
+  },
+  {
+    "id": 19,
+    "section": "listening",
+    "question": "다음을 듣고 남자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "여행은 여유롭게 하는 것이 좋다.",
+      "여행을 자주 가는 것은 좋지 않다.",
+      "여행에서 다양한 경험을 해 봐야 한다.",
+      "여행에 필요한 예산을 정해 놓을 필요가 있다."
+    ],
+    "answer": 2,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (③), the man advocates for seeking out diverse and new experiences while traveling."
+  },
+  {
+    "id": 20,
+    "section": "listening",
+    "question": "다음을 듣고 남자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "광고를 짧게 만드는 것이 효과적이다.",
+      "광고는 대중의 호기심을 자극해야 한다.",
+      "광고는 제품의 정보를 사실대로 전달해야 한다.",
+      "광고는 보는 사람이 쉽게 이해할 수 있어야 한다."
+    ],
+    "answer": 0,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (①), the man's main point is that brevity is the key to an effective advertisement."
+  },
+  {
+    "id": 21,
+    "section": "listening",
+    "question": "남자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "회의 내용을 빠짐없이 기록해야 한다.",
+      "회의 때 낭비되는 종이를 줄이는 것이 좋다.",
+      "회의실을 지금보다 더 큰 장소로 바꿔야 한다.",
+      "발표 자료는 알아보기 쉽게 만드는 것이 좋다."
+    ],
+    "answer": 1,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (②), the man suggests reducing paper waste during meetings, likely by using digital alternatives."
+  },
+  {
+    "id": 22,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 21",
+    "options": [
+      "이번 회의는 발표 자료 없이 진행된다.",
+      "여자는 회의에서 쓸 자료를 복사할 예정이다.",
+      "남자는 회의 때 대형 화면을 사용한 적이 있다.",
+      "여자는 참석자들에게 참고할 자료를 이미 이메일로 보내 놓았다."
+    ],
+    "answer": 2,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (③), the man mentions his past experience using a large screen for meeting presentations."
+  },
+  {
+    "id": 23,
+    "section": "listening",
+    "question": "남자가 무엇을 하고 있는지 고르십시오.",
+    "options": [
+      "가게의 위치를 확인하고 있다.",
+      "가게 운영에 대해 조언을 구하고 있다.",
+      "구매할 물건의 사용 방법을 물어보고 있다.",
+      "원하는 조건의 물건이 있는지 알아보고 있다."
+    ],
+    "answer": 3,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (④), the man is acting as a customer looking for a specific item that meets certain criteria/conditions."
+  },
+  {
+    "id": 24,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 23",
+    "options": [
+      "여자의 가게에는 크기가 큰 냉장고가 없다.",
+      "남자는 카페에서 케이크를 팔지 않기로 했다.",
+      "남자의 카페에는 유리문이 달린 냉장고가 있다.",
+      "여자의 가게에서는 새로 나온 제품만 판매한다."
+    ],
+    "answer": 2,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (③), it is confirmed that the refrigerator in the man's cafe is equipped with glass doors."
+  },
+  {
+    "id": 25,
+    "section": "listening",
+    "question": "남자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "마을 축제에 대한 주민들의 관심이 필요하다.",
+      "마을의 특징을 활용한 것이 축제의 성공 비결이다.",
+      "축제에서 판매할 기념품을 새로 제작하는 것이 좋다.",
+      "축제를 기획할 때 성공 사례를 충분히 검토해야 한다."
+    ],
+    "answer": 1,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (②), the man attributes the success of a village festival to the effective use of the village's unique characteristics."
+  },
+  {
+    "id": 26,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 25",
+    "options": [
+      "이 마을을 아는 사람이 거의 없다.",
+      "이 마을에서 축제가 올해 처음으로 열렸다.",
+      "이 마을의 해바라기 들판은 최근에 만들어졌다.",
+      "이 마을의 특산품이 관광객에게 좋은 반응을 얻었다."
+    ],
+    "answer": 3,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (④), it is noted in the dialogue that the local specialties sold at the festival were well-received by visitors."
+  },
+  {
+    "id": 27,
+    "section": "listening",
+    "question": "남자가 말하는 의도로 알맞은 것을 고르십시오.",
+    "options": [
+      "이 과자의 맛이 달라진 것을 지적하려고",
+      "이 과자를 생산하게 된 이유를 알려 주려고",
+      "이 과자의 생산이 중단될 것이라는 소식을 전하려고",
+      "이 과자를 구하기 어려운 것에 대한 불만을 말하려고"
+    ],
+    "answer": 3,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (④), the man is expressing frustration or dissatisfaction because a certain snack is difficult to find or purchase."
+  },
+  {
+    "id": 28,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 27",
+    "options": [
+      "이 회사는 작업 시간을 늘렸다.",
+      "남자는 이 과자를 구입한 적이 있다.",
+      "이 과자는 사람들의 관심을 끌지 못했다.",
+      "여자는 남자에게 이 과자에 대해 처음 들었다."
+    ],
+    "answer": 0,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (①), the company mentioned in the dialogue increased its production/working hours to meet the high demand for the snack."
+  },
+  {
+    "id": 29,
+    "section": "listening",
+    "question": "남자가 누구인지 고르십시오.",
+    "options": [
+      "도로를 정비하는 사람",
+      "교통 상황을 촬영하는 사람",
+      "도로에 CCTV 를 설치하는 사람",
+      "방송에서 교통 상황을 알려 주는 사람"
+    ],
+    "answer": 3,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (④), the man's identity is a traffic reporter or announcer who provides updates on road conditions via broadcast."
+  },
+  {
+    "id": 30,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 29",
+    "options": [
+      "남자는 매일 오후에 근무를 시작한다.",
+      "남자는 이 일을 할 때 긴장하지 않는다.",
+      "남자는 CCTV 를 분석하는 일을 하지 않는다.",
+      "남자의 일에는 시민들이 보낸 문자를 보는 것이 포함된다."
+    ],
+    "answer": 3,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (④), the man mentions that part of his job involves monitoring text messages sent by citizens reporting traffic conditions."
+  },
+  {
+    "id": 31,
+    "section": "listening",
+    "question": "남자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "시설을 다른 지역으로 옮겨서 설치해야 한다.",
+      "시설의 설치 효과에 대한 명확한 검증이 필요하다.",
+      "시설 설치에 대한 반대는 홍보를 통해 해결할 수 있다.",
+      "시설의 설치 사실을 주민들에게 바로 알리지 않는 것이 좋다."
+    ],
+    "answer": 2,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (③), the man believes that opposition to installing new facilities can be resolved through active promotion and communication."
+  },
+  {
+    "id": 32,
+    "section": "listening",
+    "question": "남자의 태도로 가장 알맞은 것을 고르십시오.",
+    "passage": "same as question 31",
+    "options": [
+      "앞으로 일어날 문제에 대해 걱정하고 있다.",
+      "자신의 의견대로 될 것임을 확신하고 있다.",
+      "상대방에게 객관적인 근거를 요구하고 있다.",
+      "상황이 심각해진 것에 대한 책임을 묻고 있다."
+    ],
+    "answer": 1,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (②), the man shows confidence and a conviction that the situation will progress according to his perspective."
+  },
+  {
+    "id": 33,
+    "section": "listening",
+    "question": "무엇에 대한 내용인지 알맞은 것을 고르십시오.",
+    "options": [
+      "음악을 감상하는 올바른 방법",
+      "음악적 재능이 발달하는 결정적 시기",
+      "노인을 대상으로 하는 연구에서 주의할 점",
+      "음악 활동이 노인의 인지 기능에 미치는 영향"
+    ],
+    "answer": 3,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (④), the discussion centers on a study investigating how musical activities impact the cognitive functions of elderly individuals."
+  },
+  {
+    "id": 34,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 33",
+    "options": [
+      "이 연구를 위한 실험은 1 년 동안 진행됐다.",
+      "이 실험의 결과는 연구팀의 예상과 같았다.",
+      "이 실험에서 두 집단은 동일한 결과를 보였다.",
+      "이 실험은 음악을 전공한 사람들을 대상으로 했다."
+    ],
+    "answer": 1,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (②), it is mentioned that the outcome of the cognitive study matched the researchers' initial hypotheses."
+  },
+  {
+    "id": 35,
+    "section": "listening",
+    "question": "남자가 무엇을 하고 있는지 고르십시오.",
+    "options": [
+      "이 편지가 가지는 가치와 의의를 알리고 있다.",
+      "이 편지의 보존 상태에 대해 아쉬움을 표하고 있다.",
+      "이 편지가 발견된 장소와 발굴 과정을 보고하고 있다.",
+      "이 편지를 연구하는 데 도움을 준 사람들에게 감사하고 있다."
+    ],
+    "answer": 0,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (①), the man is presenting information about a historical letter, highlighting its value and significance."
+  },
+  {
+    "id": 36,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 35",
+    "options": [
+      "이 편지는 곧 박물관에 전시될 것이다.",
+      "이 편지는 군인인 남편이 아내에게 쓴 것이다.",
+      "이 편지가 어느 시대의 것인지 밝혀지지 않았다.",
+      "이 편지를 보물로 지정하기 위한 논의가 진행 중이다."
+    ],
+    "answer": 1,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (②), the content of the letter reveals it was written by a soldier to his wife."
+  },
+  {
+    "id": 37,
+    "section": "listening",
+    "question": "여자의 중심 생각으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "목재를 수출하기 위한 경로를 확보해야 한다.",
+      "산림 순환 경영을 통해 좋은 효과를 얻을 수 있다.",
+      "좋은 목재를 얻을 수 있는 나무를 심는 것이 좋다.",
+      "산림 순환 경영이 정착될 때까지 시간이 필요하다."
+    ],
+    "answer": 1,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (②), the female speaker emphasizes that forest circulation management (sustainable logging and replanting) can bring positive environmental or economic results."
+  },
+  {
+    "id": 38,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 37",
+    "options": [
+      "한국은 목재 수입 비중이 낮은 편이다.",
+      "한국은 산림 순환 경영을 시행하고 있다.",
+      "나무가 30 년 이상 되면 탄소 흡수 능력이 떨어진다.",
+      "한국의 산에는 심은 지 얼마 안 된 어린나무가 많다."
+    ],
+    "answer": 3,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (④), it is noted that a large portion of forests in Korea currently consist of relatively young trees that were recently planted."
+  },
+  {
+    "id": 39,
+    "section": "listening",
+    "question": "이 대화 전의 내용으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "인공위성을 관측하는 신기술이 개발되었다.",
+      "대기권에서 인공위성이 폭발하는 사고가 있었다.",
+      "우주 조약을 개정하기 위해 여러 나라 사람들이 모였다.",
+      "우주 탐사를 위한 인력을 양성하는 것은 쉬운 일이 아니다."
+    ],
+    "answer": 1,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (②), the conversation likely starts by discussing a specific incident involving an atmospheric satellite explosion or related safety concerns."
+  },
+  {
+    "id": 40,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 39",
+    "options": [
+      "얼마 전에 국제 우주법이 제정되었다.",
+      "우주 조약은 구체적인 내용으로 구성되어 있다.",
+      "우주 조약은 강제적인 효력을 가지고 있지 않다.",
+      "인공위성으로 인한 전파 방해 문제는 일어나지 않을 것이다."
+    ],
+    "answer": 1,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (②), the dialogue clarifies the nature or level of detail contained within current space treaties."
+  },
+  {
+    "id": 41,
+    "section": "listening",
+    "question": "이 강연의 중심 내용으로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "제품의 품질은 부품의 질에 의해 결정된다.",
+      "제조업은 일자리 창출에 크게 기여하고 있다.",
+      "제품에 대한 고객의 의견을 반영하는 것이 중요하다.",
+      "제조업은 사업 영역 확장을 통해 발전을 도모하고 있다."
+    ],
+    "answer": 3,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (④), the lecture focuses on how the manufacturing industry is evolving and growing by expanding its business scope."
+  },
+  {
+    "id": 42,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "passage": "same as question 41",
+    "options": [
+      "이 업체는 엔진 판매에 어려움을 겪고 있다.",
+      "조선업이 경제적으로 힘든 상황에 놓여 있다.",
+      "이 업체는 안정적인 수입을 얻지 못하고 있다.",
+      "이 업체는 실시간 엔진 점검 서비스 시스템을 마련했다."
+    ],
+    "answer": 3,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (④), the speaker highlights a specific innovation where an engine company provided a real-time maintenance service system."
+  },
+  {
+    "id": 43,
+    "section": "listening",
+    "question": "무엇에 대한 내용인지 알맞은 것을 고르십시오.",
+    "options": [
+      "종묘 정전의 건축미",
+      "종묘 정전의 건립 과정",
+      "종묘 정전의 관리 방법",
+      "종묘 정전의 현대적 기능"
+    ],
+    "answer": 0,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (①), the presentation focuses on the aesthetic and architectural beauty of the Jongmyo Jeongjeon."
+  },
+  {
+    "id": 44,
+    "section": "listening",
+    "question": "종묘 정전에 대한 설명으로 맞는 것을 고르십시오.",
+    "passage": "same as question 43",
+    "options": [
+      "지붕이 곡선 형태로 휘어 있다.",
+      "기둥에 화려한 색이 사용되었다.",
+      "도심에서 멀리 떨어진 곳에 있다.",
+      "왕과 왕비의 제사를 지내는 공간이다."
+    ],
+    "answer": 3,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (④), the text defines the building's function as a ritual space for performing ancestral rites for kings and queens."
+  },
+  {
+    "id": 45,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "options": [
+      "충수에는 염증이 잘 생기지 않는다.",
+      "충수는 소화가 잘되도록 돕는 일을 한다.",
+      "충수에는 유익한 미생물이 서식하고 있다.",
+      "충수를 제거하는 수술이 최근에 가능해졌다."
+    ],
+    "answer": 2,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (③), the speaker shares a biological fact regarding the appendix (충수) acting as a reservoir for beneficial microorganisms."
+  },
+  {
+    "id": 46,
+    "section": "listening",
+    "question": "여자가 말하는 방식으로 알맞은 것을 고르십시오.",
+    "passage": "same as question 45",
+    "options": [
+      "유사한 사례들을 묶어 비교 분석하고 있다.",
+      "대상이 가진 문제의 주요 원인을 유추하고 있다.",
+      "대상의 역할에 대해 밝혀진 사실을 설명하고 있다.",
+      "다양한 연구를 바탕으로 자신만의 기준을 제시하고 있다."
+    ],
+    "answer": 2,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (③), the female speaker is using an explanatory tone to provide facts about a specific biological or scientific role."
+  },
+  {
+    "id": 47,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "options": [
+      "인건비와 임대료는 고정 비용에 포함되지 않는다.",
+      "소상공인의 경영난은 일률적 방식으로 해결할 수 있다.",
+      "대출 의존도가 높은 경우 채무를 조정해 주면 안 된다.",
+      "영업 비용 때문에 빚을 지는 소상공인이 많아지고 있다."
+    ],
+    "answer": 3,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (④), the discussion notes an increasing trend of small business owners going into debt due to operating costs."
+  },
+  {
+    "id": 48,
+    "section": "listening",
+    "question": "남자의 태도로 알맞은 것을 고르십시오.",
+    "passage": "same as question 47",
+    "options": [
+      "소상공업계의 태도 변화를 기대하고 있다.",
+      "경제 위기 극복을 위한 소상공인의 노력에 감탄하고 있다.",
+      "소상공인에 대한 실효성 있는 지원 방안을 제안하고 있다.",
+      "소상공업의 활성화가 가져올 경제적 효과를 낙관하고 있다."
+    ],
+    "answer": 2,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (③), the male speaker is taking a proactive stance by suggesting effective support measures for small business owners."
+  },
+  {
+    "id": 49,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "options": [
+      "이 철학자는 도덕성에 대해 일반적인 견해를 따르고 있다.",
+      "이 철학자는 도덕성을 평가하는 기준에서 감정을 배제했다.",
+      "이 철학자에 따르면 출근 시간을 지키는 것은 도덕적 의무가 아니다.",
+      "이 철학자에 따르면 어떤 상황에서도 다른 사람을 돕는 것이 최우선이다."
+    ],
+    "answer": 1,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (②), this philosophical discussion mentions a specific thinker who removed emotional factors from the criteria for moral evaluation."
+  },
+  {
+    "id": 50,
+    "section": "listening",
+    "question": "남자의 태도로 알맞은 것을 고르십시오.",
+    "passage": "same as question 49",
+    "options": [
+      "도덕적 행위의 당위성을 강조하고 있다.",
+      "도덕적 행위의 가치를 과대평가하고 있다.",
+      "도덕성에 대한 섣부른 판단을 경계하고 있다.",
+      "도덕성에 대한 연구의 필요성을 제기하고 있다."
+    ],
+    "answer": 2,
+    "transcript": "N/A (Script not provided in source document)",
+    "explanation": "According to the answer key (③), the man concludes by warning against making hasty or shallow judgments regarding morality."
+  }
+]
