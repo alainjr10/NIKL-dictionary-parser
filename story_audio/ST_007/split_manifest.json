@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_007",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_007.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 33.211,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "면접관",
+      "kr": "우리 회사는 업무량이 많은 편인데, 야근이 잦더라도 끝까지 책임지고 해낼 수 있겠습니까?",
+      "align_start": 0.0,
+      "align_end": 6.38,
+      "cut_start": 0.0,
+      "cut_end": 6.6,
+      "score": 0.999,
+      "matched_asr": "우리회사는업무량이많은편인데야근이잤더라도끝까지책임지고해낼수있겠습니까?",
+      "bytes": 66068
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "지원자",
+      "kr": "네, 저는 지난 직장에서 프로젝트를 완수하기 위해서 한 달 내내 사무실에서 살다시피 한 적이 있습니다.",
+      "align_start": 6.84,
+      "align_end": 13.14,
+      "cut_start": 6.6,
+      "cut_end": 13.36,
+      "score": 1.02,
+      "matched_asr": "네,저는지난직장에서프로젝트를완수하기위해서한달내내사무실에서살다시피한적이있습니다.",
+      "bytes": 70652
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "면접관",
+      "kr": "실무 능력은 충분해 보이는군요. 그런데 상사와 의견이 다를 경우에는 어떻게 대처할 생각입니까?",
+      "align_start": 13.5,
+      "align_end": 20.48,
+      "cut_start": 13.36,
+      "cut_end": 20.7,
+      "score": 1.001,
+      "matched_asr": "실모능력은충분해보이는군요.그런데상사와의견이다를경우에는어떻게대처할생각입니까?",
+      "bytes": 71948
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "지원자",
+      "kr": "무작정 제 고집을 내세우기보다는 상사의 의중을 파악하는 대로 대화를 통해 타협점을 찾도록 하겠습니다.",
+      "align_start": 20.76,
+      "align_end": 27.16,
+      "cut_start": 20.7,
+      "cut_end": 27.38,
+      "score": 1.02,
+      "matched_asr": "무작정제고집을내세우기보다는상사의의중을파악하는대로대화를통해타협점을찾도록하겠습니다.",
+      "bytes": 72620
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "면접관",
+      "kr": "좋습니다. 결과는 이번 주 내로 통보할 테니까 연락을 기다려 주시기 바랍니다.",
+      "align_start": 27.68,
+      "align_end": 32.9,
+      "cut_start": 27.38,
+      "cut_end": 33.211,
+      "score": 0.996,
+      "matched_asr": "좋습니다.결과는이번주내로통보할기니까연락을기다려주시기바랍니다.",
+      "bytes": 54668
+    }
+  ]
+}

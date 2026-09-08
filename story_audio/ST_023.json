@@ -1,0 +1,21 @@
+{
+  "story_id": "ST_023",
+  "title": "단군 신화와 인내의 가치 (The Dan-gun Myth and the Value of Patience)",
+  "type": "story",
+  "mode": "full",
+  "chunks": 1,
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear intermediate Korean; natural pace; distinct speaker identities",
+  "context": "Continuous language-learning scene; brief pause between turns",
+  "voices": {
+    "Narrator": "Kore"
+  },
+  "personas": {
+    "Narrator": "Korean story narrator, warm adult voice, calm mid pitch, even pacing, same person every line"
+  },
+  "aliases": {
+    "Narrator": "Narrator"
+  },
+  "file": "ST_023.wav",
+  "bytes": 3276090
+}

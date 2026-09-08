@@ -1,0 +1,21 @@
+{
+  "story_id": "ST_041",
+  "title": "도서관에서 (At the Library)",
+  "type": "story",
+  "mode": "full",
+  "chunks": 1,
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear beginner-friendly Korean; slow natural pace; distinct speaker identities",
+  "context": "Continuous language-learning scene for beginners; brief pause between turns",
+  "voices": {
+    "Narrator": "Kore"
+  },
+  "personas": {
+    "Narrator": "Korean story narrator, warm adult voice, calm mid pitch, even pacing, same person every line"
+  },
+  "aliases": {
+    "Narrator": "Narrator"
+  },
+  "file": "ST_041.wav",
+  "bytes": 709050
+}

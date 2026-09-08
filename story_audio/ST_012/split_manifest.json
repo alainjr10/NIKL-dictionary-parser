@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_012",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_012.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 34.622,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "앵커",
+      "kr": "우리가 무심코 버린 플라스틱이 미세하게 분해되어 결국 우리의 식탁까지 위협하고 있다는 사실, 알고 계십니까?",
+      "align_start": 0.0,
+      "align_end": 7.5,
+      "cut_start": 0.0,
+      "cut_end": 7.72,
+      "score": 1.02,
+      "matched_asr": "우리가무심코버린플라스틱이미세하게분해되어결국우리의식탁까지위협하고있다는사실알고계십니까?",
+      "bytes": 75980
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "기자",
+      "kr": "해양 생물들이 미세 플라스틱을 먹이로 착각하고 섭취함에 따라 생태계 파괴가 가속화되고 있습니다.",
+      "align_start": 8.06,
+      "align_end": 14.2,
+      "cut_start": 7.72,
+      "cut_end": 14.42,
+      "score": 1.02,
+      "matched_asr": "해양생물들이미세플라스틱을먹이로착각하고섭취함에따라생태계파괴가가속화되고있습니다.",
+      "bytes": 66956
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "기자",
+      "kr": "연구 결과에 의해서 밝혀진 바에 따르면, 심해어류조차 이미 오염된 채로 발견되는 경우가 많다고 합니다.",
+      "align_start": 14.74,
+      "align_end": 21.26,
+      "cut_start": 14.42,
+      "cut_end": 21.48,
+      "score": 1.002,
+      "matched_asr": "연구결과에의해서밝혀진바에따르면심의어류조차이미오염된채로발견되는경우가많다고합니다.",
+      "bytes": 70172
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "전문가",
+      "kr": "지금 당장 대책을 마련하지 않다가는 머지않아 회복 불가능한 지경에 이를지도 모릅니다.",
+      "align_start": 21.82,
+      "align_end": 27.1,
+      "cut_start": 21.48,
+      "cut_end": 27.32,
+      "score": 0.978,
+      "matched_asr": "지금당장대책을마련하지않다가는머지않아회복불가능한직영에이를지도모릅니다.",
+      "bytes": 55916
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "기자",
+      "kr": "개인의 노력도 중요하지만 기업들이 생산 단계에서부터 플라스틱을 줄이도록 하는 법적 규제가 시급해 보입니다.",
+      "align_start": 27.1,
+      "align_end": 34.24,
+      "cut_start": 27.32,
+      "cut_end": 34.622,
+      "score": 0.987,
+      "matched_asr": "개인의노력도중요하지만기업들이생상단계에서부터플라스틱을주이도록하는법적규제가시급해보입니다.",
+      "bytes": 72356
+    }
+  ]
+}

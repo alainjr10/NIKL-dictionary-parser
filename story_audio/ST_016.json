@@ -1,0 +1,21 @@
+{
+  "story_id": "ST_016",
+  "title": "세종대왕과 한글 창제 (King Sejong and the Creation of Hangeul)",
+  "type": "story",
+  "mode": "full",
+  "chunks": 1,
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear intermediate Korean; natural pace; distinct speaker identities",
+  "context": "Continuous language-learning scene; brief pause between turns",
+  "voices": {
+    "Narrator": "Kore"
+  },
+  "personas": {
+    "Narrator": "Korean story narrator, warm adult voice, calm mid pitch, even pacing, same person every line"
+  },
+  "aliases": {
+    "Narrator": "Narrator"
+  },
+  "file": "ST_016.wav",
+  "bytes": 1955130
+}

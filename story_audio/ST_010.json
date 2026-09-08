@@ -1,0 +1,23 @@
+{
+  "story_id": "ST_010",
+  "title": "숏폼 콘텐츠와 주의력 결핍 (Short-form Content and Attention Deficit)",
+  "type": "conversation",
+  "mode": "full",
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear intermediate Korean; natural conversational pace; distinct speaker identities",
+  "context": "Record as one continuous scene for language learners; pause briefly between turns",
+  "voices": {
+    "민호": "Charon",
+    "서연": "Aoede"
+  },
+  "personas": {
+    "민호": "민호: Korean young adult, natural conversational mid pitch, consistent timbre and age, same person every line",
+    "서연": "서연: Korean young adult, natural conversational mid pitch, consistent timbre and age, same person every line"
+  },
+  "aliases": {
+    "민호": "Minho",
+    "서연": "Seoyeon"
+  },
+  "file": "ST_010.wav",
+  "bytes": 1640250
+}

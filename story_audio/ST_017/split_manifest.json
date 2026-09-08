@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_017",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_017.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 33.182,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "앵커",
+      "kr": "최근 글로벌 경제의 불확실성이 커짐에 따라 주식 시장의 변동성이 그 어느 때보다 심화되고 있습니다.",
+      "align_start": 0.0,
+      "align_end": 6.48,
+      "cut_start": 0.0,
+      "cut_end": 6.7,
+      "score": 1.02,
+      "matched_asr": "최근글로벌경제의불확실성이커짐에따라주식시장의변동성이그어느때보다심화되고있습니다.",
+      "bytes": 66212
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "전문가",
+      "kr": "일부 종목이 급등하는가 하면 다른 종목은 폭락하는 등, 시장의 흐름을 예측하기가 매우 어려운 상황입니다.",
+      "align_start": 6.96,
+      "align_end": 13.4,
+      "cut_start": 6.7,
+      "cut_end": 13.62,
+      "score": 1.02,
+      "matched_asr": "일부종목이급등하는가하면다른종목은폭락하는등시장의흐름을예측하기가매우어려운상황입니다.",
+      "bytes": 68564
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "전문가",
+      "kr": "단기적인 이익에만 도취되어 무리하게 투자하다가는 큰 손실을 입기 마련입니다.",
+      "align_start": 13.82,
+      "align_end": 18.44,
+      "cut_start": 13.62,
+      "cut_end": 18.66,
+      "score": 0.997,
+      "matched_asr": "단기적인이익에만도추되어무리하게투자하다가는큰손실을입기마련입니다.",
+      "bytes": 52916
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "기자",
+      "kr": "전문가들은 시장의 지표를 면밀히 분석한 끝에 장기적인 관점에서 분산 투자를 할 것을 권고하고 있습니다.",
+      "align_start": 18.96,
+      "align_end": 26.0,
+      "cut_start": 18.66,
+      "cut_end": 26.22,
+      "score": 1.02,
+      "matched_asr": "전문가들은시장의지표를면밀히분석한끝에장기적인관점에서분산투자를할것을권고하고있습니다.",
+      "bytes": 74828
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "앵커",
+      "kr": "원칙을 지키는 투자가 계속되는 한, 일시적인 하락장은 오히려 좋은 매수의 기회가 될 수도 있습니다.",
+      "align_start": 26.62,
+      "align_end": 32.7,
+      "cut_start": 26.22,
+      "cut_end": 33.182,
+      "score": 1.001,
+      "matched_asr": "원칙을지키는투자가계속되는한이시적인하락장은오히려좋은매수의기회가될수도있습니다.",
+      "bytes": 66620
+    }
+  ]
+}

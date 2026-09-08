@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_002",
+  "source_audio": "c:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_002-full.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 39.811,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "Narrator",
+      "kr": "서울의 바쁜 도심 한복판에 위치한 이 서점은 다른 곳들과는 달리 아주 조용하다.",
+      "align_start": 0.0,
+      "align_end": 6.02,
+      "cut_start": 0.0,
+      "cut_end": 6.24,
+      "score": 1.02,
+      "matched_asr": "서울의바쁜도심한복판에위치한이서점은다른곳들과는달리아주조용하다.",
+      "bytes": 59372
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "Narrator",
+      "kr": "입구에 들어서자마자 휴대폰은 가방 깊숙이 넣어야 하며, 대화는커녕 숨소리조차 조심해야 할 지경이다.",
+      "align_start": 6.8,
+      "align_end": 15.0,
+      "cut_start": 6.24,
+      "cut_end": 15.22,
+      "score": 0.969,
+      "matched_asr": "입구에들어서마자휴대폰은가방깊숙이넣어야하며대화는커녕숨소리조차조심해야할직영이다.",
+      "bytes": 84524
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "Narrator",
+      "kr": "사람들은 현대 사회의 빠른 속도에 지친 나머지, 이런 정적 속에서 위로를 얻고자 이곳을 찾는다.",
+      "align_start": 15.68,
+      "align_end": 23.04,
+      "cut_start": 15.22,
+      "cut_end": 23.26,
+      "score": 1.02,
+      "matched_asr": "사람들은현대사회의빠른속도에지친나머지이런정적속에서위로를얻고자이곳을찾는다.",
+      "bytes": 77948
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "Narrator",
+      "kr": "창밖으로 보이는 바쁜 사람들을 구경하다 보면, 혼자만의 시간이 얼마나 소중한지 새삼 깨닫게 된다.",
+      "align_start": 23.04,
+      "align_end": 31.5,
+      "cut_start": 23.26,
+      "cut_end": 31.72,
+      "score": 0.982,
+      "matched_asr": "창밖으로보이는바쁜사람들을구경하다보면혼자만의시간이얼마나소중한지새삼자답게된다.",
+      "bytes": 80372
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "Narrator",
+      "kr": "결과는 노력에 달려 있다는 말도 좋지만, 가끔은 아무것도 하지 않은 채로 쉬어 가는 용기도 필요한 법이다.",
+      "align_start": 31.82,
+      "align_end": 39.32,
+      "cut_start": 31.72,
+      "cut_end": 39.811,
+      "score": 1.02,
+      "matched_asr": "결과는노력에달려있다는말도좋지만가끔은아무것도하지않은채로쉬어가는용기도필요한법이다.",
+      "bytes": 78668
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_015",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_015.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 27.011,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "지후",
+      "kr": "에밀리 씨, 요즘 날씨가 이상하지 않아요? 봄인데도 벌써 여름처럼 더울 지경이에요.",
+      "align_start": 0.0,
+      "align_end": 5.64,
+      "cut_start": 0.0,
+      "cut_end": 5.86,
+      "score": 1.02,
+      "matched_asr": "에밀리씨요즘날씨가이상하지않아요?봄인데도벌써여름처럼더울지경이에요",
+      "bytes": 54716
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "에밀리",
+      "kr": "맞아요. 지구 온난화 때문에 전 세계적으로 이상 기후가 나타나는 모양이에요.",
+      "align_start": 5.64,
+      "align_end": 11.58,
+      "cut_start": 5.86,
+      "cut_end": 11.8,
+      "score": 1.02,
+      "matched_asr": "맞아요,지구온난화때문에전세계적으로이상기후가나타나는모양이에요",
+      "bytes": 56876
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "지후",
+      "kr": "지난주에는 건조한 날씨에 바람까지 부는 통에 산불이 크게 나서 고생했다던데요.",
+      "align_start": 11.58,
+      "align_end": 17.3,
+      "cut_start": 11.8,
+      "cut_end": 17.52,
+      "score": 1.02,
+      "matched_asr": "지난주에는건조한날씨에바람까지부는통에산불이크게나서고생했다던데요",
+      "bytes": 54092
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "에밀리",
+      "kr": "자연을 훼손하다가는 우리가 살 곳을 잃어버릴지도 모른다는 경고처럼 느껴져요.",
+      "align_start": 17.3,
+      "align_end": 22.84,
+      "cut_start": 17.52,
+      "cut_end": 23.06,
+      "score": 1.02,
+      "matched_asr": "자연을훼손하다가는우리가살곳을잃어버릴지도모른다는경고처럼느껴져요",
+      "bytes": 55604
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "지후",
+      "kr": "불편하더라도 일회용품 사용을 줄이는 것부터 실천해야 할 법해요.",
+      "align_start": 22.84,
+      "align_end": 26.8,
+      "cut_start": 23.06,
+      "cut_end": 27.011,
+      "score": 1.02,
+      "matched_asr": "불편하더라도일회용품사용을줄이는것부터실천해야할법해요",
+      "bytes": 39860
+    }
+  ]
+}

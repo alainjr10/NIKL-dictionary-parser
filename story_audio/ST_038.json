@@ -1,0 +1,24 @@
+{
+  "story_id": "ST_038",
+  "title": "옷 가게에서 (At the Clothing Store)",
+  "type": "conversation",
+  "mode": "full",
+  "chunks": 1,
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear beginner-friendly Korean; slow natural pace; distinct speaker identities",
+  "context": "Continuous language-learning scene for beginners; brief pause between turns",
+  "voices": {
+    "직원": "Kore",
+    "손님": "Puck"
+  },
+  "personas": {
+    "직원": "직원: Korean young adult, natural conversational mid pitch, consistent timbre and age, same person every line",
+    "손님": "손님: Korean young adult, natural conversational mid pitch, consistent timbre and age, same person every line"
+  },
+  "aliases": {
+    "직원": "Clerk",
+    "손님": "Customer"
+  },
+  "file": "ST_038.wav",
+  "bytes": 732090
+}

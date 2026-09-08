@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_032",
+  "source_audio": "c:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_032-full.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 17.491,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "민지",
+      "kr": "톰 씨, 오늘 시간이 있어요?",
+      "align_start": 0.0,
+      "align_end": 2.34,
+      "cut_start": 0.0,
+      "cut_end": 2.56,
+      "score": 1.02,
+      "matched_asr": "톰씨오늘시간이있어요?",
+      "bytes": 22244
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "톰",
+      "kr": "네, 오후에 시간이 있어요. 왜요?",
+      "align_start": 3.12,
+      "align_end": 5.6,
+      "cut_start": 2.56,
+      "cut_end": 5.82,
+      "score": 1.02,
+      "matched_asr": "네,오후에시간이있어요.왜요?",
+      "bytes": 29012
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "민지",
+      "kr": "같이 커피 마실래요? 학교 앞 카페에 가요.",
+      "align_start": 6.0,
+      "align_end": 9.7,
+      "cut_start": 5.82,
+      "cut_end": 9.92,
+      "score": 1.02,
+      "matched_asr": "같이커피마실래요?학교앞카페에가요.",
+      "bytes": 36356
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "톰",
+      "kr": "좋아요. 저는 아이스 커피를 마시고 싶어요.",
+      "align_start": 9.98,
+      "align_end": 12.96,
+      "cut_start": 9.92,
+      "cut_end": 13.18,
+      "score": 1.02,
+      "matched_asr": "좋아요.저는아이스커피를마시고싶어요.",
+      "bytes": 33284
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "민지",
+      "kr": "그럼 세 시에 만나요. 저는 주스를 마실 거예요.",
+      "align_start": 13.4,
+      "align_end": 17.06,
+      "cut_start": 13.18,
+      "cut_end": 17.491,
+      "score": 0.895,
+      "matched_asr": "그럼셋이아만나요.저는주스를마실거예요.",
+      "bytes": 37988
+    }
+  ]
+}

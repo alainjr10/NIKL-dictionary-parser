@@ -1,0 +1,24 @@
+{
+  "story_id": "ST_031",
+  "title": "완벽주의와 번아웃 (Perfectionism and Burnout)",
+  "type": "conversation",
+  "mode": "full",
+  "chunks": 1,
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear intermediate Korean; natural pace; distinct speaker identities",
+  "context": "Continuous language-learning scene; brief pause between turns",
+  "voices": {
+    "하늘": "Aoede",
+    "지안": "Charon"
+  },
+  "personas": {
+    "하늘": "하늘: Korean young adult, natural conversational mid pitch, consistent timbre and age, same person every line",
+    "지안": "지안: Korean young adult, natural conversational mid pitch, consistent timbre and age, same person every line"
+  },
+  "aliases": {
+    "하늘": "Haneul",
+    "지안": "Jian"
+  },
+  "file": "ST_031.wav",
+  "bytes": 1861050
+}

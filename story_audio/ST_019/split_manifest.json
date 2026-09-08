@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_019",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_019.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 38.371,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "Narrator",
+      "kr": "투표는 시민이 자신의 의사를 국정에 반영할 수 있는 가장 강력한 수단임이 분명하다.",
+      "align_start": 0.0,
+      "align_end": 6.64,
+      "cut_start": 0.0,
+      "cut_end": 6.86,
+      "score": 1.02,
+      "matched_asr": "투표는시민이자신의의사를국정에반영할수있는가장강력한수단임이분명하다.",
+      "bytes": 65036
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "Narrator",
+      "kr": "정치적 무관심이 팽배한 마당에, 한 표의 가치를 가볍게 여기는 것은 민주주의의 근간을 흔드는 일이다.",
+      "align_start": 7.44,
+      "align_end": 14.96,
+      "cut_start": 6.86,
+      "cut_end": 15.18,
+      "score": 1.02,
+      "matched_asr": "정치적무관심이팽배한마당에한표의가치를가볍게여기는것은민주주의의근간을흔드는일이다.",
+      "bytes": 77348
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "Narrator",
+      "kr": "과거 수많은 이들의 투쟁 끝에 얻어낸 권리인 만큼, 우리는 이를 소중히 지켜나가야 할 법하다.",
+      "align_start": 16.1,
+      "align_end": 22.26,
+      "cut_start": 15.18,
+      "cut_end": 22.48,
+      "score": 0.979,
+      "matched_asr": "과거수많은이들의투쟁끝에얻어낸권리인만큼우리는일을소중히지켜나가야할법하다.",
+      "bytes": 67700
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "Narrator",
+      "kr": "비록 결과가 내 생각과는 다를지라도, 참여를 포기하지 않는 한 변화의 가능성은 항상 열려 있다.",
+      "align_start": 23.22,
+      "align_end": 30.16,
+      "cut_start": 22.48,
+      "cut_end": 30.38,
+      "score": 1.02,
+      "matched_asr": "비록결과가내생각과는다를지라도참여를포기하지않는한변화의가능성은항상열려있다.",
+      "bytes": 73820
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "Narrator",
+      "kr": "시민의 목소리가 살아있는 사회가 되려면, 무엇보다 투표장으로 향하는 발걸음이 끊이지 않아야 오리라고 본다.",
+      "align_start": 30.9,
+      "align_end": 38.08,
+      "cut_start": 30.38,
+      "cut_end": 38.371,
+      "score": 1.003,
+      "matched_asr": "시민의목소리가살아있는사회가되려면무엇보다투표장으로향하는발걸음이끊이지않아야우리라고본다.",
+      "bytes": 76556
+    }
+  ]
+}

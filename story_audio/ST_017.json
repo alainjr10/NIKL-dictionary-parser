@@ -1,0 +1,27 @@
+{
+  "story_id": "ST_017",
+  "title": "주식 시장의 변동성과 투자 전략 (Stock Market Volatility and Investment Strategy)",
+  "type": "news",
+  "mode": "full",
+  "chunks": 2,
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear intermediate Korean; natural pace; distinct speaker identities",
+  "context": "Continuous language-learning scene; brief pause between turns",
+  "voices": {
+    "앵커": "Kore",
+    "전문가": "Charon",
+    "기자": "Puck"
+  },
+  "personas": {
+    "앵커": "앵커: Korean broadcast voice, clear diction, neutral mid pitch, same person every line",
+    "전문가": "전문가: Korean broadcast voice, clear diction, neutral mid pitch, same person every line",
+    "기자": "기자: Korean broadcast voice, clear diction, neutral mid pitch, same person every line"
+  },
+  "aliases": {
+    "앵커": "Anchor",
+    "전문가": "Expert",
+    "기자": "Reporter"
+  },
+  "file": "ST_017.wav",
+  "bytes": 1592776
+}

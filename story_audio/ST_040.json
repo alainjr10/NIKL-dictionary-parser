@@ -1,0 +1,24 @@
+{
+  "story_id": "ST_040",
+  "title": "점심 뭐 먹을까요? (What Shall We Eat for Lunch?)",
+  "type": "conversation",
+  "mode": "full",
+  "chunks": 1,
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear beginner-friendly Korean; slow natural pace; distinct speaker identities",
+  "context": "Continuous language-learning scene for beginners; brief pause between turns",
+  "voices": {
+    "유진": "Aoede",
+    "현우": "Charon"
+  },
+  "personas": {
+    "유진": "유진: Korean young adult, natural conversational mid pitch, consistent timbre and age, same person every line",
+    "현우": "현우: Korean young adult, natural conversational mid pitch, consistent timbre and age, same person every line"
+  },
+  "aliases": {
+    "유진": "Yujin",
+    "현우": "Hyunwoo"
+  },
+  "file": "ST_040.wav",
+  "bytes": 753210
+}

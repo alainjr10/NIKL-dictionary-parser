@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_034",
+  "source_audio": "c:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_034-full.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 16.451,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "미나",
+      "kr": "준 씨, 주말에 뭐 할 거예요?",
+      "align_start": 0.0,
+      "align_end": 2.08,
+      "cut_start": 0.0,
+      "cut_end": 2.3,
+      "score": 1.02,
+      "matched_asr": "준씨,주말에뭐할거예요?",
+      "bytes": 21164
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "준",
+      "kr": "영화를 볼까 해요. 미나 씨는요?",
+      "align_start": 2.76,
+      "align_end": 5.4,
+      "cut_start": 2.3,
+      "cut_end": 5.62,
+      "score": 0.895,
+      "matched_asr": "영화를볼까해요.민아씨는요?",
+      "bytes": 27740
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "미나",
+      "kr": "저는 한국 음식을 먹어 보고 싶어요.",
+      "align_start": 5.66,
+      "align_end": 8.1,
+      "cut_start": 5.62,
+      "cut_end": 8.32,
+      "score": 1.02,
+      "matched_asr": "저는한국음식을먹어보고싶어요.",
+      "bytes": 26612
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "준",
+      "kr": "그럼 같이 가요. 영화보다 음식이 더 재미있을 것 같아요.",
+      "align_start": 8.66,
+      "align_end": 12.76,
+      "cut_start": 8.32,
+      "cut_end": 12.98,
+      "score": 1.02,
+      "matched_asr": "그럼같이가요.영화보다음식이더재미있을것같아요.",
+      "bytes": 42932
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "미나",
+      "kr": "좋아요. 내일 날씨가 좋으면 좋겠어요.",
+      "align_start": 13.24,
+      "align_end": 16.04,
+      "cut_start": 12.98,
+      "cut_end": 16.451,
+      "score": 1.02,
+      "matched_asr": "좋아요.내일날씨가좋으면좋겠어요.",
+      "bytes": 31748
+    }
+  ]
+}

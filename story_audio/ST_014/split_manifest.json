@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_014",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_014.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 37.782,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "앵커",
+      "kr": "대한민국이 직면한 저출산 문제는 단순히 인구 감소를 넘어 국가의 존립을 위협하기까지 하고 있습니다.",
+      "align_start": 0.0,
+      "align_end": 7.74,
+      "cut_start": 0.0,
+      "cut_end": 7.96,
+      "score": 0.984,
+      "matched_asr": "대한민국이직면한저출싼문제는단순히인구감소를넘어국가의졸립을위협하기까지하고있습니다.",
+      "bytes": 76724
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "기자",
+      "kr": "아이를 낳아 기르기에 경제적 부담이 큰 탓에, 많은 청년들이 결혼을 포기하거나 미루기 일쑤입니다.",
+      "align_start": 8.3,
+      "align_end": 14.92,
+      "cut_start": 7.96,
+      "cut_end": 15.14,
+      "score": 0.945,
+      "matched_asr": "아이를나아기르기에경제적부담이큰탓에많은청년들이결혼을포기하거나미룩이일수입니다.",
+      "bytes": 69428
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "기자",
+      "kr": "이런 추세가 지속된다면 노동 인구가 줄어들 뿐더러 연금 고갈과 같은 심각한 사회적 갈등을 초래할 법합니다.",
+      "align_start": 15.44,
+      "align_end": 23.04,
+      "cut_start": 15.14,
+      "cut_end": 23.26,
+      "score": 1.02,
+      "matched_asr": "이런추세가지속된다면노동인구가줄어들뿐더러연금고갈과같은심각한사회적갈등을초래할법합니다.",
+      "bytes": 80804
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "전문가",
+      "kr": "단순한 지원금 정책에 의존하기보다는, 일과 가정이 양립할 수 있는 근본적인 구조 개선에 힘써야 합니다.",
+      "align_start": 23.56,
+      "align_end": 30.68,
+      "cut_start": 23.26,
+      "cut_end": 30.9,
+      "score": 1.02,
+      "matched_asr": "단순한지원금정책에의존하기보다는일과가정이양립할수있는근본적인구조개선에힘써야합니다.",
+      "bytes": 74324
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "앵커",
+      "kr": "국가의 미래가 달린 중대한 사안인 만큼, 범정부 차원의 다각적인 대책 마련이 시급한 마당입니다.",
+      "align_start": 30.98,
+      "align_end": 37.36,
+      "cut_start": 30.9,
+      "cut_end": 37.782,
+      "score": 1.02,
+      "matched_asr": "국가의미래가달린중대한사안인만큼범정부차원의다각적인대책마련이시급한마당입니다.",
+      "bytes": 64724
+    }
+  ]
+}

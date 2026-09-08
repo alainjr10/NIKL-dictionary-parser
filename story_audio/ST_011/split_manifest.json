@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_011",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_011.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 39.451,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "Narrator",
+      "kr": "왁자지껄한 소리가 들려오는 전통시장에 들어서자마자 사람 사는 냄새가 물씬 풍겨온다.",
+      "align_start": 0.0,
+      "align_end": 6.6,
+      "cut_start": 0.0,
+      "cut_end": 6.82,
+      "score": 0.939,
+      "matched_asr": "왁자직거란소리가들려오는전통시장에들어서마자사람사는냄새가물씬풍겨온다.",
+      "bytes": 65708
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "Narrator",
+      "kr": "대형 마트는커녕 편의점조차 없던 시절부터 이곳은 이웃들이 소식을 나누던 소중한 소통의 장이었다.",
+      "align_start": 6.94,
+      "align_end": 14.5,
+      "cut_start": 6.82,
+      "cut_end": 14.72,
+      "score": 1.02,
+      "matched_asr": "대형마트는커녕편의점조차없던시절부터이곳은이웃들이소식을나누던소중한소통의장이었다.",
+      "bytes": 75404
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "Narrator",
+      "kr": "물건값을 깎으려고 실랑이를 벌이다가도, 상인이 넌지시 얹어주는 '덤' 한 움큼에 마음이 사르르 녹곤 한다.",
+      "align_start": 15.36,
+      "align_end": 22.7,
+      "cut_start": 14.72,
+      "cut_end": 22.92,
+      "score": 0.877,
+      "matched_asr": "물건값을깎으려고실랑이를버리다가도상인이넌짓이얹어주는덤한옴큼의마음이사르르녹고난다.",
+      "bytes": 79916
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "Narrator",
+      "kr": "단순히 물건을 사고파는 행위를 넘어, 서로의 안부를 묻는 정이 남아있는 한 전통시장은 사라지지 않을 것이다.",
+      "align_start": 23.67,
+      "align_end": 31.12,
+      "cut_start": 22.92,
+      "cut_end": 31.34,
+      "score": 1.02,
+      "matched_asr": "단순히물건을사고파는행위를넘어서로의안부를묻는정이남아있는한전통시장은사라지지않을것이다.",
+      "bytes": 80924
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "Narrator",
+      "kr": "현대화된 도시 속에서 우리가 잃어가는 인간미를 다시 찾으려면 이런 따뜻한 공간이 더 많아져야 할 따름이다.",
+      "align_start": 31.78,
+      "align_end": 39.12,
+      "cut_start": 31.34,
+      "cut_end": 39.451,
+      "score": 0.952,
+      "matched_asr": "현대화된도시속에서우리가이뤄가는인간미를다시찾으려면이런따뜻한공간이더많아져야할따릅니다.",
+      "bytes": 79196
+    }
+  ]
+}

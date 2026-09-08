@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_038",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_038.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 15.251,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "직원",
+      "kr": "어서 오세요. 무엇을 찾으세요?",
+      "align_start": 0.0,
+      "align_end": 2.0,
+      "cut_start": 0.0,
+      "cut_end": 2.22,
+      "score": 1.02,
+      "matched_asr": "어서오세요!무엇을찾으세요?",
+      "bytes": 20492
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "손님",
+      "kr": "이 티셔츠를 사고 싶어요. 얼마예요?",
+      "align_start": 2.42,
+      "align_end": 5.14,
+      "cut_start": 2.22,
+      "cut_end": 5.36,
+      "score": 1.02,
+      "matched_asr": "이티셔츠를사고싶어요.얼마예요?",
+      "bytes": 28556
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "직원",
+      "kr": "만 원이에요. 저 티셔츠보다 싸요.",
+      "align_start": 5.58,
+      "align_end": 8.44,
+      "cut_start": 5.36,
+      "cut_end": 8.66,
+      "score": 1.02,
+      "matched_asr": "만원이에요.저티셔츠보다싸요.",
+      "bytes": 28988
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "손님",
+      "kr": "색이 예쁜데요. 한번 입어 볼 수 있어요?",
+      "align_start": 8.78,
+      "align_end": 11.54,
+      "cut_start": 8.66,
+      "cut_end": 11.76,
+      "score": 1.02,
+      "matched_asr": "색이예쁜데요?한번입어볼수있어요?",
+      "bytes": 30428
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "직원",
+      "kr": "네, 여기 탈의실이 있어요. 천천히 보세요.",
+      "align_start": 12.04,
+      "align_end": 14.86,
+      "cut_start": 11.76,
+      "cut_end": 15.251,
+      "score": 1.02,
+      "matched_asr": "네,여기탈의실이있어요.천천히보세요.",
+      "bytes": 32468
+    }
+  ]
+}

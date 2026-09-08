@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_018",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_018.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 28.891,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "환자",
+      "kr": "원장님, 요즘 몸이 계속 무거운 데다가 소화도 잘 안 되는 모양이에요.",
+      "align_start": 0.0,
+      "align_end": 4.94,
+      "cut_start": 0.0,
+      "cut_end": 5.16,
+      "score": 1.02,
+      "matched_asr": "원장님,요즘몸이계속무거운데다가소화도잘안되는모양이에요",
+      "bytes": 53588
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "한의사",
+      "kr": "진맥을 해 보니까 기운이 많이 약해지셨네요. 스트레스를 과하게 받은 나머지 몸의 균형이 깨진 듯합니다.",
+      "align_start": 4.94,
+      "align_end": 12.84,
+      "cut_start": 5.16,
+      "cut_end": 13.06,
+      "score": 1.02,
+      "matched_asr": "진맥을해보니까기운이많이약해지셨네요스트레스를과하게받은나머지몸의균형이깨진듯합니다",
+      "bytes": 79748
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "환자",
+      "kr": "약을 먹어야 할까요? 아니면 생활 습관을 바꿔야 할까요?",
+      "align_start": 12.84,
+      "align_end": 16.74,
+      "cut_start": 13.06,
+      "cut_end": 16.96,
+      "score": 1.02,
+      "matched_asr": "약을먹어야할까요?아니면생활습관을바꿔야할까요?",
+      "bytes": 40940
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "한의사",
+      "kr": "한의학은 체질에 의해서 치료 방법이 달라지기 마련입니다. 일단 자극적인 음식을 피하고 푹 쉬도록 하세요.",
+      "align_start": 17.12,
+      "align_end": 24.38,
+      "cut_start": 16.96,
+      "cut_end": 24.6,
+      "score": 0.968,
+      "matched_asr": "한이악은체질에의해서치료방법이달라주기마련입니다일단자극적인음식을피하고푹쉬도록하세요",
+      "bytes": 74660
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "환자",
+      "kr": "네, 알려주신 대로 노력해 볼게요. 신경 써 주셔서 감사합니다.",
+      "align_start": 24.38,
+      "align_end": 28.32,
+      "cut_start": 24.6,
+      "cut_end": 28.891,
+      "score": 1.02,
+      "matched_asr": "네,알려주신대로노력해볼게요신경써주셔서감사합니다",
+      "bytes": 43436
+    }
+  ]
+}

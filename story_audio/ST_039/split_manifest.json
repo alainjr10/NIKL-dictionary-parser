@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_039",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_039.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 16.331,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "Narrator",
+      "kr": "오늘 날씨가 정말 좋아요.",
+      "align_start": 0.0,
+      "align_end": 2.34,
+      "cut_start": 0.0,
+      "cut_end": 2.56,
+      "score": 1.02,
+      "matched_asr": "오늘날씨가정말좋아요.",
+      "bytes": 23204
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "Narrator",
+      "kr": "하늘이 맑아서 기분이 좋아요.",
+      "align_start": 3.16,
+      "align_end": 5.38,
+      "cut_start": 2.56,
+      "cut_end": 5.6,
+      "score": 1.02,
+      "matched_asr": "하늘이맑아서기분이좋아요.",
+      "bytes": 29228
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "Narrator",
+      "kr": "친구하고 공원에 가서 산책하고 싶어요.",
+      "align_start": 6.18,
+      "align_end": 9.16,
+      "cut_start": 5.6,
+      "cut_end": 9.38,
+      "score": 1.02,
+      "matched_asr": "친구하고공원에가서산책하고싶어요.",
+      "bytes": 35060
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "Narrator",
+      "kr": "비가 오면 집에 있을 거예요.",
+      "align_start": 9.96,
+      "align_end": 11.88,
+      "cut_start": 9.38,
+      "cut_end": 12.1,
+      "score": 1.02,
+      "matched_asr": "비가오면집에있을거예요.",
+      "bytes": 24260
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "Narrator",
+      "kr": "하지만 지금은 해가 있어서 바깥에 나가요.",
+      "align_start": 12.86,
+      "align_end": 15.92,
+      "cut_start": 12.1,
+      "cut_end": 16.331,
+      "score": 1.02,
+      "matched_asr": "하지만지금은해가있어서바깥에나가요.",
+      "bytes": 38468
+    }
+  ]
+}

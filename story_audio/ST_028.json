@@ -1,0 +1,21 @@
+{
+  "story_id": "ST_028",
+  "title": "한옥의 과학, 온돌과 마루 (The Science of Hanok: Ondol and Maru)",
+  "type": "story",
+  "mode": "full",
+  "chunks": 1,
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear intermediate Korean; natural pace; distinct speaker identities",
+  "context": "Continuous language-learning scene; brief pause between turns",
+  "voices": {
+    "Narrator": "Kore"
+  },
+  "personas": {
+    "Narrator": "Korean story narrator, warm adult voice, calm mid pitch, even pacing, same person every line"
+  },
+  "aliases": {
+    "Narrator": "Narrator"
+  },
+  "file": "ST_028.wav",
+  "bytes": 2458170
+}

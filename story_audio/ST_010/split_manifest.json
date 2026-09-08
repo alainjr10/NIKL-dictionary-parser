@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_010",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_010.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 34.171,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "민호",
+      "kr": "서연 씨, 요즘 유행하는 숏폼 영상을 보다 보면 시간이 가는 줄도 모르고 계속 보게 되지 않아요?",
+      "align_start": 0.0,
+      "align_end": 6.04,
+      "cut_start": 0.0,
+      "cut_end": 6.26,
+      "score": 0.979,
+      "matched_asr": "서현씨요즘유행하는쇼폼영상을보다보면시간이가는줄도모르고계속보게되지않아요?",
+      "bytes": 59492
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "서연",
+      "kr": "맞아요. 자극적인 영상들이 끊임없이 이어지는 바람에 저도 모르게 중독될 지경이에요.",
+      "align_start": 6.46,
+      "align_end": 12.14,
+      "cut_start": 6.26,
+      "cut_end": 12.36,
+      "score": 0.999,
+      "matched_asr": "맞아요.자극적인영상들이끊임없이이어지는바랑에저도모르게중독될지경이에요.",
+      "bytes": 60548
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "민호",
+      "kr": "그런데 이런 짧은 영상들만 취하다 보면 긴 글을 읽거나 한 가지에 집중하기가 어려워지기 마련이잖아요.",
+      "align_start": 12.5,
+      "align_end": 19.78,
+      "cut_start": 12.36,
+      "cut_end": 20.0,
+      "score": 1.002,
+      "matched_asr": "그런데이런짧은영상들만취하다보면긴글을읽거나한가지의집중하기가어려워지기마련이잖아요.",
+      "bytes": 77156
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "서연",
+      "kr": "네, 뇌가 즉각적인 재미에만 반응하게 된 나머지 깊이 있는 사고를 하는 능력이 무뎌질까 봐 걱정이에요.",
+      "align_start": 20.12,
+      "align_end": 26.86,
+      "cut_start": 20.0,
+      "cut_end": 27.08,
+      "score": 1.02,
+      "matched_asr": "네.뇌가즉각적인재미에만반응하게된나머지깊이있는사고를하는능력이무뎌질까봐걱정이에요.",
+      "bytes": 68996
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "민호",
+      "kr": "편리함을 누리는 것도 좋지만, 디지털 기기에만 의존하기보다는 스스로 주의력을 기르려고 노력해야 할 법해요.",
+      "align_start": 26.86,
+      "align_end": 33.84,
+      "cut_start": 27.08,
+      "cut_end": 34.171,
+      "score": 1.02,
+      "matched_asr": "편리함을누리는것도좋지만디지털기기에만의존하기보다는스스로주의력을기르려고노력해야할법해요.",
+      "bytes": 70364
+    }
+  ]
+}

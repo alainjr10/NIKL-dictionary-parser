@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_004",
+  "source_audio": "c:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_004-full.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 30.971,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "앵커",
+      "kr": "최근 일회용품 사용이 급증함에 따라 환경 오염의 심각성이 다시 한번 주목받고 있습니다.",
+      "align_start": 0.0,
+      "align_end": 5.16,
+      "cut_start": 0.0,
+      "cut_end": 5.38,
+      "score": 1.02,
+      "matched_asr": "최근일회용품사용이급증함에따라환경오염의심각성이다시한번주목받고있습니다.",
+      "bytes": 55052
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "기자",
+      "kr": "정부는 환경을 보호하고자 카페 내 플라스틱 컵 사용을 전면 금지하기로 했습니다.",
+      "align_start": 5.72,
+      "align_end": 11.2,
+      "cut_start": 5.38,
+      "cut_end": 11.42,
+      "score": 0.952,
+      "matched_asr": "정부는환경을보호하고자카펜의플라스틱업사용을전면금지하기로했습니다.",
+      "bytes": 58460
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "기자",
+      "kr": "이 소식을 들은 시민들은 처음에는 불편해하는 모양이었으나, 취지에 공감하며 텀블러를 챙기기 시작했습니다.",
+      "align_start": 12.34,
+      "align_end": 18.54,
+      "cut_start": 11.42,
+      "cut_end": 18.76,
+      "score": 1.02,
+      "matched_asr": "이소식을들은시민들은처음에는불편해하는모양이었으나취지에공감하며텀블러를챙기기시작했습니다.",
+      "bytes": 72020
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "시민",
+      "kr": "조금 번거롭기는 하지만, 우리 아이들에게 물려줄 미래를 생각하면 당연히 해야 할 일이라고 봐요.",
+      "align_start": 18.96,
+      "align_end": 24.74,
+      "cut_start": 18.76,
+      "cut_end": 24.96,
+      "score": 1.02,
+      "matched_asr": "조금번거롭기는하지만우리아이들에게물려줄미래를생각하면당연히해야할일이라고봐요.",
+      "bytes": 59156
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "기자",
+      "kr": "불편함을 감수하고서라도 환경을 지키려는 노력이 계속되는 한, 지구의 미래는 밝을 것으로 보입니다.",
+      "align_start": 24.74,
+      "align_end": 30.82,
+      "cut_start": 24.96,
+      "cut_end": 30.971,
+      "score": 1.002,
+      "matched_asr": "불편함을감소하고서라도환경을지키려는노력이계속되는한지구의미래는밝을것으로보입니다.",
+      "bytes": 65396
+    }
+  ]
+}

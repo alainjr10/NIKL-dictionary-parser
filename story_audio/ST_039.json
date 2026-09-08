@@ -1,0 +1,21 @@
+{
+  "story_id": "ST_039",
+  "title": "날씨와 산책 (Weather and a Walk)",
+  "type": "story",
+  "mode": "full",
+  "chunks": 1,
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear beginner-friendly Korean; slow natural pace; distinct speaker identities",
+  "context": "Continuous language-learning scene for beginners; brief pause between turns",
+  "voices": {
+    "Narrator": "Kore"
+  },
+  "personas": {
+    "Narrator": "Korean story narrator, warm adult voice, calm mid pitch, even pacing, same person every line"
+  },
+  "aliases": {
+    "Narrator": "Narrator"
+  },
+  "file": "ST_039.wav",
+  "bytes": 783930
+}

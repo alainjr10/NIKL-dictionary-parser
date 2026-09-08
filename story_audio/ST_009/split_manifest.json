@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_009",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_009.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 30.131,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "지수",
+      "kr": "마크 씨, 어제 설거지를 안 해 놨더라고요. 바쁜 건 알겠지만 같이 사는 집인데 신경 좀 써 주지 그랬어요.",
+      "align_start": 0.0,
+      "align_end": 7.52,
+      "cut_start": 0.0,
+      "cut_end": 7.74,
+      "score": 1.02,
+      "matched_asr": "마크씨어제설거지를안해놨더라고요.바쁜건알겠지만같이사는집인데신경좀써주지그랬어요.",
+      "bytes": 74276
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "마크",
+      "kr": "아, 미안해요. 어제 시험 공부를 하느라고 정신이 없어서 깜빡했나 봐요.",
+      "align_start": 7.88,
+      "align_end": 12.88,
+      "cut_start": 7.74,
+      "cut_end": 13.1,
+      "score": 0.993,
+      "matched_asr": "아미안해요.어제시험공부를하느라고정신이없어서깜깍했나봐요.",
+      "bytes": 52676
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "지수",
+      "kr": "시험 기간이라 피곤할 텐데 이해는 해요. 그래도 다음부터는 자기 전에 꼭 해 주세요.",
+      "align_start": 13.14,
+      "align_end": 19.4,
+      "cut_start": 13.1,
+      "cut_end": 19.62,
+      "score": 1.02,
+      "matched_asr": "시험기간이라피곤할텐데이해는해요.그래도다음부터는자기전에꼭해주세요.",
+      "bytes": 60788
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "마크",
+      "kr": "네, 알겠어요. 주말에 청소하는 김에 화장실 청소까지 제가 다 할게요.",
+      "align_start": 19.78,
+      "align_end": 24.4,
+      "cut_start": 19.62,
+      "cut_end": 24.62,
+      "score": 1.02,
+      "matched_asr": "네알겠어요.주말에청소하는김에화장실청소까지제가다할게요.",
+      "bytes": 49628
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "지수",
+      "kr": "그렇게 말해 주니까 고맙네요. 서로 조금씩만 배려하면 싸울 리가 없겠죠.",
+      "align_start": 24.74,
+      "align_end": 29.82,
+      "cut_start": 24.62,
+      "cut_end": 30.131,
+      "score": 1.02,
+      "matched_asr": "그렇게말해주니까고맙네요.서로조금씩만배려하면싸울리가없겠죠.",
+      "bytes": 53588
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "story_id": "ST_027",
+  "title": "지하철 배려석을 둘러싼 갈등 (Conflict Surrounding Subway Priority Seats)",
+  "type": "conversation",
+  "mode": "full",
+  "chunks": 1,
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear intermediate Korean; natural pace; distinct speaker identities",
+  "context": "Continuous language-learning scene; brief pause between turns",
+  "voices": {
+    "수미": "Kore",
+    "준호": "Puck"
+  },
+  "personas": {
+    "수미": "수미: Korean young adult, natural conversational mid pitch, consistent timbre and age, same person every line",
+    "준호": "준호: Korean young adult, natural conversational mid pitch, consistent timbre and age, same person every line"
+  },
+  "aliases": {
+    "수미": "Sumi",
+    "준호": "Junho"
+  },
+  "file": "ST_027.wav",
+  "bytes": 1824570
+}

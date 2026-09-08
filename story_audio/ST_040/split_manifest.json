@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_040",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_040.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 15.691,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "유진",
+      "kr": "배고파요. 점심 먹을까요?",
+      "align_start": 0.0,
+      "align_end": 2.24,
+      "cut_start": 0.0,
+      "cut_end": 2.46,
+      "score": 1.02,
+      "matched_asr": "배고파요.점심먹을까요?",
+      "bytes": 22628
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "현우",
+      "kr": "좋아요. 비빔밥이나 김밥을 먹어요.",
+      "align_start": 2.66,
+      "align_end": 5.14,
+      "cut_start": 2.46,
+      "cut_end": 5.36,
+      "score": 1.02,
+      "matched_asr": "좋아요.비빔밥이나김밥을먹어요.",
+      "bytes": 26180
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "유진",
+      "kr": "저는 비빔밥을 먹고 싶어요. 매운 음식을 좋아해요.",
+      "align_start": 5.3,
+      "align_end": 9.22,
+      "cut_start": 5.36,
+      "cut_end": 9.44,
+      "score": 1.02,
+      "matched_asr": "저는비빔밥을먹고싶어요.매운음식을좋아해요.",
+      "bytes": 38564
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "현우",
+      "kr": "그럼 이 식당에 가면 돼요. 가깝고 맛있어요.",
+      "align_start": 9.46,
+      "align_end": 12.02,
+      "cut_start": 9.44,
+      "cut_end": 12.24,
+      "score": 1.02,
+      "matched_asr": "그럼이식당에가면돼요.가깝고맛있어요.",
+      "bytes": 28340
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "유진",
+      "kr": "좋아요. 빨리 가요. 배가 너무 고파요!",
+      "align_start": 12.5,
+      "align_end": 15.58,
+      "cut_start": 12.24,
+      "cut_end": 15.691,
+      "score": 1.02,
+      "matched_asr": "좋아요.빨리가요.배가너무고파요.",
+      "bytes": 30284
+    }
+  ]
+}

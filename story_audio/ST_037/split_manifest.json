@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_037",
+  "source_audio": "c:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_037-full.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 18.011,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "Narrator",
+      "kr": "제 이름은 하늘이에요.",
+      "align_start": 0.0,
+      "align_end": 2.1,
+      "cut_start": 0.0,
+      "cut_end": 2.32,
+      "score": 1.02,
+      "matched_asr": "제이름은하늘이에요.",
+      "bytes": 21212
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "Narrator",
+      "kr": "우리 가족은 네 명이에요.",
+      "align_start": 3.26,
+      "align_end": 5.36,
+      "cut_start": 2.32,
+      "cut_end": 5.58,
+      "score": 0.945,
+      "matched_asr": "우리가족은4명이에요.",
+      "bytes": 28292
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "Narrator",
+      "kr": "아버지하고 어머니가 계세요.",
+      "align_start": 6.44,
+      "align_end": 8.68,
+      "cut_start": 5.58,
+      "cut_end": 8.9,
+      "score": 1.02,
+      "matched_asr": "아버지하고어머니가계세요.",
+      "bytes": 28916
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "Narrator",
+      "kr": "남동생도 있어요. 동생은 열 살이에요.",
+      "align_start": 9.62,
+      "align_end": 13.6,
+      "cut_start": 8.9,
+      "cut_end": 13.82,
+      "score": 0.932,
+      "matched_asr": "남동생도있어요.동생은10살이에요.",
+      "bytes": 42380
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "Narrator",
+      "kr": "주말에 가족이 같이 밥을 먹어요.",
+      "align_start": 15.22,
+      "align_end": 17.62,
+      "cut_start": 13.82,
+      "cut_end": 18.011,
+      "score": 1.02,
+      "matched_asr": "주말에가족이같이밥을먹어요.",
+      "bytes": 36692
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "story_id": "ST_007",
+  "title": "압박 면접과 경력 (Stress Interview and Experience)",
+  "type": "conversation",
+  "mode": "full",
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear intermediate Korean; natural conversational pace; distinct speaker identities",
+  "context": "Record as one continuous scene for language learners; pause briefly between turns",
+  "voices": {
+    "면접관": "Kore",
+    "지원자": "Puck"
+  },
+  "personas": {
+    "면접관": "면접관: Korean adult professional, slightly lower mid pitch, composed and mature, steady timbre, same person every line",
+    "지원자": "지원자: Korean young professional interviewee, clear polite mid pitch, confident but respectful, same person every line"
+  },
+  "aliases": {
+    "면접관": "Interviewer",
+    "지원자": "Candidate"
+  },
+  "file": "ST_007.wav",
+  "bytes": 1594170
+}

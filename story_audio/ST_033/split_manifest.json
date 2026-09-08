@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_033",
+  "source_audio": "c:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_033-full.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 18.331,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "Narrator",
+      "kr": "저는 매일 아침 일곱 시에 일어나요.",
+      "align_start": 0.0,
+      "align_end": 3.0,
+      "cut_start": 0.0,
+      "cut_end": 3.22,
+      "score": 0.919,
+      "matched_asr": "저는매일아침7시에일어나요.",
+      "bytes": 29540
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "Narrator",
+      "kr": "밥을 먹고 학교에 가요.",
+      "align_start": 3.92,
+      "align_end": 6.7,
+      "cut_start": 3.22,
+      "cut_end": 6.92,
+      "score": 1.02,
+      "matched_asr": "밥을먹고학교에가요.",
+      "bytes": 31820
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "Narrator",
+      "kr": "학교에서 친구를 만나서 같이 공부해요.",
+      "align_start": 6.9,
+      "align_end": 9.92,
+      "cut_start": 6.92,
+      "cut_end": 10.14,
+      "score": 1.02,
+      "matched_asr": "학교에서친구를만나서같이공부해요.",
+      "bytes": 32132
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "Narrator",
+      "kr": "집에 오면 텔레비전을 보거나 책을 읽어요.",
+      "align_start": 10.82,
+      "align_end": 14.02,
+      "cut_start": 10.14,
+      "cut_end": 14.24,
+      "score": 1.02,
+      "matched_asr": "집에오면텔레비전을보거나책을읽어요.",
+      "bytes": 37820
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "Narrator",
+      "kr": "주말에는 공원에서 운동할 수 있어서 좋아요.",
+      "align_start": 14.98,
+      "align_end": 17.96,
+      "cut_start": 14.24,
+      "cut_end": 18.331,
+      "score": 1.02,
+      "matched_asr": "주말에는공원에서운동할수있어서좋아요.",
+      "bytes": 37460
+    }
+  ]
+}

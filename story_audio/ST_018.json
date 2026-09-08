@@ -1,0 +1,24 @@
+{
+  "story_id": "ST_018",
+  "title": "한의학의 원리와 건강 관리 (Principles of Traditional Medicine and Health)",
+  "type": "conversation",
+  "mode": "full",
+  "chunks": 1,
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear intermediate Korean; natural pace; distinct speaker identities",
+  "context": "Continuous language-learning scene; brief pause between turns",
+  "voices": {
+    "환자": "Puck",
+    "한의사": "Kore"
+  },
+  "personas": {
+    "환자": "환자: Korean young adult, clear polite mid pitch, respectful and natural, same person every line",
+    "한의사": "한의사: Korean adult professional, slightly lower mid pitch, composed and mature, steady timbre, same person every line"
+  },
+  "aliases": {
+    "환자": "Patient",
+    "한의사": "Doctor"
+  },
+  "file": "ST_018.wav",
+  "bytes": 1386810
+}

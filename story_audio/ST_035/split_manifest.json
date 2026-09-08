@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_035",
+  "source_audio": "c:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_035-full.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 16.971,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "Narrator",
+      "kr": "오늘 엄마하고 시장에 가요.",
+      "align_start": 0.0,
+      "align_end": 2.98,
+      "cut_start": 0.0,
+      "cut_end": 3.2,
+      "score": 1.02,
+      "matched_asr": "오늘엄마하고시장에가요.",
+      "bytes": 27356
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "Narrator",
+      "kr": "사과하고 바나나를 사고 싶어요.",
+      "align_start": 3.62,
+      "align_end": 6.0,
+      "cut_start": 3.2,
+      "cut_end": 6.22,
+      "score": 1.02,
+      "matched_asr": "사과하고바나나를사고싶어요.",
+      "bytes": 27908
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "Narrator",
+      "kr": "시장이 집에서 가까워요.",
+      "align_start": 7.02,
+      "align_end": 9.14,
+      "cut_start": 6.22,
+      "cut_end": 9.36,
+      "score": 1.02,
+      "matched_asr": "시장이집에서가까워요.",
+      "bytes": 29108
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "Narrator",
+      "kr": "과일이 싸서 많이 사요.",
+      "align_start": 10.18,
+      "align_end": 12.26,
+      "cut_start": 9.36,
+      "cut_end": 12.48,
+      "score": 1.02,
+      "matched_asr": "과일이싸서많이사요.",
+      "bytes": 27764
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "Narrator",
+      "kr": "집에 와서 같이 먹어요. 정말 맛있어요!",
+      "align_start": 13.18,
+      "align_end": 16.58,
+      "cut_start": 12.48,
+      "cut_end": 16.971,
+      "score": 1.02,
+      "matched_asr": "집에와서같이먹어요.정말맛있어요.",
+      "bytes": 42356
+    }
+  ]
+}

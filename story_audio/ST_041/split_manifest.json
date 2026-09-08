@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_041",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_041.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 14.771,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "Narrator",
+      "kr": "저는 자주 도서관에 가요.",
+      "align_start": 0.0,
+      "align_end": 2.62,
+      "cut_start": 0.0,
+      "cut_end": 2.84,
+      "score": 1.02,
+      "matched_asr": "저는자주도서관에가요.",
+      "bytes": 26348
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "Narrator",
+      "kr": "도서관이 조용하고 깨끗해요.",
+      "align_start": 3.14,
+      "align_end": 5.3,
+      "cut_start": 2.84,
+      "cut_end": 5.52,
+      "score": 1.02,
+      "matched_asr": "도서관이조용하고깨끗해요.",
+      "bytes": 25772
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "Narrator",
+      "kr": "거기에서 책을 읽거나 숙제를 해요.",
+      "align_start": 6.0,
+      "align_end": 8.58,
+      "cut_start": 5.52,
+      "cut_end": 8.8,
+      "score": 1.02,
+      "matched_asr": "거기에서책을읽거나숙제를해요.",
+      "bytes": 30668
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "Narrator",
+      "kr": "친구를 만나면 같이 공부해요.",
+      "align_start": 9.44,
+      "align_end": 11.56,
+      "cut_start": 8.8,
+      "cut_end": 11.78,
+      "score": 1.02,
+      "matched_asr": "친구를만나면같이공부해요.",
+      "bytes": 27356
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "Narrator",
+      "kr": "집에 오기 전에 책을 반납해요.",
+      "align_start": 12.46,
+      "align_end": 14.52,
+      "cut_start": 11.78,
+      "cut_end": 14.771,
+      "score": 1.02,
+      "matched_asr": "집에오기전에책을반납해요.",
+      "bytes": 29036
+    }
+  ]
+}

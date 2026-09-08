@@ -1,0 +1,27 @@
+{
+  "story_id": "ST_012",
+  "title": "미세 플라스틱의 위협과 해양 생태계 (The Threat of Microplastics and Marine Ecosystems)",
+  "type": "news",
+  "mode": "full",
+  "chunks": 2,
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear intermediate Korean; natural pace; distinct speaker identities",
+  "context": "Continuous language-learning scene; brief pause between turns",
+  "voices": {
+    "앵커": "Kore",
+    "기자": "Puck",
+    "전문가": "Charon"
+  },
+  "personas": {
+    "앵커": "앵커: Korean broadcast voice, clear diction, neutral mid pitch, same person every line",
+    "기자": "기자: Korean broadcast voice, clear diction, neutral mid pitch, same person every line",
+    "전문가": "전문가: Korean broadcast voice, clear diction, neutral mid pitch, same person every line"
+  },
+  "aliases": {
+    "앵커": "Anchor",
+    "기자": "Reporter",
+    "전문가": "Expert"
+  },
+  "file": "ST_012.wav",
+  "bytes": 1661896
+}

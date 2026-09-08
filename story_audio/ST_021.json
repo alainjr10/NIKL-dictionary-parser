@@ -1,0 +1,24 @@
+{
+  "story_id": "ST_021",
+  "title": "제주도 오버투어리즘과 생태 보존 (Jeju Overtourism and Eco-Preservation)",
+  "type": "conversation",
+  "mode": "full",
+  "chunks": 1,
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear intermediate Korean; natural pace; distinct speaker identities",
+  "context": "Continuous language-learning scene; brief pause between turns",
+  "voices": {
+    "지민": "Aoede",
+    "민수": "Charon"
+  },
+  "personas": {
+    "지민": "지민: Korean young adult, natural conversational mid pitch, consistent timbre and age, same person every line",
+    "민수": "민수: Korean young adult, natural conversational mid pitch, consistent timbre and age, same person every line"
+  },
+  "aliases": {
+    "지민": "Jimin",
+    "민수": "Minsu"
+  },
+  "file": "ST_021.wav",
+  "bytes": 2233530
+}

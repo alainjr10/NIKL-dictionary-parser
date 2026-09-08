@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_003",
+  "source_audio": "c:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_003-full.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 26.571,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "마이클",
+      "kr": "수진 씨, 이번 추석 연휴에 고향에 내려간다면서요? 표는 구했어요?",
+      "align_start": 0.0,
+      "align_end": 4.72,
+      "cut_start": 0.0,
+      "cut_end": 4.94,
+      "score": 1.02,
+      "matched_asr": "수진씨,이번추석연휴에고향에내려간다면서요?표는구했어요?",
+      "bytes": 49724
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "수진",
+      "kr": "아니요, 표를 사려고 노력해 봤지만 매진되는 바람에 결국 못 구했어요.",
+      "align_start": 5.14,
+      "align_end": 9.92,
+      "cut_start": 4.94,
+      "cut_end": 10.14,
+      "score": 1.02,
+      "matched_asr": "아니요,표를사려고노력해봤지만매진되는바람에결국못구했어요.",
+      "bytes": 48740
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "마이클",
+      "kr": "그래요? 그럼 고향에 못 가는 셈이에요? 부모님이 많이 기다리실 텐데 아쉽겠어요.",
+      "align_start": 10.2,
+      "align_end": 15.96,
+      "cut_start": 10.14,
+      "cut_end": 16.18,
+      "score": 1.02,
+      "matched_asr": "그래요?그럼고향에못가는셈이에요?부모님이많이기다리실텐데아쉽겠어요.",
+      "bytes": 63212
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "수진",
+      "kr": "네, 그래서 이번에는 그냥 집에서 쉬는 대신에 한국 요리를 배워 볼까 해요.",
+      "align_start": 16.4,
+      "align_end": 21.44,
+      "cut_start": 16.18,
+      "cut_end": 21.66,
+      "score": 0.998,
+      "matched_asr": "네,그래서이번에는그냥집에서쉬는대신에한국요리를배워볼까요?",
+      "bytes": 51260
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "마이클",
+      "kr": "좋은 생각이에요! 요리를 배우다 보니까 한국 문화가 더 재미있지 않아요?",
+      "align_start": 21.84,
+      "align_end": 26.22,
+      "cut_start": 21.66,
+      "cut_end": 26.571,
+      "score": 1.02,
+      "matched_asr": "좋은생각이에요.요리를배우다보니까한국문화가더재미있지않아요?",
+      "bytes": 50468
+    }
+  ]
+}

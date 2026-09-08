@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_030",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_030.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 36.462,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "앵커",
+      "kr": "청년 인구 유출을 막론하고 출생률 저하까지 겹치면서, 지방의 소멸 위기가 현실로 다가오고 있습니다.",
+      "align_start": 0.0,
+      "align_end": 6.72,
+      "cut_start": 0.0,
+      "cut_end": 6.94,
+      "score": 1.02,
+      "matched_asr": "청년인구유출을막론하고출생률저하까지겹치면서지방의소멸위기가현실로다가오고있습니다.",
+      "bytes": 68132
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "기자",
+      "kr": "정부가 발표한 바에 따르면, 향후 30년 안에 상당수 시·군이 기능을 상실할 위험이 있다고 합니다.",
+      "align_start": 7.46,
+      "align_end": 14.02,
+      "cut_start": 6.94,
+      "cut_end": 14.24,
+      "score": 1.02,
+      "matched_asr": "정부가발표한바에따르면향후30년안에상당수시군이기능을상실할위험이있다고합니다.",
+      "bytes": 68924
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "기자",
+      "kr": "대기업이 유치되건 관광 상품이 개발되건 간에, 정주 여건이 개선되지 않으면 효과는 일시적일 따름입니다.",
+      "align_start": 14.74,
+      "align_end": 21.86,
+      "cut_start": 14.24,
+      "cut_end": 22.08,
+      "score": 1.02,
+      "matched_asr": "대기업이유치되건관광상품이개발되건간에정주여건이개선되지않으면효과는일시적일따름입니다.",
+      "bytes": 73724
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "전문가",
+      "kr": "수도권 집중이 심화되는 가운데, 일자리며 의료며 교육 인프라가 동시에 무너지고 있는 곳이 적지 않습니다.",
+      "align_start": 22.4,
+      "align_end": 29.28,
+      "cut_start": 22.08,
+      "cut_end": 29.5,
+      "score": 1.02,
+      "matched_asr": "수도권집중이심화되는가운데일자리며의료며교육인프라가동시에무너지고있는곳이적지않습니다.",
+      "bytes": 76556
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "앵커",
+      "kr": "나이와 계층을 불문하고 지역에 머물 이유를 만드는 일이야말로 균형 발전의 핵심이라 할 수 있겠습니다.",
+      "align_start": 29.28,
+      "align_end": 36.12,
+      "cut_start": 29.5,
+      "cut_end": 36.462,
+      "score": 1.002,
+      "matched_asr": "나이와계층을불문하고지역에머물이유를만드는일이아말로균형발전의핵심이라할수있겠습니다.",
+      "bytes": 69404
+    }
+  ]
+}

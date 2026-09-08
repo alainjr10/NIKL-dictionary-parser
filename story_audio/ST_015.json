@@ -1,0 +1,24 @@
+{
+  "story_id": "ST_015",
+  "title": "기후 변화와 자연의 경고 (Climate Change and Nature's Warning)",
+  "type": "conversation",
+  "mode": "full",
+  "chunks": 1,
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear intermediate Korean; natural pace; distinct speaker identities",
+  "context": "Continuous language-learning scene; brief pause between turns",
+  "voices": {
+    "지후": "Charon",
+    "에밀리": "Aoede"
+  },
+  "personas": {
+    "지후": "지후: Korean young adult, natural conversational mid pitch, consistent timbre and age, same person every line",
+    "에밀리": "에밀리: Korean young adult, natural conversational mid pitch, consistent timbre and age, same person every line"
+  },
+  "aliases": {
+    "지후": "Jihu",
+    "에밀리": "Emily"
+  },
+  "file": "ST_015.wav",
+  "bytes": 1296570
+}

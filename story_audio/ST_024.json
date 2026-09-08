@@ -1,0 +1,27 @@
+{
+  "story_id": "ST_024",
+  "title": "K-팝의 경제적 파급 효과 (The Economic Impact of K-Pop)",
+  "type": "news",
+  "mode": "full",
+  "chunks": 3,
+  "model": "gemini-2.5-flash-preview-tts",
+  "tone": "clear intermediate Korean; natural pace; distinct speaker identities",
+  "context": "Continuous language-learning scene; brief pause between turns",
+  "voices": {
+    "앵커": "Kore",
+    "기자": "Puck",
+    "전문가": "Charon"
+  },
+  "personas": {
+    "앵커": "앵커: Korean broadcast voice, clear diction, neutral mid pitch, same person every line",
+    "기자": "기자: Korean broadcast voice, clear diction, neutral mid pitch, same person every line",
+    "전문가": "전문가: Korean broadcast voice, clear diction, neutral mid pitch, same person every line"
+  },
+  "aliases": {
+    "앵커": "Anchor",
+    "기자": "Reporter",
+    "전문가": "Expert"
+  },
+  "file": "ST_024.wav",
+  "bytes": 2152022
+}

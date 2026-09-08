@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_036",
+  "source_audio": "c:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_036-full.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 13.571,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "선생님",
+      "kr": "수진 씨, 책하고 공책이 있어요?",
+      "align_start": 0.0,
+      "align_end": 2.5,
+      "cut_start": 0.0,
+      "cut_end": 2.72,
+      "score": 0.958,
+      "matched_asr": "수준씨,책하고공책이있어요?",
+      "bytes": 26252
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "수진",
+      "kr": "네, 여기 있어요. 펜도 있어요.",
+      "align_start": 2.96,
+      "align_end": 5.0,
+      "cut_start": 2.72,
+      "cut_end": 5.22,
+      "score": 1.02,
+      "matched_asr": "네,여기있어요.펜도있어요.",
+      "bytes": 23420
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "선생님",
+      "kr": "좋아요. 오늘 한국어를 공부할까요?",
+      "align_start": 5.3,
+      "align_end": 8.0,
+      "cut_start": 5.22,
+      "cut_end": 8.22,
+      "score": 1.02,
+      "matched_asr": "좋아요.오늘한국어를공부할까요?",
+      "bytes": 27740
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "수진",
+      "kr": "네! 저는 한국어가 재미있어요.",
+      "align_start": 8.44,
+      "align_end": 10.52,
+      "cut_start": 8.22,
+      "cut_end": 10.74,
+      "score": 1.02,
+      "matched_asr": "네,저는한국어가재미있어요.",
+      "bytes": 27380
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "선생님",
+      "kr": "그럼 칠판을 보세요. 같이 읽어요.",
+      "align_start": 10.84,
+      "align_end": 13.36,
+      "cut_start": 10.74,
+      "cut_end": 13.571,
+      "score": 0.962,
+      "matched_asr": "그럼출판을보세요.같이읽어요.",
+      "bytes": 27596
+    }
+  ]
+}

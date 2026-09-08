@@ -1,0 +1,81 @@
+{
+  "story_id": "ST_016",
+  "source_audio": "C:\\workspace\\NIKL-dictionary-parser\\story_audio\\ST_016.wav",
+  "model": "small",
+  "device": "cpu",
+  "format": "mp3",
+  "pad_start": 0.05,
+  "pad_end": 0.12,
+  "end_boost": 0.1,
+  "boost_from": 0,
+  "max_overlap": 0.08,
+  "audio_end": 40.731,
+  "low_score_lines": 0,
+  "lines": [
+    {
+      "index": 0,
+      "file": "line_00.mp3",
+      "speaker": "Narrator",
+      "kr": "조선 시대 초기, 우리나라는 우리말이 있음에도 불구하고 중국의 한자를 빌려 쓰고 있었다.",
+      "align_start": 0.0,
+      "align_end": 7.24,
+      "cut_start": 0.0,
+      "cut_end": 7.46,
+      "score": 1.02,
+      "matched_asr": "조선시대초기우리나라는우리말이있음에도불구하고중국의한자를빌려쓰고있었다.",
+      "bytes": 73556
+    },
+    {
+      "index": 1,
+      "file": "line_01.mp3",
+      "speaker": "Narrator",
+      "kr": "한자는 배우기 어려울 뿐더러 일반 백성들이 익히기에는 너무나도 복잡했다.",
+      "align_start": 7.68,
+      "align_end": 13.92,
+      "cut_start": 7.46,
+      "cut_end": 14.14,
+      "score": 1.02,
+      "matched_asr": "한자는배우기어려울뿐더러일반백성들이익히기에는너무나도복잡했다.",
+      "bytes": 61364
+    },
+    {
+      "index": 2,
+      "file": "line_02.mp3",
+      "speaker": "Narrator",
+      "kr": "세종대왕은 백성들이 자신의 생각을 표현하지 못하는 것을 안타깝게 여긴 나머지 쉬운 문자를 만들기로 결심했다.",
+      "align_start": 14.98,
+      "align_end": 23.52,
+      "cut_start": 14.14,
+      "cut_end": 23.74,
+      "score": 1.02,
+      "matched_asr": "세종대왕은백성들이자신의생각을표현하지못하는것을안타깝게여긴나머지쉬운문자를만들기로결심했다.",
+      "bytes": 92900
+    },
+    {
+      "index": 3,
+      "file": "line_03.mp3",
+      "speaker": "Narrator",
+      "kr": "집현전 학자들과 밤낮으로 연구하다 보니까 마침내 소리 나는 대로 적을 수 있는 '훈민정음'이 탄생하게 된 것이다.",
+      "align_start": 24.46,
+      "align_end": 32.8,
+      "cut_start": 23.74,
+      "cut_end": 33.02,
+      "score": 0.987,
+      "matched_asr": "지편전학자들과밤낮으로연구하다보니까마침내소리나는대로적을수있는훈민정음이탄생하게된것이다.",
+      "bytes": 89180
+    },
+    {
+      "index": 4,
+      "file": "line_04.mp3",
+      "speaker": "Narrator",
+      "kr": "기득권의 반대가 심했을 법하지만, 백성을 사랑하는 왕의 의지가 있는 한 그 무엇도 막을 수 없었다.",
+      "align_start": 33.36,
+      "align_end": 40.56,
+      "cut_start": 33.02,
+      "cut_end": 40.731,
+      "score": 1.02,
+      "matched_asr": "기득권의반대가심했을법하지만백성을사랑하는왕의의지가있는한그무엇도막을수없었다.",
+      "bytes": 75356
+    }
+  ]
+}
