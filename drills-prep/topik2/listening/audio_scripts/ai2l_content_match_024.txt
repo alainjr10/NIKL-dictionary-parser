@@ -1,0 +1,8 @@
+# ai2l_content_match_024
+# skill=content_match model_q=28 group=ag_3547b5bdf16d
+# NOTE: Reuse same audio file for linked questions; generate once.
+
+남자: 이번 단합 대회 정말 좋지 않았어요? 피곤해도 부서 간 소통할 기회가 생기고, 교외에서 바람도 쐬니까요. 팀별 미션에서 서로 돕는 분위기가 인상적이었습니다.
+여자: 맞아요. 저녁에는 음식도 같이 만들어 먹었잖아요. 회사 안 회의실에서는 얻기 어려운 경험이었습니다.
+남자: 내년에도 비슷한 프로그램을 하면 신입 사원 적응에도 도움이 될 것 같아요.
+여자: 동의해요. 업무 스트레스를 풀면서 협력 관계도 더 돈독해진 것 같습니다.

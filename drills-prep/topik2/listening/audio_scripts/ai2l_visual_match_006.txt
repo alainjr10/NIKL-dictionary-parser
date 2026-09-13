@@ -1,0 +1,6 @@
+# ai2l_visual_match_006
+# skill=visual_match model_q=2 group=ag_cd740a8aff2f
+
+남자: 발표 준비는 다 했어?
+여자: 슬라이드는 만들었는데, 출력할 시간이 없었어.
+남자: 내 노트북으로 지금 출력해 줄게. 같이 확인하자.

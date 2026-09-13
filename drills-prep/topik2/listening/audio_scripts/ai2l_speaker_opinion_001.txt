@@ -1,0 +1,8 @@
+# ai2l_speaker_opinion_001
+# skill=speaker_opinion model_q=31 group=ag_e2e1e2e64b4f
+# NOTE: Reuse same audio file for linked questions; generate once.
+
+여자: 생계형 범죄는 형벌을 완화해야 해요. 경제적 어려움 때문에 저지른 경우가 많으니까요.
+남자: 범죄는 그 이유와 상관없이 다른 범죄와 동일하게 처벌해야 합니다. 이유에 따라 형벌 수준을 달리하면 법의 공정성이 흔들릴 수 있죠.
+여자: 피해자 입장에서는 가난해도 피해는 동일하다는 반론도 있습니다.
+남자: 그렇기 때문에 예방과 지원 정책은 별도로 강화하되, 사법 처리 기준은 일관되게 유지해야 한다고 봅니다.

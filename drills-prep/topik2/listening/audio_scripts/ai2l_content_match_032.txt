@@ -1,0 +1,8 @@
+# ai2l_content_match_032
+# skill=content_match model_q=36 group=ag_117df6cdce30
+# NOTE: Reuse same audio file for linked questions; generate once.
+
+남자: 고객 여러분, 특정 부품 결함으로 촬영 시 오류와 저장 실패가 발생했습니다. 불편을 드려 깊이 사과드립니다.
+여자: 지난해 출시된 해당 모델은 무상 교환해 드리겠습니다. 고객센터나 가까운 서비스 센터로 접수해 주시면 순차적으로 처리하겠습니다.
+남자: 교환 접수는 홈페이지에서도 가능하며, 접수 후 영업일 기준 일주일 이내에 안내 문자를 보내 드립니다.
+여자: 재발 방지를 위해 생산 공정 점검도 강화하고 있습니다.

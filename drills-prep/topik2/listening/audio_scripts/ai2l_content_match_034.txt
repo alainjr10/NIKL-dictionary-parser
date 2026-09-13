@@ -1,0 +1,8 @@
+# ai2l_content_match_034
+# skill=content_match model_q=38 group=ag_115a98fa00df
+# NOTE: Reuse same audio file for linked questions; generate once.
+
+남자: 목재 가공 기술로 만든 압축·교차 적층 목재는 강도가 높아졌고, 철근·콘크리트보다 가볍고 유연해 지진의 영향을 덜 받습니다.
+여자: 18층 목조 건물이 70일 만에 완공된 사례도 있습니다. 공사 기간 단축과 탄소 배출 감소 효과도 기대할 수 있죠.
+남자: 내화·방수 처리 기술이 발전하면서 고층 목조 건축 규제도 일부 지역에서 완화되고 있습니다.
+여자: 친환경 건축 재료로서 관심이 다시 높아지고 있습니다.

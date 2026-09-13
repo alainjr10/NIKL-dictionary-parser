@@ -1,0 +1,6 @@
+# ai2l_visual_match_001
+# skill=visual_match model_q=1 group=ag_eb697c598ff3
+
+여자: 무엇을 도와 드릴까요?
+남자: 이 우산, 길에서 주웠어요. 주인을 찾아 주세요.
+여자: 네, 분실물 센터에 맡겨 주시면 접수해 드리겠습니다.

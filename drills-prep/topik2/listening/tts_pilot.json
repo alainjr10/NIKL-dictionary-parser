@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ai2l_visual_match_001",
+    "audio_group_id": "ag_eb697c598ff3",
+    "filename": "ai2l_visual_match_001.mp3",
+    "shared_with": [],
+    "delivery": "short_everyday_dialogue",
+    "script": "여자: 무엇을 도와 드릴까요?\n남자: 이 우산, 길에서 주웠어요. 주인을 찾아 주세요.\n여자: 네, 분실물 센터에 맡겨 주시면 접수해 드리겠습니다."
+  },
+  {
+    "id": "ai2l_visual_match_003",
+    "audio_group_id": "ag_099cbcbe8f77",
+    "filename": "ai2l_visual_match_003.mp3",
+    "shared_with": [],
+    "delivery": "short_everyday_dialogue",
+    "script": "여자: 버스 정류장에 사람이 많네요.\n남자: 7호선 이용률 조사 결과, 오전 8시 45%, 오후 6시 40%, 그 외 15%였습니다."
+  },
+  {
+    "id": "ai2l_dialogue_continuation_001",
+    "audio_group_id": "ag_9d18562c585e",
+    "filename": "ai2l_dialogue_continuation_001.mp3",
+    "shared_with": [],
+    "delivery": "casual_short_dialogue",
+    "script": "남자: 이번 주말에 부모님 댁에 갈 거야? 오랜만에 가족 다 모이지 않을까?\n여자: 응, 갈 생각이야. 너는?"
+  },
+  {
+    "id": "ai2l_next_action_001",
+    "audio_group_id": "ag_08eec8b725a3",
+    "filename": "ai2l_next_action_001.mp3",
+    "shared_with": [],
+    "delivery": "casual_short_dialogue",
+    "script": "남자: 이 가방 디자인이 참 독특하네. 실용적이기도 하고.\n여자: 그렇지? 마음에 들면 하나 살까?\n남자: 검은색이 더 실용적일 것 같아.\n여자: 그럼 검은색 가격을 확인해 볼게. 할인도 있는지 물어볼게."
+  },
+  {
+    "id": "ai2l_content_match_001",
+    "audio_group_id": "ag_e9782d8363ca",
+    "filename": "ai2l_content_match_001.mp3",
+    "shared_with": [],
+    "delivery": "natural_conversation_or_phone",
+    "script": "여자: 봉사 활동을 해 보고 싶은데 처음이라 어디서부터 해야 할지 막막해요.\n남자: 봉사 정보 사이트가 있는데 알려 드릴까요?\n여자: 좋아요. 민수 씨도 써 보셨어요?\n남자: 네, 기간도 선택할 수 있어서 편했습니다. 주말 봉사도 찾기 쉬워요."
+  },
+  {
+    "id": "ai2l_speaker_opinion_001",
+    "audio_group_id": "ag_e2e1e2e64b4f",
+    "filename": "ai2l_speaker_opinion_001.mp3",
+    "shared_with": [
+      "ai2l_speaker_attitude_001"
+    ],
+    "delivery": "discussion_or_news_tone",
+    "script": "여자: 생계형 범죄는 형벌을 완화해야 해요. 경제적 어려움 때문에 저지른 경우가 많으니까요.\n남자: 범죄는 그 이유와 상관없이 다른 범죄와 동일하게 처벌해야 합니다. 이유에 따라 형벌 수준을 달리하면 법의 공정성이 흔들릴 수 있죠.\n여자: 피해자 입장에서는 가난해도 피해는 동일하다는 반론도 있습니다.\n남자: 그렇기 때문에 예방과 지원 정책은 별도로 강화하되, 사법 처리 기준은 일관되게 유지해야 한다고 봅니다."
+  },
+  {
+    "id": "ai2l_documentary_main_001",
+    "audio_group_id": "ag_be94fd617f4f",
+    "filename": "ai2l_documentary_main_001.mp3",
+    "shared_with": [
+      "ai2l_documentary_detail_001"
+    ],
+    "delivery": "lecture_documentary_broadcast",
+    "script": "남자: 암컷 오랑우탄이 새끼를 안고 나뭇잎을 뜯고 있습니다. 사포닌이 든 이 잎은 지역 주민들의 진통제로도 오랫동안 쓰여 왔습니다. 평소에는 쓴 맛 때문에 잎을 먹지 않지만, 최근 이 지역에서 오랑우탄이 잎 즙을 팔과 어깨에 바르는 모습이 여러 차례 목격되었습니다. 새끼를 오래 안고 다니느라 생긴 근육 통증을 줄이려는 것으로 연구진은 분석하고 있습니다.\n여자: 동물이 스스로 약용 식물을 활용한다는 점에서 학계의 주목을 받고 있으며, 현장 카메라가 이 행동을 장시간 기록했습니다. 촬영팀은 인간 개입 없이 자연 상태를 관찰하는 데 주력했습니다.\n남자: 이번 발견은 동물 지능 연구에 새로운 단서를 제공할 것으로 기대됩니다. 나뭇잎 즙으로 통증을 치료하는 오랑우탄이 발견된 것은 이번이 처음이라고 합니다."
+  }
+]

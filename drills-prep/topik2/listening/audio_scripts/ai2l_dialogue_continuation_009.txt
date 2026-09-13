@@ -1,0 +1,6 @@
+# ai2l_dialogue_continuation_009
+# skill=dialogue_continuation model_q=8 group=ag_96247a30c1e5
+# NOTE: Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end.
+
+여자: 제주도 여행 계획은 세웠어? 숙소랑 일정은 정했니?
+남자: 숙소는 예약했는데 렌터카는 아직이야.

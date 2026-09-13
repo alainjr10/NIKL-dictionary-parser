@@ -1,0 +1,4 @@
+# ai2l_content_match_009
+# skill=content_match model_q=15 group=ag_57be37fc0b65
+
+남자: 태풍 경로를 보면 해안 도시에 강풍이 예상됩니다. 어제 D항에서 간판 추락 사고로 2명이 부상을 입었고, 현재 응급 치료를 받고 있습니다. 항만 이용객은 안전에 유의하세요.

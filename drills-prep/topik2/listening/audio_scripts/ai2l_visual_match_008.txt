@@ -1,0 +1,6 @@
+# ai2l_visual_match_008
+# skill=visual_match model_q=2 group=ag_6e54465b36de
+
+남자: 회의실 예약은 해 두었어?
+여자: 네, 3층 회의실로 2시부터 잡아 놨어요.
+남자: 그럼 자료 챙겨서 바로 올라가자. 늦지 않게 가자.

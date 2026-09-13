@@ -1,0 +1,6 @@
+# ai2l_dialogue_continuation_007
+# skill=dialogue_continuation model_q=7 group=ag_eef1c5019c1a
+# NOTE: Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end.
+
+여자: 이 코트가 세일하네요. 제 사이즈도 있을까요?
+남자: M 사이즈는 없고 L만 남았대.

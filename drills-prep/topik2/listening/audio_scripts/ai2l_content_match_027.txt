@@ -1,0 +1,8 @@
+# ai2l_content_match_027
+# skill=content_match model_q=30 group=ag_62125befa5c5
+# NOTE: Reuse same audio file for linked questions; generate once.
+
+남자: 공연 중에는 무대 아래에서 관객이 안전선을 넘지 못하게 관리하고 있습니다. 비가 오는 날에도 미끄러짐 사고를 예방하려고 안내 요원을 추가 배치했습니다.
+여자: 오늘처럼 비가 와도 팬들이 많네요. 우산을 쓰고도 끝까지 남아 있는 모습이 인상적입니다.
+남자: 무대 조명과 음향 점검도 공연 전에 두 번씩 실시했습니다. 관객 안전이 최우선이라는 원칙을 지키려고 합니다.
+여자: 덕분에 공연이 무사히 진행되고 있네요.

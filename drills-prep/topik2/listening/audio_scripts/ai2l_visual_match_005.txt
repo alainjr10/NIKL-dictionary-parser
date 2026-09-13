@@ -1,0 +1,6 @@
+# ai2l_visual_match_005
+# skill=visual_match model_q=2 group=ag_06a07d7a0a90
+
+여자: 어디가 불편하세요?
+남자: 어제부터 목이 아프고 열도 나는 것 같습니다.
+여자: 잠깐 기다리시면 의사 선생님 진료를 받으실 수 있습니다.

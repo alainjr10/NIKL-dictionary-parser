@@ -1,0 +1,6 @@
+# ai2l_dialogue_continuation_002
+# skill=dialogue_continuation model_q=4 group=ag_08f9ea9bb0fc
+# NOTE: Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end.
+
+여자: KTX 표를 예매하려는데 원하는 시간대 좌석이 없네.
+남자: 그럼 출발 시간을 한두 시간 바꿔 볼까?

@@ -1,0 +1,5 @@
+# ai2l_content_match_010
+# skill=content_match model_q=16 group=ag_3ee6d08ea9e8
+
+여자: 불꽃 연출가가 되려면 무엇이 필요한가요?
+남자: 관련 자격증이 필요하고, 안전 교육도 이수해야 합니다. 예술적 감각과 색감이 있으면 더 좋은 연출을 할 수 있어요.

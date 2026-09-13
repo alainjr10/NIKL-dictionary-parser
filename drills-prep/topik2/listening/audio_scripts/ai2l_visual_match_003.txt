@@ -1,0 +1,5 @@
+# ai2l_visual_match_003
+# skill=visual_match model_q=1 group=ag_099cbcbe8f77
+
+여자: 버스 정류장에 사람이 많네요.
+남자: 7호선 이용률 조사 결과, 오전 8시 45%, 오후 6시 40%, 그 외 15%였습니다.

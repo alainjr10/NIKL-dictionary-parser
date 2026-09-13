@@ -1,0 +1,5 @@
+# ai2l_content_match_011
+# skill=content_match model_q=16 group=ag_f2a97b3d1a3b
+
+여자: 무대 조명 디자이너는 어떤 능력이 중요해요?
+남자: 공간 감각과 색감이 중요합니다. 무대 전체 분위기를 조절해야 하니까요. 관련 자격증이나 실무 경험도 있으면 좋습니다.

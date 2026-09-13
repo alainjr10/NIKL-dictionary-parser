@@ -1,0 +1,6 @@
+# ai2l_visual_match_004
+# skill=visual_match model_q=1 group=ag_7bfab6d8362a
+
+남자: 주문하신 김치찌개 나왔습니다.
+여자: 감사합니다. 물 좀 더 주시겠어요?
+남자: 네, 바로 가져다 드리겠습니다.

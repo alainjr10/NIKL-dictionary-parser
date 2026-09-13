@@ -1,0 +1,6 @@
+# ai2l_dialogue_continuation_005
+# skill=dialogue_continuation model_q=6 group=ag_5098f3d3b95d
+# NOTE: Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end.
+
+여자: 팀장님, 보고서 초안 검토 부탁드립니다. 그래프 자료도 넣었습니다.
+남자: 네, 그런데 그래프 설명이 조금 부족한 것 같아요.
