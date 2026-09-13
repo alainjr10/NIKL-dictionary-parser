@@ -175,7 +175,8 @@
       ],
       "tts_script": "여자: 무엇을 도와 드릴까요?\n남자: 이 우산, 길에서 주웠어요. 주인을 찾아 주세요.\n여자: 네, 분실물 센터에 맡겨 주시면 접수해 드리겠습니다.",
       "delivery": "short_everyday_dialogue",
-      "notes": []
+      "notes": [],
+      "script": "여자: 무엇을 도와 드릴까요?\n남자: 이 우산, 길에서 주웠어요. 분실물로 신고하고 싶은데요.\n여자: 네, 여기 분실물 센터입니다. 우산 맡기시면 접수해 드리겠습니다."
     },
     {
       "id": "ai2l_visual_match_002",
@@ -202,7 +203,8 @@
       ],
       "tts_script": "남자: 할머니, 괜찮으세요? 방금 넘어지신 것 같은데요.\n여자: 응, 무릎이 아파서 일어나기가 힘들어.\n남자: 제가 부축해 드릴게요. 천천히 일어나 보세요.",
       "delivery": "short_everyday_dialogue",
-      "notes": []
+      "notes": [],
+      "script": "남자: 할머니, 괜찮으세요? 방금 넘어지신 것 같은데요.\n여자: 응, 무릎이 아파서 혼자 일어나기가 힘들어.\n남자: 제가 부축해 드릴게요. 제 팔 잡으시고 천천히 일어나 보세요."
     },
     {
       "id": "ai2l_visual_match_003",
@@ -215,17 +217,14 @@
       "shared_with": [],
       "turns": [
         {
-          "speaker": "여자",
-          "text": "버스 정류장에 사람이 많네요."
-        },
-        {
           "speaker": "남자",
-          "text": "7호선 이용률 조사 결과, 오전 8시 45%, 오후 6시 40%, 그 외 15%였습니다."
+          "text": "지난달 지하철 7호선 이용 현황 조사 결과입니다. 시간대별 이용률은 오전 8시가 45%로 가장 높고, 오후 6시가 40%, 그 외 시간대가 15%였습니다. 이용 목적별로는 출근이 1위, 통학이 2위, 여가 및 기타가 3위로 나타났습니다."
         }
       ],
-      "tts_script": "여자: 버스 정류장에 사람이 많네요.\n남자: 7호선 이용률 조사 결과, 오전 8시 45%, 오후 6시 40%, 그 외 15%였습니다.",
-      "delivery": "short_everyday_dialogue",
-      "notes": []
+      "tts_script": "남자: 지난달 지하철 7호선 이용 현황 조사 결과입니다. 시간대별 이용률은 오전 8시가 45%로 가장 높고, 오후 6시가 40%, 그 외 시간대가 15%였습니다. 이용 목적별로는 출근이 1위, 통학이 2위, 여가 및 기타가 3위로 나타났습니다.",
+      "delivery": "graph_report_monologue",
+      "notes": [],
+      "script": "남자: 지난달 지하철 7호선 이용 현황 조사 결과입니다. 시간대별 이용률은 오전 8시가 45%로 가장 높고, 오후 6시가 40%, 그 외 시간대가 15%였습니다. 이용 목적별로는 출근이 1위, 통학이 2위, 여가 및 기타가 3위로 나타났습니다."
     },
     {
       "id": "ai2l_visual_match_004",
@@ -252,7 +251,8 @@
       ],
       "tts_script": "남자: 주문하신 김치찌개 나왔습니다.\n여자: 감사합니다. 물 좀 더 주시겠어요?\n남자: 네, 바로 가져다 드리겠습니다.",
       "delivery": "short_everyday_dialogue",
-      "notes": []
+      "notes": [],
+      "script": "남자: 주문하신 김치찌개 나왔습니다.\n여자: 감사합니다. 물 좀 더 주시겠어요?\n남자: 네, 찌개 먼저 놓아 드릴게요. 물은 바로 가져다 드리겠습니다."
     },
     {
       "id": "ai2l_visual_match_005",
@@ -279,7 +279,8 @@
       ],
       "tts_script": "여자: 어디가 불편하세요?\n남자: 어제부터 목이 아프고 열도 나는 것 같습니다.\n여자: 잠깐 기다리시면 의사 선생님 진료를 받으실 수 있습니다.",
       "delivery": "short_everyday_dialogue",
-      "notes": []
+      "notes": [],
+      "script": "여자: 오늘 어떻게 오셨어요?\n남자: 어제부터 목이 아프고 열도 나는 것 같아서요.\n여자: 접수 도와 드릴게요. 여기 앉아 잠시만 기다리시면 의사 선생님 진료 순서입니다."
     },
     {
       "id": "ai2l_visual_match_006",
@@ -306,7 +307,8 @@
       ],
       "tts_script": "남자: 발표 준비는 다 했어?\n여자: 슬라이드는 만들었는데, 출력할 시간이 없었어.\n남자: 내 노트북으로 지금 출력해 줄게. 같이 확인하자.",
       "delivery": "short_everyday_dialogue",
-      "notes": []
+      "notes": [],
+      "script": "남자: 발표 준비는 다 했어?\n여자: 슬라이드는 만들었는데, 아직 출력을 못 했어.\n남자: 내 노트북 연결해서 지금 같이 출력하자. 내용도 한 번 더 확인하자."
     },
     {
       "id": "ai2l_visual_match_007",
@@ -320,16 +322,13 @@
       "turns": [
         {
           "speaker": "여자",
-          "text": "영화관 이용객 통계를 보면 20대 35%, 30대 30%, 40대 이상 35%입니다."
-        },
-        {
-          "speaker": "남자",
-          "text": "선호 장르 1위 코미디, 2위 액션, 3위 드라마 순이었습니다."
+          "text": "최근 영화관 이용객 조사 결과입니다. 연령별 비율은 20대가 35%, 30대가 30%, 40대 이상이 35%로, 20대와 40대 이상이 같고 30대만 낮았습니다. 선호 장르 순위는 1위 코미디, 2위 액션, 3위 드라마 순이었습니다."
         }
       ],
-      "tts_script": "여자: 영화관 이용객 통계를 보면 20대 35%, 30대 30%, 40대 이상 35%입니다.\n남자: 선호 장르 1위 코미디, 2위 액션, 3위 드라마 순이었습니다.",
-      "delivery": "short_everyday_dialogue",
-      "notes": []
+      "tts_script": "여자: 최근 영화관 이용객 조사 결과입니다. 연령별 비율은 20대가 35%, 30대가 30%, 40대 이상이 35%로, 20대와 40대 이상이 같고 30대만 낮았습니다. 선호 장르 순위는 1위 코미디, 2위 액션, 3위 드라마 순이었습니다.",
+      "delivery": "graph_report_monologue",
+      "notes": [],
+      "script": "여자: 최근 영화관 이용객 조사 결과입니다. 연령별 비율은 20대가 35%, 30대가 30%, 40대 이상이 35%로, 20대와 40대 이상이 같고 30대만 낮았습니다. 선호 장르 순위는 1위 코미디, 2위 액션, 3위 드라마 순이었습니다."
     },
     {
       "id": "ai2l_visual_match_008",
@@ -356,7 +355,8 @@
       ],
       "tts_script": "남자: 회의실 예약은 해 두었어?\n여자: 네, 3층 회의실로 2시부터 잡아 놨어요.\n남자: 그럼 자료 챙겨서 바로 올라가자. 늦지 않게 가자.",
       "delivery": "short_everyday_dialogue",
-      "notes": []
+      "notes": [],
+      "script": "남자: 회의실 예약은 해 두었어?\n여자: 네, 3층 회의실로 2시부터 잡아 놨어요.\n남자: 좋아. 자료 챙겨서 지금 바로 올라가자. 시작 전에 자리 잡자."
     },
     {
       "id": "ai2l_visual_match_009",
@@ -386,8 +386,9 @@
         }
       ],
       "tts_script": "여자: 통장을 새로 개설하려고 왔는데요. 필요한 서류가 있을까요?\n남자: 신분증과 도장을 제출해 주시면 됩니다. 잠시만 기다리시면 창구에서 작성을 도와 드리겠습니다.\n여자: 네, 여기 신분증과 도장 있습니다. 당일 개설이 가능한가요?\n남자: 네, 심사 후 바로 발급해 드립니다.",
-      "delivery": "short_everyday_dialogue",
-      "notes": []
+      "delivery": "service_counter_dialogue",
+      "notes": [],
+      "script": "여자: 통장을 새로 개설하려고 왔는데요. 필요한 서류가 있을까요?\n남자: 신분증과 도장을 제출해 주시면 됩니다. 창구에서 작성 도와 드리겠습니다.\n여자: 네, 여기 신분증이랑 도장요. 오늘 바로 개설될까요?\n남자: 네, 심사 마치시면 당일 발급 가능합니다. 이쪽으로 작성해 주세요."
     },
     {
       "id": "ai2l_visual_match_010",
@@ -413,8 +414,9 @@
         }
       ],
       "tts_script": "남자: 체크인은 오후 2시부터인데, 지금 짐을 맡길 수 있을까요?\n여자: 네, 프런트에 맡기시면 짐 보관 서비스를 이용하실 수 있습니다. 보관증을 드리니 퇴실 전까지 찾아가시면 됩니다.\n남자: 감사합니다. 체크인 시간에 다시 오겠습니다.",
-      "delivery": "short_everyday_dialogue",
-      "notes": []
+      "delivery": "service_counter_dialogue",
+      "notes": [],
+      "script": "남자: 체크인은 오후 2시부터인데, 지금 짐을 먼저 맡길 수 있을까요?\n여자: 네, 프런트에서 짐 보관 가능합니다. 보관증 드릴 테니 체크인하실 때 찾아가세요.\n남자: 감사합니다. 짐만 맡기고 나중에 다시 오겠습니다."
     },
     {
       "id": "ai2l_visual_match_011",
@@ -440,8 +442,9 @@
         }
       ],
       "tts_script": "여자: 이 전시는 몇 시까지 관람할 수 있나요? 오늘 처음 와 봤는데 작품이 많아서 시간이 걸릴 것 같아요.\n남자: 오후 6시까지입니다. 마감 한 시간 전부터는 입장이 제한될 수 있으니 여유 있게 둘러보시는 게 좋습니다.\n여자: 알겠습니다. 그럼 서두르는 게 좋겠네요. 안내 데스크에서 도록도 받고 2층 회화관부터 볼게요.",
-      "delivery": "short_everyday_dialogue",
-      "notes": []
+      "delivery": "service_counter_dialogue",
+      "notes": [],
+      "script": "여자: 이 전시는 몇 시까지 관람할 수 있나요? 작품이 많아서 시간이 좀 필요할 것 같아요.\n남자: 오후 6시까지입니다. 마감 한 시간 전부터는 입장이 제한될 수 있어요.\n여자: 알겠습니다. 안내 데스크에서 도록 하나 받고 2층 회화관부터 볼게요.\n남자: 네, 여기 도록입니다. 엘리베이터는 왼쪽에 있습니다."
     },
     {
       "id": "ai2l_visual_match_012",
@@ -455,37 +458,34 @@
       "turns": [
         {
           "speaker": "남자",
-          "text": "올해 지역별 재활용 참여율을 보면, A구 62%, B구 58%, C구 71% 순입니다."
-        },
-        {
-          "speaker": "여자",
-          "text": "C구는 분리수거 교육 횟수를 두 배로 늘린 결과로 분석됩니다. 주민 참여율 차이가 뚜렷하게 나타났고, 내년에도 교육을 확대할 예정입니다."
+          "text": "올해 지역별 재활용 참여와 교육 현황입니다. 참여율은 A구 62%, B구 58%, C구 71%로 C구가 가장 높았습니다. 분리수거 교육 횟수는 C구가 1위, A구가 2위, B구가 3위였으며, 참여율이 높은 구일수록 교육 횟수도 많은 경향을 보였습니다."
         }
       ],
-      "tts_script": "남자: 올해 지역별 재활용 참여율을 보면, A구 62%, B구 58%, C구 71% 순입니다.\n여자: C구는 분리수거 교육 횟수를 두 배로 늘린 결과로 분석됩니다. 주민 참여율 차이가 뚜렷하게 나타났고, 내년에도 교육을 확대할 예정입니다.",
-      "delivery": "short_everyday_dialogue",
-      "notes": []
+      "tts_script": "남자: 올해 지역별 재활용 참여와 교육 현황입니다. 참여율은 A구 62%, B구 58%, C구 71%로 C구가 가장 높았습니다. 분리수거 교육 횟수는 C구가 1위, A구가 2위, B구가 3위였으며, 참여율이 높은 구일수록 교육 횟수도 많은 경향을 보였습니다.",
+      "delivery": "graph_report_monologue",
+      "notes": [],
+      "script": "남자: 올해 지역별 재활용 참여와 교육 현황입니다. 참여율은 A구 62%, B구 58%, C구 71%로 C구가 가장 높았습니다. 분리수거 교육 횟수는 C구가 1위, A구가 2위, B구가 3위였으며, 참여율이 높은 구일수록 교육 횟수도 많은 경향을 보였습니다."
     },
     {
       "id": "ai2l_dialogue_continuation_001",
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 4,
       "content_category_id": "daily_life",
-      "question_stem": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
+      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_9d18562c585e",
       "filename": "ai2l_dialogue_continuation_001.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "남자",
-          "text": "이번 주말에 부모님 댁에 갈 거야? 오랜만에 가족 다 모이지 않을까?"
+          "text": "이번 주말에 부모님 댁에 가기로 했다며? 형제들도 오랜만에 다 모인다며?"
         },
         {
           "speaker": "여자",
-          "text": "응, 갈 생각이야. 너는?"
+          "text": "응, 갈 생각이야. 너는 이번 주말에 뭐 해?"
         }
       ],
-      "tts_script": "남자: 이번 주말에 부모님 댁에 갈 거야? 오랜만에 가족 다 모이지 않을까?\n여자: 응, 갈 생각이야. 너는?",
+      "tts_script": "남자: 이번 주말에 부모님 댁에 가기로 했다며? 형제들도 오랜만에 다 모인다며?\n여자: 응, 갈 생각이야. 너는 이번 주말에 뭐 해?",
       "delivery": "casual_short_dialogue",
       "notes": [
         "Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end."
@@ -496,21 +496,21 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 4,
       "content_category_id": "transport",
-      "question_stem": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
+      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_08f9ea9bb0fc",
       "filename": "ai2l_dialogue_continuation_002.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "여자",
-          "text": "KTX 표를 예매하려는데 원하는 시간대 좌석이 없네."
+          "text": "KTX 표 예매하려는데 원하는 시간대는 벌써 매진이네."
         },
         {
           "speaker": "남자",
-          "text": "그럼 출발 시간을 한두 시간 바꿔 볼까?"
+          "text": "그러면 출발 시간을 앞뒤로 한두 시간쯤 옮겨 보는 게 어때?"
         }
       ],
-      "tts_script": "여자: KTX 표를 예매하려는데 원하는 시간대 좌석이 없네.\n남자: 그럼 출발 시간을 한두 시간 바꿔 볼까?",
+      "tts_script": "여자: KTX 표 예매하려는데 원하는 시간대는 벌써 매진이네.\n남자: 그러면 출발 시간을 앞뒤로 한두 시간쯤 옮겨 보는 게 어때?",
       "delivery": "casual_short_dialogue",
       "notes": [
         "Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end."
@@ -521,21 +521,21 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 5,
       "content_category_id": "school",
-      "question_stem": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
+      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_639caa4835aa",
       "filename": "ai2l_dialogue_continuation_003.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "여자",
-          "text": "이번 학기 성적이 나왔대. 수강 신청 전에 확인해 봐야겠어."
+          "text": "이번 학기 성적이 나왔대. 수강 신청하기 전에 점수부터 확인해 봐야겠어."
         },
         {
           "speaker": "남자",
-          "text": "수미 씨 성적은 어때?"
+          "text": "너는 확인했어? 어때?"
         }
       ],
-      "tts_script": "여자: 이번 학기 성적이 나왔대. 수강 신청 전에 확인해 봐야겠어.\n남자: 수미 씨 성적은 어때?",
+      "tts_script": "여자: 이번 학기 성적이 나왔대. 수강 신청하기 전에 점수부터 확인해 봐야겠어.\n남자: 너는 확인했어? 어때?",
       "delivery": "casual_short_dialogue",
       "notes": [
         "Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end."
@@ -546,21 +546,21 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 5,
       "content_category_id": "culture",
-      "question_stem": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
+      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_7f5216db101e",
       "filename": "ai2l_dialogue_continuation_004.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "남자",
-          "text": "어제 본 연극 정말 감동적이었어. 마지막 장면이 특히 기억에 남아."
+          "text": "어제 본 연극, 마지막 장면 때문에 여운이 오래가더라."
         },
         {
           "speaker": "여자",
-          "text": "나도 봤는데, 마지막 장면이 정말 인상적이더라."
+          "text": "맞아. 그 장면에서 배우 연기가 특히 좋았어."
         }
       ],
-      "tts_script": "남자: 어제 본 연극 정말 감동적이었어. 마지막 장면이 특히 기억에 남아.\n여자: 나도 봤는데, 마지막 장면이 정말 인상적이더라.",
+      "tts_script": "남자: 어제 본 연극, 마지막 장면 때문에 여운이 오래가더라.\n여자: 맞아. 그 장면에서 배우 연기가 특히 좋았어.",
       "delivery": "casual_short_dialogue",
       "notes": [
         "Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end."
@@ -571,22 +571,22 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 6,
       "content_category_id": "work",
-      "question_stem": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
+      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_5098f3d3b95d",
       "filename": "ai2l_dialogue_continuation_005.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "여자",
-          "text": "팀장님, 보고서 초안 검토 부탁드립니다. 그래프 자료도 넣었습니다."
+          "text": "팀장님, 보고서 초안 올렸습니다. 그래프도 넣었습니다."
         },
         {
           "speaker": "남자",
-          "text": "네, 그런데 그래프 설명이 조금 부족한 것 같아요."
+          "text": "내용은 괜찮은데, 그래프마다 해석이 한두 문장씩 부족해요. 숫자만 보면 이해하기 어렵겠네요."
         }
       ],
-      "tts_script": "여자: 팀장님, 보고서 초안 검토 부탁드립니다. 그래프 자료도 넣었습니다.\n남자: 네, 그런데 그래프 설명이 조금 부족한 것 같아요.",
-      "delivery": "casual_short_dialogue",
+      "tts_script": "여자: 팀장님, 보고서 초안 올렸습니다. 그래프도 넣었습니다.\n남자: 내용은 괜찮은데, 그래프마다 해석이 한두 문장씩 부족해요. 숫자만 보면 이해하기 어렵겠네요.",
+      "delivery": "polite_workplace_dialogue",
       "notes": [
         "Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end."
       ]
@@ -596,21 +596,21 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 6,
       "content_category_id": "food_dining",
-      "question_stem": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
+      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_7a42cf1a0402",
       "filename": "ai2l_dialogue_continuation_006.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "남자",
-          "text": "이 근처에 맛있는 분식집 있다며? 학생들 사이에서 유명하다던데."
+          "text": "학교 뒤에 분식집이 새로 생겼다면서? 떡볶이가 맛있대."
         },
         {
           "speaker": "여자",
-          "text": "응, 학교 뒤편에 있는데 떡볶이가 특히 유명해."
+          "text": "응, 어제 가 봤는데 양도 많고 값도 괜찮더라."
         }
       ],
-      "tts_script": "남자: 이 근처에 맛있는 분식집 있다며? 학생들 사이에서 유명하다던데.\n여자: 응, 학교 뒤편에 있는데 떡볶이가 특히 유명해.",
+      "tts_script": "남자: 학교 뒤에 분식집이 새로 생겼다면서? 떡볶이가 맛있대.\n여자: 응, 어제 가 봤는데 양도 많고 값도 괜찮더라.",
       "delivery": "casual_short_dialogue",
       "notes": [
         "Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end."
@@ -621,22 +621,22 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 7,
       "content_category_id": "shopping",
-      "question_stem": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
+      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_eef1c5019c1a",
       "filename": "ai2l_dialogue_continuation_007.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "여자",
-          "text": "이 코트가 세일하네요. 제 사이즈도 있을까요?"
+          "text": "이 코트가 세일하네요. 제가 입는 사이즈 있을까요?"
         },
         {
           "speaker": "남자",
-          "text": "M 사이즈는 없고 L만 남았대."
+          "text": "직원분께 여쭤보니 M은 다 나갔고 L만 남았대요."
         }
       ],
-      "tts_script": "여자: 이 코트가 세일하네요. 제 사이즈도 있을까요?\n남자: M 사이즈는 없고 L만 남았대.",
-      "delivery": "casual_short_dialogue",
+      "tts_script": "여자: 이 코트가 세일하네요. 제가 입는 사이즈 있을까요?\n남자: 직원분께 여쭤보니 M은 다 나갔고 L만 남았대요.",
+      "delivery": "polite_service_dialogue",
       "notes": [
         "Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end."
       ]
@@ -646,21 +646,21 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 7,
       "content_category_id": "health",
-      "question_stem": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
+      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_f092e779ea35",
       "filename": "ai2l_dialogue_continuation_008.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "남자",
-          "text": "요즘 헬스장 꾸준히 다니니? 건강 관리 열심히 하네."
+          "text": "요즘 헬스장 일주일에 몇 번 정도 가?"
         },
         {
           "speaker": "여자",
-          "text": "응, 일주일에 세 번 정도 가."
+          "text": "세 번 정도. 퇴근하고 바로 가서 한 시간씩 해."
         }
       ],
-      "tts_script": "남자: 요즘 헬스장 꾸준히 다니니? 건강 관리 열심히 하네.\n여자: 응, 일주일에 세 번 정도 가.",
+      "tts_script": "남자: 요즘 헬스장 일주일에 몇 번 정도 가?\n여자: 세 번 정도. 퇴근하고 바로 가서 한 시간씩 해.",
       "delivery": "casual_short_dialogue",
       "notes": [
         "Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end."
@@ -671,22 +671,22 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 8,
       "content_category_id": "travel",
-      "question_stem": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
+      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_96247a30c1e5",
       "filename": "ai2l_dialogue_continuation_009.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "여자",
-          "text": "제주도 여행 계획은 세웠어? 숙소랑 일정은 정했니?"
+          "text": "제주도 일정은 어느 정도 짰어? 숙소랑 이동은?"
         },
         {
           "speaker": "남자",
-          "text": "숙소는 예약했는데 렌터카는 아직이야."
+          "text": "숙소는 예약했는데, 렌터카는 아직이야. 성수기라 차가 잘 없대."
         }
       ],
-      "tts_script": "여자: 제주도 여행 계획은 세웠어? 숙소랑 일정은 정했니?\n남자: 숙소는 예약했는데 렌터카는 아직이야.",
-      "delivery": "casual_short_dialogue",
+      "tts_script": "여자: 제주도 일정은 어느 정도 짰어? 숙소랑 이동은?\n남자: 숙소는 예약했는데, 렌터카는 아직이야. 성수기라 차가 잘 없대.",
+      "delivery": "casual_planning_dialogue",
       "notes": [
         "Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end."
       ]
@@ -696,22 +696,22 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 8,
       "content_category_id": "leisure",
-      "question_stem": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
+      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_4188c8d26d7a",
       "filename": "ai2l_dialogue_continuation_010.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "남자",
-          "text": "이번 주말 등산 갈래? 날씨도 좋을 것 같아."
+          "text": "이번 주말 북한산 등산 어때? 날씨도 맑다는데."
         },
         {
           "speaker": "여자",
-          "text": "좋아. 그런데 준비물은 뭐가 필요해?"
+          "text": "좋지. 그런데 내가 등산화가 없어서. 빌려 신을 수 있어?"
         }
       ],
-      "tts_script": "남자: 이번 주말 등산 갈래? 날씨도 좋을 것 같아.\n여자: 좋아. 그런데 준비물은 뭐가 필요해?",
-      "delivery": "casual_short_dialogue",
+      "tts_script": "남자: 이번 주말 북한산 등산 어때? 날씨도 맑다는데.\n여자: 좋지. 그런데 내가 등산화가 없어서. 빌려 신을 수 있어?",
+      "delivery": "casual_planning_dialogue",
       "notes": [
         "Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end."
       ]

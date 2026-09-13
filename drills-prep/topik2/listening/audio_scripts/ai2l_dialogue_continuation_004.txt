@@ -2,5 +2,5 @@
 # skill=dialogue_continuation model_q=5 group=ag_7f5216db101e
 # NOTE: Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end.
 
-남자: 어제 본 연극 정말 감동적이었어. 마지막 장면이 특히 기억에 남아.
-여자: 나도 봤는데, 마지막 장면이 정말 인상적이더라.
+남자: 어제 본 연극, 마지막 장면 때문에 여운이 오래가더라.
+여자: 맞아. 그 장면에서 배우 연기가 특히 좋았어.

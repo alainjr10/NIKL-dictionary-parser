@@ -2,5 +2,5 @@
 # skill=dialogue_continuation model_q=5 group=ag_639caa4835aa
 # NOTE: Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end.
 
-여자: 이번 학기 성적이 나왔대. 수강 신청 전에 확인해 봐야겠어.
-남자: 수미 씨 성적은 어때?
+여자: 이번 학기 성적이 나왔대. 수강 신청하기 전에 점수부터 확인해 봐야겠어.
+남자: 너는 확인했어? 어때?

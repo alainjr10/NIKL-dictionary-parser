@@ -1,5 +1,4 @@
 # ai2l_visual_match_007
-# skill=visual_match model_q=2 group=ag_4a731962aded
+# skill=visual_match model_q=2 kind=graph layout=dual_charts group=ag_4a731962aded
 
-여자: 영화관 이용객 통계를 보면 20대 35%, 30대 30%, 40대 이상 35%입니다.
-남자: 선호 장르 1위 코미디, 2위 액션, 3위 드라마 순이었습니다.
+여자: 최근 영화관 이용객 조사 결과입니다. 연령별 비율은 20대가 35%, 30대가 30%, 40대 이상이 35%로, 20대와 40대 이상이 같고 30대만 낮았습니다. 선호 장르 순위는 1위 코미디, 2위 액션, 3위 드라마 순이었습니다.

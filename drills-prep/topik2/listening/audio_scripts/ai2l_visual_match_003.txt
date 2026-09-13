@@ -1,5 +1,4 @@
 # ai2l_visual_match_003
-# skill=visual_match model_q=1 group=ag_099cbcbe8f77
+# skill=visual_match model_q=1 kind=graph layout=dual_charts group=ag_099cbcbe8f77
 
-여자: 버스 정류장에 사람이 많네요.
-남자: 7호선 이용률 조사 결과, 오전 8시 45%, 오후 6시 40%, 그 외 15%였습니다.
+남자: 지난달 지하철 7호선 이용 현황 조사 결과입니다. 시간대별 이용률은 오전 8시가 45%로 가장 높고, 오후 6시가 40%, 그 외 시간대가 15%였습니다. 이용 목적별로는 출근이 1위, 통학이 2위, 여가 및 기타가 3위로 나타났습니다.

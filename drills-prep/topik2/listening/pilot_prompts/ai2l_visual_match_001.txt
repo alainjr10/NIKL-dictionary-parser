@@ -41,10 +41,9 @@ OUTPUT
 - Exact words only. No improvisation. No omitted lines. No added lines.
 
 TTS the following TOPIK II listening conversation between 남자 and 여자.
+
 Follow the ROLE and PERFORMANCE RULES exactly.
-File id: ai2l_visual_match_001
-Delivery target: short_everyday_dialogue
 
 여자: 무엇을 도와 드릴까요?
-남자: 이 우산, 길에서 주웠어요. 주인을 찾아 주세요.
-여자: 네, 분실물 센터에 맡겨 주시면 접수해 드리겠습니다.
+남자: 이 우산, 길에서 주웠어요. 분실물로 신고하고 싶은데요.
+여자: 네, 여기 분실물 센터입니다. 우산 맡기시면 접수해 드리겠습니다.

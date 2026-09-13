@@ -2,5 +2,5 @@
 # skill=dialogue_continuation model_q=7 group=ag_f092e779ea35
 # NOTE: Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end.
 
-남자: 요즘 헬스장 꾸준히 다니니? 건강 관리 열심히 하네.
-여자: 응, 일주일에 세 번 정도 가.
+남자: 요즘 헬스장 일주일에 몇 번 정도 가?
+여자: 세 번 정도. 퇴근하고 바로 가서 한 시간씩 해.

@@ -1,20 +1,24 @@
 #!/usr/bin/env python3
 """Generate TOPIK II listening drill audio via Gemini or OpenAI TTS APIs.
 
-Default: pilot set (7 scripts). Use --all for every unique audio group.
+Default: pilot set (7 scripts). Use --all for the unique pool (~127).
+Writes MP3 by default (WAV is only a temp file and is deleted after conversion).
 
 Examples:
-  # Gemini pilot → drills_audio/topik2/listening/gemini/*.wav
-  ./kr-dict-env/bin/python generate_listening_tts.py --provider gemini
+  # Gemini pilot (7) → drills_audio/topik2/listening/gemini/*.mp3
+  ./.venv/Scripts/python.exe generate_listening_tts.py --provider gemini
 
-  # OpenAI pilot → drills_audio/topik2/listening/openai/*.wav
-  ./kr-dict-env/bin/python generate_listening_tts.py --provider openai
+  # Next 5 missing items from the unique pool (safe incremental batches)
+  ./.venv/Scripts/python.exe generate_listening_tts.py --provider gemini --all --limit 5
+
+  # Keep WAV intermediates as well
+  ./.venv/Scripts/python.exe generate_listening_tts.py --provider gemini --all --limit 5 --keep-wav
 
   # One id only
-  ./kr-dict-env/bin/python generate_listening_tts.py --provider gemini --id ai2l_visual_match_001
+  ./.venv/Scripts/python.exe generate_listening_tts.py --provider gemini --id ai2l_visual_match_001
 
-  # Full unique pool
-  ./kr-dict-env/bin/python generate_listening_tts.py --provider gemini --all
+  # Full unique pool (all ~127)
+  ./.venv/Scripts/python.exe generate_listening_tts.py --provider gemini --all
 
 Env:
   GEMINI_API_KEY   (gemini)
@@ -56,7 +60,7 @@ OPENAI_VOICES = {"Man": "onyx", "Woman": "nova"}
 SAMPLE_RATE = 24000
 SAMPLE_WIDTH = 2
 CHANNELS = 1
-TURN_GAP_SEC = 0.30
+TURN_GAP_SEC = 0.45  # natural exam-style beat between speakers
 BLANK_TAIL_SEC = 1.0
 
 ROLE_PROMPT = """You are the official TOPIK II Listening exam audio narrator and cast director.
@@ -66,9 +70,9 @@ ROLE
 - You are not a chatbot, drama actor, or language tutor.
 - Perform the transcript exactly in the style of real TOPIK listening recordings (NIIED).
 
-CAST (fixed — never change)
-- Man: adult Korean man, ~30–35, Seoul standard (표준어), calm, clear, mid pitch, informative and neutral. TOPIK exam male voice — not DJ, not cartoon.
-- Woman: adult Korean woman, ~30–35, Seoul standard (표준어), calm, clear, mid pitch, firm and neutral. TOPIK exam female voice — not ASMR, not cute, not overly bright.
+CAST (fixed - never change)
+- Man: adult Korean man, ~30-35, Seoul standard (표준어), calm, clear, mid pitch, informative and neutral. TOPIK exam male voice - not DJ, not cartoon.
+- Woman: adult Korean woman, ~30-35, Seoul standard (표준어), calm, clear, mid pitch, firm and neutral. TOPIK exam female voice - not ASMR, not cute, not overly bright.
 
 VOICE LOCK
 - Use exactly Man and Woman as labeled in the transcript.
@@ -76,15 +80,15 @@ VOICE LOCK
 - Do not speak speaker labels aloud.
 - No music, SFX, reverb, laughter, whispering, or English.
 - No question numbers, stems, options, answers, intros, or outros.
-- Exact words only. Natural exam-studio pace. Short pause between turns.
+- Exact words only. Natural exam-studio pace.
 - Numbers clearly in Korean (45% → 사십오 퍼센트).
 """
 
-OPENAI_LINE_INSTRUCTIONS = (
+LINE_STYLE = (
     "Speak as a TOPIK II Korean listening-exam voice. Seoul standard Korean, "
     "calm, clear, neutral, exam-studio quality. Natural conversational pace, "
     "slightly clear. No English, no drama, no music, no extra words. "
-    "Recite the text exactly."
+    "Recite the text exactly. Do not say the speaker name."
 )
 
 
@@ -106,8 +110,8 @@ def load_env() -> None:
             os.environ[key] = value
 
 
-def silence_pcm(seconds: float) -> bytes:
-    return b"\x00\x00" * int(SAMPLE_RATE * seconds)
+def silence_pcm(seconds: float, rate: int = SAMPLE_RATE) -> bytes:
+    return b"\x00\x00" * int(rate * seconds)
 
 
 def wav_to_mp3(wav_path: Path) -> Path | None:
@@ -132,6 +136,17 @@ def wav_to_mp3(wav_path: Path) -> Path | None:
     return mp3_path
 
 
+def output_paths(out_dir: Path, item_id: str) -> tuple[Path, Path]:
+    return out_dir / f"{item_id}.wav", out_dir / f"{item_id}.mp3"
+
+
+def has_output(out_dir: Path, item_id: str, *, want_mp3: bool) -> bool:
+    wav_path, mp3_path = output_paths(out_dir, item_id)
+    if want_mp3:
+        return mp3_path.exists()
+    return wav_path.exists()
+
+
 def parse_turns(script: str) -> list[tuple[str, str]]:
     turns: list[tuple[str, str]] = []
     for line in script.splitlines():
@@ -148,24 +163,6 @@ def parse_turns(script: str) -> list[tuple[str, str]]:
     if not turns:
         raise ValueError("No spoken turns in script")
     return turns
-
-
-def build_gemini_prompt(script: str, *, delivery: str, item_id: str) -> str:
-    turns = parse_turns(script)
-    dialogue = "\n".join(f"{spk}: {text}" for spk, text in turns)
-    return "\n".join(
-        [
-            ROLE_PROMPT.strip(),
-            "",
-            "Synthesize this multi-speaker TOPIK II listening conversation as continuous audio.",
-            "Do not answer in text — audio only.",
-            f"Item id: {item_id}",
-            f"Delivery target: {delivery}",
-            "",
-            "TRANSCRIPT",
-            dialogue,
-        ]
-    )
 
 
 def extract_pcm(response: Any) -> bytes:
@@ -193,38 +190,37 @@ def write_wav_rate(path: Path, pcm: bytes, rate: int = SAMPLE_RATE) -> None:
         wf.writeframes(pcm)
 
 
-def synthesize_gemini(
+def synthesize_gemini_line(
     client: Any,
     types_mod: Any,
     *,
     model: str,
-    prompt: str,
+    speaker: str,
+    text: str,
 ) -> bytes:
+    """One speaker line via Gemini single-voice TTS."""
+    prompt = "\n".join(
+        [
+            ROLE_PROMPT.strip(),
+            "",
+            f"Speaker for this line: {speaker}",
+            LINE_STYLE,
+            "Do not answer in text — audio only.",
+            "",
+            "LINE",
+            text,
+        ]
+    )
     response = client.models.generate_content(
         model=model,
         contents=prompt,
         config=types_mod.GenerateContentConfig(
             response_modalities=["AUDIO"],
             speech_config=types_mod.SpeechConfig(
-                multi_speaker_voice_config=types_mod.MultiSpeakerVoiceConfig(
-                    speaker_voice_configs=[
-                        types_mod.SpeakerVoiceConfig(
-                            speaker="Man",
-                            voice_config=types_mod.VoiceConfig(
-                                prebuilt_voice_config=types_mod.PrebuiltVoiceConfig(
-                                    voice_name=GEMINI_VOICES["Man"],
-                                )
-                            ),
-                        ),
-                        types_mod.SpeakerVoiceConfig(
-                            speaker="Woman",
-                            voice_config=types_mod.VoiceConfig(
-                                prebuilt_voice_config=types_mod.PrebuiltVoiceConfig(
-                                    voice_name=GEMINI_VOICES["Woman"],
-                                )
-                            ),
-                        ),
-                    ]
+                voice_config=types_mod.VoiceConfig(
+                    prebuilt_voice_config=types_mod.PrebuiltVoiceConfig(
+                        voice_name=GEMINI_VOICES[speaker],
+                    )
                 )
             ),
         ),
@@ -232,11 +228,38 @@ def synthesize_gemini(
     return extract_pcm(response)
 
 
+def synthesize_gemini(
+    client: Any,
+    types_mod: Any,
+    *,
+    model: str,
+    script: str,
+    turn_gap_sec: float,
+    blank_tail: bool,
+) -> tuple[bytes, int]:
+    """Per-turn Gemini TTS, stitched with silence between speakers."""
+    turns = parse_turns(script)
+    pcm_parts: list[bytes] = []
+    rate = SAMPLE_RATE
+    for i, (speaker, text) in enumerate(turns):
+        pcm_parts.append(
+            synthesize_gemini_line(
+                client, types_mod, model=model, speaker=speaker, text=text
+            )
+        )
+        if i < len(turns) - 1 and turn_gap_sec > 0:
+            pcm_parts.append(silence_pcm(turn_gap_sec, rate=rate))
+    if blank_tail:
+        pcm_parts.append(silence_pcm(BLANK_TAIL_SEC, rate=rate))
+    return b"".join(pcm_parts), rate
+
+
 def synthesize_openai(
     client: Any,
     *,
     model: str,
     script: str,
+    turn_gap_sec: float,
     blank_tail: bool,
 ) -> tuple[bytes, int]:
     """One voice per turn, then stitch with silence (OpenAI has no native 2-speaker)."""
@@ -249,7 +272,7 @@ def synthesize_openai(
             model=model,
             voice=voice,
             input=text,
-            instructions=OPENAI_LINE_INSTRUCTIONS,
+            instructions=LINE_STYLE,
             response_format="wav",
         )
         if hasattr(response, "read"):
@@ -267,10 +290,10 @@ def synthesize_openai(
                 )
             frames = wf.readframes(wf.getnframes())
         pcm_parts.append(frames)
-        if i < len(turns) - 1:
-            pcm_parts.append(b"\x00\x00" * int(rate * TURN_GAP_SEC))
+        if i < len(turns) - 1 and turn_gap_sec > 0:
+            pcm_parts.append(silence_pcm(turn_gap_sec, rate=rate))
     if blank_tail:
-        pcm_parts.append(b"\x00\x00" * int(rate * BLANK_TAIL_SEC))
+        pcm_parts.append(silence_pcm(BLANK_TAIL_SEC, rate=rate))
     return b"".join(pcm_parts), rate
 
 
@@ -295,6 +318,40 @@ def load_items(args: argparse.Namespace) -> list[dict[str, Any]]:
     return items
 
 
+def select_items(
+    items: list[dict[str, Any]],
+    *,
+    out_dir: Path,
+    want_mp3: bool,
+    force: bool,
+    offset: int,
+    limit: int | None,
+    pending: bool,
+) -> tuple[list[dict[str, Any]], int]:
+    """Apply offset/limit; optionally only missing outputs (pending).
+
+    Returns (selected_items, pool_remaining_after_selection).
+    """
+    pool = items
+    if offset:
+        pool = pool[offset:]
+
+    if pending and not force:
+        pool = [
+            item
+            for item in pool
+            if not has_output(out_dir, item["id"], want_mp3=want_mp3)
+        ]
+
+    remaining_after = 0
+    if limit is not None:
+        if limit < 1:
+            sys.exit("--limit must be >= 1")
+        remaining_after = max(0, len(pool) - limit)
+        pool = pool[:limit]
+    return pool, remaining_after
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Generate TOPIK II listening drill TTS via Gemini or OpenAI API."
@@ -312,13 +369,32 @@ def main() -> None:
     parser.add_argument(
         "--all",
         action="store_true",
-        help="Use tts_batch_unique.json (all unique audio groups)",
+        help="Use tts_batch_unique.json (all unique audio groups, ~127)",
     )
     parser.add_argument(
         "--id",
         action="append",
         dest="id",
         help="Only generate this id (repeatable)",
+    )
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=None,
+        help="Max items to generate this run (e.g. 5 or 10)",
+    )
+    parser.add_argument(
+        "--offset",
+        type=int,
+        default=0,
+        help="Skip this many items from the selected pool before limit",
+    )
+    parser.add_argument(
+        "--pending",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="With --limit/--all: only generate ids still missing output "
+        "(default: true). Use --no-pending for a raw offset/limit slice.",
     )
     parser.add_argument(
         "--out-dir",
@@ -329,8 +405,15 @@ def main() -> None:
     parser.add_argument("--model", help="Override model id")
     parser.add_argument(
         "--mp3",
-        action="store_true",
-        help="Also convert WAV → MP3 with ffmpeg if available",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Convert WAV → MP3 with ffmpeg (default: true). Use --no-mp3 for WAV only.",
+    )
+    parser.add_argument(
+        "--keep-wav",
+        action=argparse.BooleanOptionalAction,
+        default=False,
+        help="Keep WAV after MP3 conversion (default: false - MP3 only). Use --keep-wav to retain WAV.",
     )
     parser.add_argument(
         "--force",
@@ -343,8 +426,19 @@ def main() -> None:
         default=0.5,
         help="Pause between requests (seconds)",
     )
+    parser.add_argument(
+        "--turn-gap",
+        type=float,
+        default=TURN_GAP_SEC,
+        help=f"Silence between speakers in seconds (default: {TURN_GAP_SEC})",
+    )
     args = parser.parse_args()
     load_env()
+
+    if args.offset < 0:
+        sys.exit("--offset must be >= 0")
+    if args.turn_gap < 0:
+        sys.exit("--turn-gap must be >= 0")
 
     items = load_items(args)
     if not items:
@@ -352,6 +446,22 @@ def main() -> None:
 
     out_dir = Path(args.out_dir) / args.provider
     out_dir.mkdir(parents=True, exist_ok=True)
+
+    # Incremental batches: --all --limit 5 keeps picking the next missing ids.
+    use_pending = args.pending and (args.limit is not None or args.all)
+    items, remaining = select_items(
+        items,
+        out_dir=out_dir,
+        want_mp3=args.mp3,
+        force=args.force,
+        offset=args.offset,
+        limit=args.limit,
+        pending=use_pending,
+    )
+    if not items:
+        print("Nothing to generate (all selected outputs already exist).")
+        print(f"Out: {out_dir}")
+        return
 
     if args.provider == "gemini":
         api_key = os.environ.get("GEMINI_API_KEY", "").strip()
@@ -375,12 +485,18 @@ def main() -> None:
         client = OpenAI(api_key=api_key)
         model = args.model or OPENAI_MODEL
 
+    if args.mp3 and not shutil.which("ffmpeg"):
+        sys.exit("ffmpeg not found on PATH (needed for default MP3 output). Install ffmpeg or pass --no-mp3.")
+
     print(f"Provider: {args.provider}")
     print(f"Model:    {model}")
-    print(f"Items:    {len(items)}")
+    print(f"Items:    {len(items)}" + (f"  (more pending after: {remaining})" if remaining else ""))
+    print(f"Format:   {'mp3 (+wav)' if args.mp3 and args.keep_wav else 'mp3' if args.mp3 else 'wav'}")
+    print(f"Turn gap: {args.turn_gap:.2f}s")
+    print(f"Pending:  {use_pending}")
     print(f"Out:      {out_dir}")
     if args.provider == "gemini":
-        print(f"Voices:   Man={GEMINI_VOICES['Man']} Woman={GEMINI_VOICES['Woman']}")
+        print(f"Voices:   Man={GEMINI_VOICES['Man']} Woman={GEMINI_VOICES['Woman']} (per-turn stitch)")
     else:
         print(f"Voices:   Man={OPENAI_VOICES['Man']} Woman={OPENAI_VOICES['Woman']} (stitched)")
 
@@ -390,14 +506,13 @@ def main() -> None:
 
     for i, item in enumerate(items, 1):
         item_id = item["id"]
-        wav_path = out_dir / f"{item_id}.wav"
-        if wav_path.exists() and not args.force:
+        wav_path, mp3_path = output_paths(out_dir, item_id)
+        if has_output(out_dir, item_id, want_mp3=args.mp3) and not args.force:
             print(f"[{i}/{len(items)}] skip {item_id} (exists)")
             skipped += 1
             continue
 
         script = item["script"]
-        delivery = item.get("delivery", "")
         blank_tail = "dialogue_continuation" in item_id or item_id.startswith(
             "ai2l_dialogue_continuation"
         )
@@ -407,29 +522,72 @@ def main() -> None:
 
         print(f"[{i}/{len(items)}] {item_id} ...", flush=True)
         try:
+            # WAV present but MP3 missing: convert only (no re-TTS).
+            if (
+                args.mp3
+                and wav_path.exists()
+                and not mp3_path.exists()
+                and not args.force
+            ):
+                mp3 = wav_to_mp3(wav_path)
+                if not mp3:
+                    raise RuntimeError("ffmpeg MP3 conversion failed")
+                extra = f" {mp3.name} (from existing wav)"
+                if not args.keep_wav:
+                    wav_path.unlink(missing_ok=True)
+                for peer in item.get("shared_with") or []:
+                    peer_wav, peer_mp3 = output_paths(out_dir, peer)
+                    if args.force or not peer_mp3.exists():
+                        shutil.copy2(mp3_path, peer_mp3)
+                        if args.keep_wav and wav_path.exists():
+                            shutil.copy2(wav_path, peer_wav)
+                        extra += f" alias→{peer}"
+                print(f"  wrote{extra}")
+                ok += 1
+                if args.sleep > 0 and i < len(items):
+                    time.sleep(args.sleep)
+                continue
+
             if args.provider == "gemini":
-                prompt = build_gemini_prompt(
-                    script, delivery=delivery, item_id=item_id
+                pcm, rate = synthesize_gemini(
+                    client,
+                    types,
+                    model=model,
+                    script=script,
+                    turn_gap_sec=args.turn_gap,
+                    blank_tail=blank_tail,
                 )
-                pcm = synthesize_gemini(client, types, model=model, prompt=prompt)
-                if blank_tail:
-                    pcm = pcm + silence_pcm(BLANK_TAIL_SEC)
-                rate = SAMPLE_RATE
             else:
                 pcm, rate = synthesize_openai(
-                    client, model=model, script=script, blank_tail=blank_tail
+                    client,
+                    model=model,
+                    script=script,
+                    turn_gap_sec=args.turn_gap,
+                    blank_tail=blank_tail,
                 )
             write_wav_rate(wav_path, pcm, rate=rate)
-            extra = ""
+            extra = f" {wav_path.name}"
             if args.mp3:
                 mp3 = wav_to_mp3(wav_path)
-                extra = f" + {mp3.name}" if mp3 else " (ffmpeg missing, wav only)"
+                if not mp3:
+                    raise RuntimeError("ffmpeg MP3 conversion failed")
+                extra = f" {mp3.name}"
+                if not args.keep_wav:
+                    wav_path.unlink(missing_ok=True)
             for peer in item.get("shared_with") or []:
-                peer_path = out_dir / f"{peer}.wav"
-                if args.force or not peer_path.exists():
-                    shutil.copy2(wav_path, peer_path)
+                peer_wav, peer_mp3 = output_paths(out_dir, peer)
+                if args.mp3:
+                    src = mp3_path
+                    dst = peer_mp3
+                else:
+                    src = wav_path
+                    dst = peer_wav
+                if args.force or not dst.exists():
+                    shutil.copy2(src, dst)
+                    if args.mp3 and args.keep_wav and wav_path.exists():
+                        shutil.copy2(wav_path, peer_wav)
                     extra += f" alias→{peer}"
-            print(f"  wrote {wav_path.name}{extra}")
+            print(f"  wrote{extra}")
             ok += 1
         except Exception as exc:  # noqa: BLE001 — surface per-item failures
             print(f"  FAILED: {exc}")
@@ -440,6 +598,8 @@ def main() -> None:
 
     print()
     print(f"Done. ok={ok} skipped={skipped} failed={len(failed)}")
+    if remaining:
+        print(f"Still pending after this batch: ~{remaining} (re-run with same --limit)")
     if failed:
         print("Failed ids:", ", ".join(failed))
         sys.exit(1)

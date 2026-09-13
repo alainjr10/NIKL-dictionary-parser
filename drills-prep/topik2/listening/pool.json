@@ -8,16 +8,29 @@
     "model_q_num": 1,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음을 듣고 알맞은 그림을 고르십시오.",
-    "transcript": "여자: 무엇을 도와 드릴까요?\n남자: 이 우산, 길에서 주웠어요. 주인을 찾아 주세요.\n여자: 네, 분실물 센터에 맡겨 주시면 접수해 드리겠습니다.",
+    "question": "다음을 듣고 알맞은 그림 또는 그래프를 고르십시오.",
+    "transcript": "여자: 무엇을 도와 드릴까요?\n남자: 이 우산, 길에서 주웠어요. 분실물로 신고하고 싶은데요.\n여자: 네, 여기 분실물 센터입니다. 우산 맡기시면 접수해 드리겠습니다.",
     "options": [
-      "그림 2 (Woman buying umbrella)",
-      "그림 3 (Man opening umbrella in rain)",
-      "그림 1 (Man handing umbrella to store clerk)",
-      "그림 4 (Clerk returning wallet)"
+      "①",
+      "②",
+      "③",
+      "④"
     ],
     "answer": 2,
-    "explanation": "The man found an umbrella and gives it to staff for lost-and-found."
+    "explanation": "남자는 길에서 주운 우산을 분실물 센터 직원에게 맡긴다. 정답은 ③ — 손님이 우산을 카운터 직원에게 건네는 장면.",
+    "images": [
+      "visual_match_001/img1",
+      "visual_match_001/img2",
+      "visual_match_001/img3",
+      "visual_match_001/img4"
+    ],
+    "image_specs": [
+      "FOIL: Woman buying a new umbrella at a retail checkout (payment)",
+      "FOIL: Man opening an umbrella alone outdoors in the rain",
+      "CORRECT: Man handing a found umbrella across a lost-and-found counter to a female staff member filling a form",
+      "FOIL: Staff returning a wallet to a customer at the same counter"
+    ],
+    "visual_kind": "picture"
   },
   {
     "id": "ai2l_visual_match_002",
@@ -28,16 +41,29 @@
     "model_q_num": 1,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음을 듣고 알맞은 그림을 고르십시오.",
-    "transcript": "남자: 할머니, 괜찮으세요? 방금 넘어지신 것 같은데요.\n여자: 응, 무릎이 아파서 일어나기가 힘들어.\n남자: 제가 부축해 드릴게요. 천천히 일어나 보세요.",
+    "question": "다음을 듣고 알맞은 그림 또는 그래프를 고르십시오.",
+    "transcript": "남자: 할머니, 괜찮으세요? 방금 넘어지신 것 같은데요.\n여자: 응, 무릎이 아파서 혼자 일어나기가 힘들어.\n남자: 제가 부축해 드릴게요. 제 팔 잡으시고 천천히 일어나 보세요.",
     "options": [
-      "그림 1 (Elderly woman sitting on bench alone)",
-      "그림 3 (Woman calling ambulance)",
-      "그림 4 (Man picking up dropped bag)",
-      "그림 2 (Man helping elderly woman stand)"
+      "①",
+      "②",
+      "③",
+      "④"
     ],
     "answer": 3,
-    "explanation": "The man helps the grandmother stand up after she fell."
+    "explanation": "핵심은 남자가 넘어진 할머니를 부축해 일으키는 행동. 정답 ④.",
+    "images": [
+      "visual_match_002/img1",
+      "visual_match_002/img2",
+      "visual_match_002/img3",
+      "visual_match_002/img4"
+    ],
+    "image_specs": [
+      "FOIL: Elderly woman sitting alone on a bench, no helper",
+      "FOIL: Man picking up a dropped bag while the elderly woman remains on the ground",
+      "FOIL: Woman calling on a phone beside an elderly person still on the ground",
+      "CORRECT: Young man supporting an elderly woman by the arm as she stands up from the sidewalk"
+    ],
+    "visual_kind": "picture"
   },
   {
     "id": "ai2l_visual_match_003",
@@ -48,16 +74,31 @@
     "model_q_num": 1,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음을 듣고 알맞은 그림을 고르십시오.",
-    "transcript": "여자: 버스 정류장에 사람이 많네요.\n남자: 7호선 이용률 조사 결과, 오전 8시 45%, 오후 6시 40%, 그 외 15%였습니다.",
+    "question": "다음을 듣고 알맞은 그림 또는 그래프를 고르십시오.",
+    "transcript": "남자: 지난달 지하철 7호선 이용 현황 조사 결과입니다. 시간대별 이용률은 오전 8시가 45%로 가장 높고, 오후 6시가 40%, 그 외 시간대가 15%였습니다. 이용 목적별로는 출근이 1위, 통학이 2위, 여가 및 기타가 3위로 나타났습니다.",
     "options": [
-      "그래프 1 (Peak at 6 PM = 45%)",
-      "그래프 3 (Even split 33% each)",
-      "그래프 2 (Peak at 8 AM = 45%)",
-      "그래프 4 (Peak at noon = 50%)"
+      "①",
+      "②",
+      "③",
+      "④"
     ],
-    "answer": 2,
-    "explanation": "Morning 8 AM shows the highest usage at 45%."
+    "answer": 1,
+    "explanation": "이중 그래프 문항. 왼쪽(시간대: 8시 45% > 6시 40% > 그 외 15%)과 오른쪽(목적: 출근>통학>여가)이 모두 일치하는 ②만 정답. 한쪽만 맞는 선택지는 전형적인 TOPIK 함정.",
+    "visual_kind": "graph",
+    "graph_layout": "dual_charts_per_option_2x2_sheet",
+    "image": "visual_match_003/panel",
+    "images": [
+      "visual_match_003/img1",
+      "visual_match_003/img2",
+      "visual_match_003/img3",
+      "visual_match_003/img4"
+    ],
+    "image_specs": [
+      "FOIL dual: LEFT time OK (8시45/6시40/기타15) | RIGHT purpose WRONG (통학>출근>여가)",
+      "CORRECT dual: LEFT time (8시45% > 6시40% > 기타15%) | RIGHT purpose (출근 1위 > 통학 2위 > 여가·기타 3위)",
+      "FOIL dual: LEFT time WRONG peaks swapped (6시45/8시40/기타15) | RIGHT purpose OK (출근>통학>여가)",
+      "FOIL dual: LEFT equal thirds ~33% | RIGHT purpose WRONG (여가 1위)"
+    ]
   },
   {
     "id": "ai2l_visual_match_004",
@@ -68,16 +109,29 @@
     "model_q_num": 1,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음을 듣고 알맞은 그림을 고르십시오.",
-    "transcript": "남자: 주문하신 김치찌개 나왔습니다.\n여자: 감사합니다. 물 좀 더 주시겠어요?\n남자: 네, 바로 가져다 드리겠습니다.",
+    "question": "다음을 듣고 알맞은 그림 또는 그래프를 고르십시오.",
+    "transcript": "남자: 주문하신 김치찌개 나왔습니다.\n여자: 감사합니다. 물 좀 더 주시겠어요?\n남자: 네, 찌개 먼저 놓아 드릴게요. 물은 바로 가져다 드리겠습니다.",
     "options": [
-      "그림 2 (Customer paying at counter)",
-      "그림 3 (Chef cooking in kitchen)",
-      "그림 4 (Customer leaving restaurant)",
-      "그림 1 (Waiter placing bowl on table)"
+      "①",
+      "②",
+      "③",
+      "④"
     ],
-    "answer": 3,
-    "explanation": "Waiter serves food to seated customer."
+    "answer": 0,
+    "explanation": "서빙 장면: 찌개 제공 + 물 추가 요청. 정답 ①.",
+    "images": [
+      "visual_match_004/img1",
+      "visual_match_004/img2",
+      "visual_match_004/img3",
+      "visual_match_004/img4"
+    ],
+    "image_specs": [
+      "CORRECT: Waiter placing kimchi-jjigae on a table for a seated woman; about to fetch water",
+      "FOIL: Customer paying at the cashier counter",
+      "FOIL: Chef stirring a pot alone in the kitchen",
+      "FOIL: Customer leaving with a takeout bag"
+    ],
+    "visual_kind": "picture"
   },
   {
     "id": "ai2l_visual_match_005",
@@ -88,16 +142,29 @@
     "model_q_num": 2,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음을 듣고 알맞은 그림을 고르십시오.",
-    "transcript": "여자: 어디가 불편하세요?\n남자: 어제부터 목이 아프고 열도 나는 것 같습니다.\n여자: 잠깐 기다리시면 의사 선생님 진료를 받으실 수 있습니다.",
+    "question": "다음을 듣고 알맞은 그림 또는 그래프를 고르십시오.",
+    "transcript": "여자: 오늘 어떻게 오셨어요?\n남자: 어제부터 목이 아프고 열도 나는 것 같아서요.\n여자: 접수 도와 드릴게요. 여기 앉아 잠시만 기다리시면 의사 선생님 진료 순서입니다.",
     "options": [
-      "그림 2 (Doctor performing surgery)",
-      "그림 3 (Patient exercising in gym)",
-      "그림 1 (Receptionist talking to patient at desk)",
-      "그림 4 (Pharmacist dispensing outside hospital)"
+      "①",
+      "②",
+      "③",
+      "④"
     ],
     "answer": 2,
-    "explanation": "Patient describes symptoms at hospital reception."
+    "explanation": "접수 창구에서 증상을 말하고 대기 안내를 받는 단계. 정답 ③.",
+    "images": [
+      "visual_match_005/img1",
+      "visual_match_005/img2",
+      "visual_match_005/img3",
+      "visual_match_005/img4"
+    ],
+    "image_specs": [
+      "FOIL: Doctor examining patient's throat in a clinic room",
+      "FOIL: Pharmacist handing a medicine bag at pharmacy",
+      "CORRECT: Male patient at reception desk with female receptionist; waiting area behind",
+      "FOIL: Patient in bed with IV drip"
+    ],
+    "visual_kind": "picture"
   },
   {
     "id": "ai2l_visual_match_006",
@@ -108,16 +175,29 @@
     "model_q_num": 2,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음을 듣고 알맞은 그림을 고르십시오.",
-    "transcript": "남자: 발표 준비는 다 했어?\n여자: 슬라이드는 만들었는데, 출력할 시간이 없었어.\n남자: 내 노트북으로 지금 출력해 줄게. 같이 확인하자.",
+    "question": "다음을 듣고 알맞은 그림 또는 그래프를 고르십시오.",
+    "transcript": "남자: 발표 준비는 다 했어?\n여자: 슬라이드는 만들었는데, 아직 출력을 못 했어.\n남자: 내 노트북 연결해서 지금 같이 출력하자. 내용도 한 번 더 확인하자.",
     "options": [
-      "그림 1 (Students printing documents together)",
-      "그림 2 (Teacher lecturing in hall)",
-      "그림 3 (Student sleeping in library)",
-      "그림 4 (Graduation ceremony)"
+      "①",
+      "②",
+      "③",
+      "④"
     ],
-    "answer": 0,
-    "explanation": "One student helps print slides for presentation."
+    "answer": 1,
+    "explanation": "두 학생이 함께 출력·확인. 정답 ②.",
+    "images": [
+      "visual_match_006/img1",
+      "visual_match_006/img2",
+      "visual_match_006/img3",
+      "visual_match_006/img4"
+    ],
+    "image_specs": [
+      "FOIL: One student presenting alone at a podium",
+      "CORRECT: Two students at laptop/printer — pages printing, both checking slides",
+      "FOIL: Student sleeping on books in a library",
+      "FOIL: Teacher writing on a blackboard"
+    ],
+    "visual_kind": "picture"
   },
   {
     "id": "ai2l_visual_match_007",
@@ -128,16 +208,31 @@
     "model_q_num": 2,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음을 듣고 알맞은 그림을 고르십시오.",
-    "transcript": "여자: 영화관 이용객 통계를 보면 20대 35%, 30대 30%, 40대 이상 35%입니다.\n남자: 선호 장르 1위 코미디, 2위 액션, 3위 드라마 순이었습니다.",
+    "question": "다음을 듣고 알맞은 그림 또는 그래프를 고르십시오.",
+    "transcript": "여자: 최근 영화관 이용객 조사 결과입니다. 연령별 비율은 20대가 35%, 30대가 30%, 40대 이상이 35%로, 20대와 40대 이상이 같고 30대만 낮았습니다. 선호 장르 순위는 1위 코미디, 2위 액션, 3위 드라마 순이었습니다.",
     "options": [
-      "그래프 2 (Age: 20s=35%, 30s=30%, 40+=35%)",
-      "그래프 1 (Age: 30s largest share)",
-      "그래프 3 (Genre: action #1)",
-      "그래프 4 (Genre: drama #1)"
+      "①",
+      "②",
+      "③",
+      "④"
     ],
     "answer": 0,
-    "explanation": "Age distribution and genre ranking match graph 2."
+    "explanation": "이중 그래프. 왼쪽 연령(20대35=40대+35 > 30대30)과 오른쪽 장르(코미디>액션>드라마)가 모두 맞는 ①이 정답. 연령만 맞거나 장르만 맞는 그림은 오답.",
+    "visual_kind": "graph",
+    "graph_layout": "dual_charts_per_option_2x2_sheet",
+    "image": "visual_match_007/panel",
+    "images": [
+      "visual_match_007/img1",
+      "visual_match_007/img2",
+      "visual_match_007/img3",
+      "visual_match_007/img4"
+    ],
+    "image_specs": [
+      "CORRECT dual: LEFT age 20대35% / 30대30% / 40대+35% | RIGHT genre 코미디>액션>드라마",
+      "FOIL dual: LEFT age OK (35/30/35) | RIGHT genre WRONG (액션>코미디>드라마)",
+      "FOIL dual: LEFT age WRONG (30대 최대) | RIGHT genre OK (코미디>액션>드라마)",
+      "FOIL dual: LEFT age WRONG (40대+ 50% 단독 1위) | RIGHT genre WRONG (드라마 1위)"
+    ]
   },
   {
     "id": "ai2l_visual_match_008",
@@ -148,16 +243,29 @@
     "model_q_num": 2,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음을 듣고 알맞은 그림을 고르십시오.",
-    "transcript": "남자: 회의실 예약은 해 두었어?\n여자: 네, 3층 회의실로 2시부터 잡아 놨어요.\n남자: 그럼 자료 챙겨서 바로 올라가자. 늦지 않게 가자.",
+    "question": "다음을 듣고 알맞은 그림 또는 그래프를 고르십시오.",
+    "transcript": "남자: 회의실 예약은 해 두었어?\n여자: 네, 3층 회의실로 2시부터 잡아 놨어요.\n남자: 좋아. 자료 챙겨서 지금 바로 올라가자. 시작 전에 자리 잡자.",
     "options": [
-      "그림 2 (Employee eating lunch alone)",
-      "그림 3 (Manager firing employee)",
-      "그림 1 (Colleagues entering meeting room with files)",
-      "그림 4 (Office party dancing)"
+      "①",
+      "②",
+      "③",
+      "④"
     ],
-    "answer": 2,
-    "explanation": "Colleagues head to booked meeting room with materials."
+    "answer": 3,
+    "explanation": "자료를 들고 회의실로 가는 장면. 정답 ④.",
+    "images": [
+      "visual_match_008/img1",
+      "visual_match_008/img2",
+      "visual_match_008/img3",
+      "visual_match_008/img4"
+    ],
+    "image_specs": [
+      "FOIL: Employee eating lunch alone in a cafeteria",
+      "FOIL: One person alone at a photocopy machine",
+      "FOIL: Two colleagues chatting empty-handed at desks",
+      "CORRECT: Two colleagues with document folders entering a meeting room (3F sign optional)"
+    ],
+    "visual_kind": "picture"
   },
   {
     "id": "ai2l_visual_match_009",
@@ -169,15 +277,28 @@
     "source": "hanuri_ai",
     "level": "topik2",
     "question": "다음을 듣고 알맞은 그림 또는 그래프를 고르십시오.",
-    "transcript": "여자: 통장을 새로 개설하려고 왔는데요. 필요한 서류가 있을까요?\n남자: 신분증과 도장을 제출해 주시면 됩니다. 잠시만 기다리시면 창구에서 작성을 도와 드리겠습니다.\n여자: 네, 여기 신분증과 도장 있습니다. 당일 개설이 가능한가요?\n남자: 네, 심사 후 바로 발급해 드립니다.",
+    "transcript": "여자: 통장을 새로 개설하려고 왔는데요. 필요한 서류가 있을까요?\n남자: 신분증과 도장을 제출해 주시면 됩니다. 창구에서 작성 도와 드리겠습니다.\n여자: 네, 여기 신분증이랑 도장요. 오늘 바로 개설될까요?\n남자: 네, 심사 마치시면 당일 발급 가능합니다. 이쪽으로 작성해 주세요.",
     "options": [
-      "그림 2 (ATM withdrawal at night)",
-      "그림 3 (Online banking on phone)",
-      "그림 4 (Bank robbery scene)",
-      "그림 1 (Customer handing ID at bank counter)"
+      "①",
+      "②",
+      "③",
+      "④"
     ],
-    "answer": 3,
-    "explanation": "Customer submits ID to open account at counter."
+    "answer": 1,
+    "explanation": "창구에서 신분증·도장 제출하며 개설. 정답 ②.",
+    "images": [
+      "visual_match_009/img1",
+      "visual_match_009/img2",
+      "visual_match_009/img3",
+      "visual_match_009/img4"
+    ],
+    "image_specs": [
+      "FOIL: Person withdrawing cash alone at an ATM",
+      "CORRECT: Female customer handing ID and 도장 to male bank teller at counter",
+      "FOIL: Customer filling a form alone at a side desk, no teller",
+      "FOIL: Customer reading an investment brochure in the lobby"
+    ],
+    "visual_kind": "picture"
   },
   {
     "id": "ai2l_visual_match_010",
@@ -189,15 +310,28 @@
     "source": "hanuri_ai",
     "level": "topik2",
     "question": "다음을 듣고 알맞은 그림 또는 그래프를 고르십시오.",
-    "transcript": "남자: 체크인은 오후 2시부터인데, 지금 짐을 맡길 수 있을까요?\n여자: 네, 프런트에 맡기시면 짐 보관 서비스를 이용하실 수 있습니다. 보관증을 드리니 퇴실 전까지 찾아가시면 됩니다.\n남자: 감사합니다. 체크인 시간에 다시 오겠습니다.",
+    "transcript": "남자: 체크인은 오후 2시부터인데, 지금 짐을 먼저 맡길 수 있을까요?\n여자: 네, 프런트에서 짐 보관 가능합니다. 보관증 드릴 테니 체크인하실 때 찾아가세요.\n남자: 감사합니다. 짐만 맡기고 나중에 다시 오겠습니다.",
     "options": [
-      "그림 2 (Guest swimming in pool)",
-      "그림 3 (Tour bus departing)",
-      "그림 1 (Guest leaving luggage at hotel front desk)",
-      "그림 4 (Guest cooking in room)"
+      "①",
+      "②",
+      "③",
+      "④"
     ],
     "answer": 2,
-    "explanation": "Guest stores luggage at hotel before check-in time."
+    "explanation": "체크인 전 프런트 짐 보관. 정답 ③.",
+    "images": [
+      "visual_match_010/img1",
+      "visual_match_010/img2",
+      "visual_match_010/img3",
+      "visual_match_010/img4"
+    ],
+    "image_specs": [
+      "FOIL: Guest receiving a room key at check-in",
+      "FOIL: Guest sitting in lobby with luggage beside them (not handing over)",
+      "CORRECT: Guest leaving suitcase at front desk; clerk giving luggage claim tag",
+      "FOIL: Bellhop pushing luggage cart into an elevator"
+    ],
+    "visual_kind": "picture"
   },
   {
     "id": "ai2l_visual_match_011",
@@ -209,15 +343,28 @@
     "source": "hanuri_ai",
     "level": "topik2",
     "question": "다음을 듣고 알맞은 그림 또는 그래프를 고르십시오.",
-    "transcript": "여자: 이 전시는 몇 시까지 관람할 수 있나요? 오늘 처음 와 봤는데 작품이 많아서 시간이 걸릴 것 같아요.\n남자: 오후 6시까지입니다. 마감 한 시간 전부터는 입장이 제한될 수 있으니 여유 있게 둘러보시는 게 좋습니다.\n여자: 알겠습니다. 그럼 서두르는 게 좋겠네요. 안내 데스크에서 도록도 받고 2층 회화관부터 볼게요.",
+    "transcript": "여자: 이 전시는 몇 시까지 관람할 수 있나요? 작품이 많아서 시간이 좀 필요할 것 같아요.\n남자: 오후 6시까지입니다. 마감 한 시간 전부터는 입장이 제한될 수 있어요.\n여자: 알겠습니다. 안내 데스크에서 도록 하나 받고 2층 회화관부터 볼게요.\n남자: 네, 여기 도록입니다. 엘리베이터는 왼쪽에 있습니다.",
     "options": [
-      "그림 2 (Artist painting outdoors)",
-      "그림 1 (Visitors viewing paintings in gallery)",
-      "그림 3 (Museum closed with sign)",
-      "그림 4 (Ticket scalpers outside)"
+      "①",
+      "②",
+      "③",
+      "④"
     ],
-    "answer": 1,
-    "explanation": "Visitors inquire about hours at an exhibition."
+    "answer": 0,
+    "explanation": "안내 데스크에서 도록을 받는 장면. 정답 ①.",
+    "images": [
+      "visual_match_011/img1",
+      "visual_match_011/img2",
+      "visual_match_011/img3",
+      "visual_match_011/img4"
+    ],
+    "image_specs": [
+      "CORRECT: Visitor at museum info desk receiving exhibition catalog (도록); elevator/2F signage nearby",
+      "FOIL: Artist painting on an easel outdoors",
+      "FOIL: Closed museum door with 휴관 sign",
+      "FOIL: Outdoor ticket booth only (no catalog/info desk)"
+    ],
+    "visual_kind": "picture"
   },
   {
     "id": "ai2l_visual_match_012",
@@ -229,15 +376,30 @@
     "source": "hanuri_ai",
     "level": "topik2",
     "question": "다음을 듣고 알맞은 그림 또는 그래프를 고르십시오.",
-    "transcript": "남자: 올해 지역별 재활용 참여율을 보면, A구 62%, B구 58%, C구 71% 순입니다.\n여자: C구는 분리수거 교육 횟수를 두 배로 늘린 결과로 분석됩니다. 주민 참여율 차이가 뚜렷하게 나타났고, 내년에도 교육을 확대할 예정입니다.",
+    "transcript": "남자: 올해 지역별 재활용 참여와 교육 현황입니다. 참여율은 A구 62%, B구 58%, C구 71%로 C구가 가장 높았습니다. 분리수거 교육 횟수는 C구가 1위, A구가 2위, B구가 3위였으며, 참여율이 높은 구일수록 교육 횟수도 많은 경향을 보였습니다.",
     "options": [
-      "그래프 2 (A district highest)",
-      "그래프 3 (All districts equal)",
-      "그래프 4 (B district above 80%)",
-      "그래프 1 (C district highest at 71%)"
+      "①",
+      "②",
+      "③",
+      "④"
     ],
     "answer": 3,
-    "explanation": "District C leads recycling participation at 71%."
+    "explanation": "이중 그래프 Q3. 왼쪽 참여율(C71>A62>B58)과 오른쪽 교육 횟수 순위(C>A>B)가 모두 일치하고 ‘참여↑ ↔ 교육↑’ 관계도 맞는 ④만 정답. 참여율만 맞추고 교육 순위를 바꾼 함정 포함.",
+    "visual_kind": "graph",
+    "graph_layout": "dual_charts_per_option_2x2_sheet",
+    "image": "visual_match_012/panel",
+    "images": [
+      "visual_match_012/img1",
+      "visual_match_012/img2",
+      "visual_match_012/img3",
+      "visual_match_012/img4"
+    ],
+    "image_specs": [
+      "FOIL dual: LEFT rates OK (C71>A62>B58) | RIGHT education WRONG (A>C>B)",
+      "FOIL dual: LEFT rates WRONG (A highest) | RIGHT education OK (C>A>B)",
+      "FOIL dual: LEFT rates nearly equal | RIGHT education OK (C>A>B)",
+      "CORRECT dual: LEFT rates A62 / B58 / C71 (C highest) | RIGHT education sessions ranking C구 1위 > A구 2위 > B구 3위"
+    ]
   },
   {
     "id": "ai2l_dialogue_continuation_001",
@@ -248,16 +410,16 @@
     "model_q_num": 4,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
-    "transcript": "남자: 이번 주말에 부모님 댁에 갈 거야? 오랜만에 가족 다 모이지 않을까?\n여자: 응, 갈 생각이야. 너는?\n남자: ( )",
+    "question": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "transcript": "남자: 이번 주말에 부모님 댁에 가기로 했다며? 형제들도 오랜만에 다 모인다며?\n여자: 응, 갈 생각이야. 너는 이번 주말에 뭐 해?\n남자: ( )",
     "options": [
-      "나도 같이 가면 좋겠다.",
-      "부모님께 선물을 샀어?",
-      "고속도로가 막히지 않을까?",
-      "할머니께서 기다리고 계셔."
+      "나도 고향에 잠깐 내려가려고.",
+      "부모님께 무슨 선물 사 갈 거야?",
+      "고속도로가 많이 막히겠다.",
+      "그래, 조심히 잘 다녀와."
     ],
     "answer": 0,
-    "explanation": "Man asks about her plan; natural reply is wanting to go together."
+    "explanation": "Q4. 여자가 ‘너는 이번 주말에 뭐 해?’라고 물었으므로 남자는 자신의 주말 계획으로 답해야 한다. ①이 정답. ②는 다시 여자에게 질문, ③은 관련만 있는 추측, ④는 전송 인사로 질문에 대한 답이 아니다."
   },
   {
     "id": "ai2l_dialogue_continuation_002",
@@ -268,16 +430,16 @@
     "model_q_num": 4,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
-    "transcript": "여자: KTX 표를 예매하려는데 원하는 시간대 좌석이 없네.\n남자: 그럼 출발 시간을 한두 시간 바꿔 볼까?\n여자: ( )",
+    "question": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "transcript": "여자: KTX 표 예매하려는데 원하는 시간대는 벌써 매진이네.\n남자: 그러면 출발 시간을 앞뒤로 한두 시간쯤 옮겨 보는 게 어때?\n여자: ( )",
     "options": [
-      "일등석은 너무 비싸.",
-      "한 시간 뒤 열차는 어때?",
-      "역까지 버스 타고 갈게.",
-      "표 없으면 비행기 타자."
+      "일등석으로 바꾸면 자리가 있을까?",
+      "그래, 한 시간 늦은 열차부터 찾아보자.",
+      "역까지는 버스 타고 가면 돼.",
+      "표가 없으면 일정을 아예 취소하자."
     ],
     "answer": 1,
-    "explanation": "Woman should suggest trying a different departure time."
+    "explanation": "Q4. 남자가 ‘시간을 옮겨 보자’고 제안했으므로 여자는 그 제안에 호응하며 구체적 대안을 제시하는 ②가 자연스럽다. ①은 좌석 등급으로 화제를 돌리고, ③·④는 표 시간 문제를 해결하지 않는다."
   },
   {
     "id": "ai2l_dialogue_continuation_003",
@@ -288,16 +450,16 @@
     "model_q_num": 5,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
-    "transcript": "여자: 이번 학기 성적이 나왔대. 수강 신청 전에 확인해 봐야겠어.\n남자: 수미 씨 성적은 어때?\n여자: ( )",
+    "question": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "transcript": "여자: 이번 학기 성적이 나왔대. 수강 신청하기 전에 점수부터 확인해 봐야겠어.\n남자: 너는 확인했어? 어때?\n여자: ( )",
     "options": [
-      "교수님께 물어봐.",
-      "아직 확인 안 해 봤어.",
-      "시험이 너무 쉬웠어.",
-      "내년에 졸업할 거야."
+      "시험이 생각보다 쉬웠어.",
+      "아직 안 들어가 봤어. 지금 같이 확인하자.",
+      "수강 신청 기간이 언제지?",
+      "교수님이 이번에도 늦게 채점하실 거래."
     ],
     "answer": 1,
-    "explanation": "Natural response: hasn't checked yet."
+    "explanation": "Q5. ‘확인했느냐/어떠냐’에 대한 응답이 필요하다. ②는 미확인 상태를 밝히고 바로 이어서 행동으로 연결된다. ①은 시험 난이도, ③은 수강 신청 일정, ④는 교수 이야기로 직접 답이 아니다. (기존 ‘수미 씨 성적은 어때?’처럼 상대를 3인칭으로 부르는 비문은 제거.)"
   },
   {
     "id": "ai2l_dialogue_continuation_004",
@@ -308,16 +470,16 @@
     "model_q_num": 5,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
-    "transcript": "남자: 어제 본 연극 정말 감동적이었어. 마지막 장면이 특히 기억에 남아.\n여자: 나도 봤는데, 마지막 장면이 정말 인상적이더라.\n남자: ( )",
+    "question": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "transcript": "남자: 어제 본 연극, 마지막 장면 때문에 여운이 오래가더라.\n여자: 맞아. 그 장면에서 배우 연기가 특히 좋았어.\n남자: ( )",
     "options": [
-      "표 값이 비싸긴 했지.",
-      "다음엔 영화 보러 가자.",
-      "나는 중간에 졸았어.",
-      "맞아, 배우들 연기가 훌륭했어."
+      "중간에 나갔어야 했는데.",
+      "다음엔 다른 장르 보자.",
+      "그래, 연출도 자연스럽고 대사 전달도 확실했어.",
+      "나는 결말이 좀 아쉬웠어."
     ],
-    "answer": 3,
-    "explanation": "Agrees and adds praise for acting."
+    "answer": 2,
+    "explanation": "Q5. 둘 다 긍정 평가를 나눈 뒤이므로 남자는 동의·부연(연출·대사)인 ③이 가장 자연스럽다. ①·④는 앞선 발화와 충돌하고, ②는 갑작스러운 화제 전환이다."
   },
   {
     "id": "ai2l_dialogue_continuation_005",
@@ -328,16 +490,16 @@
     "model_q_num": 6,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
-    "transcript": "여자: 팀장님, 보고서 초안 검토 부탁드립니다. 그래프 자료도 넣었습니다.\n남자: 네, 그런데 그래프 설명이 조금 부족한 것 같아요.\n여자: ( )",
+    "question": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "transcript": "여자: 팀장님, 보고서 초안 올렸습니다. 그래프도 넣었습니다.\n남자: 내용은 괜찮은데, 그래프마다 해석이 한두 문장씩 부족해요. 숫자만 보면 이해하기 어렵겠네요.\n여자: ( )",
     "options": [
-      "마감은 내일까지입니다.",
-      "다른 팀 자료를 참고했어요.",
-      "출장 가야 해서 못 합니다.",
-      "그럼 그 부분을 보완하겠습니다."
+      "마감이 내일이라 더 이상은 수정이 어렵습니다.",
+      "다른 팀 자료를 참고해서 넣은 거라서요.",
+      "알겠습니다. 각 그래프 아래에 짧은 설명 보강해서 다시 올리겠습니다.",
+      "그럼 그래프는 전부 빼고 올릴까요?"
     ],
-    "answer": 3,
-    "explanation": "Manager notes insufficient graphs; subordinate offers to fix."
+    "answer": 2,
+    "explanation": "Q6. 상사 피드백(해석 보강)에 대해 수용·실행 의사를 밝히는 ③이 정답. ①은 거절, ②는 변명, ④는 잘못된 해결(제거)이다."
   },
   {
     "id": "ai2l_dialogue_continuation_006",
@@ -348,16 +510,16 @@
     "model_q_num": 6,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
-    "transcript": "남자: 이 근처에 맛있는 분식집 있다며? 학생들 사이에서 유명하다던데.\n여자: 응, 학교 뒤편에 있는데 떡볶이가 특히 유명해.\n남자: ( )",
+    "question": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "transcript": "남자: 학교 뒤에 분식집이 새로 생겼다면서? 떡볶이가 맛있대.\n여자: 응, 어제 가 봤는데 양도 많고 값도 괜찮더라.\n남자: ( )",
     "options": [
-      "나는 매운 음식을 못 먹어.",
-      "집에서 만들어 먹을게.",
-      "어제 거기 갔다 왔어.",
-      "그럼 점심에 같이 가 볼까?"
+      "그럼 오늘 점심에 같이 가 보자.",
+      "나는 어제 거기 갔다 왔어.",
+      "집에서 떡볶이 해 먹을래.",
+      "거기는 주말에만 연다며?"
     ],
-    "answer": 3,
-    "explanation": "Natural suggestion to go together for lunch."
+    "answer": 0,
+    "explanation": "Q6. 추천·확인이 끝난 뒤 자연스러운 이어짐은 함께 가자는 제안(①). ②는 방금 ‘생겼다며?’라고 물은 남자의 말과 모순되고, ③은 거절, ④는 근거 없는 정보 삽입이다."
   },
   {
     "id": "ai2l_dialogue_continuation_007",
@@ -368,16 +530,16 @@
     "model_q_num": 7,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
-    "transcript": "여자: 이 코트가 세일하네요. 제 사이즈도 있을까요?\n남자: M 사이즈는 없고 L만 남았대.\n여자: ( )",
+    "question": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "transcript": "여자: 이 코트가 세일하네요. 제가 입는 사이즈 있을까요?\n남자: 직원분께 여쭤보니 M은 다 나갔고 L만 남았대요.\n여자: ( )",
     "options": [
-      "다른 색은 없어?",
-      "카드로 결제할게.",
-      "L은 좀 클 것 같은데 입어 봐도 될까?",
-      "환불 규정이 어떻게 돼?"
+      "그럼 L로 바로 결제할게요.",
+      "L은 클 수도 있으니 일단 한 번 입어 봐도 될까요?",
+      "다른 색상도 세일인가요?",
+      "환불은 무조건 가능한가요?"
     ],
-    "answer": 2,
-    "explanation": "She asks to try on L since M is unavailable."
+    "answer": 1,
+    "explanation": "Q7. 원하는 사이즈가 없고 L만 남은 상황이므로 착용 확인 후 결정하는 ②가 가장 적절하다. ①은 미확인 구매, ③·④는 사이즈 문제를 해결하지 않는 곁가지 질문이다."
   },
   {
     "id": "ai2l_dialogue_continuation_008",
@@ -388,16 +550,16 @@
     "model_q_num": 7,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
-    "transcript": "남자: 요즘 헬스장 꾸준히 다니니? 건강 관리 열심히 하네.\n여자: 응, 일주일에 세 번 정도 가.\n남자: ( )",
+    "question": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "transcript": "남자: 요즘 헬스장 일주일에 몇 번 정도 가?\n여자: 세 번 정도. 퇴근하고 바로 가서 한 시간씩 해.\n남자: ( )",
     "options": [
-      "나도 등록할까 생각 중이야.",
-      "운동은 시간 낭비야.",
-      "병원에 가 봐.",
-      "살이 많이 빠졌네."
+      "요즘 많이 피곤해 보여.",
+      "나도 등록할까 하는데, 초보 코스부터 하는 게 나을까?",
+      "헬스장 회비가 얼마인지는 이미 알고 있지?",
+      "그래도 병원에 한 번 가 보는 게 좋겠어."
     ],
-    "answer": 0,
-    "explanation": "Natural follow-up about also considering joining."
+    "answer": 1,
+    "explanation": "Q7. 상대의 운동 습관을 들은 뒤 자신의 등록 의와 조언을 구하는 ②가 담화상 자연스럽다. ①·④는 건강 염려로 프레임이 어긋나고, ③은 상대가 알 리 없는 정보를 당연시한다."
   },
   {
     "id": "ai2l_dialogue_continuation_009",
@@ -408,16 +570,16 @@
     "model_q_num": 8,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
-    "transcript": "여자: 제주도 여행 계획은 세웠어? 숙소랑 일정은 정했니?\n남자: 숙소는 예약했는데 렌터카는 아직이야.\n여자: ( )",
+    "question": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "transcript": "여자: 제주도 일정은 어느 정도 짰어? 숙소랑 이동은?\n남자: 숙소는 예약했는데, 렌터카는 아직이야. 성수기라 차가 잘 없대.\n여자: ( )",
     "options": [
-      "비행기표는 샀니?",
-      "내가 아는 업체 소개해 줄게.",
-      "거기 날씨가 흐려.",
-      "혼자 가는 거야?"
+      "비행기 표는 벌써 샀지?",
+      "내가 작년에 쓴 업체 있는데, 거기 한번 알아봐 줄까?",
+      "제주도는 버스만으로도 충분해.",
+      "숙소를 취소하고 일정을 미루자."
     ],
     "answer": 1,
-    "explanation": "Offers to introduce a rental car company."
+    "explanation": "Q8. 미해결 과제(렌터카)를 돕는 제안인 ②가 정답. ①은 이미 지나간 항목으로 회귀, ③은 남자의 필요를 무시, ④는 과도한 대안이다."
   },
   {
     "id": "ai2l_dialogue_continuation_010",
@@ -428,16 +590,16 @@
     "model_q_num": 8,
     "source": "hanuri_ai",
     "level": "topik2",
-    "question": "다음 대화를 잘 듣고 이어질 수 있는 말을 고르십시오.",
-    "transcript": "남자: 이번 주말 등산 갈래? 날씨도 좋을 것 같아.\n여자: 좋아. 그런데 준비물은 뭐가 필요해?\n남자: ( )",
+    "question": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+    "transcript": "남자: 이번 주말 북한산 등산 어때? 날씨도 맑다는데.\n여자: 좋지. 그런데 내가 등산화가 없어서. 빌려 신을 수 있어?\n남자: ( )",
     "options": [
-      "등산화랑 물만 챙기면 돼.",
-      "등산은 위험해서 싫어.",
-      "비 온다던데.",
-      "버스 타고 가자."
+      "등산화랑 물만 있으면 돼.",
+      "내 여분 하나 있으니까 그걸 빌려줄게. 물만 챙기면 돼.",
+      "비 온다던데 취소하자.",
+      "버스 시간부터 알아보자."
     ],
-    "answer": 0,
-    "explanation": "Answers what to bring for hiking."
+    "answer": 1,
+    "explanation": "Q8. 여자의 핵심 질문은 ‘빌려 신을 수 있느냐’이다. ②가 그 질문에 직접 답한다. ①은 준비물 일반론으로 빗나가고, ③은 맑다는 전제와 충돌, ④는 신발 문제를 방치한다."
   },
   {
     "id": "ai2l_next_action_001",

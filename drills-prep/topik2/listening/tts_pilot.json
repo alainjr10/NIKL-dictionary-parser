@@ -5,15 +5,15 @@
     "filename": "ai2l_visual_match_001.mp3",
     "shared_with": [],
     "delivery": "short_everyday_dialogue",
-    "script": "여자: 무엇을 도와 드릴까요?\n남자: 이 우산, 길에서 주웠어요. 주인을 찾아 주세요.\n여자: 네, 분실물 센터에 맡겨 주시면 접수해 드리겠습니다."
+    "script": "여자: 무엇을 도와 드릴까요?\n남자: 이 우산, 길에서 주웠어요. 분실물로 신고하고 싶은데요.\n여자: 네, 여기 분실물 센터입니다. 우산 맡기시면 접수해 드리겠습니다."
   },
   {
     "id": "ai2l_visual_match_003",
     "audio_group_id": "ag_099cbcbe8f77",
     "filename": "ai2l_visual_match_003.mp3",
     "shared_with": [],
-    "delivery": "short_everyday_dialogue",
-    "script": "여자: 버스 정류장에 사람이 많네요.\n남자: 7호선 이용률 조사 결과, 오전 8시 45%, 오후 6시 40%, 그 외 15%였습니다."
+    "delivery": "graph_report_monologue",
+    "script": "남자: 지난달 지하철 7호선 이용 현황 조사 결과입니다. 시간대별 이용률은 오전 8시가 45%로 가장 높고, 오후 6시가 40%, 그 외 시간대가 15%였습니다. 이용 목적별로는 출근이 1위, 통학이 2위, 여가 및 기타가 3위로 나타났습니다."
   },
   {
     "id": "ai2l_dialogue_continuation_001",
@@ -21,7 +21,7 @@
     "filename": "ai2l_dialogue_continuation_001.mp3",
     "shared_with": [],
     "delivery": "casual_short_dialogue",
-    "script": "남자: 이번 주말에 부모님 댁에 갈 거야? 오랜만에 가족 다 모이지 않을까?\n여자: 응, 갈 생각이야. 너는?"
+    "script": "남자: 이번 주말에 부모님 댁에 가기로 했다며? 형제들도 오랜만에 다 모인다며?\n여자: 응, 갈 생각이야. 너는 이번 주말에 뭐 해?"
   },
   {
     "id": "ai2l_next_action_001",

@@ -2,5 +2,5 @@
 # skill=dialogue_continuation model_q=8 group=ag_4188c8d26d7a
 # NOTE: Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end.
 
-남자: 이번 주말 등산 갈래? 날씨도 좋을 것 같아.
-여자: 좋아. 그런데 준비물은 뭐가 필요해?
+남자: 이번 주말 북한산 등산 어때? 날씨도 맑다는데.
+여자: 좋지. 그런데 내가 등산화가 없어서. 빌려 신을 수 있어?
