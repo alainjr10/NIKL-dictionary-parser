@@ -1,0 +1,749 @@
+{
+  "version": 1,
+  "bucket_hint": "foundations-audio",
+  "provider": "openai",
+  "voice": "nova",
+  "model": "gpt-4o-mini-tts",
+  "items": [
+    {
+      "id": "FD_001",
+      "text": "가",
+      "kind": "syllable",
+      "file": "audio/FD_001.mp3",
+      "unit_hints": [
+        "consonants_plain",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_002",
+      "text": "각",
+      "kind": "syllable",
+      "file": "audio/FD_002.mp3",
+      "unit_hints": [
+        "consonants_batchim",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_003",
+      "text": "간",
+      "kind": "syllable",
+      "file": "audio/FD_003.mp3",
+      "unit_hints": [
+        "consonants_batchim",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_004",
+      "text": "갈",
+      "kind": "syllable",
+      "file": "audio/FD_004.mp3",
+      "unit_hints": [
+        "consonants_batchim",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_005",
+      "text": "감",
+      "kind": "syllable",
+      "file": "audio/FD_005.mp3",
+      "unit_hints": [
+        "consonants_batchim",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_006",
+      "text": "갑",
+      "kind": "syllable",
+      "file": "audio/FD_006.mp3",
+      "unit_hints": [
+        "consonants_batchim",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_007",
+      "text": "강",
+      "kind": "syllable",
+      "file": "audio/FD_007.mp3",
+      "unit_hints": [
+        "consonants_batchim",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_008",
+      "text": "나",
+      "kind": "syllable",
+      "file": "audio/FD_008.mp3",
+      "unit_hints": [
+        "consonants_plain",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_009",
+      "text": "네",
+      "kind": "syllable",
+      "file": "audio/FD_009.mp3",
+      "unit_hints": [
+        "consonants_plain",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_010",
+      "text": "다",
+      "kind": "syllable",
+      "file": "audio/FD_010.mp3",
+      "unit_hints": [
+        "consonants_plain",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_011",
+      "text": "라",
+      "kind": "syllable",
+      "file": "audio/FD_011.mp3",
+      "unit_hints": [
+        "consonants_plain",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_012",
+      "text": "마",
+      "kind": "syllable",
+      "file": "audio/FD_012.mp3",
+      "unit_hints": [
+        "consonants_plain",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_013",
+      "text": "물",
+      "kind": "syllable",
+      "file": "audio/FD_013.mp3",
+      "unit_hints": [
+        "consonants_batchim",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_014",
+      "text": "바",
+      "kind": "syllable",
+      "file": "audio/FD_014.mp3",
+      "unit_hints": [
+        "consonants_plain",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_015",
+      "text": "밥",
+      "kind": "syllable",
+      "file": "audio/FD_015.mp3",
+      "unit_hints": [
+        "consonants_batchim",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_016",
+      "text": "사",
+      "kind": "syllable",
+      "file": "audio/FD_016.mp3",
+      "unit_hints": [
+        "consonants_plain",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_017",
+      "text": "아",
+      "kind": "syllable",
+      "file": "audio/FD_017.mp3",
+      "unit_hints": [
+        "vowels_basic",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_018",
+      "text": "애",
+      "kind": "syllable",
+      "file": "audio/FD_018.mp3",
+      "unit_hints": [
+        "vowels_basic",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_019",
+      "text": "야",
+      "kind": "syllable",
+      "file": "audio/FD_019.mp3",
+      "unit_hints": [
+        "vowels_basic",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_020",
+      "text": "얘",
+      "kind": "syllable",
+      "file": "audio/FD_020.mp3",
+      "unit_hints": [
+        "vowels_basic",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_021",
+      "text": "어",
+      "kind": "syllable",
+      "file": "audio/FD_021.mp3",
+      "unit_hints": [
+        "vowels_basic",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_022",
+      "text": "에",
+      "kind": "syllable",
+      "file": "audio/FD_022.mp3",
+      "unit_hints": [
+        "vowels_basic",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_023",
+      "text": "여",
+      "kind": "syllable",
+      "file": "audio/FD_023.mp3",
+      "unit_hints": [
+        "vowels_basic",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_024",
+      "text": "예",
+      "kind": "syllable",
+      "file": "audio/FD_024.mp3",
+      "unit_hints": [
+        "vowels_basic",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_025",
+      "text": "오",
+      "kind": "syllable",
+      "file": "audio/FD_025.mp3",
+      "unit_hints": [
+        "vowels_basic",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_026",
+      "text": "와",
+      "kind": "syllable",
+      "file": "audio/FD_026.mp3",
+      "unit_hints": [
+        "vowels_complex",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_027",
+      "text": "왜",
+      "kind": "syllable",
+      "file": "audio/FD_027.mp3",
+      "unit_hints": [
+        "vowels_complex",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_028",
+      "text": "외",
+      "kind": "syllable",
+      "file": "audio/FD_028.mp3",
+      "unit_hints": [
+        "vowels_complex",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_029",
+      "text": "요",
+      "kind": "syllable",
+      "file": "audio/FD_029.mp3",
+      "unit_hints": [
+        "vowels_basic",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_030",
+      "text": "우",
+      "kind": "syllable",
+      "file": "audio/FD_030.mp3",
+      "unit_hints": [
+        "vowels_basic",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_031",
+      "text": "워",
+      "kind": "syllable",
+      "file": "audio/FD_031.mp3",
+      "unit_hints": [
+        "vowels_complex",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_032",
+      "text": "웨",
+      "kind": "syllable",
+      "file": "audio/FD_032.mp3",
+      "unit_hints": [
+        "vowels_complex",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_033",
+      "text": "위",
+      "kind": "syllable",
+      "file": "audio/FD_033.mp3",
+      "unit_hints": [
+        "vowels_complex",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_034",
+      "text": "유",
+      "kind": "syllable",
+      "file": "audio/FD_034.mp3",
+      "unit_hints": [
+        "vowels_basic",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_035",
+      "text": "으",
+      "kind": "syllable",
+      "file": "audio/FD_035.mp3",
+      "unit_hints": [
+        "vowels_basic",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_036",
+      "text": "의",
+      "kind": "syllable",
+      "file": "audio/FD_036.mp3",
+      "unit_hints": [
+        "vowels_complex",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_037",
+      "text": "이",
+      "kind": "syllable",
+      "file": "audio/FD_037.mp3",
+      "unit_hints": [
+        "vowels_basic",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_038",
+      "text": "자",
+      "kind": "syllable",
+      "file": "audio/FD_038.mp3",
+      "unit_hints": [
+        "consonants_plain",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_039",
+      "text": "차",
+      "kind": "syllable",
+      "file": "audio/FD_039.mp3",
+      "unit_hints": [
+        "consonants_aspirated",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_040",
+      "text": "카",
+      "kind": "syllable",
+      "file": "audio/FD_040.mp3",
+      "unit_hints": [
+        "consonants_aspirated",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_041",
+      "text": "타",
+      "kind": "syllable",
+      "file": "audio/FD_041.mp3",
+      "unit_hints": [
+        "consonants_aspirated",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_042",
+      "text": "파",
+      "kind": "syllable",
+      "file": "audio/FD_042.mp3",
+      "unit_hints": [
+        "consonants_aspirated",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_043",
+      "text": "하",
+      "kind": "syllable",
+      "file": "audio/FD_043.mp3",
+      "unit_hints": [
+        "consonants_plain",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_044",
+      "text": "가방",
+      "kind": "syllable",
+      "file": "audio/FD_044.mp3",
+      "unit_hints": [
+        "words",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_045",
+      "text": "사람",
+      "kind": "syllable",
+      "file": "audio/FD_045.mp3",
+      "unit_hints": [
+        "words",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_046",
+      "text": "사랑",
+      "kind": "syllable",
+      "file": "audio/FD_046.mp3",
+      "unit_hints": [
+        "words",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_047",
+      "text": "안녕",
+      "kind": "syllable",
+      "file": "audio/FD_047.mp3",
+      "unit_hints": [
+        "words",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_048",
+      "text": "친구",
+      "kind": "syllable",
+      "file": "audio/FD_048.mp3",
+      "unit_hints": [
+        "words",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_049",
+      "text": "커피",
+      "kind": "syllable",
+      "file": "audio/FD_049.mp3",
+      "unit_hints": [
+        "words",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_050",
+      "text": "학교",
+      "kind": "syllable",
+      "file": "audio/FD_050.mp3",
+      "unit_hints": [
+        "words",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_051",
+      "text": "한국",
+      "kind": "syllable",
+      "file": "audio/FD_051.mp3",
+      "unit_hints": [
+        "words",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_052",
+      "text": "아니요",
+      "kind": "phrase",
+      "file": "audio/FD_052.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_053",
+      "text": "여기요",
+      "kind": "phrase",
+      "file": "audio/FD_053.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_054",
+      "text": "저기요",
+      "kind": "phrase",
+      "file": "audio/FD_054.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_055",
+      "text": "맛있어요",
+      "kind": "phrase",
+      "file": "audio/FD_055.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_056",
+      "text": "잠시만요",
+      "kind": "phrase",
+      "file": "audio/FD_056.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_057",
+      "text": "감사합니다",
+      "kind": "phrase",
+      "file": "audio/FD_057.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_058",
+      "text": "도와주세요",
+      "kind": "phrase",
+      "file": "audio/FD_058.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_059",
+      "text": "물 주세요",
+      "kind": "phrase",
+      "file": "audio/FD_059.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_060",
+      "text": "안녕하세요",
+      "kind": "phrase",
+      "file": "audio/FD_060.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_061",
+      "text": "얼마예요?",
+      "kind": "phrase",
+      "file": "audio/FD_061.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_062",
+      "text": "죄송합니다",
+      "kind": "phrase",
+      "file": "audio/FD_062.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_063",
+      "text": "계산해 주세요",
+      "kind": "phrase",
+      "file": "audio/FD_063.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_064",
+      "text": "영어 하세요?",
+      "kind": "phrase",
+      "file": "audio/FD_064.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_065",
+      "text": "이걸로 주세요",
+      "kind": "phrase",
+      "file": "audio/FD_065.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_066",
+      "text": "포장해 주세요",
+      "kind": "phrase",
+      "file": "audio/FD_066.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_067",
+      "text": "이쪽으로 가세요",
+      "kind": "phrase",
+      "file": "audio/FD_067.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_068",
+      "text": "만나서 반갑습니다",
+      "kind": "phrase",
+      "file": "audio/FD_068.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_069",
+      "text": "얼마 안 남았어요",
+      "kind": "phrase",
+      "file": "audio/FD_069.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_070",
+      "text": "화장실 어디예요?",
+      "kind": "phrase",
+      "file": "audio/FD_070.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_071",
+      "text": "지하철역 어디예요?",
+      "kind": "phrase",
+      "file": "audio/FD_071.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_072",
+      "text": "천천히 말해 주세요",
+      "kind": "phrase",
+      "file": "audio/FD_072.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_073",
+      "text": "휴대폰 충전해도 돼요?",
+      "kind": "phrase",
+      "file": "audio/FD_073.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    },
+    {
+      "id": "FD_074",
+      "text": "다시 한 번 말해 주세요",
+      "kind": "phrase",
+      "file": "audio/FD_074.mp3",
+      "unit_hints": [
+        "day_one",
+        "quiz"
+      ]
+    }
+  ]
+}
