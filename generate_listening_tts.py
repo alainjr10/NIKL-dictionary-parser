@@ -84,12 +84,35 @@ VOICE LOCK
 - Numbers clearly in Korean (45% → 사십오 퍼센트).
 """
 
-LINE_STYLE = (
-    "Speak as a TOPIK II Korean listening-exam voice. Seoul standard Korean, "
-    "calm, clear, neutral, exam-studio quality. Natural conversational pace, "
-    "slightly clear. No English, no drama, no music, no extra words. "
-    "Recite the text exactly. Do not say the speaker name."
-)
+# OpenAI speech `instructions` — keep detailed; this strongly shapes Korean TOPIK timbre.
+OPENAI_LINE_STYLE = {
+    "Man": (
+        "You are a native Korean man (~30–35) recording official TOPIK II "
+        "(한국어능력시험) Listening exam audio for NIIED. "
+        "Speak Seoul standard Korean (표준어) only — natural native pronunciation, "
+        "rhythm, and intonation like real TOPIK dialogue recordings. "
+        "Calm, clear, mid-to-low pitch, informative and neutral. "
+        "Exam-studio quality: slightly clear enunciation, natural conversational "
+        "pace (not rushed, not a slow lecture), mild politeness only. "
+        "Not a radio DJ, YouTuber, cartoon, or English-accented AI assistant. "
+        "No drama, whisper, laugh, music, or SFX. "
+        "Read the Korean text exactly; add or omit nothing. Do not say speaker labels."
+    ),
+    "Woman": (
+        "You are a native Korean woman (~30–35) recording official TOPIK II "
+        "(한국어능력시험) Listening exam audio for NIIED. "
+        "Speak Seoul standard Korean (표준어) only — natural native pronunciation, "
+        "rhythm, and intonation like real TOPIK dialogue recordings. "
+        "Calm, clear, mid pitch, firm and neutral. "
+        "Exam-studio quality: slightly clear enunciation, natural conversational "
+        "pace (not rushed, not a slow lecture), mild politeness only. "
+        "Not ASMR, cute, bright customer-service AI, or English-accented. "
+        "No drama, whisper, laugh, music, or SFX. "
+        "Read the Korean text exactly; add or omit nothing. Do not say speaker labels."
+    ),
+}
+# 1.0 = slightly brisker than many official TOPIK takes (good practice load).
+OPENAI_SPEECH_SPEED = 1.0
 
 
 def load_env() -> None:
@@ -188,6 +211,57 @@ def write_wav_rate(path: Path, pcm: bytes, rate: int = SAMPLE_RATE) -> None:
         wf.setsampwidth(SAMPLE_WIDTH)
         wf.setframerate(rate)
         wf.writeframes(pcm)
+
+
+def link_shared_audio_json(canonical_id: str, peer_ids: list[str]) -> None:
+    """Point peer question rows at the canonical MP3 (no duplicate files).
+
+    Updates filename on peers in tts_*.json / tts_scripts.json, keeps
+    shared_groups.canonical_filename, and sets pool.json ``audio`` to the
+    canonical basename for every id in the group.
+    """
+    canonical_file = f"{canonical_id}.mp3"
+    group_ids = [canonical_id, *peer_ids]
+
+    prep = ROOT / "drills-prep/topik2/listening"
+
+    for name in ("tts_batch.json", "tts_batch_unique.json", "tts_pilot.json"):
+        path = prep / name
+        if not path.exists():
+            continue
+        data = json.loads(path.read_text(encoding="utf-8"))
+        rows = data if isinstance(data, list) else data.get("items", [])
+        if not isinstance(rows, list):
+            continue
+        for row in rows:
+            rid = row.get("id")
+            if rid in group_ids and "filename" in row:
+                row["filename"] = canonical_file
+        path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+    scripts_path = prep / "tts_scripts.json"
+    if scripts_path.exists():
+        data = json.loads(scripts_path.read_text(encoding="utf-8"))
+        for item in data.get("items", []):
+            if item.get("id") in group_ids and "filename" in item:
+                item["filename"] = canonical_file
+        for g in data.get("shared_groups", []):
+            qids = set(g.get("question_ids") or [])
+            if canonical_id in qids or qids & set(group_ids):
+                g["canonical_filename"] = canonical_file
+        scripts_path.write_text(
+            json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+        )
+
+    pool_path = prep / "pool.json"
+    if pool_path.exists():
+        pool = json.loads(pool_path.read_text(encoding="utf-8"))
+        for row in pool:
+            if row.get("id") in group_ids:
+                row["audio"] = canonical_file
+        pool_path.write_text(
+            json.dumps(pool, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+        )
 
 
 def synthesize_gemini_line(
@@ -296,8 +370,9 @@ def synthesize_openai(
             model=model,
             voice=voice,
             input=text,
-            instructions=LINE_STYLE,
+            instructions=OPENAI_LINE_STYLE[speaker],
             response_format="wav",
+            speed=OPENAI_SPEECH_SPEED,
         )
         if hasattr(response, "read"):
             wav_bytes = response.read()
@@ -559,13 +634,10 @@ def main() -> None:
                 extra = f" {mp3.name} (from existing wav)"
                 if not args.keep_wav:
                     wav_path.unlink(missing_ok=True)
-                for peer in item.get("shared_with") or []:
-                    peer_wav, peer_mp3 = output_paths(out_dir, peer)
-                    if args.force or not peer_mp3.exists():
-                        shutil.copy2(mp3_path, peer_mp3)
-                        if args.keep_wav and wav_path.exists():
-                            shutil.copy2(wav_path, peer_wav)
-                        extra += f" alias→{peer}"
+                peers = item.get("shared_with") or []
+                if peers:
+                    link_shared_audio_json(item_id, peers)
+                    extra += f" links→{','.join(peers)}"
                 print(f"  wrote{extra}")
                 ok += 1
                 if args.sleep > 0 and i < len(items):
@@ -598,19 +670,11 @@ def main() -> None:
                 extra = f" {mp3.name}"
                 if not args.keep_wav:
                     wav_path.unlink(missing_ok=True)
-            for peer in item.get("shared_with") or []:
-                peer_wav, peer_mp3 = output_paths(out_dir, peer)
-                if args.mp3:
-                    src = mp3_path
-                    dst = peer_mp3
-                else:
-                    src = wav_path
-                    dst = peer_wav
-                if args.force or not dst.exists():
-                    shutil.copy2(src, dst)
-                    if args.mp3 and args.keep_wav and wav_path.exists():
-                        shutil.copy2(wav_path, peer_wav)
-                    extra += f" alias→{peer}"
+            # One file per audio group — peers link via JSON (no duplicate copies).
+            peers = item.get("shared_with") or []
+            if peers:
+                link_shared_audio_json(item_id, peers)
+                extra += f" links→{','.join(peers)}"
             print(f"  wrote{extra}")
             ok += 1
         except Exception as exc:  # noqa: BLE001 — surface per-item failures
