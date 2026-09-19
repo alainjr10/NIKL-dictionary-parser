@@ -42,10 +42,8 @@ OUTPUT
 
 TTS the following TOPIK II listening conversation between 남자 and 여자.
 Follow the ROLE and PERFORMANCE RULES exactly.
-File id: ai2l_next_action_001
-Delivery target: casual_short_dialogue
 
-남자: 이 가방 디자인이 참 독특하네. 실용적이기도 하고.
-여자: 그렇지? 마음에 들면 하나 살까?
-남자: 검은색이 더 실용적일 것 같아.
-여자: 그럼 검은색 가격을 확인해 볼게. 할인도 있는지 물어볼게.
+남자: 이 가방 디자인이 독특하네. 색깔은 검은색이 더 낫지 않을까?
+여자: 응, 검은색이 마음에 들어. 얼마인지 한번 알아보자.
+남자: 저쪽에 직원이 있어.
+여자: 그럼 내가 가서 가격이랑 할인 되는지 물어볼게.

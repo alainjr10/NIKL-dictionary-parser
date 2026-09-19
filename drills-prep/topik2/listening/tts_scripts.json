@@ -471,7 +471,7 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 4,
       "content_category_id": "daily_life",
-      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+      "question_stem": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_9d18562c585e",
       "filename": "ai2l_dialogue_continuation_001.mp3",
       "shared_with": [],
@@ -496,7 +496,7 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 4,
       "content_category_id": "transport",
-      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+      "question_stem": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_08f9ea9bb0fc",
       "filename": "ai2l_dialogue_continuation_002.mp3",
       "shared_with": [],
@@ -521,7 +521,7 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 5,
       "content_category_id": "school",
-      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+      "question_stem": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_639caa4835aa",
       "filename": "ai2l_dialogue_continuation_003.mp3",
       "shared_with": [],
@@ -546,7 +546,7 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 5,
       "content_category_id": "culture",
-      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+      "question_stem": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_7f5216db101e",
       "filename": "ai2l_dialogue_continuation_004.mp3",
       "shared_with": [],
@@ -571,7 +571,7 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 6,
       "content_category_id": "work",
-      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+      "question_stem": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_5098f3d3b95d",
       "filename": "ai2l_dialogue_continuation_005.mp3",
       "shared_with": [],
@@ -596,21 +596,21 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 6,
       "content_category_id": "food_dining",
-      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+      "question_stem": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_7a42cf1a0402",
       "filename": "ai2l_dialogue_continuation_006.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "남자",
-          "text": "학교 뒤에 분식집이 새로 생겼다면서? 떡볶이가 맛있대."
+          "text": "학교 뒤에 분식집이 새로 생겼다면서? 점심때 줄이 길다던데."
         },
         {
           "speaker": "여자",
-          "text": "응, 어제 가 봤는데 양도 많고 값도 괜찮더라."
+          "text": "응, 낮에는 좀 기다려야 해. 그래도 맛은 괜찮더라."
         }
       ],
-      "tts_script": "남자: 학교 뒤에 분식집이 새로 생겼다면서? 떡볶이가 맛있대.\n여자: 응, 어제 가 봤는데 양도 많고 값도 괜찮더라.",
+      "tts_script": "남자: 학교 뒤에 분식집이 새로 생겼다면서? 점심때 줄이 길다던데.\n여자: 응, 낮에는 좀 기다려야 해. 그래도 맛은 괜찮더라.",
       "delivery": "casual_short_dialogue",
       "notes": [
         "Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end."
@@ -621,7 +621,7 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 7,
       "content_category_id": "shopping",
-      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+      "question_stem": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_eef1c5019c1a",
       "filename": "ai2l_dialogue_continuation_007.mp3",
       "shared_with": [],
@@ -646,7 +646,7 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 7,
       "content_category_id": "health",
-      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+      "question_stem": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_f092e779ea35",
       "filename": "ai2l_dialogue_continuation_008.mp3",
       "shared_with": [],
@@ -671,7 +671,7 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 8,
       "content_category_id": "travel",
-      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+      "question_stem": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_96247a30c1e5",
       "filename": "ai2l_dialogue_continuation_009.mp3",
       "shared_with": [],
@@ -696,7 +696,7 @@
       "skill_type_id": "dialogue_continuation",
       "model_q_num": 8,
       "content_category_id": "leisure",
-      "question_stem": "다음을 듣고 이어질 수 있는 말로 가장 알맞은 것을 고르십시오.",
+      "question_stem": "다음 이어서 올 수 있는 말로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_4188c8d26d7a",
       "filename": "ai2l_dialogue_continuation_010.mp3",
       "shared_with": [],
@@ -707,10 +707,10 @@
         },
         {
           "speaker": "여자",
-          "text": "좋지. 그런데 내가 등산화가 없어서. 빌려 신을 수 있어?"
+          "text": "좋아. 그런데 내가 등산화가 없어서. 빌려 신을 수 있어?"
         }
       ],
-      "tts_script": "남자: 이번 주말 북한산 등산 어때? 날씨도 맑다는데.\n여자: 좋지. 그런데 내가 등산화가 없어서. 빌려 신을 수 있어?",
+      "tts_script": "남자: 이번 주말 북한산 등산 어때? 날씨도 맑다는데.\n여자: 좋아. 그런데 내가 등산화가 없어서. 빌려 신을 수 있어?",
       "delivery": "casual_planning_dialogue",
       "notes": [
         "Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end."
@@ -721,69 +721,73 @@
       "skill_type_id": "next_action",
       "model_q_num": 9,
       "content_category_id": "shopping",
-      "question_stem": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+      "question_stem": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_08eec8b725a3",
       "filename": "ai2l_next_action_001.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "남자",
-          "text": "이 가방 디자인이 참 독특하네. 실용적이기도 하고."
+          "text": "이 가방 디자인이 독특하네. 색깔은 검은색이 더 낫지 않을까?"
         },
         {
           "speaker": "여자",
-          "text": "그렇지? 마음에 들면 하나 살까?"
+          "text": "응, 검은색이 마음에 들어. 얼마인지 한번 알아보자."
         },
         {
           "speaker": "남자",
-          "text": "검은색이 더 실용적일 것 같아."
+          "text": "저쪽에 직원이 있어."
         },
         {
           "speaker": "여자",
-          "text": "그럼 검은색 가격을 확인해 볼게. 할인도 있는지 물어볼게."
+          "text": "그럼 내가 가서 가격이랑 할인 되는지 물어볼게."
         }
       ],
-      "tts_script": "남자: 이 가방 디자인이 참 독특하네. 실용적이기도 하고.\n여자: 그렇지? 마음에 들면 하나 살까?\n남자: 검은색이 더 실용적일 것 같아.\n여자: 그럼 검은색 가격을 확인해 볼게. 할인도 있는지 물어볼게.",
-      "delivery": "casual_short_dialogue",
-      "notes": []
+      "tts_script": "남자: 이 가방 디자인이 독특하네. 색깔은 검은색이 더 낫지 않을까?\n여자: 응, 검은색이 마음에 들어. 얼마인지 한번 알아보자.\n남자: 저쪽에 직원이 있어.\n여자: 그럼 내가 가서 가격이랑 할인 되는지 물어볼게.",
+      "delivery": "short_everyday_dialogue",
+      "notes": [
+        "Target speaker for answer: 여자"
+      ]
     },
     {
       "id": "ai2l_next_action_002",
       "skill_type_id": "next_action",
       "model_q_num": 9,
       "content_category_id": "bank",
-      "question_stem": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+      "question_stem": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_7970b7294698",
       "filename": "ai2l_next_action_002.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "여자",
-          "text": "대출 서류 작성을 도와 주시겠어요?"
+          "text": "대출 상담 받으러 왔는데요. 필요한 서류가 있을까요?"
         },
         {
           "speaker": "남자",
-          "text": "네, 신분증 먼저 보여 주세요."
+          "text": "신분증은 확인해 두었습니다. 이제 소득 증명서만 제출해 주시면 심사를 시작할 수 있어요."
         },
         {
           "speaker": "여자",
-          "text": "여기 있어요. 다음은 무엇을 하면 되죠?"
+          "text": "네, 가방에 넣어 왔어요. 지금 드리면 되죠?"
         },
         {
           "speaker": "남자",
-          "text": "소득 증명서를 제출해 주시면 심사를 진행하겠습니다."
+          "text": "네, 이쪽으로 주시면 됩니다."
         }
       ],
-      "tts_script": "여자: 대출 서류 작성을 도와 주시겠어요?\n남자: 네, 신분증 먼저 보여 주세요.\n여자: 여기 있어요. 다음은 무엇을 하면 되죠?\n남자: 소득 증명서를 제출해 주시면 심사를 진행하겠습니다.",
-      "delivery": "casual_short_dialogue",
-      "notes": []
+      "tts_script": "여자: 대출 상담 받으러 왔는데요. 필요한 서류가 있을까요?\n남자: 신분증은 확인해 두었습니다. 이제 소득 증명서만 제출해 주시면 심사를 시작할 수 있어요.\n여자: 네, 가방에 넣어 왔어요. 지금 드리면 되죠?\n남자: 네, 이쪽으로 주시면 됩니다.",
+      "delivery": "polite_service_dialogue",
+      "notes": [
+        "Target speaker for answer: 여자"
+      ]
     },
     {
       "id": "ai2l_next_action_003",
       "skill_type_id": "next_action",
       "model_q_num": 9,
       "content_category_id": "daily_life",
-      "question_stem": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+      "question_stem": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_5a88c2fa69ce",
       "filename": "ai2l_next_action_003.mp3",
       "shared_with": [],
@@ -794,299 +798,319 @@
         },
         {
           "speaker": "여자",
-          "text": "그럴 수도 있어. 새 전구 어디 있지?"
+          "text": "창고에 새 전구 있을 텐데. 내가 가져올까?"
         },
         {
           "speaker": "남자",
-          "text": "창고 선반에 있을 거야."
+          "text": "그래. 나는 그사이에 스위치 내려 놓을게."
         },
         {
           "speaker": "여자",
-          "text": "알겠어. 내가 가져올 테니까 스위치 좀 내려 줘. 감전 조심하고."
+          "text": "알겠어. 금방 가져올게."
         }
       ],
-      "tts_script": "남자: 거실 전등이 안 켜지네. 전구가 나간 것 같아.\n여자: 그럴 수도 있어. 새 전구 어디 있지?\n남자: 창고 선반에 있을 거야.\n여자: 알겠어. 내가 가져올 테니까 스위치 좀 내려 줘. 감전 조심하고.",
-      "delivery": "casual_short_dialogue",
-      "notes": []
+      "tts_script": "남자: 거실 전등이 안 켜지네. 전구가 나간 것 같아.\n여자: 창고에 새 전구 있을 텐데. 내가 가져올까?\n남자: 그래. 나는 그사이에 스위치 내려 놓을게.\n여자: 알겠어. 금방 가져올게.",
+      "delivery": "short_everyday_dialogue",
+      "notes": [
+        "Target speaker for answer: 여자"
+      ]
     },
     {
       "id": "ai2l_next_action_004",
       "skill_type_id": "next_action",
       "model_q_num": 10,
       "content_category_id": "work",
-      "question_stem": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+      "question_stem": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_dea3a162e7b2",
       "filename": "ai2l_next_action_004.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "남자",
-          "text": "이수미 씨, 내일 발표 자료 출력해 주실 수 있어요?"
+          "text": "이수미 씨, 내일 발표 자료 출력 좀 부탁해요. 열 부면 돼요."
         },
         {
           "speaker": "여자",
-          "text": "네, 몇 부 필요하세요?"
+          "text": "네, 파일은 공유 폴더에 있는 거죠?"
         },
         {
           "speaker": "남자",
-          "text": "10부면 충분합니다."
+          "text": "맞아요. 출력한 뒤에는 제 책상 위에 올려 주세요."
         },
         {
           "speaker": "여자",
-          "text": "알겠습니다. 지금 바로 출력해서 팀장님 자리에 가져다 드릴게요."
+          "text": "알겠습니다. 지금 바로 처리할게요."
         }
       ],
-      "tts_script": "남자: 이수미 씨, 내일 발표 자료 출력해 주실 수 있어요?\n여자: 네, 몇 부 필요하세요?\n남자: 10부면 충분합니다.\n여자: 알겠습니다. 지금 바로 출력해서 팀장님 자리에 가져다 드릴게요.",
-      "delivery": "casual_short_dialogue",
-      "notes": []
+      "tts_script": "남자: 이수미 씨, 내일 발표 자료 출력 좀 부탁해요. 열 부면 돼요.\n여자: 네, 파일은 공유 폴더에 있는 거죠?\n남자: 맞아요. 출력한 뒤에는 제 책상 위에 올려 주세요.\n여자: 알겠습니다. 지금 바로 처리할게요.",
+      "delivery": "polite_workplace_dialogue",
+      "notes": [
+        "Target speaker for answer: 여자"
+      ]
     },
     {
       "id": "ai2l_next_action_005",
       "skill_type_id": "next_action",
       "model_q_num": 10,
       "content_category_id": "food_dining",
-      "question_stem": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+      "question_stem": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_ae85e110a159",
       "filename": "ai2l_next_action_005.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "여자",
-          "text": "이 식당 예약했어? 오늘 저녁에 가기로 했잖아."
+          "text": "오늘 저녁에 가기로 한 식당, 예약했어?"
         },
         {
           "speaker": "남자",
-          "text": "아직이야. 전화번호는 알고 있니?"
+          "text": "아직이야. 네가 전화해 줄 수 있어? 번호는 방금 보냈어."
         },
         {
           "speaker": "여자",
-          "text": "인터넷에 나와 있어. 검색해 보면 바로 나와."
+          "text": "응, 문자 왔어. 두 명에 일곱 시로 말해 볼게."
         },
         {
           "speaker": "남자",
-          "text": "그럼 내가 지금 전화해서 예약할게. 7시 두 명으로 잡을게."
+          "text": "고마워. 나는 옷 갈아입을게."
         }
       ],
-      "tts_script": "여자: 이 식당 예약했어? 오늘 저녁에 가기로 했잖아.\n남자: 아직이야. 전화번호는 알고 있니?\n여자: 인터넷에 나와 있어. 검색해 보면 바로 나와.\n남자: 그럼 내가 지금 전화해서 예약할게. 7시 두 명으로 잡을게.",
-      "delivery": "casual_short_dialogue",
-      "notes": []
+      "tts_script": "여자: 오늘 저녁에 가기로 한 식당, 예약했어?\n남자: 아직이야. 네가 전화해 줄 수 있어? 번호는 방금 보냈어.\n여자: 응, 문자 왔어. 두 명에 일곱 시로 말해 볼게.\n남자: 고마워. 나는 옷 갈아입을게.",
+      "delivery": "short_everyday_dialogue",
+      "notes": [
+        "Target speaker for answer: 여자"
+      ]
     },
     {
       "id": "ai2l_next_action_006",
       "skill_type_id": "next_action",
       "model_q_num": 10,
       "content_category_id": "hospital",
-      "question_stem": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+      "question_stem": "다음을 듣고 남자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_398f50215443",
       "filename": "ai2l_next_action_006.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "여자",
-          "text": "약은 하루 세 번 식후 30분에 드세요."
+          "text": "약은 하루 세 번, 식후에 드세요. 가벼운 졸음이 있을 수 있어요."
         },
         {
           "speaker": "남자",
-          "text": "알겠습니다. 부작용은 없나요?"
+          "text": "알겠습니다. 처방전은 어디로 가져가면 되나요?"
         },
         {
           "speaker": "여자",
-          "text": "가벼운 졸림이 있을 수 있습니다."
+          "text": "병원 옆 약국에 제출하시면 됩니다."
         },
         {
           "speaker": "남자",
-          "text": "네. 그럼 처방전대로 근처 약국에 가서 조제받겠습니다."
+          "text": "네, 나가면서 바로 조제받겠습니다."
         }
       ],
-      "tts_script": "여자: 약은 하루 세 번 식후 30분에 드세요.\n남자: 알겠습니다. 부작용은 없나요?\n여자: 가벼운 졸림이 있을 수 있습니다.\n남자: 네. 그럼 처방전대로 근처 약국에 가서 조제받겠습니다.",
-      "delivery": "casual_short_dialogue",
-      "notes": []
+      "tts_script": "여자: 약은 하루 세 번, 식후에 드세요. 가벼운 졸음이 있을 수 있어요.\n남자: 알겠습니다. 처방전은 어디로 가져가면 되나요?\n여자: 병원 옆 약국에 제출하시면 됩니다.\n남자: 네, 나가면서 바로 조제받겠습니다.",
+      "delivery": "polite_service_dialogue",
+      "notes": [
+        "Target speaker for answer: 남자"
+      ]
     },
     {
       "id": "ai2l_next_action_007",
       "skill_type_id": "next_action",
       "model_q_num": 11,
       "content_category_id": "school",
-      "question_stem": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+      "question_stem": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_e37c83d5a467",
       "filename": "ai2l_next_action_007.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "남자",
-          "text": "도서관 책 반납 기한이 내일이야."
+          "text": "도서관 책 반납이 내일까지야. 연체되면 큰일 나."
         },
         {
           "speaker": "여자",
-          "text": "아, 깜빡했네. 지금 반납하러 갈까?"
+          "text": "맞다, 깜빡했다. 지금 갔다 올까?"
         },
         {
           "speaker": "남자",
-          "text": "나도 같이 가. 연체료 내기 싫어."
+          "text": "같이 가자. 네 책도 여기 있네."
         },
         {
           "speaker": "여자",
-          "text": "좋아. 책 챙기고 바로 출발하자. 도서관까지 걸어가자."
+          "text": "응. 이것만 가방에 넣고 바로 나가자."
         }
       ],
-      "tts_script": "남자: 도서관 책 반납 기한이 내일이야.\n여자: 아, 깜빡했네. 지금 반납하러 갈까?\n남자: 나도 같이 가. 연체료 내기 싫어.\n여자: 좋아. 책 챙기고 바로 출발하자. 도서관까지 걸어가자.",
+      "tts_script": "남자: 도서관 책 반납이 내일까지야. 연체되면 큰일 나.\n여자: 맞다, 깜빡했다. 지금 갔다 올까?\n남자: 같이 가자. 네 책도 여기 있네.\n여자: 응. 이것만 가방에 넣고 바로 나가자.",
       "delivery": "casual_short_dialogue",
-      "notes": []
+      "notes": [
+        "Target speaker for answer: 여자"
+      ]
     },
     {
       "id": "ai2l_next_action_008",
       "skill_type_id": "next_action",
       "model_q_num": 11,
       "content_category_id": "transport",
-      "question_stem": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+      "question_stem": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_2b5d17293bd5",
       "filename": "ai2l_next_action_008.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "여자",
-          "text": "택시가 잘 안 잡히네. 지하철 타는 게 어때?"
+          "text": "택시가 도무지 안 잡히네. 지하철로 가는 게 낫지 않을까?"
         },
         {
           "speaker": "남자",
-          "text": "2호선 타면 바로 갈 수 있어."
+          "text": "2호선 타면 바로야. 교통카드도 충전해 뒀어."
         },
         {
           "speaker": "여자",
-          "text": "표는 있어?"
+          "text": "그럼 그렇게 하자. 역이 어느 쪽이지?"
         },
         {
           "speaker": "남자",
-          "text": "교통카드에 충전해 둬서 괜찮아. 역까지 걸어가자."
+          "text": "이쪽으로 조금만 걸어가면 돼. 가자."
         }
       ],
-      "tts_script": "여자: 택시가 잘 안 잡히네. 지하철 타는 게 어때?\n남자: 2호선 타면 바로 갈 수 있어.\n여자: 표는 있어?\n남자: 교통카드에 충전해 둬서 괜찮아. 역까지 걸어가자.",
+      "tts_script": "여자: 택시가 도무지 안 잡히네. 지하철로 가는 게 낫지 않을까?\n남자: 2호선 타면 바로야. 교통카드도 충전해 뒀어.\n여자: 그럼 그렇게 하자. 역이 어느 쪽이지?\n남자: 이쪽으로 조금만 걸어가면 돼. 가자.",
       "delivery": "casual_short_dialogue",
-      "notes": []
+      "notes": [
+        "Target speaker for answer: 여자"
+      ]
     },
     {
       "id": "ai2l_next_action_009",
       "skill_type_id": "next_action",
       "model_q_num": 11,
       "content_category_id": "culture",
-      "question_stem": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+      "question_stem": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_a74ae45000f9",
       "filename": "ai2l_next_action_009.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "남자",
-          "text": "콘서트가 곧 시작하는데 표는 가져왔어?"
+          "text": "콘서트 곧 시작하는데, 표는 있지?"
         },
         {
           "speaker": "여자",
-          "text": "여기 있어. 입장 줄이 꽤 길네."
+          "text": "여기 있어. 입장 줄이 생각보다 기네."
         },
         {
           "speaker": "남자",
-          "text": "그럼 줄 서자."
+          "text": "빨리 줄 서자. 늦으면 입장 못할 수도 있어."
         },
         {
           "speaker": "여자",
-          "text": "알겠어. 표부터 보여 줄게. 우리 순서가 곧 다가오네."
+          "text": "알았어. 우리 뒤로 붙자."
         }
       ],
-      "tts_script": "남자: 콘서트가 곧 시작하는데 표는 가져왔어?\n여자: 여기 있어. 입장 줄이 꽤 길네.\n남자: 그럼 줄 서자.\n여자: 알겠어. 표부터 보여 줄게. 우리 순서가 곧 다가오네.",
+      "tts_script": "남자: 콘서트 곧 시작하는데, 표는 있지?\n여자: 여기 있어. 입장 줄이 생각보다 기네.\n남자: 빨리 줄 서자. 늦으면 입장 못할 수도 있어.\n여자: 알았어. 우리 뒤로 붙자.",
       "delivery": "casual_short_dialogue",
-      "notes": []
+      "notes": [
+        "Target speaker for answer: 여자"
+      ]
     },
     {
       "id": "ai2l_next_action_010",
       "skill_type_id": "next_action",
       "model_q_num": 12,
       "content_category_id": "technology",
-      "question_stem": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+      "question_stem": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_1d4d02e9088d",
       "filename": "ai2l_next_action_010.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "여자",
-          "text": "와이파이 비밀번호가 뭐예요?"
+          "text": "와이파이 비밀번호가 뭐야?"
         },
         {
           "speaker": "남자",
-          "text": "라우터 뒤에 스티커로 적혀 있어."
+          "text": "공유기 뒤에 스티커로 적혀 있어."
         },
         {
           "speaker": "여자",
-          "text": "찾았어. 연결해 볼게."
+          "text": "찾았어. 일단 이걸로 접속해 볼게."
         },
         {
           "speaker": "남자",
-          "text": "안 되면 라우터를 재부팅해 봐. 그래도 안 되면 알려 줘."
+          "text": "안 되면 공유기 전원 껐다 켜 봐. 그래도 안 되면 말해."
         }
       ],
-      "tts_script": "여자: 와이파이 비밀번호가 뭐예요?\n남자: 라우터 뒤에 스티커로 적혀 있어.\n여자: 찾았어. 연결해 볼게.\n남자: 안 되면 라우터를 재부팅해 봐. 그래도 안 되면 알려 줘.",
-      "delivery": "casual_short_dialogue",
-      "notes": []
+      "tts_script": "여자: 와이파이 비밀번호가 뭐야?\n남자: 공유기 뒤에 스티커로 적혀 있어.\n여자: 찾았어. 일단 이걸로 접속해 볼게.\n남자: 안 되면 공유기 전원 껐다 켜 봐. 그래도 안 되면 말해.",
+      "delivery": "short_everyday_dialogue",
+      "notes": [
+        "Target speaker for answer: 여자"
+      ]
     },
     {
       "id": "ai2l_next_action_011",
       "skill_type_id": "next_action",
       "model_q_num": 12,
       "content_category_id": "travel",
-      "question_stem": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+      "question_stem": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_5ca3de3f3d4a",
       "filename": "ai2l_next_action_011.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "남자",
-          "text": "공항까지 몇 시에 출발할까? 비행기가 8시 30분이잖아."
+          "text": "비행기가 여덟 시 반이니까 여섯 시에는 집에서 나서야지."
         },
         {
           "speaker": "여자",
-          "text": "국제선이니까 2시간 전에 도착해야 해. 보안 검색도 시간이 걸리거든."
+          "text": "국제선이라 여유 있게 가는 게 맞아. 짐은 어젯밤에 다 쌌어."
         },
         {
           "speaker": "남자",
-          "text": "그럼 6시에 출발하자. 짐은 다 챙겼지?"
+          "text": "그럼 이동만 남았네. 택시 부를까, 아니면 네가 앱으로 예약할래?"
         },
         {
           "speaker": "여자",
-          "text": "좋아. 택시 예약할게. 미리 부르면 더 안심이야."
+          "text": "내가 앱으로 예약할게. 지금 바로 잡을게."
         }
       ],
-      "tts_script": "남자: 공항까지 몇 시에 출발할까? 비행기가 8시 30분이잖아.\n여자: 국제선이니까 2시간 전에 도착해야 해. 보안 검색도 시간이 걸리거든.\n남자: 그럼 6시에 출발하자. 짐은 다 챙겼지?\n여자: 좋아. 택시 예약할게. 미리 부르면 더 안심이야.",
-      "delivery": "casual_short_dialogue",
-      "notes": []
+      "tts_script": "남자: 비행기가 여덟 시 반이니까 여섯 시에는 집에서 나서야지.\n여자: 국제선이라 여유 있게 가는 게 맞아. 짐은 어젯밤에 다 쌌어.\n남자: 그럼 이동만 남았네. 택시 부를까, 아니면 네가 앱으로 예약할래?\n여자: 내가 앱으로 예약할게. 지금 바로 잡을게.",
+      "delivery": "casual_planning_dialogue",
+      "notes": [
+        "Target speaker for answer: 여자"
+      ]
     },
     {
       "id": "ai2l_next_action_012",
       "skill_type_id": "next_action",
       "model_q_num": 12,
       "content_category_id": "leisure",
-      "question_stem": "여자가 이어서 할 행동으로 알맞은 것을 고르십시오.",
+      "question_stem": "다음을 듣고 여자가 이어서 할 행동으로 가장 알맞은 것을 고르십시오.",
       "audio_group_id": "ag_3027e7f17b5d",
       "filename": "ai2l_next_action_012.mp3",
       "shared_with": [],
       "turns": [
         {
           "speaker": "여자",
-          "text": "수영장 이용 시간이 언제까지야? 오늘 가기로 했잖아."
+          "text": "수영장 오늘 몇 시까지 열어?"
         },
         {
           "speaker": "남자",
-          "text": "오후 9시까지래. 마감 30분 전부터는 입장이 제한된다고 해."
+          "text": "아홉 시까지래. 일곱 시 반에 만나면 충분할 거야."
         },
         {
           "speaker": "여자",
-          "text": "그럼 7시 반쯤 가자. 충분히 수영하고 씻을 시간이 있겠네."
+          "text": "좋아. 나는 수영복이랑 수건이 집이 아니라서 지금 챙겨야겠어."
         },
         {
           "speaker": "남자",
-          "text": "응, 수영복 챙기는 거 잊지 마. 수건이랑 샌들, 샤워용품도 챙겨."
+          "text": "응, 샤워 용품도 같이 확인해 봐."
         }
       ],
-      "tts_script": "여자: 수영장 이용 시간이 언제까지야? 오늘 가기로 했잖아.\n남자: 오후 9시까지래. 마감 30분 전부터는 입장이 제한된다고 해.\n여자: 그럼 7시 반쯤 가자. 충분히 수영하고 씻을 시간이 있겠네.\n남자: 응, 수영복 챙기는 거 잊지 마. 수건이랑 샌들, 샤워용품도 챙겨.",
-      "delivery": "casual_short_dialogue",
-      "notes": []
+      "tts_script": "여자: 수영장 오늘 몇 시까지 열어?\n남자: 아홉 시까지래. 일곱 시 반에 만나면 충분할 거야.\n여자: 좋아. 나는 수영복이랑 수건이 집이 아니라서 지금 챙겨야겠어.\n남자: 응, 샤워 용품도 같이 확인해 봐.",
+      "delivery": "casual_planning_dialogue",
+      "notes": [
+        "Target speaker for answer: 여자"
+      ]
     },
     {
       "id": "ai2l_content_match_001",

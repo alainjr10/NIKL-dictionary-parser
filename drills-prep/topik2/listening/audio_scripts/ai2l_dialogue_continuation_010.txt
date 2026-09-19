@@ -3,4 +3,4 @@
 # NOTE: Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end.
 
 남자: 이번 주말 북한산 등산 어때? 날씨도 맑다는데.
-여자: 좋지. 그런데 내가 등산화가 없어서. 빌려 신을 수 있어?
+여자: 좋아. 그런데 내가 등산화가 없어서. 빌려 신을 수 있어?

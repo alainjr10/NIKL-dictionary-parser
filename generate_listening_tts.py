@@ -197,35 +197,55 @@ def synthesize_gemini_line(
     model: str,
     speaker: str,
     text: str,
+    retries: int = 4,
 ) -> bytes:
-    """One speaker line via Gemini single-voice TTS."""
-    prompt = "\n".join(
-        [
-            ROLE_PROMPT.strip(),
-            "",
-            f"Speaker for this line: {speaker}",
-            LINE_STYLE,
-            "Do not answer in text — audio only.",
-            "",
-            "LINE",
-            text,
-        ]
-    )
-    response = client.models.generate_content(
-        model=model,
-        contents=prompt,
-        config=types_mod.GenerateContentConfig(
-            response_modalities=["AUDIO"],
-            speech_config=types_mod.SpeechConfig(
-                voice_config=types_mod.VoiceConfig(
-                    prebuilt_voice_config=types_mod.PrebuiltVoiceConfig(
-                        voice_name=GEMINI_VOICES[speaker],
-                    )
-                )
-            ),
+    """One speaker line via Gemini single-voice TTS.
+
+    Keep the prompt minimal: long role text often makes Flash-TTS emit
+    text instead of audio (400 INVALID_ARGUMENT).
+    """
+    # Prefer bare transcript; fallback styles if the model misbehaves.
+    prompts = [
+        text,
+        f"Read this Korean aloud exactly:\n{text}",
+        (
+            f"TTS only. Speak this Korean exactly, no other words. "
+            f"{'Male' if speaker == 'Man' else 'Female'} TOPIK exam voice.\n{text}"
         ),
-    )
-    return extract_pcm(response)
+    ]
+    last_err: Exception | None = None
+    for attempt in range(retries):
+        prompt = prompts[min(attempt, len(prompts) - 1)]
+        try:
+            response = client.models.generate_content(
+                model=model,
+                contents=prompt,
+                config=types_mod.GenerateContentConfig(
+                    response_modalities=["AUDIO"],
+                    speech_config=types_mod.SpeechConfig(
+                        voice_config=types_mod.VoiceConfig(
+                            prebuilt_voice_config=types_mod.PrebuiltVoiceConfig(
+                                voice_name=GEMINI_VOICES[speaker],
+                            )
+                        )
+                    ),
+                ),
+            )
+            return extract_pcm(response)
+        except Exception as exc:  # noqa: BLE001
+            last_err = exc
+            msg = str(exc)
+            if attempt < retries - 1 and (
+                "429" in msg
+                or "RESOURCE_EXHAUSTED" in msg
+                or "tried to generate text" in msg
+                or "INVALID_ARGUMENT" in msg
+            ):
+                wait = 8.0 if "429" in msg or "RESOURCE_EXHAUSTED" in msg else 2.0 * (attempt + 1)
+                time.sleep(wait)
+                continue
+            raise
+    raise RuntimeError(f"Gemini TTS failed after retries: {last_err}")
 
 
 def synthesize_gemini(
@@ -236,12 +256,16 @@ def synthesize_gemini(
     script: str,
     turn_gap_sec: float,
     blank_tail: bool,
+    request_gap_sec: float = 6.5,
 ) -> tuple[bytes, int]:
     """Per-turn Gemini TTS, stitched with silence between speakers."""
     turns = parse_turns(script)
     pcm_parts: list[bytes] = []
     rate = SAMPLE_RATE
     for i, (speaker, text) in enumerate(turns):
+        if i > 0 and request_gap_sec > 0:
+            # Free-tier Flash TTS is often ~10 RPM; pace API calls.
+            time.sleep(request_gap_sec)
         pcm_parts.append(
             synthesize_gemini_line(
                 client, types_mod, model=model, speaker=speaker, text=text

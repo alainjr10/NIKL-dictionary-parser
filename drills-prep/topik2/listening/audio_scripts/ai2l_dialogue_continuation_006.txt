@@ -2,5 +2,5 @@
 # skill=dialogue_continuation model_q=6 group=ag_7a42cf1a0402
 # NOTE: Stop after last spoken line; do NOT speak blank ( ). Leave ~1.0s silence at end.
 
-남자: 학교 뒤에 분식집이 새로 생겼다면서? 떡볶이가 맛있대.
-여자: 응, 어제 가 봤는데 양도 많고 값도 괜찮더라.
+남자: 학교 뒤에 분식집이 새로 생겼다면서? 점심때 줄이 길다던데.
+여자: 응, 낮에는 좀 기다려야 해. 그래도 맛은 괜찮더라.

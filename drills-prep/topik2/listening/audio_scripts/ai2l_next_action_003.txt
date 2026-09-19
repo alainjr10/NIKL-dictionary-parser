@@ -1,7 +1,7 @@
 # ai2l_next_action_003
-# skill=next_action model_q=9 group=ag_5a88c2fa69ce
+# skill=next_action model_q=9 target=여자 group=ag_5a88c2fa69ce
 
 남자: 거실 전등이 안 켜지네. 전구가 나간 것 같아.
-여자: 그럴 수도 있어. 새 전구 어디 있지?
-남자: 창고 선반에 있을 거야.
-여자: 알겠어. 내가 가져올 테니까 스위치 좀 내려 줘. 감전 조심하고.
+여자: 창고에 새 전구 있을 텐데. 내가 가져올까?
+남자: 그래. 나는 그사이에 스위치 내려 놓을게.
+여자: 알겠어. 금방 가져올게.

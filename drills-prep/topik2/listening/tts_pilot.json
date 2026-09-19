@@ -28,8 +28,8 @@
     "audio_group_id": "ag_08eec8b725a3",
     "filename": "ai2l_next_action_001.mp3",
     "shared_with": [],
-    "delivery": "casual_short_dialogue",
-    "script": "남자: 이 가방 디자인이 참 독특하네. 실용적이기도 하고.\n여자: 그렇지? 마음에 들면 하나 살까?\n남자: 검은색이 더 실용적일 것 같아.\n여자: 그럼 검은색 가격을 확인해 볼게. 할인도 있는지 물어볼게."
+    "delivery": "short_everyday_dialogue",
+    "script": "남자: 이 가방 디자인이 독특하네. 색깔은 검은색이 더 낫지 않을까?\n여자: 응, 검은색이 마음에 들어. 얼마인지 한번 알아보자.\n남자: 저쪽에 직원이 있어.\n여자: 그럼 내가 가서 가격이랑 할인 되는지 물어볼게."
   },
   {
     "id": "ai2l_content_match_001",
