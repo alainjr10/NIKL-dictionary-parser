@@ -75,7 +75,7 @@
     "source": "hanuri_ai",
     "level": "topik2",
     "question": "다음을 듣고 알맞은 그림 또는 그래프를 고르십시오.",
-    "transcript": "남자: 지난달 지하철 7호선 이용 현황 조사 결과입니다. 시간대별 이용률은 오전 8시가 45%로 가장 높고, 오후 6시가 40%, 그 외 시간대가 15%였습니다. 이용 목적별로는 출근이 1위, 통학이 2위, 여가 및 기타가 3위로 나타났습니다.",
+    "transcript": "남자: 출퇴근 혼잡에 대한 관심이 커지면서 지난달 지하철 7호선 이용 현황을 조사했습니다. 시간대별 이용률은 오전 8시가 45%로 가장 높았고, 오후 6시가 40%, 그 외 시간대가 15%로 나타났습니다. 이용 목적에서는 출근이 1위를 차지했으며, 통학과 여가 및 기타가 그 뒤를 이었습니다.",
     "options": [
       "①",
       "②",
@@ -83,9 +83,9 @@
       "④"
     ],
     "answer": 1,
-    "explanation": "이중 그래프 문항. 왼쪽(시간대: 8시 45% > 6시 40% > 그 외 15%)과 오른쪽(목적: 출근>통학>여가)이 모두 일치하는 ②만 정답. 한쪽만 맞는 선택지는 전형적인 TOPIK 함정.",
+    "explanation": "정답은 시간대별 이용률(8시45>6시40>그 외15)인 ②. ①은 같은 세로 막대지만 수치가 바뀜. ③④는 이용 목적 원그래프이며 듣기(출근 1위)와 불일치.",
     "visual_kind": "graph",
-    "graph_layout": "dual_charts_per_option_2x2_sheet",
+    "graph_layout": "paired_rows_same_type_2x2",
     "image": "visual_match_003/panel",
     "images": [
       "visual_match_003/img1",
@@ -94,10 +94,10 @@
       "visual_match_003/img4"
     ],
     "image_specs": [
-      "FOIL dual: LEFT time OK (8시45/6시40/기타15) | RIGHT purpose WRONG (통학>출근>여가)",
-      "CORRECT dual: LEFT time (8시45% > 6시40% > 기타15%) | RIGHT purpose (출근 1위 > 통학 2위 > 여가·기타 3위)",
-      "FOIL dual: LEFT time WRONG peaks swapped (6시45/8시40/기타15) | RIGHT purpose OK (출근>통학>여가)",
-      "FOIL dual: LEFT equal thirds ~33% | RIGHT purpose WRONG (여가 1위)"
+      "① FOIL vbar | 시간대별 이용률 | 40/45/15",
+      "② CORRECT vbar | 시간대별 이용률 | 45/40/15",
+      "③ FOIL pie | 이용 목적별 비율 | 30/45/25 (통학1위)",
+      "④ FOIL pie | 이용 목적별 비율 | 25/30/45 (여가1위)"
     ]
   },
   {
@@ -209,7 +209,7 @@
     "source": "hanuri_ai",
     "level": "topik2",
     "question": "다음을 듣고 알맞은 그림 또는 그래프를 고르십시오.",
-    "transcript": "여자: 최근 영화관 이용객 조사 결과입니다. 연령별 비율은 20대가 35%, 30대가 30%, 40대 이상이 35%로, 20대와 40대 이상이 같고 30대만 낮았습니다. 선호 장르 순위는 1위 코미디, 2위 액션, 3위 드라마 순이었습니다.",
+    "transcript": "여자: 최근 영화관 이용객을 대상으로 조사를 실시한 결과입니다. 연령별 비율은 20대가 35%, 30대가 30%, 40대 이상이 35%로, 20대와 40대 이상이 같고 30대만 낮았습니다. 선호 장르에서는 코미디가 가장 많았고, 액션과 드라마가 그 뒤를 이었는데요.",
     "options": [
       "①",
       "②",
@@ -217,9 +217,9 @@
       "④"
     ],
     "answer": 0,
-    "explanation": "이중 그래프. 왼쪽 연령(20대35=40대+35 > 30대30)과 오른쪽 장르(코미디>액션>드라마)가 모두 맞는 ①이 정답. 연령만 맞거나 장르만 맞는 그림은 오답.",
+    "explanation": "정답은 연령별 비율(35/30/35)인 ①. ②는 같은 원그래프지만 30대가 최대. ③④는 선호 장르 가로 막대이며 듣기(코미디가 가장 많음)와 불일치.",
     "visual_kind": "graph",
-    "graph_layout": "dual_charts_per_option_2x2_sheet",
+    "graph_layout": "paired_rows_same_type_2x2",
     "image": "visual_match_007/panel",
     "images": [
       "visual_match_007/img1",
@@ -228,10 +228,10 @@
       "visual_match_007/img4"
     ],
     "image_specs": [
-      "CORRECT dual: LEFT age 20대35% / 30대30% / 40대+35% | RIGHT genre 코미디>액션>드라마",
-      "FOIL dual: LEFT age OK (35/30/35) | RIGHT genre WRONG (액션>코미디>드라마)",
-      "FOIL dual: LEFT age WRONG (30대 최대) | RIGHT genre OK (코미디>액션>드라마)",
-      "FOIL dual: LEFT age WRONG (40대+ 50% 단독 1위) | RIGHT genre WRONG (드라마 1위)"
+      "① CORRECT pie | 연령별 비율 | 35/30/35",
+      "② FOIL pie | 연령별 비율 | 30/40/30",
+      "③ FOIL hbar | 선호 장르별 비율 | 30/45/25 (액션1위)",
+      "④ FOIL hbar | 선호 장르별 비율 | 20/30/50 (드라마1위)"
     ]
   },
   {
@@ -376,7 +376,7 @@
     "source": "hanuri_ai",
     "level": "topik2",
     "question": "다음을 듣고 알맞은 그림 또는 그래프를 고르십시오.",
-    "transcript": "남자: 올해 지역별 재활용 참여와 교육 현황입니다. 참여율은 A구 62%, B구 58%, C구 71%로 C구가 가장 높았습니다. 분리수거 교육 횟수는 C구가 1위, A구가 2위, B구가 3위였으며, 참여율이 높은 구일수록 교육 횟수도 많은 경향을 보였습니다.",
+    "transcript": "남자: 올해 지역별 재활용 참여를 조사한 결과입니다. 참여율은 A구 62%, B구 58%, C구 71%로 C구가 가장 높았습니다. 그렇다면 분리수거 교육은 어떨까요? 교육 횟수는 C구가 가장 많았고, A구와 B구가 그 뒤를 이었습니다.",
     "options": [
       "①",
       "②",
@@ -384,9 +384,9 @@
       "④"
     ],
     "answer": 3,
-    "explanation": "이중 그래프 Q3. 왼쪽 참여율(C71>A62>B58)과 오른쪽 교육 횟수 순위(C>A>B)가 모두 일치하고 ‘참여↑ ↔ 교육↑’ 관계도 맞는 ④만 정답. 참여율만 맞추고 교육 순위를 바꾼 함정 포함.",
+    "explanation": "정답은 재활용 참여율(C71>A62>B58)인 ④. ③은 같은 세로 막대지만 A가 최대. ①②는 교육 횟수 가로 막대이며 듣기(C구가 가장 많음)와 불일치.",
     "visual_kind": "graph",
-    "graph_layout": "dual_charts_per_option_2x2_sheet",
+    "graph_layout": "paired_rows_same_type_2x2",
     "image": "visual_match_012/panel",
     "images": [
       "visual_match_012/img1",
@@ -395,10 +395,10 @@
       "visual_match_012/img4"
     ],
     "image_specs": [
-      "FOIL dual: LEFT rates OK (C71>A62>B58) | RIGHT education WRONG (A>C>B)",
-      "FOIL dual: LEFT rates WRONG (A highest) | RIGHT education OK (C>A>B)",
-      "FOIL dual: LEFT rates nearly equal | RIGHT education OK (C>A>B)",
-      "CORRECT dual: LEFT rates A62 / B58 / C71 (C highest) | RIGHT education sessions ranking C구 1위 > A구 2위 > B구 3위"
+      "① FOIL hbar | 분리수거 교육 횟수 | A12/B6/C9",
+      "② FOIL hbar | 분리수거 교육 횟수 | A8/B12/C6",
+      "③ FOIL vbar | 재활용 참여율 | 71/58/62",
+      "④ CORRECT vbar | 재활용 참여율 | 62/58/71"
     ]
   },
   {

@@ -1,4 +1,4 @@
 # ai2l_visual_match_012
-# skill=visual_match model_q=3 kind=graph layout=dual_charts group=ag_50404fc31b8d
+# skill=visual_match kind=graph layout=paired_rows
 
-남자: 올해 지역별 재활용 참여와 교육 현황입니다. 참여율은 A구 62%, B구 58%, C구 71%로 C구가 가장 높았습니다. 분리수거 교육 횟수는 C구가 1위, A구가 2위, B구가 3위였으며, 참여율이 높은 구일수록 교육 횟수도 많은 경향을 보였습니다.
+남자: 올해 지역별 재활용 참여를 조사한 결과입니다. 참여율은 A구 62%, B구 58%, C구 71%로 C구가 가장 높았습니다. 그렇다면 분리수거 교육은 어떨까요? 교육 횟수는 C구가 가장 많았고, A구와 B구가 그 뒤를 이었습니다.
