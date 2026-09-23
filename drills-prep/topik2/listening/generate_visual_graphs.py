@@ -172,13 +172,18 @@ def render_option(opt: dict, path: Path) -> None:
 
 
 def make_panel(img_paths: list[Path], out_path: Path) -> None:
+    """Compose 2x2 panel with ①–④ titles sitting above each chart (outside the axes)."""
     circles = ["①", "②", "③", "④"]
-    fig, axes = plt.subplots(2, 2, figsize=(9.5, 7.4), dpi=160)
+    fig, axes = plt.subplots(2, 2, figsize=(9.5, 7.6), dpi=160)
     for ax, p, circ in zip(axes.flat, img_paths, circles):
         ax.imshow(imread(p))
-        ax.set_title(circ, fontsize=14, pad=4)
+        ax.set_title(circ, fontsize=16, pad=8, loc="left", fontweight="bold")
         ax.axis("off")
-    fig.tight_layout(pad=0.6)
+        for spine in ax.spines.values():
+            spine.set_visible(True)
+            spine.set_linewidth(0.8)
+            spine.set_edgecolor("black")
+    fig.tight_layout(pad=0.8, h_pad=0.9, w_pad=0.7)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(out_path, bbox_inches="tight", facecolor="white")
     plt.close(fig)

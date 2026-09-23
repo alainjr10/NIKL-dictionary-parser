@@ -18,6 +18,7 @@
     ],
     "answer": 2,
     "explanation": "남자는 길에서 주운 우산을 분실물 센터 직원에게 맡긴다. 정답은 ③ — 손님이 우산을 카운터 직원에게 건네는 장면.",
+    "image": "visual_match_001/panel",
     "images": [
       "visual_match_001/img1",
       "visual_match_001/img2",
@@ -51,6 +52,7 @@
     ],
     "answer": 3,
     "explanation": "핵심은 남자가 넘어진 할머니를 부축해 일으키는 행동. 정답 ④.",
+    "image": "visual_match_002/panel",
     "images": [
       "visual_match_002/img1",
       "visual_match_002/img2",
@@ -119,6 +121,7 @@
     ],
     "answer": 0,
     "explanation": "서빙 장면: 찌개 제공 + 물 추가 요청. 정답 ①.",
+    "image": "visual_match_004/panel",
     "images": [
       "visual_match_004/img1",
       "visual_match_004/img2",
@@ -152,6 +155,7 @@
     ],
     "answer": 2,
     "explanation": "접수 창구에서 증상을 말하고 대기 안내를 받는 단계. 정답 ③.",
+    "image": "visual_match_005/panel",
     "images": [
       "visual_match_005/img1",
       "visual_match_005/img2",
@@ -185,6 +189,7 @@
     ],
     "answer": 1,
     "explanation": "두 학생이 함께 출력·확인. 정답 ②.",
+    "image": "visual_match_006/panel",
     "images": [
       "visual_match_006/img1",
       "visual_match_006/img2",
@@ -253,6 +258,7 @@
     ],
     "answer": 3,
     "explanation": "자료를 들고 회의실로 가는 장면. 정답 ④.",
+    "image": "visual_match_008/panel",
     "images": [
       "visual_match_008/img1",
       "visual_match_008/img2",
@@ -286,6 +292,7 @@
     ],
     "answer": 1,
     "explanation": "창구에서 신분증·도장 제출하며 개설. 정답 ②.",
+    "image": "visual_match_009/panel",
     "images": [
       "visual_match_009/img1",
       "visual_match_009/img2",
@@ -319,6 +326,7 @@
     ],
     "answer": 2,
     "explanation": "체크인 전 프런트 짐 보관. 정답 ③.",
+    "image": "visual_match_010/panel",
     "images": [
       "visual_match_010/img1",
       "visual_match_010/img2",
@@ -352,6 +360,7 @@
     ],
     "answer": 0,
     "explanation": "안내 데스크에서 도록을 받는 장면. 정답 ①.",
+    "image": "visual_match_011/panel",
     "images": [
       "visual_match_011/img1",
       "visual_match_011/img2",
