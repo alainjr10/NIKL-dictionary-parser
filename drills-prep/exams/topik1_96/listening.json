@@ -1,0 +1,454 @@
+[
+  {
+    "id": 1,
+    "section": "listening",
+    "question": "다음을 듣고 물음에 맞는 대답을 고르십시오.",
+    "transcript": "남자: 모자가 많아요?\n여자: ( )",
+    "options": [
+      "네, 모자가 없어요.",
+      "아니요, 모자예요.",
+      "네, 모자가 많아요.",
+      "아니요, 모자가 싸요."
+    ],
+    "answer": 2,
+    "explanation": "The man asks if she has many hats (모자가 많아요?). Option 3 ('Yes, I have many hats') is the only grammatically and logically consistent affirmative reply.",
+    "audio": "audio/q01.mp3"
+  },
+  {
+    "id": 2,
+    "section": "listening",
+    "question": "다음을 듣고 물음에 맞는 대답을 고르십시오.",
+    "transcript": "여자: 커피를 좋아해요?\n남자: ( )",
+    "options": [
+      "네, 커피가 싫어요.",
+      "아니요, 커피를 마셔요.",
+      "네, 커피가 아니에요.",
+      "아니요, 커피를 안 좋아해요."
+    ],
+    "answer": 3,
+    "explanation": "The woman asks if he likes coffee (커피를 좋아해요?). Option 4 ('No, I do not like coffee') provides a correct negative response.",
+    "audio": "audio/q02.mp3"
+  },
+  {
+    "id": 3,
+    "section": "listening",
+    "question": "다음을 듣고 물음에 맞는 대답을 고르십시오.",
+    "transcript": "남자: 몇 시에 공항에 가요?\n여자: ( )",
+    "options": [
+      "혼자 가요.",
+      "동생이 가요.",
+      "걸어서 가요.",
+      "한 시에 가요."
+    ],
+    "answer": 3,
+    "explanation": "The man asks for the departure time to the airport (몇 시에... 가요?). Option 4 ('I go at one o'clock') correctly provides the specific time.",
+    "audio": "audio/q03.mp3"
+  },
+  {
+    "id": 4,
+    "section": "listening",
+    "question": "다음을 듣고 물음에 맞는 대답을 고르십시오.",
+    "transcript": "여자: 누구하고 공부했어요?\n남자: ( )",
+    "options": [
+      "어제 공부했어요.",
+      "오후에 공부했어요.",
+      "친구하고 공부했어요.",
+      "한국어를 공부했어요."
+    ],
+    "answer": 2,
+    "explanation": "The woman asks who he studied with (누구하고...?). Option 3 ('I studied with a friend') directly answers with the person.",
+    "audio": "audio/q04.mp3"
+  },
+  {
+    "id": 5,
+    "section": "listening",
+    "question": "다음을 듣고 이어지는 말을 고르십시오.",
+    "transcript": "남자: 안녕히 가세요.\n여자: ( )",
+    "options": [
+      "네, 들어오세요.",
+      "네, 오랜만이에요.",
+      "네, 안녕히 계세요.",
+      "네, 여기 앉으세요."
+    ],
+    "answer": 2,
+    "explanation": "When someone bids farewell with '안녕히 가세요' (Go well / Goodbye), the appropriate mutual farewell is '안녕히 계세요' (Stay well / Goodbye), matching Option 3.",
+    "audio": "audio/q05.mp3"
+  },
+  {
+    "id": 6,
+    "section": "listening",
+    "question": "다음을 듣고 이어지는 말을 고르십시오.",
+    "transcript": "여자: 잠깐만 기다리세요.\n남자: ( )",
+    "options": [
+      "알겠습니다.",
+      "좋겠습니다.",
+      "반갑습니다.",
+      "환영합니다."
+    ],
+    "answer": 0,
+    "explanation": "When asked to wait a moment ('잠깐만 기다리세요'), the natural polite acknowledgment is 'Understood / Okay' ('알겠습니다').",
+    "audio": "audio/q06.mp3"
+  },
+  {
+    "id": 7,
+    "section": "listening",
+    "question": "여기는 어디입니까? 알맞은 것을 고르십시오.",
+    "transcript": "남자: 이 장미는 얼마예요?\n여자: 한 송이에 이천 원입니다, 손님.",
+    "options": [
+      "학교",
+      "꽃집",
+      "미용실",
+      "사진관"
+    ],
+    "answer": 1,
+    "explanation": "Asking for the price of roses (장미) priced per stem (한 송이) takes place at a flower shop (꽃집).",
+    "audio": "audio/q07.mp3"
+  },
+  {
+    "id": 8,
+    "section": "listening",
+    "question": "여기는 어디입니까? 알맞은 것을 고르십시오.",
+    "transcript": "여자: 민수 씨는 여기서 자주 산책해요?\n남자: 네. 나무가 많아서 자주 와요.",
+    "options": [
+      "식당",
+      "은행",
+      "공원",
+      "서점"
+    ],
+    "answer": 2,
+    "explanation": "Discussing frequent walks (산책) surrounded by many trees (나무) indicates the location is a park (공원).",
+    "audio": "audio/q08.mp3"
+  },
+  {
+    "id": 9,
+    "section": "listening",
+    "question": "여기는 어디입니까? 알맞은 것을 고르십시오.",
+    "transcript": "남자: 손님, 어디가 아파서 오셨어요?\n여자: 머리가 좀 아파서요.",
+    "options": [
+      "빵집",
+      "약국",
+      "도서관",
+      "우체국"
+    ],
+    "answer": 1,
+    "explanation": "Consulting about headache symptoms (머리가 좀 아파서요) to get relief takes place at a pharmacy (약국).",
+    "audio": "audio/q09.mp3"
+  },
+  {
+    "id": 10,
+    "section": "listening",
+    "question": "여기는 어디입니까? 알맞은 것을 고르십시오.",
+    "transcript": "여자: 저, 책상을 사러 왔는데요.\n남자: 네, 책상은 이쪽에 있습니다.",
+    "options": [
+      "병원",
+      "극장",
+      "운동장",
+      "가구점"
+    ],
+    "answer": 3,
+    "explanation": "Inquiring to buy a desk (책상을 사러 왔는데요) happens at a furniture store (가구점).",
+    "audio": "audio/q10.mp3"
+  },
+  {
+    "id": 11,
+    "section": "listening",
+    "question": "다음은 무엇에 대해 말하고 있습니까? 알맞은 것을 고르십시오.",
+    "transcript": "남자: 안녕하세요? 저는 김민수입니다.\n여자: 저는 이지영입니다.",
+    "options": [
+      "시간",
+      "나이",
+      "이름",
+      "요일"
+    ],
+    "answer": 2,
+    "explanation": "The speakers introduce themselves using their names (김민수, 이지영), which relates to names (이름).",
+    "audio": "audio/q11.mp3"
+  },
+  {
+    "id": 12,
+    "section": "listening",
+    "question": "다음은 무엇에 대해 말하고 있습니까? 알맞은 것을 고르십시오.",
+    "transcript": "여자: 우리, 어디에서 만날까요?\n남자: 학교 앞 카페는 어때요?",
+    "options": [
+      "장소",
+      "취미",
+      "운동",
+      "날씨"
+    ],
+    "answer": 0,
+    "explanation": "Asking where to meet (어디에서) and suggesting a cafe in front of the school refers to a meeting place/location (장소).",
+    "audio": "audio/q12.mp3"
+  },
+  {
+    "id": 13,
+    "section": "listening",
+    "question": "다음은 무엇에 대해 말하고 있습니까? 알맞은 것을 고르십시오.",
+    "transcript": "남자: 수미 씨, 내일 쉬어요?\n여자: 네. 토요일이라서 회사에 안 가요.",
+    "options": [
+      "교통",
+      "휴일",
+      "위치",
+      "고향"
+    ],
+    "answer": 1,
+    "explanation": "Discussing taking the day off and not going to work because it is Saturday refers to a rest day/holiday (휴일).",
+    "audio": "audio/q13.mp3"
+  },
+  {
+    "id": 14,
+    "section": "listening",
+    "question": "다음은 무엇에 대해 말하고 있습니까? 알맞은 것을 고르십시오.",
+    "transcript": "여자: 민수 씨는 봄이 좋아요, 가을이 좋아요?\n남자: 저는 봄이 더 좋아요.",
+    "options": [
+      "계절",
+      "색깔",
+      "생일",
+      "주말"
+    ],
+    "answer": 0,
+    "explanation": "Comparing preferences between spring (봄) and autumn (가을) refers to seasons (계절).",
+    "audio": "audio/q14.mp3"
+  },
+  {
+    "id": 15,
+    "section": "listening",
+    "question": "다음을 듣고 가장 알맞은 그림을 고르십시오.",
+    "transcript": "여자: 어서 오세요, 손님. 뭘 도와드릴까요?\n남자: 남자 옷은 몇 층에 있어요?",
+    "options": [
+      "그림 1 (안내 데스크에서 남자가 직원에게 층별 안내를 묻는 그림)",
+      "그림 2 (남자가 옷 매장에서 바지 길이를 재고 있는 그림)",
+      "그림 3 (남자가 계산대에서 카드로 결제하는 그림)",
+      "그림 4 (남자가 거울 앞에서 셔츠를 대어 보는 그림)"
+    ],
+    "answer": 0,
+    "image": "listening_96_15.png",
+    "explanation": "The man asks the customer service desk clerk which floor the men's clothing is on (남자 옷은 몇 층에 있어요?). Picture 1 accurately depicts this information desk setting.",
+    "audio": "audio/q15.mp3"
+  },
+  {
+    "id": 16,
+    "section": "listening",
+    "question": "다음을 듣고 가장 알맞은 그림을 고르십시오.",
+    "transcript": "남자: 수미 씨, 이 사진 여기에 걸까요?\n여자: 음, 조금 더 위에 걸어 주세요.",
+    "options": [
+      "그림 1 (소파에 앉아 사진을 보며 대화하는 그림)",
+      "그림 2 (남자가 벽에 액자를 대어 보고 여자가 위치를 알려주는 그림)",
+      "그림 3 (두 사람이 함께 서서 벽에 걸린 그림을 감상하는 그림)",
+      "그림 4 (책상에 앉아 앨범을 정리하는 그림)"
+    ],
+    "answer": 1,
+    "image": "listening_96_16.png",
+    "explanation": "The man holds a picture up against the wall asking where to hang it, and the woman instructs him to place it slightly higher. Picture 2 matches this exact scene.",
+    "audio": "audio/q16.mp3"
+  },
+  {
+    "id": 17,
+    "section": "listening",
+    "question": "다음을 듣고 대화 내용과 같은 것을 고르십시오.",
+    "transcript": "여자: 내일 시험 끝나고 주말에 뭐 할 거예요?\n남자: 부모님을 만나러 고향에 가려고 해요. 수미 씨는요?\n여자: 전 그냥 집에서 책도 보고 푹 쉬려고요.",
+    "options": [
+      "남자는 지금 고향에 있습니다.",
+      "여자는 내일 시험이 없습니다.",
+      "남자는 오늘 부모님을 만날 겁니다.",
+      "여자는 주말에 집에서 쉬려고 합니다."
+    ],
+    "answer": 3,
+    "explanation": "The woman says she plans to read books and rest well at home over the weekend (집에서 책도 보고 푹 쉬려고요), matching Option 4.",
+    "audio": "audio/q17.mp3"
+  },
+  {
+    "id": 18,
+    "section": "listening",
+    "question": "다음을 듣고 대화 내용과 같은 것을 고르십시오.",
+    "transcript": "남자: 어제 수미 씨 결혼식에 다녀왔어요?\n여자: 네. 결혼식에서 수미 씨가 한복을 입었는데 정말 예뻤어요.\n남자: 저도 가고 싶었는데 일이 많아서 못 갔어요.\n여자: 제가 결혼식에서 사진을 많이 찍었는데 보여 줄까요?",
+    "options": [
+      "여자는 어제 결혼식에 다녀왔습니다.",
+      "남자는 결혼식에서 여자를 만났습니다.",
+      "여자는 결혼식에서 사진을 못 찍었습니다.",
+      "남자는 일이 끝난 후에 결혼식에 갔습니다."
+    ],
+    "answer": 0,
+    "explanation": "The woman confirms that she went to Sumi's wedding yesterday (네. 결혼식에서 수미 씨가 한복을 입었는데...), matching Option 1.",
+    "audio": "audio/q18.mp3"
+  },
+  {
+    "id": 19,
+    "section": "listening",
+    "question": "다음을 듣고 대화 내용과 같은 것을 고르십시오.",
+    "transcript": "여자: 민수 씨, 일찍 왔네요. 오늘도 자전거로 출근했어요?\n남자: 네. 따로 운동할 시간이 없어서 자전거를 타고 왔어요.\n여자: 그렇게 하면 운동이 많이 돼요? 저도 요즘 운동을 자주 못 해서요.\n남자: 네. 생각보다 운동도 많이 되고 아침마다 기분도 좋아요.",
+    "options": [
+      "남자는 오늘 늦게 출근했습니다.",
+      "여자는 요즘 운동을 자주 합니다.",
+      "남자는 아침에 자전거를 타고 왔습니다.",
+      "여자는 남자와 함께 자전거로 출근합니다."
+    ],
+    "answer": 2,
+    "explanation": "The man states that he rode his bicycle to work in the morning because he lacked separate workout time (자전거를 타고 왔어요), matching Option 3.",
+    "audio": "audio/q19.mp3"
+  },
+  {
+    "id": 20,
+    "section": "listening",
+    "question": "다음을 듣고 대화 내용과 같은 것을 고르십시오.",
+    "transcript": "남자: 와, 이 그림 멋있네요. 수미 씨가 직접 그린 거예요?\n여자: 네. 요즘 그림 그리는 걸 인터넷으로 배우고 있어요.\n남자: 그래요? 저도 그림에 관심이 많은데, 어떤 영상을 봐야 돼요?\n여자: 인터넷에 쉽게 가르쳐 주는 영상이 많아요. 제가 알려 줄게요.",
+    "options": [
+      "남자는 그림에 별로 관심이 없습니다.",
+      "남자는 여자의 그림을 본 적이 없습니다.",
+      "여자는 남자에게 그림을 직접 가르쳤습니다.",
+      "여자는 인터넷으로 그림 그리는 것을 배웁니다."
+    ],
+    "answer": 3,
+    "explanation": "The woman explains that she is currently learning how to draw over the internet (인터넷으로 배우고 있어요), matching Option 4.",
+    "audio": "audio/q20.mp3"
+  },
+  {
+    "id": 21,
+    "section": "listening",
+    "question": "다음을 듣고 대화 내용과 같은 것을 고르십시오.",
+    "transcript": "여자: 저, 지금 음식을 주문할 수 있어요?\n남자: 네, 손님. 그런데 저희가 삼십 분 뒤에 식당 문을 닫습니다.\n여자: 그럼 그냥 음식을 가져가서 먹을게요. 비빔밥 하나 포장해 주세요.\n남자: 네. 금방 포장해 드릴게요. 잠깐만 기다려 주세요.",
+    "options": [
+      "여자는 비빔밥을 하나 주문했습니다.",
+      "남자는 여자에게 음식을 주었습니다.",
+      "남자는 여자와 함께 식당에 왔습니다.",
+      "여자는 식당에서 음식을 먹을 겁니다."
+    ],
+    "answer": 0,
+    "explanation": "The woman orders one takeout bibimbap (비빔밥 하나 포장해 주세요), matching Option 1.",
+    "audio": "audio/q21.mp3"
+  },
+  {
+    "id": 22,
+    "section": "listening",
+    "question": "다음을 듣고 여자의 중심 생각을 고르십시오.",
+    "transcript": "남자: 수미 씨, 새로 이사한 집은 어때요?\n여자: 동네가 조용하고 공기도 깨끗해서 좋아요.\n남자: 잘됐네요. 그런데 학교에서 좀 멀지 않아요?\n여자: 네. 그렇지만 집 앞에 학교까지 가는 버스가 있어서 괜찮아요.",
+    "options": [
+      "이사를 하는 것이 힘들었습니다.",
+      "새로 이사한 곳이 마음에 듭니다.",
+      "교통이 편한 곳에서 살고 싶습니다.",
+      "집과 학교는 가까운 것이 좋습니다."
+    ],
+    "answer": 1,
+    "explanation": "The woman highlights the positive quiet environment, clean air, and accessible direct bus, showing that she likes the new place she moved to (Option 2).",
+    "audio": "audio/q22.mp3"
+  },
+  {
+    "id": 23,
+    "section": "listening",
+    "question": "다음을 듣고 여자의 중심 생각을 고르십시오.",
+    "transcript": "남자: 손님, 이 노트북은 어떠세요? 요즘 인기가 많습니다.\n여자: 디자인은 좋은데 좀 무겁네요. 전 가벼운 걸 찾고 있어서요.\n남자: 그럼 이걸로 한번 보시겠어요? 좀 더 가벼운 노트북입니다.\n여자: 아, 이게 좋겠네요. 이걸로 주세요.",
+    "options": [
+      "노트북은 디자인이 중요합니다.",
+      "가벼운 노트북을 사고 싶습니다.",
+      "인기가 많은 노트북을 사야 합니다.",
+      "노트북 종류가 다양하면 좋겠습니다."
+    ],
+    "answer": 1,
+    "explanation": "The woman rejects the first laptop for being heavy and specifically seeks a lightweight one (전 가벼운 걸 찾고 있어서요), matching Option 2.",
+    "audio": "audio/q23.mp3"
+  },
+  {
+    "id": 24,
+    "section": "listening",
+    "question": "다음을 듣고 여자의 중심 생각을 고르십시오.",
+    "transcript": "여자: 우리, 이번 여행은 가까운 곳으로 갈까요?\n남자: 왜요? 휴가 기간도 긴데 멀리 가는 게 좋지 않을까요?\n여자: 먼 곳으로 가면 차도 오래 타야 하고 좀 피곤할 것 같아서요.\n남자: 알겠어요. 그럼 이번엔 근처에 있는 곳으로 여행을 가요.",
+    "options": [
+      "여행을 자주 가고 싶습니다.",
+      "휴가 기간에 여행을 가야 합니다.",
+      "여행을 길게 가는 것이 좋습니다.",
+      "가까운 곳으로 여행을 가면 좋겠습니다."
+    ],
+    "answer": 3,
+    "explanation": "The woman suggests traveling nearby to avoid long drives and fatigue (가까운 곳으로 갈까요?), expressing that she wants to travel somewhere close (Option 4).",
+    "audio": "audio/q24.mp3"
+  },
+  {
+    "id": 25,
+    "section": "listening",
+    "question": "여자가 왜 이 이야기를 하고 있는지 고르십시오.",
+    "transcript": "여자: (딩동댕) 한강 축제에 오신 여러분께 안내 말씀드립니다. 오늘 노래 대회는 하늘정원에서 열립니다. 하늘정원은 정문 주차장에서 오른쪽으로 오시면 됩니다. 노래 대회가 끝나면 같은 장소에서 무료 축하 공연도 열릴 예정입니다. 관심 있는 분들은 지금 하늘정원으로 와 주십시오. 감사합니다. (댕동딩)",
+    "options": [
+      "행사의 신청 방법을 알리기 위해",
+      "행사에 온 사람들을 소개하기 위해",
+      "행사가 열리는 장소를 안내하기 위해",
+      "행사가 끝나는 시간을 알려 주기 위해"
+    ],
+    "answer": 2,
+    "explanation": "The announcement guides visitors on where the singing competition is taking place and how to walk there (하늘정원에서 열립니다... 오시면 됩니다), matching Option 3.",
+    "audio": "audio/q25-26.mp3"
+  },
+  {
+    "id": 26,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "transcript": "여자: (딩동댕) 한강 축제에 오신 여러분께 안내 말씀드립니다. 오늘 노래 대회는 하늘정원에서 열립니다. 하늘정원은 정문 주차장에서 오른쪽으로 오시면 됩니다. 노래 대회가 끝나면 같은 장소에서 무료 축하 공연도 열릴 예정입니다. 관심 있는 분들은 지금 하늘정원으로 와 주십시오. 감사합니다. (댕동딩)",
+    "options": [
+      "공연을 보려면 돈을 내야 합니다.",
+      "노래 대회는 조금 전에 끝났습니다.",
+      "하늘정원은 주차장 왼쪽에 있습니다.",
+      "노래 대회가 끝나고 축하 공연을 합니다."
+    ],
+    "answer": 3,
+    "explanation": "The text states that a free celebratory performance will be held in the same place after the singing contest ends (노래 대회가 끝나면 같은 장소에서... 축하 공연도 열릴 예정입니다), matching Option 4.",
+    "audio": "audio/q25-26.mp3"
+  },
+  {
+    "id": 27,
+    "section": "listening",
+    "question": "두 사람이 무엇에 대해 이야기를 하고 있는지 고르십시오.",
+    "transcript": "남자: 어제 학생 식당에서 열리는 요리 교실에 갔는데 재미있었어요.\n여자: 우리 학교에 요리 수업이 있었어요? 전 몰랐어요.\n남자: 네. 저처럼 외식을 자주 하거나 요리를 못하는 대학생들을 위한 수업이에요. 간단하고 빠르게 만들 수 있는 요리를 가르쳐 줘요.\n여자: 그거 좋네요. 저도 요리를 잘 못하는데 한번 가 봐야겠어요.\n남자: 다음 주에도 요리 교실이 열리는데, 같이 갈래요?\n여자: 좋아요. 우리 같이 신청해요.",
+    "options": [
+      "대학생들을 위한 요리 교실",
+      "대학생들이 자주 가는 식당",
+      "대학생들이 요즘 좋아하는 음식",
+      "대학생들에게 인기 있는 요리 방법"
+    ],
+    "answer": 0,
+    "explanation": "The conversation focuses on the cooking class held at the student cafeteria aimed at university students (대학생들을 위한 수업), matching Option 1.",
+    "audio": "audio/q27-28.mp3"
+  },
+  {
+    "id": 28,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "transcript": "남자: 어제 학생 식당에서 열리는 요리 교실에 갔는데 재미있었어요.\n여자: 우리 학교에 요리 수업이 있었어요? 전 몰랐어요.\n남자: 네. 저처럼 외식을 자주 하거나 요리를 못하는 대학생들을 위한 수업이에요. 간단하고 빠르게 만들 수 있는 요리를 가르쳐 줘요.\n여자: 그거 좋네요. 저도 요리를 잘 못하는데 한번 가 봐야겠어요.\n남자: 다음 주에도 요리 교실이 열리는데, 같이 갈래요?\n여자: 좋아요. 우리 같이 신청해요.",
+    "options": [
+      "여자는 요리를 아주 잘합니다.",
+      "남자는 어제 학생 식당에 갔습니다.",
+      "남자는 평소에 외식을 잘 안 합니다.",
+      "여자는 혼자 요리를 배우러 갈 겁니다."
+    ],
+    "answer": 1,
+    "explanation": "The man states that he went to the student cafeteria yesterday for the cooking class (어제 학생 식당에서 열리는 요리 교실에 갔는데), matching Option 2.",
+    "audio": "audio/q27-28.mp3"
+  },
+  {
+    "id": 29,
+    "section": "listening",
+    "question": "남자가 이 방송을 만든 이유를 고르십시오.",
+    "transcript": "여자: 감독님께서는 전국의 시장을 소개하는 방송으로 유명하신데요. 처음에 어떻게 이 방송을 만들게 되셨어요?\n남자: 제가 방송 일을 하면서 전국의 많은 곳을 다녔어요. 그때 재미있고 특별한 시장들을 알게 되었어요. 이런 다양한 시장을 방송으로 보여 드리고 싶어서 시작하게 되었습니다.\n여자: 그렇군요. 이번에 시장에 대한 내용으로 책도 쓰셨지요?\n남자: 네. 지난 10년 동안 이 방송을 하면서 시장 분들의 재미있는 이야기를 많이 들었는데요. 그 이야기들을 모아서 책으로 썼습니다.\n여자: 내년에는 더욱 특별한 내용을 계획하고 계시다고요?\n남자: 네. 외국에 있는 시장도 소개해 드리려고 준비하고 있습니다.",
+    "options": [
+      "많은 사람들을 만나 보고 싶어서",
+      "방송 일의 즐거움을 알리고 싶어서",
+      "다양한 시장의 모습을 소개하고 싶어서",
+      "유명한 사람들의 생활을 보여 주고 싶어서"
+    ],
+    "answer": 2,
+    "explanation": "The director says he wanted to showcase the various and unique traditional markets on television (이런 다양한 시장을 방송으로 보여 드리고 싶어서), matching Option 3.",
+    "audio": "audio/q29-30.mp3"
+  },
+  {
+    "id": 30,
+    "section": "listening",
+    "question": "들은 내용과 같은 것을 고르십시오.",
+    "transcript": "여자: 감독님께서는 전국의 시장을 소개하는 방송으로 유명하신데요. 처음에 어떻게 이 방송을 만들게 되셨어요?\n남자: 제가 방송 일을 하면서 전국의 많은 곳을 다녔어요. 그때 재미있고 특별한 시장들을 알게 되었어요. 이런 다양한 시장을 방송으로 보여 드리고 싶어서 시작하게 되었습니다.\n여자: 그렇군요. 이번에 시장에 대한 내용으로 책도 쓰셨지요?\n남자: 네. 지난 10년 동안 이 방송을 하면서 시장 분들의 재미있는 이야기를 많이 들었는데요. 그 이야기들을 모아서 책으로 썼습니다.\n여자: 내년에는 더욱 특별한 내용을 계획하고 계시다고요?\n남자: 네. 외국에 있는 시장도 소개해 드리려고 준비하고 있습니다.",
+    "options": [
+      "남자는 책을 쓴 적이 없습니다.",
+      "이 방송은 올해 처음 시작했습니다.",
+      "이 방송은 아직 유명하지 않습니다.",
+      "남자는 앞으로 계속 방송을 만들 겁니다."
+    ],
+    "answer": 3,
+    "explanation": "The director mentions he is currently preparing to introduce overseas markets next year, indicating he will continue producing the show going forward (Option 4).",
+    "audio": "audio/q29-30.mp3"
+  }
+]

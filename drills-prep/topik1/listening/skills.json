@@ -1,0 +1,157 @@
+{
+    "skills": [
+      {
+        "skill_type_id": "listen_response",
+        "section": "listening",
+        "title_en": "Basic Question & Answer",
+        "title_ko": "물음에 맞는 대답 고르기",
+        "description": "Select the appropriate direct response to a basic question.",
+        "exam_range": "1-4",
+        "difficulty_order": 1
+      },
+      {
+        "skill_type_id": "listen_followup",
+        "section": "listening",
+        "title_en": "Conversational Follow-up",
+        "title_ko": "이어지는 말 고르기",
+        "description": "Select the most natural continuation for greetings, courtesies, and requests.",
+        "exam_range": "5-6",
+        "difficulty_order": 2
+      },
+      {
+        "skill_type_id": "listen_location",
+        "section": "listening",
+        "title_en": "Place & Setting Identification",
+        "title_ko": "장소 고르기",
+        "description": "Identify the physical setting or store where the dialogue takes place.",
+        "exam_range": "7-10",
+        "difficulty_order": 3
+      },
+      {
+        "skill_type_id": "listen_topic",
+        "section": "listening",
+        "title_en": "Topic Identification (Listening)",
+        "title_ko": "화제 고르기 (듣기)",
+        "description": "Identify the primary topic or noun being discussed in a short dialogue.",
+        "exam_range": "11-14",
+        "difficulty_order": 4
+      },
+      {
+        "skill_type_id": "listen_picture",
+        "section": "listening",
+        "title_en": "Visual Scene Matching",
+        "title_ko": "알맞은 그림 고르기",
+        "description": "Choose the illustration that accurately depicts the spoken situation.",
+        "exam_range": "15-16",
+        "difficulty_order": 5
+      },
+      {
+        "skill_type_id": "listen_content_match",
+        "section": "listening",
+        "title_en": "Detail Matching (Listening)",
+        "title_ko": "들 은 내용 일치",
+        "description": "Choose the statement that exactly matches the details of the dialogue.",
+        "exam_range": "17-21, 26, 28, 30",
+        "difficulty_order": 6
+      },
+      {
+        "skill_type_id": "listen_main_idea",
+        "section": "listening",
+        "title_en": "Speaker's Main Thought",
+        "title_ko": "화자의 중심 생각",
+        "description": "Identify the woman's core intention, mindset, or feeling in the dialogue.",
+        "exam_range": "22-24",
+        "difficulty_order": 7
+      },
+      {
+        "skill_type_id": "listen_public_announcement",
+        "section": "listening",
+        "title_en": "Public Announcement Purpose",
+        "title_ko": "담화 목적 파악",
+        "description": "Identify the purpose or reason for a public broadcast announcement.",
+        "exam_range": "25, 29",
+        "difficulty_order": 8
+      },
+      {
+        "skill_type_id": "listen_conversation_detail",
+        "section": "listening",
+        "title_en": "Extended Dialogue Topic",
+        "title_ko": "대화 주제 파악",
+        "description": "Identify the overarching theme of an extended 6-line conversation.",
+        "exam_range": "27",
+        "difficulty_order": 9
+      },
+      {
+        "skill_type_id": "read_topic",
+        "section": "reading",
+        "title_en": "Topic Identification (Reading)",
+        "title_ko": "글의 주제 고르기",
+        "description": "Identify the subject noun that encompasses the two short sentences.",
+        "exam_range": "31-33",
+        "difficulty_order": 10
+      },
+      {
+        "skill_type_id": "read_cloze_vocab",
+        "section": "reading",
+        "title_en": "Vocabulary & Grammar Cloze",
+        "title_ko": "단어·문법 빈칸 채우기",
+        "description": "Select the correct verb, adjective, adverb, or particle to complete a sentence.",
+        "exam_range": "34-39",
+        "difficulty_order": 11
+      },
+      {
+        "skill_type_id": "read_info_match",
+        "section": "reading",
+        "title_en": "Practical Information Matching",
+        "title_ko": "실용문 세부 정보 파악",
+        "description": "Read posters, tickets, and notices to find the matching or mismatched detail.",
+        "exam_range": "40-42",
+        "difficulty_order": 12
+      },
+      {
+        "skill_type_id": "read_content_match",
+        "section": "reading",
+        "title_en": "Detail Matching (Reading)",
+        "title_ko": "글의 세부 내용 일치",
+        "description": "Find the option that accurately matches the factual content of the paragraph.",
+        "exam_range": "43-45, 50, 52, 54, 56, 60, 62, 64, 66, 68, 70",
+        "difficulty_order": 13
+      },
+      {
+        "skill_type_id": "read_main_idea",
+        "section": "reading",
+        "title_en": "Main Idea (Reading)",
+        "title_ko": "글의 중심 생각 파악",
+        "description": "Identify the author's central viewpoint, goal, or feeling.",
+        "exam_range": "46-48",
+        "difficulty_order": 14
+      },
+      {
+        "skill_type_id": "read_cloze_passage",
+        "section": "reading",
+        "title_en": "Passage Cloze",
+        "title_ko": "문맥 빈칸 채우기",
+        "description": "Choose the grammatically and contextually correct phrase to fill in a blank (㉠).",
+        "exam_range": "49, 51, 53, 55, 61, 65, 67, 69",
+        "difficulty_order": 15
+      },
+      {
+        "skill_type_id": "read_sentence_ordering",
+        "section": "reading",
+        "title_en": "Sentence Ordering",
+        "title_ko": "문장 순서 배열",
+        "description": "Arrange four sentences in a natural chronological and logical sequence.",
+        "exam_range": "57-58",
+        "difficulty_order": 16
+      },
+      {
+        "skill_type_id": "read_sentence_insertion",
+        "section": "reading",
+        "title_en": "Sentence Insertion",
+        "title_ko": "문장 위치 삽입",
+        "description": "Determine the single correct spot (㉠, ㉡, ㉢, ㉣) for a target sentence.",
+        "exam_range": "59, 63",
+        "difficulty_order": 17
+      }
+    ]
+  }
