@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ai1l_resp_q1_001",
+    "audio_group_id": "ag_8186699edb08",
+    "filename": "ai1l_resp_q1_001.mp3",
+    "shared_with": [],
+    "delivery": "response_prompt_blank",
+    "skill_type_id": "listen_response",
+    "model_q_num": 1,
+    "script": "남자: 감기약 있어요?\n여자: ( )"
+  },
+  {
+    "id": "ai1l_fol_q5_001",
+    "audio_group_id": "ag_3add14955ba5",
+    "filename": "ai1l_fol_q5_001.mp3",
+    "shared_with": [],
+    "delivery": "followup_blank",
+    "skill_type_id": "listen_followup",
+    "model_q_num": 5,
+    "script": "남자: 주말 잘 보내세요.\n여자: ( )"
+  },
+  {
+    "id": "ai1l_loc_q7_001",
+    "audio_group_id": "ag_86daa0c56961",
+    "filename": "ai1l_loc_q7_001.mp3",
+    "shared_with": [],
+    "delivery": "short_everyday_dialogue",
+    "skill_type_id": "listen_location",
+    "model_q_num": 7,
+    "script": "남자: 증명사진 두 장만 뽑아 주세요.\n여자: 네, 십 분 뒤에 찾으러 오세요."
+  },
+  {
+    "id": "ai1l_pic_q15_001",
+    "audio_group_id": "ag_653ed443ec37",
+    "filename": "ai1l_pic_q15_001.mp3",
+    "shared_with": [],
+    "delivery": "short_everyday_dialogue",
+    "skill_type_id": "listen_picture",
+    "model_q_num": 15,
+    "script": "남자: 입을 크게 벌리고 ‘아’ 소리를 내 보세요.\n여자: 아—, 목이 많이 부었나요?"
+  },
+  {
+    "id": "ai1l_cm_q17_001",
+    "audio_group_id": "ag_c7bb28291650",
+    "filename": "ai1l_cm_q17_001.mp3",
+    "shared_with": [],
+    "delivery": "short_everyday_dialogue",
+    "skill_type_id": "listen_content_match",
+    "model_q_num": 17,
+    "script": "여자: 민수 씨, 이번 주말에 약속 있어요?\n남자: 친구들과 북한산으로 등산 가기로 했어요. 수미 씨는요?\n여자: 저는 집에서 쉬면서 밀린 빨래를 하려고요.\n남자: 그렇군요. 날씨가 좋으면 등산 사진 많이 찍어서 보내 줄게요."
+  },
+  {
+    "id": "ai1l_mi_q22_001",
+    "audio_group_id": "ag_d590e1ba7f3a",
+    "filename": "ai1l_mi_q22_001.mp3",
+    "shared_with": [],
+    "delivery": "main_idea_monologue_or_dialogue",
+    "skill_type_id": "listen_main_idea",
+    "model_q_num": 22,
+    "script": "남자: 수미 씨, 오늘 저녁도 집에서 직접 요리해 먹을 거예요?\n여자: 네, 밖에서 사 먹으면 편하긴 한데 집밥이 건강에도 좋고 돈도 절약되잖아요.\n남자: 퇴근하고 음식 만들기 귀찮지 않아요?\n여자: 간단한 찌개나 볶음밥은 15분이면 만들 수 있어서 집에서 해 먹는 게 훨씬 좋아요."
+  },
+  {
+    "id": "ai1l_ann_q25_001",
+    "audio_group_id": "ag_7850a72f23ce",
+    "filename": "ai1l_ann_q25_001.mp3",
+    "shared_with": [
+      "ai1l_ann_q26_001"
+    ],
+    "delivery": "public_announcement_broadcast",
+    "skill_type_id": "listen_public_announcement",
+    "model_q_num": 25,
+    "script": "여자: 인주 주민 체육센터를 이용해 주시는 회원 여러분께 안내 말씀드립니다. 쾌적한 환경을 위해 이번 주 목요일과 금요일 이틀 동안 수영장 정기 대청소 및 물 교체 작업을 실시합니다. 청소 기간 동안 수영장은 이용하실 수 없으나, 2층 헬스장과 배드민턴장은 정상 운영되오니 이용에 착오 없으시기 바랍니다. 감사합니다. (댕동딩)"
+  },
+  {
+    "id": "ai1l_conv_q27_001",
+    "audio_group_id": "ag_f8fc37465689",
+    "filename": "ai1l_conv_q27_001.mp3",
+    "shared_with": [
+      "ai1l_conv_q28_001"
+    ],
+    "delivery": "paired_conversation",
+    "skill_type_id": "listen_conversation_detail",
+    "model_q_num": 27,
+    "script": "남자: 수미 씨, 지난 주말에 전주 한옥마을 다녀왔는데 정말 인상적이었어요.\n여자: 그래요? 한옥에서 직접 하룻밤 자본 거예요?\n남자: 네, 온돌방에서 자고 아침에는 마당에서 전통 다도 체험도 했어요.\n여자: 한복도 빌려 입어 볼 수 있다고 들었는데 입어 보셨어요?\n남자: 네, 멋진 한복을 입고 경기전 앞을 산책하며 사진을 많이 남겼어요.\n여자: 듣기만 해도 힐링이네요. 저도 다음 달에 꼭 가봐야겠어요."
+  }
+]
